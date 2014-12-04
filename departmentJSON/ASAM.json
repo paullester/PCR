@@ -1,0 +1,923 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:24 +0000
+Content-Length: 34378
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3525579948.39711.0000; expires=Thu, 04-Dec-2014 09:48:24 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. Please see our website for more current information: asam.sas.upenn.edu",
+    "course_id" : "ASAM212",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "212",
+    "course_title" : "Topics in Asian American Film",
+    "crosslistings" : [ {
+      "course_id" : "212",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Please refer to our website for current information : asam.sas.upenn.edu",
+    "course_id" : "ASAM017",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "017",
+    "course_title" : "Freshmen Seminar: Asian American Sociology",
+    "crosslistings" : [ {
+      "course_id" : "059",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics selected by student-teacher conferences.",
+    "course_id" : "ASAM499",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "499",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ASAM299",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "299",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Using a cultural perspective, this course is intended to provide knowledge of Asian American personality, identity, and its relationship to mental well being; analyze psycho-social research pertinent to Asian Americans; and develop critical thinking skills on Asian American issues through experential learning/discussions.",
+    "course_id" : "ASAM170",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "170",
+    "course_title" : "Asian American Psychology",
+    "crosslistings" : [ {
+      "course_id" : "170",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An overview of Asian American literature from its beginnings at the turn of the twentieth century to the present. This course covers a wide range of Asian American novels, plays, and poems, situating them in the contexts of Asian American history and minority communities and considering the variety of formal strategies these different texts take.",
+    "course_id" : "ASAM002",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "002",
+    "course_title" : "Asian American Literature",
+    "crosslistings" : [ {
+      "course_id" : "072",
+      "section_id" : "",
+      "subject" : "ENGL"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "A",
+      "requirement_description" : "Arts &amp; Letters Sector"
+    } ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. Please see our website for more current information: asam.sas.upenn.edu",
+    "course_id" : "ASAM203",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "203",
+    "course_title" : "Topics in Asian American History",
+    "crosslistings" : [ {
+      "course_id" : "223",
+      "section_id" : "",
+      "subject" : "HIST"
+    }, {
+      "course_id" : "231",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ASAM150",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "150",
+    "course_title" : "Muslim Identity in Amer",
+    "crosslistings" : [ {
+      "course_id" : "242",
+      "section_id" : "",
+      "subject" : "RELS"
+    }, {
+      "course_id" : "180",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course provides an introduction to the history of Asian/Pacific Americans, focusing on the wide diversity of migrant experiences, as well as the continuing legacies of Orientalism on American-born APA's. Issues of race, class, gender, and sexuality will also be examined.",
+    "course_id" : "ASAM003",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "003",
+    "course_title" : "Introduction to Asian American History",
+    "crosslistings" : [ {
+      "course_id" : "155",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Azuma",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "H",
+      "requirement_description" : "History &amp; Tradition Sector"
+    } ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This class will introduce you to sociological research of Asian Americans and engage in the \"model minority\" stereotype. We begin by a brief introduction to U.S. immigration history and sociological theories about assimilation and racial stratification. The class will also cover research on racial and ethnic identity, educational stratification, mass media images, interracial marriage, multiracials, transracial adoption, and the viability of an Asian American panethnic identity. We will also examine the similarities and differences of Asian Americans relative to other minority groups.",
+    "course_id" : "ASAM001",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "001",
+    "course_title" : "Asian Americans in Contemporary Society",
+    "crosslistings" : [ {
+      "course_id" : "103",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Kao",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "S",
+      "requirement_description" : "Society Sector"
+    } ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is cross-listed with SOCI 006 when the subject matter is related to Asian Americans.",
+    "course_id" : "ASAM006",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "006",
+    "course_title" : "Race and Ethnic Relations",
+    "crosslistings" : [ {
+      "course_id" : "006",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "006",
+      "section_id" : "",
+      "subject" : "SOCI"
+    }, {
+      "course_id" : "214",
+      "section_id" : "",
+      "subject" : "URBS"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. Please see our website for more current information: asam.sas.upenn.edu",
+    "course_id" : "ASAM202",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "202",
+    "course_title" : "Topics in Asian American Literature",
+    "crosslistings" : [ {
+      "course_id" : "272",
+      "section_id" : "",
+      "subject" : "CINE"
+    }, {
+      "course_id" : "248",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "272",
+      "section_id" : "",
+      "subject" : "ENGL"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ASAM122",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "122",
+    "course_title" : "Korean American History",
+    "crosslistings" : [ {
+      "course_id" : "122",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This reading seminar will focus on how different groups of Asians interacted with each other in the context of early twentieth-century American society, especially in Hawaii and California. Such issues as ethnicity, complexity of race relations (as opposed to conventional black-white binarism), and the intricate entanglements of class and race will also be examined. Topics can change each semester. Please see our website for more current information: asam.sas.upenn.edu",
+    "course_id" : "ASAM013",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "013",
+    "course_title" : "Freshman Seminar: Asian American History",
+    "crosslistings" : [ {
+      "course_id" : "104",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Azuma",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Please see our website for more current information: asam.sas.upenn.edu",
+    "course_id" : "ASAM321",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "321",
+    "course_title" : "Asian American Memory and Tradition",
+    "crosslistings" : [ {
+      "course_id" : "321",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "321",
+      "section_id" : "",
+      "subject" : "FOLK"
+    }, {
+      "course_id" : "327",
+      "section_id" : "",
+      "subject" : "URBS"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Please see our website for current information: asam.sas.upenn.edu",
+    "course_id" : "ASAM109",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "109",
+    "course_title" : "Asian Americans in Film",
+    "crosslistings" : [ {
+      "course_id" : "109",
+      "section_id" : "",
+      "subject" : "CINE"
+    }, {
+      "course_id" : "109",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "109",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course investigates the everyday practices and customs of South Asians in America. Every immigrant group has its own history, customs, beliefs and values, making each unique while simultaneously a part of the \"melting pot\" or salad bowl\" of American society. Yet how do people define themselves and their ethnicities living in a diasporic context? By taking into account the burgeoning South Asian American population as our model, this course will explore the basic themes surrounding the lives that immigrants are living in America, and more specifically the identity which the second generation, born and/or raised in American, is developing. South Asians in the U.S. will be divided thematically covering the topics of ethnicity, marriage, gender, religion, and pop culture. Reading and assignments will discuss a variety of issues and viewpoints that are a part of the fabric of South Asia, but will focus on the interpretation of such expressive culture in the United States.",
+    "course_id" : "ASAM160",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "160",
+    "course_title" : "South Asians in the United States",
+    "crosslistings" : [ {
+      "course_id" : "290",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Khan",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "What is identity? How do we define ourselves and how are we defined by others? This writing intensive seminar will consider these general questions in the particular field of Asian American literature by examining the social and historical contexts that have shaped the possibilities for defining an Asian American identity. We will discuss such issues as racism, assimilation, generational conflicts, family, gender, sexuality, and class. Topics can change each semester. Please refer to our website for current information asam.sas.upenn.edu",
+    "course_id" : "ASAM016",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "016",
+    "course_title" : "Freshman Seminar: Asian American Literature",
+    "crosslistings" : [ {
+      "course_id" : "016",
+      "section_id" : "",
+      "subject" : "ENGL"
+    }, {
+      "course_id" : "058",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. Please see our website for more current information: asam.sas.upenn.edu",
+    "course_id" : "ASAM201",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "201",
+    "course_title" : "Topics in Asian American Sociology",
+    "crosslistings" : [ {
+      "course_id" : "201",
+      "section_id" : "",
+      "subject" : "COMM"
+    }, {
+      "course_id" : "150",
+      "section_id" : "",
+      "subject" : "SOCI"
+    }, {
+      "course_id" : "231",
+      "section_id" : "",
+      "subject" : "SOCI"
+    }, {
+      "course_id" : "215",
+      "section_id" : "",
+      "subject" : "URBS"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This graduate seminar will introduce students to some of the key theoretical and empirical work in the sociology of education. We will examine how schools work to maintain or alleviate inequality, and focus on differences in educational achievment and attainment by race, ethnicity, immigrant status, class, and gender. We will review work on the eductaional experiences of youth from early childhood to young adulthood.",
+    "course_id" : "ASAM590",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "590",
+    "course_title" : "Sociology of Education",
+    "crosslistings" : [ {
+      "course_id" : "596",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Kao",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This class will focus on America's expansion into the Pacific around the turn of the century with the acquisition of Hawaii and the Phillipines. It can deal with various issues, including the meaning of \"frontier,\" colonialism, development of capitalist economies in the region, diplomacy, racism, migration, an American brand of Orientalism in encountering the \"natives\" and \"heathens,\"and histories of the West and the Pacific Islands in general.",
+    "course_id" : "ASAM354",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "354",
+    "course_title" : "American Expansion in the Pacific",
+    "crosslistings" : [ {
+      "course_id" : "354",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Azuma",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Who is Asian American and how and where do we recognize Asian America? This interdisciplinary course explores the multiple factors that define Asian American identity and community. In order to provide a sketch of the multifacted experience of this growing minority group, we will discuss a wide variety of texts from scholarly, artistic, and popular (film, cinematic) sources that mark key moments in the cultural history of Asia America. The course will address major themes of community life including migration history, Asian American as model minority, race, class, and transnational scope of Asian America. In combination with the readings, this class will foster and promote independent research based on site visits to various Asian American communities in Philadelphia and will host community leaders as guest lecturers.",
+    "course_id" : "ASAM205",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "205",
+    "course_title" : "Asian American Communities",
+    "crosslistings" : [ {
+      "course_id" : "207",
+      "section_id" : "",
+      "subject" : "URBS"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Khan",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Please see our website for more current information: asam.sas.upenn.edu",
+    "course_id" : "ASAM200",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "200",
+    "course_title" : "Multicultural Psychology",
+    "crosslistings" : [ ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This reading-and discussion-intensive seminar examines the phenomenon of migration into, out of, within, and across the Middle East and North Africa. We will focus on the period from the late nineteenth century to the present, and will emphasize the cultural (rather than economic) consequences of migration. Along the way we will trace connections between the Middle East and other regions-- notably the Americas, sub-Saharan Africa, South Asia, the Caucasus, and Western Europe. Readings are interdisciplinary and include works of history, anthropology, sociology, medical research, literature, political science, geography, and human rights advocacy. As students develop final projects on topics of their choice, we will spend time throughout the semester discussing tactics for research and writing.",
+    "course_id" : "ASAM239",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "239",
+    "course_title" : "Migration and the Middle East",
+    "crosslistings" : [ {
+      "course_id" : "239",
+      "section_id" : "",
+      "subject" : "NELC"
+    }, {
+      "course_id" : "269",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Sharkey",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course explores the visual history of race in the United States as both self-fashioning and cultural mythology by examining the ways that conceptions of Native American, Latino, and Asian identity, alongside ideas of Blackness and Whiteness, have combined to create the various cultural ideologies of class, gender, and sexuality that remain evident in historical visual and material culture. We will also investigate the ways that these creations have subsequently helped to launch new visual entertainments, including museum spectacles, blackface minstrelsy, and early film, from the colonial period through the 1940s.",
+    "course_id" : "ASAM294",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "294",
+    "course_title" : "Facing America",
+    "crosslistings" : [ {
+      "course_id" : "294",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "274",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "674",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "293",
+      "section_id" : "",
+      "subject" : "CINE"
+    }, {
+      "course_id" : "294",
+      "section_id" : "",
+      "subject" : "LALS"
+    } ],
+    "department" : "ASAM",
+    "department_of_record" : "ASAM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Shaw",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

@@ -1,0 +1,232 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:47:59 +0000
+Content-Length: 8858
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3525579948.39711.0000; expires=Thu, 04-Dec-2014 09:47:59 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "COGS298",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "298",
+    "course_title" : "Study Abroad",
+    "crosslistings" : [ ],
+    "department" : "COGS",
+    "department_of_record" : "COGS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This two-semester sequence will provide basic mathematical modeling and algorithmic tools for interdisciplinary research in animal, human or machine communication, in association with the IRCS IGERT program. Topics include signal processing, statistical modeling and machine learning, information theory, game theory, and formal language theory. The courses will be taught in a laboratory setting, and will emphasize practical skills as well as basic concepts.",
+    "course_id" : "COGS501",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "501",
+    "course_title" : "Math Found Lang Comm I",
+    "crosslistings" : [ {
+      "course_id" : "545",
+      "section_id" : "",
+      "subject" : "LING"
+    }, {
+      "course_id" : "501",
+      "section_id" : "",
+      "subject" : "PSYC"
+    } ],
+    "department" : "COGS",
+    "department_of_record" : "COGS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2H",
+    "instructors" : "Liberman",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "D",
+    "terms_offered_description" : "Two terms. student may enter either term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This two-semester sequence will provide basic mathematical modeling and algorithmic tools for interdisciplinary research in animal, human or machine communication, in association with the IRCS IGERT program. Topics include signal processing, statistical modeling and machine learning, information theory, game theory, and formal language theory. The courses will be taught in a laboratory setting, and will emphasize practical skills as well as basic concepts.",
+    "course_id" : "COGS502",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "502",
+    "course_title" : "Mathematical Foundations of Language Communication II",
+    "crosslistings" : [ {
+      "course_id" : "546",
+      "section_id" : "",
+      "subject" : "LING"
+    }, {
+      "course_id" : "502",
+      "section_id" : "",
+      "subject" : "PSYC"
+    } ],
+    "department" : "COGS",
+    "department_of_record" : "COGS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2H",
+    "instructors" : "Liberman",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "D",
+    "terms_offered_description" : "Two terms. student may enter either term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is a directed study intended for cognitive science majors who have been admitted to the cognitive science honors program. Upon admission into the program, students may register for this course under the direction of their thesis supervisor.",
+    "course_id" : "COGS398",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "398",
+    "course_title" : "Senior Thesis",
+    "crosslistings" : [ ],
+    "department" : "COGS",
+    "department_of_record" : "COGS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2H",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Cognitive Science is founded on the realization that many problems in the analysis of human and artificial intelligence require an Interdisciplinary approach. The course is intended to introduce undergraduates from many areas to the problems and characteristic concepts of Cognitive Science, drawing on formal and empirical approaches from the parent disciplines of computer science, Linguistics, neuroscience, philosophy and psychology. The topics covered include Perception, Action, Learning, Language, Knowledge Representation, and Inference, and the relations and interactions between them. The course shows how the different views from the parent disciplines interact and identifies some common themes among the theories that have been proposed. The course pays particular attention to the distinctive role of computation in such theories and provides an introduction to some of the main directions of current research in the field. It is a requirement for the BA in Cognitive Science, the BAS in Computer and Cognitive Science, and the minor in Cognitive Science, and it is recommended for students taking the dual degree in Computer and Cognitive Science.",
+    "course_id" : "COGS001",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "This is a Formal Reasoning course.",
+    "course_number" : "001",
+    "course_title" : "Introduction to Cognitive Science",
+    "crosslistings" : [ {
+      "course_id" : "140",
+      "section_id" : "",
+      "subject" : "CIS"
+    }, {
+      "course_id" : "105",
+      "section_id" : "",
+      "subject" : "LING"
+    }, {
+      "course_id" : "044",
+      "section_id" : "",
+      "subject" : "PHIL"
+    }, {
+      "course_id" : "140",
+      "section_id" : "",
+      "subject" : "PPE"
+    }, {
+      "course_id" : "207",
+      "section_id" : "",
+      "subject" : "PSYC"
+    } ],
+    "department" : "COGS",
+    "department_of_record" : "COGS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2H",
+    "instructors" : "Brainard/Ungar",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "COGS301",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "301",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "COGS",
+    "department_of_record" : "COGS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2H",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

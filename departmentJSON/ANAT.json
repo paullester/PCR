@@ -1,0 +1,138 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:04 +0000
+Content-Length: 6277
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3525579948.39711.0000; expires=Thu, 04-Dec-2014 09:48:04 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "2"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course in gross anatomy provides the student with an opportunity to acqu a first hand knowledge of structural and funtional human anatomy. The basic principle of learning is student disection of the cadaver, supplemed by lectures, conferences, demonstrations, computer software, and independent study. The goals of the course are: to give the student a sollid foundation of anatomical knowledge as a background for clinical education/practice or research; to prepare students for future, independent studf anatomy; to prepare students for the physical examination of the patient or research involving analysis anatomical specimens; and to introduce new applications of gross anamtomy for the physician and biomedal scientist.",
+    "course_id" : "ANAT502",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "502",
+    "course_title" : "Gross Human Anatomy",
+    "crosslistings" : [ ],
+    "department" : "ANAT",
+    "department_of_record" : "ANAT",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Dr.  Neal Rubinstein",
+    "prerequisites" : "Permission of instructor; open to graduate and professional students only",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "MD",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "2"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Veterinary gross anatomy course. The basic principles of mammalian and avian anatomy are studied in a veterinary context. The laboratory periods are given to the dissection of the dog, cat, horse, various ruminants, various laboratory animals, chicken and fish.",
+    "course_id" : "ANAT505",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "505",
+    "course_title" : "Structural Adaptations to Function",
+    "crosslistings" : [ ],
+    "department" : "ANAT",
+    "department_of_record" : "ANAT",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Dr Orsini and Staff",
+    "prerequisites" : "Permission of instructor in Veterinary School",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "MD",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course in gross anatomy provides the student with an opportunity to acquire a first-hand knowledge of structural and functional human anatomy. The basic principle of learning is student dissection of the cadaver, supplemented by lectures, conferences, demonstrations, computer software, and independent study. The goals of the course are: to give the student a solid foundation of anatomical knowledge as a background for clinical education/practice or research; to prepare students for future, independent study of anatomy; to prepare students for the physical examination of the patient or research involving analysis of anatomical specimens; and to introduce new applications of gross anatomy for the physician and the biomedical student.",
+    "course_id" : "ANAT501",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "501",
+    "course_title" : "Human Anatomy: Head and Neck",
+    "crosslistings" : [ ],
+    "department" : "ANAT",
+    "department_of_record" : "ANAT",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Drs Weisel & Teresi (Dir.), Staff",
+    "prerequisites" : "Permission of instructor; open to graduate and professional students only",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "MD",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "LAB",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will provide the student with an opportunity to acquire a first-hand knowledge of structural and functional human anatomy. The course will consist of lectures and demonstrations on prosected human cadavers, student dissections of human cadavers, and introduction to various imaging modalities, including CT scans, MRIs, and 3D radiological imaging.",
+    "course_id" : "ANAT420",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "420",
+    "course_title" : "Fundamentals of Human Anatomy",
+    "crosslistings" : [ ],
+    "department" : "ANAT",
+    "department_of_record" : "ANAT",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Dr.  Neal Rubinstein",
+    "prerequisites" : "Permission of department",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "MD",
+    "terms_offered_code" : "L",
+    "terms_offered_description" : "Course usually offered summer term only"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

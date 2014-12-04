@@ -1,0 +1,199 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:11 +0000
+Content-Length: 8479
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:48:11 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "During the first semester of beginning Sanskrit, students will be introduced to the script, phonetics, and grammar of the Sanskrit language. By the end of the semester they will be able to begin to read Sanskrit texts and compose Sanskrit sentences in addition to carrying out simple conversation. They will build the requisite skills to read, by the second semester, simple inscriptions and sections from texts like the Ramayana, the Mahabharata, the Bhagavad Gita, Pancatantra, and Yoga Sutra. Students will also be introduced to many features of Sanskrit culture.",
+    "course_id" : "SKRT460",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "Contact professor to discuss actual class times that work for all students.",
+    "course_number" : "460",
+    "course_title" : "Sanskrit 1st Year, Part I",
+    "crosslistings" : [ ],
+    "department" : "SKRT",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Obrock",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "09",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "During the first semester of beginning Sanskrit, students will be introduced to the script, phonetics, and grammar of the Sanskrit language. By the end of the semester they will be able to begin to read Sanskrit texts and compose Sanskrit sentences in addition to carrying out simple conversation. They will build the requisite skills to read, by the second semester, simple inscriptions and sections from texts like the Ramayana, the Mahabharata, the Bhagavad Gita, Pancatantra, and Yoga Sutra. Students will also be introduced to many features of Sanskrit culture.",
+    "course_id" : "SKRT461",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "461",
+    "course_title" : "Sanskrit 1st Year Part II",
+    "crosslistings" : [ ],
+    "department" : "SKRT",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Obrock",
+    "prerequisites" : "Beginning Sanskrit Part I or equivalent ascertained through placement test or permission of instructor.",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "09",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "SKRT490",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "490",
+    "course_title" : "Advanced Sanskrit Topics Course",
+    "crosslistings" : [ ],
+    "department" : "SKRT",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Patel",
+    "prerequisites" : "",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will lead students to consolidate their knowledge of Sanskrit grammar and increase their familiarity with Sanskrit literature of all kinds, including epic, literary, philosophical, and narrative genres of texts. It will also introduce students to the study and reading of inscriptional materials.",
+    "course_id" : "SKRT470",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "Contact professor to discuss actual class times that work for all students.",
+    "course_number" : "470",
+    "course_title" : "Sanskrit 2nd Year Part I",
+    "crosslistings" : [ ],
+    "department" : "SKRT",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Obrock",
+    "prerequisites" : "SKRT 460",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "09",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "G",
+    "terms_offered_description" : "Two terms. student must enter first term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is for advanced students of Sanskrit. Designed as a seminar, the course aims to take students through the primary and secondary sources of Sanskrit literary and phlosophical production. Each semester will focus on a different genre: epic, belles-lettres, lyric poetry, drama, philosophy, shastra, advanced grammar, history, poetics, and epigraphy. We will focus on original sources, secondary scholarship, and theoretical approaches toward the translation and study of Sanskrit texts.",
+    "course_id" : "SKRT480",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "480",
+    "course_title" : "Readings in Sankrit Lit",
+    "crosslistings" : [ ],
+    "department" : "SKRT",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "09",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will lead students to consolidate their knowledge of Sanskrit grammar and increase their familiarity with Sanskrit literature of all kinds, including epic, literary, philosophical, and narrative genres of texts. It will also introduce students to the study and reading of inscriptional materials.",
+    "course_id" : "SKRT471",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "471",
+    "course_title" : "Intermediate Sanskrit Part II",
+    "crosslistings" : [ ],
+    "department" : "SKRT",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Obrock",
+    "prerequisites" : "Intermediate Sanskrit II or equivalant ascertained through placement test or permission of instructor.",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "09",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

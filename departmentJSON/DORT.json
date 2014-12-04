@@ -1,0 +1,193 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:02 +0000
+Content-Length: 5359
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:48:02 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "CLN",
+      "credit" : ".75"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CR",
+    "course_description" : "",
+    "course_id" : "DORT788",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "788",
+    "course_title" : "P and I Clinic",
+    "crosslistings" : [ ],
+    "department" : "DORT",
+    "department_of_record" : "DORT",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "DM",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "2"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CR",
+    "course_description" : "",
+    "course_id" : "DORT753",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "753",
+    "course_title" : "Orthodontics II",
+    "crosslistings" : [ ],
+    "department" : "DORT",
+    "department_of_record" : "DORT",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "DM",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LAB",
+      "credit" : "1.25"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CR",
+    "course_description" : "",
+    "course_id" : "DORT681",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "681",
+    "course_title" : "Adjunctive Orthodontics",
+    "crosslistings" : [ ],
+    "department" : "DORT",
+    "department_of_record" : "DORT",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "DM",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "CLN",
+      "credit" : ".5"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CR",
+    "course_description" : "",
+    "course_id" : "DORT803",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "803",
+    "course_title" : "Adjunctive Orthodontics",
+    "crosslistings" : [ ],
+    "department" : "DORT",
+    "department_of_record" : "DORT",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "DM",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "2.25"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CR",
+    "course_description" : "",
+    "course_id" : "DORT602",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "602",
+    "course_title" : "Orthodontics L/B",
+    "crosslistings" : [ ],
+    "department" : "DORT",
+    "department_of_record" : "DORT",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "DM",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "DORT740",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "740",
+    "course_title" : "Restorative Dentistry L",
+    "crosslistings" : [ ],
+    "department" : "DORT",
+    "department_of_record" : "DORT",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "DM",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

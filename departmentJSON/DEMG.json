@@ -1,0 +1,821 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:13 +0000
+Content-Length: 35931
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:48:13 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary from semester to semester. In the past, courses such as Social Movements and Social Change; Critical Race Theory; Conducting Family Research; Errors, Mistakes, Accidents and Disasters; Sociology of Jewish Bioethics.",
+    "course_id" : "DEMG530",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "530",
+    "course_title" : "Social Problems in Modern Mexico",
+    "crosslistings" : [ ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "MST",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "DEMG990",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "990",
+    "course_title" : "Masters Thesis",
+    "crosslistings" : [ ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Primarily for advanced students who work with individual instructors upon permission. Intended to go beyond existing graduate courses in the study of specific problems or theories or to provide work opportunities in areas not covered by existing courses.",
+    "course_id" : "DEMG999",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "999",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "DIS",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "DEMG995",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "995",
+    "course_title" : "Dissertation",
+    "crosslistings" : [ ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A comprehensive review of theories and research on international migration. The course introduces the basic precepts of neoclassical economics, the new economics of labor migration, segmented labor market theory, world systems theory, social capital theory and the theory of cumulative causation. Readings examine patterns and processes of global migration during the classic age from 1800-1914 as well as during the postwar period from 1945 to the present. The course also covers a history and evaluation of immigration policies around the world, and devotes signification attention to theoretical and empirical perspectives on immigrant adaptation. Within this larger topic, we will also discuss internal migration and urbanization; the relationship between gender and migration; the spatial distribution of immigrants within the United States, immigrant communities, and ethnic enclaves; and the undocumented population in the United States.",
+    "course_id" : "DEMG677",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "677",
+    "course_title" : "International Migration",
+    "crosslistings" : [ {
+      "course_id" : "677",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Flippen",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The course will review a series of theoretical issues in the sociology of the family and examine major empirical studies in which theoretical advances have been made. Special attention will be given to work that has a historical and comparative perspective. Opportunities will be provided for original research on the family.",
+    "course_id" : "DEMG524",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "524",
+    "course_title" : "Advanced Topics in the Sociology of the Family",
+    "crosslistings" : [ {
+      "course_id" : "524",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "As the second part of a two-semester sequence, this graduate course focuses on regression analysis as used in social science research. In particular, we discuss features and assumptions of linear regression and logistic regression models. We learn how to apply regression models to real social science data using Stata and how to interpret the results.",
+    "course_id" : "DEMG536",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "536",
+    "course_title" : "Quantitative Methods in Sociology II",
+    "crosslistings" : [ {
+      "course_id" : "536",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Allison, Kohler, Park, Schnittker, Smith",
+    "prerequisites" : "SOCI 535 or permission of instructor",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A nontechnical introduction to fertility, mortality and migration and the interrelations of population with other social and economic factors.",
+    "course_id" : "DEMG607",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "607",
+    "course_title" : "Demography",
+    "crosslistings" : [ {
+      "course_id" : "607",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The course focuses on the description and explanation of health and mortality in human populations and their variability across several dimensions such as age, time, place, social class, race etc. The course includes general theories of health, mortality and morbidity, investigations of mortality and related processes in developing and developed countries, and discussions of future mortality trends and their implications for individual lives and the society at large.",
+    "course_id" : "DEMG621",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "621",
+    "course_title" : "Mortality",
+    "crosslistings" : [ {
+      "course_id" : "621",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Elo",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The course is designed to introduce students to basic concepts of demographic measurement and modeling used to study changes in population size and composition. The course covers basic measures of mortality, fertility and migration; life table construction; multiple decrement life tables; stable populations; population projections; and age patterns of vital events. Students will learn to apply demographic methods through a series of weekly problem sets.",
+    "course_id" : "DEMG609",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "609",
+    "course_title" : "Basic Methods of Demography",
+    "crosslistings" : [ {
+      "course_id" : "609",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Elo, Guillot, Smith",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course considers a variety of procedures for measuring and modeling demographic processes. We will consider both deterministic (drawn from classic demographic methods, stable population theory, and the like) and stochastic (drawn from statistics) perspectives and methods, including their integration. Pre-requisites: DEMG 609 and SOCI 536 (or its equivalent).",
+    "course_id" : "DEMG731",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "731",
+    "course_title" : "Advanced Demographic Methods",
+    "crosslistings" : [ {
+      "course_id" : "731",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Smith",
+    "prerequisites" : "DEMG 609 and SOCI 536 (or its equivalent)",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is an introduction to the practice of statistics in social and behavioral sciences. It is open to beginning graduate students and--with the permission of the instructor--advanced undergraduates. Topics covered include the description of social science data, in graphical and non-graphical form; correlation and other forms of association, including cross-tabulation; bivariate regression; an introduction to probability theory; the logic of sampling; the logic of statistical inference and significance tests. There is a lecture twice weekly and a mandatory \"lab.\"",
+    "course_id" : "DEMG535",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "535",
+    "course_title" : "Quantitative Methods in Sociology I",
+    "crosslistings" : [ {
+      "course_id" : "535",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Allison, Smith",
+    "prerequisites" : "Basic algebra",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Population aging results inevitably from a reduced fertility and improved survivorship. But shifts in age structure also imply changing disease progiles, macro-economic strains, work patterns, family structures, and social norms. Integrating research from demography, sociology, epidemiology, and economics, this course examines select topics, including the trade-off between quantity vs. quality of life, intergenerational transfer systems across 3 and 4 generation families (allocations, investments, and returns), and wealth inequalities in latter life (new or continuing poverty for women and minorities). The life-course model organized the study of individual again while a cohort perspective guides the study of population aging.",
+    "course_id" : "DEMG653",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "653",
+    "course_title" : "Individual & Population Aging",
+    "crosslistings" : [ {
+      "course_id" : "653",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Soldo, Ewbank",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Drawing from sociology, economics and demography, this course examines the causes and effects of gender differences in labor force participation, earnings and occupation in the United States and in the rest of the developed and developing world. Differences by race, ethnicity and sexual preference are also considered. Theories of labor supply, marriage, human captial and discrimination are explored as explanations for the observed trends. Finally, the course reviews current labor market policies and uses the theories of labor supply, marriage, human capital and discrimination to evaluate their effects on women and men.",
+    "course_id" : "DEMG541",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "541",
+    "course_title" : "Gender, the Labor Force, and Markets",
+    "crosslistings" : [ {
+      "course_id" : "532",
+      "section_id" : "",
+      "subject" : "GSWS"
+    }, {
+      "course_id" : "541",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Madden",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Special Topics in Demography",
+    "course_id" : "DEMG777",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "777",
+    "course_title" : "Special Topics in Demography",
+    "crosslistings" : [ {
+      "course_id" : "777",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Demography 708 is the second part of a two-course sequence designed to introduce and familiarize second year students with current norms for academic research, presentation and publishing in the field of Demography. In Demg708 students are expected to finalize the analyses and to complete their second year research paper. This is a required course for second year demography students. Others interested in enrolling in the course may do so with the permission of the Chair of the Graduate Group in Demography.",
+    "course_id" : "DEMG708",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "708",
+    "course_title" : "Seminar in Demographic Research II",
+    "crosslistings" : [ {
+      "course_id" : "707",
+      "section_id" : "",
+      "subject" : "DEMG"
+    }, {
+      "course_id" : "690",
+      "section_id" : "",
+      "subject" : "SOCI"
+    }, {
+      "course_id" : "691",
+      "section_id" : "",
+      "subject" : "SOCI"
+    }, {
+      "course_id" : "708",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The biological, social and demographic factors explaining the levels, trends and differentials in human fertility. Data, measures, and methods used in the context of the more and the less developed countries, with an demphasis on the historical and current course of the fertitlity transition.",
+    "course_id" : "DEMG622",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "622",
+    "course_title" : "Fertility",
+    "crosslistings" : [ {
+      "course_id" : "622",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Smith, van de Walle, Watkins, Kohler, H.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will give students familiarity with the common research methods social scientists use to conduct research. Ethnographic, interview, survey, experimental and historical/comparative research methods will be covered. Four themes will be explored: 1) the basics of solid research design, 2) the various advantages and disadvantages of each method, 3) when the use of a method is appropriate or inappropriate for the research question, and 4) how to evaluate researchers' claims on the basis of the evidence they present. These themes will be explored by reading examples of and conducting exercises designed to give students hands-on experience in each of the methods. Students will conduct the exercises on a topic of their choice, which together will culminate in their final paper. The course is required and restricted to second year students in sociology and demography.",
+    "course_id" : "DEMG604",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "604",
+    "course_title" : "Methodology of Social Research",
+    "crosslistings" : [ {
+      "course_id" : "604",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Harknett, Smith, Wilde, Zuberi",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is intended to hone the skills and judgment in order to conduct independent research in sociology and demography. We will discuss the selection of intellectually strategic research questions and practical research designs. Students will get experience with proposal writing, the process of editing successive drafts of manuscripts, and the oral presentation of work in progress as well as finished research projects. The course is designed to be the context in which master's papers and second year research papers are written. This is a required course for second year graduate students in Demography. Others interested in enrolling in only one of the courses may do so with the permission of the Chair of the Graduate Group in Demography.",
+    "course_id" : "DEMG707",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "707",
+    "course_title" : "Seminar in Demographic Research I",
+    "crosslistings" : [ {
+      "course_id" : "708",
+      "section_id" : "",
+      "subject" : "DEMG"
+    }, {
+      "course_id" : "690",
+      "section_id" : "",
+      "subject" : "SOCI"
+    }, {
+      "course_id" : "691",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "V",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "DEMG899",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "899",
+    "course_title" : "Dissertation Proposal",
+    "crosslistings" : [ ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary from semester to semester. Course titles include: Race, Colonialism & Methods; Mistakes, Errors, Accidents & Disasters, Graduate Research Practicum, Sociology of Violence: Gangs & Organized Crime.",
+    "course_id" : "DEMG630",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "630",
+    "course_title" : "Advanced Special Topics",
+    "crosslistings" : [ {
+      "course_id" : "630",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Population Processes II is part of a two-course sequence designed to introduce students to the core areas of demography (fertility, mortality, and migration) and recent developments in the field. PP II is divided into two parts. The first focuses on family demography and the biological, social and demographic factors explaining levels, trends, and differentials in human fertility transition with an emphasis on the historical and current course of fertility transition in developed and developing countries. The second part of the course provides a comprehensive review of theories and research on international migration. Readings examine patterns and processes of global migration during the classic age from 1800-1914 as well as during the postwar period from 1945 to the present. The course also covers a history and evaluation of immigration policies around the world, and devotes significant attention to theoretical and empirical perspectives on immigrant adaptation, including the relationship between gender and migration.",
+    "course_id" : "DEMG634",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "634",
+    "course_title" : "Population Processes II",
+    "crosslistings" : [ {
+      "course_id" : "634",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Flippen, Harknett, Kohler, Parrado, Smith",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The course investigates economic and social determinants of fertility, mortality, and migration, and it discusses the effects of population variables on economic and social conditions, including economic and social development. Topics discussed in the course include: How do economic changes affect marriage, divorce, and child bearing decisions? How do households make decisions about transfers and requests? How can economic and sociological approaches be combined in explanatory models of demography change? How does immigration to the US affect the ethnic composition of the population, the earnings of native workers, taxes on natives, and the macro-economy? What causes the aging of populations, and how will population aging affect the economies of industrial nations, and in particular, pension programs like Social Security? What accounts for the rise in women's participation in the wage labor force over the past century? How are family composition and poverty interrelated? Does rapid population growth slow economic development with low income countries? In addition to these topics, the course also covers selected methods not included in Dem/Soc 535/536 and 609.",
+    "course_id" : "DEMG796",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "796",
+    "course_title" : "Demographic, Economic, and Social Interrelations",
+    "crosslistings" : [ {
+      "course_id" : "796",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Kohler, Madden",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This two semester course will engage each graduate student in an analysis project with qualitative and quantitative components, using a linked qualitative longitudinal data set. Students will use survey data from the baseline and 12 month wave of the Fragile Families study (described at http://crcw.princeton.edu/fragilefamilies/), a national survey of unwed and married parents who have just had a child (with unmarried parents over sampled) They will also use transcripts and coded data from the TLC3 study, which involved qualitative couple and individual interviews conducted with a subset of 75 of the couples in the FF survey in 3 waves: about 3 months after the birth and then again 12 and 24 months after the birth. Most of these are low-income, unmarried, cohabiting parents. The goal of the course is for each student to use these two data sets, and the analytic techniques and literature covered in the course, to write a paper that can be submitted for publication. The spring will also include lots of tips on how to construct a publishable paper. Students should only enroll in this course if they plan to take the spring sequel course as well.",
+    "course_id" : "DEMG670",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "670",
+    "course_title" : "Family Data",
+    "crosslistings" : [ {
+      "course_id" : "670",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "DEMG",
+    "department_of_record" : "DEMG",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2I",
+    "instructors" : "Harknett",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

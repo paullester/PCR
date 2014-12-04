@@ -1,0 +1,193 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:11 +0000
+Content-Length: 8806
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:48:11 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "MST",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "TCOM990",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "990",
+    "course_title" : "Masters Thesis",
+    "crosslistings" : [ ],
+    "department" : "TCOM",
+    "department_of_record" : "TCOM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "EG",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "TCOM298",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "298",
+    "course_title" : "Study Abroad",
+    "crosslistings" : [ ],
+    "department" : "TCOM",
+    "department_of_record" : "TCOM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "EG",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This is an introductory course on packet networks and associated protocols that form the basis of today's communication infrastructure, with a particular emphasis on IP based networks such as the Internet. The course introduces the various design and implementation choices that are behind the development of modern networks, and emphasizes basic analytical understanding in motivating those choices. Topics are covered in a mostly \"bottom-up\" approach, starting with a brief review of physical layer issues such as digital transmission, error correction and error recovery strategies. This is then followed by a discussion of link layer aspects, including multiple access control (MAC) strategies, local area networks (Ethernet, token rings, and 802.11 wireless LANs), and general store-and-forward packet switching. Network layer solutions, including IP addressing, naming, and routing are covered next, before exploring transport layer and congestion control solutions such as TCP. Finally, basic approaches for quality-of-service and network security are examined. Specific applications and aspects of data compression and streaming may also be covered.",
+    "course_id" : "TCOM400",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "400",
+    "course_title" : "Introduction to Networks and Protocols",
+    "crosslistings" : [ ],
+    "department" : "TCOM",
+    "department_of_record" : "TCOM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "Undergraduate probability and analysis.",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "EG",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Traffic management and call admission: traffic characterization traffic shaping, admission control, statistical multiplexing, effective bandwidth. Scheduling: fair queuing, rate-controlled service disciplines. Buffer management: pushout, threshold, random early detection, sharing mechanisms (complete partitioning, complete sharing, hybrids), coupling buffer management and scheduling. Markov decision process and application in resource allocation (memory, badwidth allocation). Switching: input queuing, output queuing, shared memory, combined input/output queuing. Maximum throughout in input queued switches, emulating output queuing with input queuing via speedup. Building larger switches: CIOS networks, banyan netowrks, etc. TCP modeling.",
+    "course_id" : "TCOM601",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "601",
+    "course_title" : "Advanced Networking Modeling and Analysis",
+    "crosslistings" : [ ],
+    "department" : "TCOM",
+    "department_of_record" : "TCOM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "TCOM 501",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "EG",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course introduces the main concepts of Web technologies with special emphasis on contemproary Web design issues. The topics continually evolve as new Web technologies and protocols emerge. The course starts with an overview of key Web software technologies (Web clients, Web proxies, Web servers, Web gateways, and cookies). This includes a discussion of HTTP protocol design and its interaction with TCP/IP. The second part of the course concentrates on Next Generation Web with special attention to XML and its variants, Web Services, and Web-based Architectures. The emphasis of this part is on emerging approaches to build Web applications by using components based on XML Web Services, .NET, J2EE. The course concludes with a discussion of Web engineering issues and an examination of Web traffic measurement, Web caching, and multimedia over Web. The course stresses the role of Web in supporting the modern large-scale applications by using a variety of middleware components. Emerging areas to be discussed in the telecom industry, and Web-based integration architectures. Students will have an opportunity to work with various Web tools, develop a simple Web server, and investigate special areas of interest to them.",
+    "course_id" : "TCOM799",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "799",
+    "course_title" : "Special Topics in TCOM: Web Technologies, Protocols, and Applications",
+    "crosslistings" : [ ],
+    "department" : "TCOM",
+    "department_of_record" : "TCOM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "TCOM 500 and knowledge of OO programming (Java or C++ preferred)",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "EG",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "TCOM770",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "770",
+    "course_title" : "TCOM Seminar",
+    "crosslistings" : [ ],
+    "department" : "TCOM",
+    "department_of_record" : "TCOM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "EG",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

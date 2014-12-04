@@ -1,0 +1,205 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:27 +0000
+Content-Length: 7860
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:48:27 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "MLYM438",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "438",
+    "course_title" : "Advanced Malayalam",
+    "crosslistings" : [ ],
+    "department" : "MLYM",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "07",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed to develop skills in reading, writing, and speaking. It will focus on the alphabet, basic vocabulary, nouns (cases, gender and number), verbs and their basic tenses, numerals, rules of joining words, adjectives, adverbs, and sentence structure. Guided conversation will be a part of every class. Students will receive considerable training in speaking and writing their own sentences and paragraphs.",
+    "course_id" : "MLYM408",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "408",
+    "course_title" : "Beginning Malayalam Part I",
+    "crosslistings" : [ ],
+    "department" : "MLYM",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Kurichi",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "07",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed to further the language skills learned in Beginning Malayalam. Direct and indirect speech, passive voice, postpositions, and rules of joining words, will be included. Reading and discussion of texts from current Malayalam literature (essays, narration, short stories, and poems) will be a major portion of the course.",
+    "course_id" : "MLYM428",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "428",
+    "course_title" : "Intermediate Malayalam Part I",
+    "crosslistings" : [ ],
+    "department" : "MLYM",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Kurichi",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "07",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "E",
+    "terms_offered_description" : "Two terms. student must enter first term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed to develop skills in reading, writing, and speaking. It will focus on the alphabet, basic vocabulary, nouns (cases, gender and number), verbs and their basic tenses, numerals, rules of joining words, adjectives, adverbs, and sentence structure. Guided conversation will be a part of every class. Students will receive considerable training in speaking and writing their own sentences and paragraphs.",
+    "course_id" : "MLYM409",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "409",
+    "course_title" : "Beginning Malayalam Part II",
+    "crosslistings" : [ ],
+    "department" : "MLYM",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Kurichi",
+    "prerequisites" : "Beginning Malayalam Part I or equivalant ascertained through placement test or permission of instructor.",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "07",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed to further the language skills learned in Beginning Malayalam. Direct and indirect speech, passive voice, postpositions, and rules of joining words, will be included. Reading and discussion of texts from current Malayalam literature (essays, narration, short stories, and poems) will be a major portion of the course.",
+    "course_id" : "MLYM429",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "429",
+    "course_title" : "Intermediate Malayalam Part II",
+    "crosslistings" : [ ],
+    "department" : "MLYM",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Kurichi",
+    "prerequisites" : "Intermediate Malayalam Part I or equivalant ascertained through placement exam or permission of instructor.",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "07",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "MLYM448",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "448",
+    "course_title" : "Advanced Malayalam",
+    "crosslistings" : [ ],
+    "department" : "MLYM",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

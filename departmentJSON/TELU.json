@@ -1,0 +1,147 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:04 +0000
+Content-Length: 6215
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:48:04 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course introduces students to the basic Telugu language skills, with an emphasis on practice for listening comprehension, and speaking Telugu. Combined with exposure to Andhra culture, the classroom and online work in this course will enable interested students to pursue further language study in Telugu at the intermediate level, to carry out field research in Andhra Pradesh, or to prepare them to advanced work in Telugu Studies. An introduction to Telugu like this will also be useful for students who just want to acquire basic Telugu language skills for learning a new language or being able to communicate with Telugu speaking family and friends or to enjoy Telugu music and films.",
+    "course_id" : "TELU409",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "409",
+    "course_title" : "Beginning Telugu Part I",
+    "crosslistings" : [ ],
+    "department" : "TELU",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Magier",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "11",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed to expand the students' basic language skills in Telugu in order to allow them to function adequately in a Telugu-speaking environment, to immerse themselves in the rich Andhra culture, and to accomplish a more advanced competency in an interesting foreign language. This course is also aimed at students planning to conduct scholarly research in Telugu history, literature or society, or humanities or social science fieldwork in Telugu speaking areas.",
+    "course_id" : "TELU429",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "429",
+    "course_title" : "Intermediate Telugu Part I",
+    "crosslistings" : [ ],
+    "department" : "TELU",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Magier",
+    "prerequisites" : "Beginning Telugu Part II or equivalant ascertained through placement test or permission of instructor.",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "11",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "E",
+    "terms_offered_description" : "Two terms. student must enter first term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "TELU410",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "410",
+    "course_title" : "Beginning Telugu Part II",
+    "crosslistings" : [ ],
+    "department" : "TELU",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Magier",
+    "prerequisites" : "Beginning Telugu Part I or equivalant ascertained through placement test or permission of instructor.",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "11",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed to expand the students' basic language skills in Telugu in order to allow them to function adequately in a Telugu-speaking environment, to immerse themselves in the rich Andhra culture, and to accomplish a more advanced competency in an interesting foreign language. This course is also aimed at students planning to conduct scholarly research in Telugu history, literature or society, or humanities or social science fieldwork in Telugu speaking areas.",
+    "course_id" : "TELU430",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "430",
+    "course_title" : "Intermediate Telugu Part II",
+    "crosslistings" : [ ],
+    "department" : "TELU",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Sundaram",
+    "prerequisites" : "Intermediate Telugu Part II or equivalant ascertained through placement test or permission of instructor.",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "11",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

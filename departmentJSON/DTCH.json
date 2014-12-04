@@ -1,0 +1,1101 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:47:59 +0000
+Content-Length: 35341
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:47:59 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "DTCH297",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "297",
+    "course_title" : "Study Abroad",
+    "crosslistings" : [ ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "DTCH298",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "298",
+    "course_title" : "Study Abroad",
+    "crosslistings" : [ ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Development of the major graphic media and subjects from Schongauer through the sixteenth century. Regular visits to Philadelphia Museum of Art.",
+    "course_id" : "DTCH601",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Topics change annually.",
+    "course_number" : "601",
+    "course_title" : "The title for Spring 2014 is: German Prints & Drawings.",
+    "crosslistings" : [ {
+      "course_id" : "761",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "679",
+      "section_id" : "",
+      "subject" : "GRMN"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Silver",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary.",
+    "course_id" : "DTCH579",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "579",
+    "course_title" : "Seminar in Baroque Art",
+    "crosslistings" : [ {
+      "course_id" : "579",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "589",
+      "section_id" : "",
+      "subject" : "GRMN"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Silver",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "DTCH232",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "232",
+    "course_title" : "Seminar Dutch Studies",
+    "crosslistings" : [ {
+      "course_id" : "301",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In this seminar, we will study innovative twentieth-century Flemish and Dutch fiction and film against a cultural and historical background. We will mainly read postwar novels and discuss their context and importance. In our readings of concrete texts, we will pay special attention to new, experimental forms of narrative and their implication for the understanding of the text, as well as to the adaptation of these new forms to the movie screen.",
+    "course_id" : "DTCH280",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "The course will be taught in English.",
+    "course_number" : "280",
+    "course_title" : "Experiments in modern Flemish & Dutch Fiction & Film",
+    "crosslistings" : [ {
+      "course_id" : "252",
+      "section_id" : "",
+      "subject" : "CINE"
+    }, {
+      "course_id" : "279",
+      "section_id" : "",
+      "subject" : "COML"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Bernaerts",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A third semester Dutch language course. The emphasis lies on vocabulary expansion through the use of audio-taped materials and readings. Grammar is expanded beyond the basics and focuses on compound sentences, features of text coherence and idiomatic language usage.",
+    "course_id" : "DTCH503",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "503",
+    "course_title" : "Intermediate Dutch I",
+    "crosslistings" : [ {
+      "course_id" : "103",
+      "section_id" : "",
+      "subject" : "DTCH"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Naborn",
+    "prerequisites" : "Dutch 502 or equivalent.",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary annually. Topic for Spring 2015 is: \"History of the Human Voice in Western Europe, 1790 - 1930\".",
+    "course_id" : "DTCH530",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "530",
+    "course_title" : "Topics in Dutch Studies",
+    "crosslistings" : [ {
+      "course_id" : "532",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "555",
+      "section_id" : "",
+      "subject" : "GRMN"
+    }, {
+      "course_id" : "530",
+      "section_id" : "",
+      "subject" : "GSWS"
+    }, {
+      "course_id" : "531",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A third semester Dutch language course. The emphasis lies on vocabulary expansion through the use of audio-taped materials and readings. Grammar is expanded beyond the basics and focuses on compound sentences, features of text coherence and idiomatic language usage.",
+    "course_id" : "DTCH103",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "103",
+    "course_title" : "Intermediate Dutch I",
+    "crosslistings" : [ {
+      "course_id" : "503",
+      "section_id" : "",
+      "subject" : "DTCH"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Naborn",
+    "prerequisites" : "Dutch 102 or equivalent.",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "DTCH504",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "504",
+    "course_title" : "Intermediate Dutch II",
+    "crosslistings" : [ {
+      "course_id" : "104",
+      "section_id" : "",
+      "subject" : "DTCH"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Naborn",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A first semester language course covering the core Dutch grammar and vocabulary with the goal of providing the corner stone for developing overall linguistic proficiency in Dutch.",
+    "course_id" : "DTCH101",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "101",
+    "course_title" : "Elementary Dutch I",
+    "crosslistings" : [ {
+      "course_id" : "501",
+      "section_id" : "",
+      "subject" : "DTCH"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Naborn",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Dutch and Flemish painting in the 15th and 16th centuries with special emphasis on the contributions of Robert Campin, Jan van Eyck and Roger van der Weyden, Bosch, and Bruegel.",
+    "course_id" : "DTCH261",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "261",
+    "course_title" : "Netherlandish Art",
+    "crosslistings" : [ {
+      "course_id" : "261",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "661",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Silver",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "DTCH104",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "104",
+    "course_title" : "Intermediate Dutch II",
+    "crosslistings" : [ {
+      "course_id" : "504",
+      "section_id" : "",
+      "subject" : "DTCH"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Naborn",
+    "prerequisites" : "Dutch 103 or equivalent.",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Continuation of DTCH 101.",
+    "course_id" : "DTCH102",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "102",
+    "course_title" : "Elementary Dutch II",
+    "crosslistings" : [ {
+      "course_id" : "502",
+      "section_id" : "",
+      "subject" : "DTCH"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Naborn",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Continuation of DTCH 501.",
+    "course_id" : "DTCH502",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "502",
+    "course_title" : "Elementary Dutch II",
+    "crosslistings" : [ {
+      "course_id" : "102",
+      "section_id" : "",
+      "subject" : "DTCH"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Naborn",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary.",
+    "course_id" : "DTCH330",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "330",
+    "course_title" : "Advanced Topics in Dutch Studies",
+    "crosslistings" : [ {
+      "course_id" : "330",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "509",
+      "section_id" : "",
+      "subject" : "DTCH"
+    }, {
+      "course_id" : "330",
+      "section_id" : "",
+      "subject" : "GRMN"
+    }, {
+      "course_id" : "280",
+      "section_id" : "",
+      "subject" : "PHIL"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Continuation of Dutch 105. The emphasis lies on literary and other writings from the 20th Century.",
+    "course_id" : "DTCH106",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "106",
+    "course_title" : "Advanced Dutch II",
+    "crosslistings" : [ {
+      "course_id" : "506",
+      "section_id" : "",
+      "subject" : "DTCH"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Naborn",
+    "prerequisites" : "Dutch 105 or equivalent.",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Continuation of Dutch 505. The emphasis lies on literary and other writings from the 20th Century.",
+    "course_id" : "DTCH506",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "506",
+    "course_title" : "Advanced Dutch II",
+    "crosslistings" : [ {
+      "course_id" : "106",
+      "section_id" : "",
+      "subject" : "DTCH"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Naborn",
+    "prerequisites" : "Dutch 505 or equivalent.",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "DTCH399",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "399",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Naborn",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "DTCH251",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "251",
+    "course_title" : "Lit Responses Holocaust",
+    "crosslistings" : [ {
+      "course_id" : "251",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "251",
+      "section_id" : "",
+      "subject" : "GRMN"
+    }, {
+      "course_id" : "247",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course combines a Dutch language course with a content-based course on Dutch history and literature. Units on linguistic aspects of the language are added as review and refinement. The course also serves as an introduction to writing papers in Dutch.",
+    "course_id" : "DTCH105",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "105",
+    "course_title" : "Advanced Dutch I - Cultural History of the Netherlands & Flanders",
+    "crosslistings" : [ {
+      "course_id" : "505",
+      "section_id" : "",
+      "subject" : "DTCH"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Naborn",
+    "prerequisites" : "DTCH 104 or equivalent.",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed for undergraduates, graduate students and faculty who want to be able to read Dutch. Of particular interest to historians and art historians, people interested in international business and law, religious studies, social policy, and literature. Emphasis on reading skills; structures of grammar and pronunciation are taught as needed. Text selection will be tailored to individual student needs. No knowledge of Dutch required.",
+    "course_id" : "DTCH507",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "No knowledge of Dutch required.",
+    "course_number" : "507",
+    "course_title" : "Dutch for Reading Knowledge",
+    "crosslistings" : [ ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Naborn",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "O",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "DTCH277",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "277",
+    "course_title" : "Negotiating Multilingualism",
+    "crosslistings" : [ {
+      "course_id" : "277",
+      "section_id" : "",
+      "subject" : "GRMN"
+    }, {
+      "course_id" : "277",
+      "section_id" : "",
+      "subject" : "LING"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Vosters",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "DTCH510",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "510",
+    "course_title" : "The Invention of Dutch and Deutsch",
+    "crosslistings" : [ {
+      "course_id" : "520",
+      "section_id" : "",
+      "subject" : "GRMN"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Vosters",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A first semester Dutch language course covering the core Dutch grammar and vocabulary with the goal of providing the corner stone for developing overall linguistic proficiency in Dutch.",
+    "course_id" : "DTCH501",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "501",
+    "course_title" : "Elementary Dutch I",
+    "crosslistings" : [ {
+      "course_id" : "101",
+      "section_id" : "",
+      "subject" : "DTCH"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Naborn",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "DTCH231",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "231",
+    "course_title" : "World War I & After",
+    "crosslistings" : [ {
+      "course_id" : "227",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "231",
+      "section_id" : "",
+      "subject" : "GRMN"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "DTCH999",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "999",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Naborn",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary annually.",
+    "course_id" : "DTCH509",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "Taught in English.",
+    "course_number" : "509",
+    "course_title" : "Adv Topics Dutch Studies",
+    "crosslistings" : [ {
+      "course_id" : "330",
+      "section_id" : "",
+      "subject" : "DTCH"
+    }, {
+      "course_id" : "330",
+      "section_id" : "",
+      "subject" : "GRMN"
+    }, {
+      "course_id" : "280",
+      "section_id" : "",
+      "subject" : "PHIL"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary annually. Topic for Spring 2015 is: \"Military Culture in Western Europe, C. 1800-1913.\"",
+    "course_id" : "DTCH230",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "Taught in English",
+    "course_number" : "230",
+    "course_title" : "Topics in Dutch Studies",
+    "crosslistings" : [ {
+      "course_id" : "263",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "252",
+      "section_id" : "",
+      "subject" : "CINE"
+    }, {
+      "course_id" : "229",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "230",
+      "section_id" : "",
+      "subject" : "GRMN"
+    }, {
+      "course_id" : "230",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "DTCH275",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "275",
+    "course_title" : "The Graphic Novel.  Where Language and Image Meet",
+    "crosslistings" : [ {
+      "course_id" : "275",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "275",
+      "section_id" : "",
+      "subject" : "GRMN"
+    }, {
+      "course_id" : "575",
+      "section_id" : "",
+      "subject" : "GRMN"
+    } ],
+    "department" : "DTCH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Bemong",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

@@ -1,0 +1,520 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:05 +0000
+Content-Length: 18599
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3525579948.39711.0000; expires=Thu, 04-Dec-2014 09:48:05 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "YDSH999",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "999",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "YDSH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "Q",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "YDSH399",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "399",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "YDSH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The course will continue the first year's survey of Yiddish grammar with an additional emphasis on reading Yiddish texts. The course will also develop conversational skills in Yiddish.",
+    "course_id" : "YDSH103",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "103",
+    "course_title" : "Intermediate Yiddish I",
+    "crosslistings" : [ {
+      "course_id" : "033",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "503",
+      "section_id" : "",
+      "subject" : "YDSH"
+    } ],
+    "department" : "YDSH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "YDSH 102 or permission of the instructor",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The goal of this course is to help beginning students develop skills in Yiddish conversation, reading and writing. Yiddish is the medium of a millennium of Jewish life. We will frequently have reason to refer to the history and culture of Ashkenazie Jewry in studying the language.",
+    "course_id" : "YDSH101",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "101",
+    "course_title" : "Beginning Yiddish I",
+    "crosslistings" : [ {
+      "course_id" : "031",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "501",
+      "section_id" : "",
+      "subject" : "YDSH"
+    } ],
+    "department" : "YDSH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Continuation of GRMN 403. Emphasis on reading texts and conversation.",
+    "course_id" : "YDSH504",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "504",
+    "course_title" : "Intermediate Yiddish II",
+    "crosslistings" : [ {
+      "course_id" : "034",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "104",
+      "section_id" : "",
+      "subject" : "YDSH"
+    } ],
+    "department" : "YDSH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "YDSH 103 or permission of the instructor",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The goal of this course is to help beginning students develop skills in Yiddish conversation, reading and writing. Yiddish is the medium of a millennium of Jewish life. We will frequently have reason to refer to the history and culture of Ashkenazie Jewry in studying the language.",
+    "course_id" : "YDSH501",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "501",
+    "course_title" : "Beginning Yiddish I",
+    "crosslistings" : [ {
+      "course_id" : "031",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "101",
+      "section_id" : "",
+      "subject" : "YDSH"
+    } ],
+    "department" : "YDSH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In this course, you can continue to develop basic reading, writing and speaking skills. Discover treasures of Yiddish culture: songs, literature, folklore, and films.",
+    "course_id" : "YDSH102",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "102",
+    "course_title" : "Beginning Yiddish II",
+    "crosslistings" : [ {
+      "course_id" : "032",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "502",
+      "section_id" : "",
+      "subject" : "YDSH"
+    } ],
+    "department" : "YDSH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "YDSH 101 or permission of the instructor",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "YDSH502",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "502",
+    "course_title" : "Beginning Yiddish II",
+    "crosslistings" : [ {
+      "course_id" : "032",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "102",
+      "section_id" : "",
+      "subject" : "YDSH"
+    } ],
+    "department" : "YDSH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "YDSH 101 or permission of the instructor",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The course will continue the first year's survey of Yiddish grammar with an additional emphasis on reading Yiddish texts. The course will also develop conversational skills in Yiddish.",
+    "course_id" : "YDSH503",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "503",
+    "course_title" : "Intermediate Yiddish I",
+    "crosslistings" : [ {
+      "course_id" : "033",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "103",
+      "section_id" : "",
+      "subject" : "YDSH"
+    } ],
+    "department" : "YDSH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "YDSH 102 or permission of the instructor",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Continuation of GRMN 403. Emphasis on reading texts and conversation.",
+    "course_id" : "YDSH104",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "104",
+    "course_title" : "Intermediate Yiddish II",
+    "crosslistings" : [ {
+      "course_id" : "034",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "504",
+      "section_id" : "",
+      "subject" : "YDSH"
+    } ],
+    "department" : "YDSH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "YDSH 103 or permission of the instructor",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will survey modern Yiddish literature through readings of Yiddish prose and poetry from the end of the 19th century through the late 20th century. The class will be conducted in both Yiddish and English. Reading knowledge of Yiddish is required, although some texts will be available in English translation. Authors include I.L. Peretz, Isaac Bashevis Singer, Moyshe-Leyb Halpern, and Kadya Molodowsky.",
+    "course_id" : "YDSH108",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "108",
+    "course_title" : "Readings in Modern Yiddish Literature",
+    "crosslistings" : [ {
+      "course_id" : "438",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "508",
+      "section_id" : "",
+      "subject" : "YDSH"
+    } ],
+    "department" : "YDSH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hellerstein",
+    "prerequisites" : "Reading knowledge of Yiddish",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will survey modern Yiddish literature through readings of Yiddish prose and poetry from the end of the 19th century through the late 20th century. The class will be conducted in both Yiddish and English. Reading knowledge of Yiddish is required, although some texts will be available in English translation. Authors include I.L. Peretz, Isaac Bashevis Singer, Moyshe-Leyb Halpern, and Kadya Molodowsky.",
+    "course_id" : "YDSH508",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "508",
+    "course_title" : "Readings in Modern Yiddish Literature",
+    "crosslistings" : [ {
+      "course_id" : "438",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "108",
+      "section_id" : "",
+      "subject" : "YDSH"
+    } ],
+    "department" : "YDSH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hellerstein",
+    "prerequisites" : "Reading knowledge of Yiddish",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The seminar will consider works by Jewish women who wrote in Yiddish, Hebrew, English, and other languages in the late 19th through the 20th century. The texts, poetry and prose, will include both belles lettres and popular writings, such as journalism, as well as private works (letters and diaries) and devotional works. The course will attempt to define \"Jewish writing, \" in terms of language and gender, and will consider each writer in the context of the aesthetic, religious, and national ideologies that prevailed in this period. Because students will come with proficiency in various languages, all primary texts and critical and theoretical materials will be taught in English translation. However, those students who can, will work on the original texts and share with the class their expertise to foster a comparative perspective. Because we will be discussing translated works, a secondary focus of the course will, in fact, be on literary translation's process and products.",
+    "course_id" : "YDSH509",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "\"Jewish Women Writers\" is a graduate seminar also be open to advanced undergraduates.  Based in the Department of Germanic Languages and Literatures, this course will be cross-listed with Comparative Literature, English, and Jewish Studies.",
+    "course_number" : "509",
+    "course_title" : "Topics vary annually.  In Spring 2015, the title is: Jewish Women Writers",
+    "crosslistings" : [ {
+      "course_id" : "509",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "591",
+      "section_id" : "",
+      "subject" : "ENGL"
+    }, {
+      "course_id" : "509",
+      "section_id" : "",
+      "subject" : "GRMN"
+    }, {
+      "course_id" : "509",
+      "section_id" : "",
+      "subject" : "GSWS"
+    }, {
+      "course_id" : "509",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "YDSH",
+    "department_of_record" : "GRMN",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Hellerstein",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

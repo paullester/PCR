@@ -1,0 +1,2037 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:30 +0000
+Content-Length: 85429
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:48:30 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "DIS",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH995",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "995",
+    "course_title" : "Dissertation",
+    "crosslistings" : [ ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH311",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "311",
+    "course_title" : "Disasters in the Ancient World",
+    "crosslistings" : [ {
+      "course_id" : "311",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Grey",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "J",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "What constituted an empire in antiquity and how was imperialism legitimized? Which measures were used to maintain and organize imperial power? How did foreign rule affect the daily life of people all over the Mediterranean? In this course we will discuss and compare ancient empires from Achaemenid Persia to Alexander the Great and the Hellenistic kingdoms of his successors to the emergence of Rome as one of the most successful and influential empires in world history. Topics that will be discussed include ancient ideas and concepts of imperial rule, patterns of political, economic and cultural power and their interrelations as well as imperial crises and local resistance.",
+    "course_id" : "ANCH146",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "146",
+    "course_title" : "Ancient Mediterranean Empires",
+    "crosslistings" : [ {
+      "course_id" : "146",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Wilker",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is taken in the spring of the senior year by students admitted to the honors thesis program for the Ancient History major. For policies see the Classical Studies department website.",
+    "course_id" : "ANCH398",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "398",
+    "course_title" : "Honors Thesis",
+    "crosslistings" : [ ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Scholars have long debated the nature of the ancient economy, the terms in which it can best be approached, and the decision-making processes that underpinned economic behavior in antiquity. In particular, controversy has surrounded the extent to which the economies of Greco-Roman antiquity can be modeled using contemporary tools of analysis. In recent scholarship, many of the tenets laid down by Moses Finley in his The Ancient Economy have been re-evaluated, with the result that the field is currently in a state of intellectual ferment. It is the purpose of this course to explore the terms in which contemporary debates over ancient economic systems are formulated, with reference to a variety of societies and periods, from the palace economies of the Mycenaean period to the system of taxation introduced in the early fourth century by the emperor Diocletian and his colleagues in the Tetrarchy.",
+    "course_id" : "ANCH616",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "616",
+    "course_title" : "Ancient Economies",
+    "crosslistings" : [ {
+      "course_id" : "616",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Grey",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "\"They create a desert and call it peace,\" wrote Tacitus in describing the response of the conquered to Rome's power, but the Roman Peace also broughtwith it it other, less dramatic changes. In this class we will break the Roman Empire down down into a series of vignettes, using literature and archaeology to supply us us with the material for a fresh look at Roman society. Our aim isto uncover the complexity of Roman society, and to acknowledge the multiple voices that together made up the ancient Mediterranean world. We will focus upon key key structural aspects of Roman society and culture, but explore them in new ways, using texts texts that highlight dissent, conflict and tension as as they indicate cohesion and Rome's hegemony over the Mediterranean in in antiquity. Texts will be read in translation. No prerequisites, although students are encouraged to take this course after taking ANCH 027/HIST 027. Grey",
+    "course_id" : "ANCH209",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "209",
+    "course_title" : "Structures of the Roman Empire",
+    "crosslistings" : [ {
+      "course_id" : "209",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Grey",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In this course, we will study the history of the Hellenistic and Roman period a from a Near Eastern perspective. From the conquests of Alexander the Great to the end of Roman rule in late antiquity, this region was the scene of conflicts, but also of peaceful and fruitful interactions between Greeks, Romans, Egyptians, Jews, Syrians, Arabs and many other societies. What was the impact of Greek and Roman rule and how did the inhabitants of the region react to these fundamental changes? On the other hand, how did they influence the culture and worldview of their conquerors? We will use historical texts, documents and archaeological evidence to discuss the political, cultural and religious encounters that made the Near East a key region of Greco-Roman history. All texts will be discussed in translation. No prerequisites, although it would be useful to have taken ANCH 026 and/or ANCH 027.",
+    "course_id" : "ANCH220",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "220",
+    "course_title" : "Near East in Hellenistic and Roman Times",
+    "crosslistings" : [ {
+      "course_id" : "284",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Wilker",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The Roman Empire was one of the few great world states-one that unified a large area around the Mediterranean Sea-an area never subsequently united as part of a single state. Whereas the great achievements of the Greeks were in the realm of ideas and concepts (democracy, philosophy, art, literature, drama) those of the Romans tended to be in the pragmatic spheres of ruling and controlling subject peoples and integrating them under the aegis of an imperial state. Conquest, warfare, administration, and law making were the great successes of the Roman state. We will look at this process from its inception and trace the formation of Rome's Mediterranean empire over the last three centuries BC; we shall then consider the social, economic and political consequences of this great achievement, especially the great political transition from the Republic (rule by the Senate) to the Principate (rule by emperors). We shall also consider limitations to Roman power and various types of challenges, military, cultural, and religious, to the hegemony of the Roman state. Finally, we shall try to understand the process of the development of a distinctive Roman culture from the emergence new forms of literature, like satire, to the gladiatorial arena as typical elements that contributed to a Roman social order.",
+    "course_id" : "ANCH027",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "027",
+    "course_title" : "Ancient Rome",
+    "crosslistings" : [ {
+      "course_id" : "027",
+      "section_id" : "",
+      "subject" : "CLST"
+    }, {
+      "course_id" : "027",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "H",
+      "requirement_description" : "History &amp; Tradition Sector"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH500",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "500",
+    "course_title" : "Historia Agusta",
+    "crosslistings" : [ {
+      "course_id" : "600",
+      "section_id" : "",
+      "subject" : "LATN"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH601",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "601",
+    "course_title" : "Archaeology and Greek History",
+    "crosslistings" : [ {
+      "course_id" : "601",
+      "section_id" : "",
+      "subject" : "AAMW"
+    }, {
+      "course_id" : "601",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH375",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "375",
+    "course_title" : "Citizen in Roman World",
+    "crosslistings" : [ {
+      "course_id" : "375",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "What constituted history in ancient Greece and Rome? What claims to knowledge claims to knowledge did history make, and how did these differ from other forms of knowledge? How did historians envision their task, and how did they go about performing it? We will read the works of the major Greek and Roman historians in translation in an attempt to answer those questions. Other issues to consider include the origins and development of historical writing, the place of history within the ancient literary tradition, and the similarities and differences between the ancient and modern practice of history.",
+    "course_id" : "ANCH312",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "312",
+    "course_title" : "Writing History in Greece and Rome",
+    "crosslistings" : [ {
+      "course_id" : "312",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH499",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "499",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This class is designed as a detailed investigation of the world created by Alexander the Great. We will cover the three hundred year period known as the Hellenistic Age from the career of Alexander the Great (354-323 BC) until the defeat of Antony and Cleopatra at the Battle of Actium (31 BC). This was a period during which the world of the Greeks underwent extraordinary and far-reaching changes, as Greek culture was established as far afield as northwestern India, central Asia and Egypt. In the same period kingdoms controlled by Alexanders's Successors used Greek culture to define their rule, establishing a Greek culture of the elite in regions which previously had been dominated by the Persians. As Greek and non-Greek worlds collided, a new interpretation of Greek culture emerged, giving rise, among other things, to universities and professional schools, state subsidized health care, triumphalist architecture, the heroization of the noble savage, coinage with royal portraits, the deification of men and a multitude of other social, artistic and political forms familiar to us. It was an age of radical change, dislocation, as Greek populations colonized regions previously unkown to them.",
+    "course_id" : "ANCH323",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "323",
+    "course_title" : "Greek World After Alexander the Great",
+    "crosslistings" : [ {
+      "course_id" : "323",
+      "section_id" : "",
+      "subject" : "CLST"
+    }, {
+      "course_id" : "334",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Wilker",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An introduction to the principles and practices of Greek Epigraphy. Study of selected Greek inscriptions.",
+    "course_id" : "ANCH611",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "611",
+    "course_title" : "Greek Epigraphy",
+    "crosslistings" : [ {
+      "course_id" : "611",
+      "section_id" : "",
+      "subject" : "AAMW"
+    }, {
+      "course_id" : "611",
+      "section_id" : "",
+      "subject" : "CLST"
+    }, {
+      "course_id" : "611",
+      "section_id" : "",
+      "subject" : "GREK"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A cultural history of Middle Eastern civilization from the invention of writing to the rise of Islam.",
+    "course_id" : "ANCH025",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "025",
+    "course_title" : "Ancient Middle Eastern History and Civilization",
+    "crosslistings" : [ {
+      "course_id" : "024",
+      "section_id" : "",
+      "subject" : "HIST"
+    }, {
+      "course_id" : "101",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "H",
+      "requirement_description" : "History &amp; Tradition Sector"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The history of the ancient Mediterranean world did not finish with the emergence of the first Christian emperor, Constantine, as sole ruler of the Roman world in 324 CE. Nor did the deposition of the last western Roman emperor, Romulus Augustulus, in 476 CE, signal the definitive decline and fall of Rome. There continued to be a Roman empire and a Roman emperor for many centuries to come. This course examines the history of the Mediterranean world in a crucial period of transformation between the political, social, and economic structures of the classical world and those of the medieval period. Our chronological boundaries, broadly speaking, are the third to the sixth centuries CE. The geographical scope of the course includes interactions with the powers of the Near East and Hunnic nomads, as well as the transformation of the Roman provinces of the western Mediterranean into the Germanic kingdoms of the early medieval world. We explore the development of new religious, political, and socio-economic structures, new intellectual, artistic, and literary styles and concerns. Equally, we note enduring continuities and inheritances from the world of the first and second centuries CE. What emerges is a world in transition, reconstituting and reinterpreting its past with a view to the new opportunities and demands of its present.",
+    "course_id" : "ANCH028",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "028",
+    "course_title" : "Late Antique Rome",
+    "crosslistings" : [ {
+      "course_id" : "028",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Grey",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Rome once ruled the entire Mediterranean world, and its legacy looms large in western civilization. Many aspects of Roman architecture, art, engineering, religion, and law persist today. This course will examine Roman civilization and accomplisments through the lens of their great monuments and achievements: the Colosseum, the Circus Maximus, the city of Pompeii, villas, baths, and aqueducts, among others. Primary sources in translation, slides, and video will assist in our examination of the splendor of Rome.",
+    "course_id" : "ANCH120",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "120",
+    "course_title" : "Splendor of Rome",
+    "crosslistings" : [ {
+      "course_id" : "120",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Gerrish",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "O",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH512",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "512",
+    "course_title" : "Methods in Roman History",
+    "crosslistings" : [ ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "\"Greece, the captive, took her savage victor captive\" runs the famous line from the Roman poet Horace. Traditionally the complex relationship between Greece and Rome has been seen from the Roman point of view, emphasizing the changes in Roman culture as a result of Rome's contact with the Greeks. This class takes a different approach, considering the impact on Greece. We will use the results of archaeological survey and excavation to chart the economic transformation of Greece, especially in relation to the Roman colony at Korinth. This will involve examining changes in land distribution, the growth of road networks, and the increase in large public works such as theatres, aqueducts and baths. We will also use writers such as Dio Chrysostom and Pausanias to consider the effect on the institutions of the traditional Greek city-state of being incorporated into a single province, Achaia. We will read some of the ancient novels, such as Longus' Daphnis and Chloe, as well as the essays of Plutarch. There are many avenues into the past, and the particular richness of our sources for Roman imperial history makes it possible for us to approach Greece from a variety of perspectives.",
+    "course_id" : "ANCH306",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "306",
+    "course_title" : "Greece Under Roman Empire",
+    "crosslistings" : [ {
+      "course_id" : "306",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "McInerney",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "By using as its focus the famous Seven Wonders of the World, in addition to study of similar wonders which did not make this canonical list, the course will provide an overview of the history and civilizations of the ancient Near East and Greece through the Hellenistic Period (ca. 3000-200 BC). The course will explore the ancient civilizations that created the Seven Wonders: Egypt (The Great Pyramids and the Lighthouse of Alexandria), Mesopotamia (the Hanging Gardens of Babylon), and Greece (the Temple of Artemis at Ephesus, the Mausoleum of Halicarnassus, the Colossus of Rhodes, and the Statue of Zeus at Olympia). In addition, the course will examine several ancient wonders that did not make the famous list. The additional wonders include the ziggurat of Ur, the labyrinthine palace of Minos at Knossos, the tomb of King Tutankhamen, the citadel of Homeric Troy, Solomon's temple in Jerusalem, Sennacherib's palace at Nineveh, and Darius the Great's royal center at Persepolis.",
+    "course_id" : "ANCH118",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "118",
+    "course_title" : "The Seven Wonders: History of the Ancient Near East and Greece",
+    "crosslistings" : [ {
+      "course_id" : "118",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "110",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "O",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will examine the material and social culture of classical Athens. Through a close reading of original sources (primarily court presentation and comic productions) and through the evaluation of modern studies, we will seek to understand the societal,familial, economic, religious and sexual dimensions of the Athenian life, and to evaluate the alleged dictorial dominance of this society by the small minority of male \"citizens.\" The class will deal with such topics as the legal, social and fiancial position of wealthy slaves and business women; the clandestine economy of tax evasion and bank fraud; the political and economic content of male and female prostitution. The entire seminar will study certain core materials, and individual students will report on selected subjects. Admission is open to those with a reading knowledge of ancient Greek and/or some expertise in social science discipline broadly-defined (such as history, gender studies, economics, anthropology or law).",
+    "course_id" : "ANCH602",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "602",
+    "course_title" : "Athenian Economy",
+    "crosslistings" : [ ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH109",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "109",
+    "course_title" : "Government and Pol in An",
+    "crosslistings" : [ {
+      "course_id" : "109",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "MST",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH990",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "990",
+    "course_title" : "Masters Thesis",
+    "crosslistings" : [ ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topic varies.",
+    "course_id" : "ANCH721",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "721",
+    "course_title" : "Seminar in Greek Architecture",
+    "crosslistings" : [ {
+      "course_id" : "721",
+      "section_id" : "",
+      "subject" : "AAMW"
+    }, {
+      "course_id" : "721",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Haselberger",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The analysis of non-literary Latin texts from antiquity preserved on various types of permanent media, mainly stone and metal, is the primary concern of the discipline of Latin epigraphy. Such texts, which have been recovered in hundreds of thousands, constitute one of the most important sources of data for the modern-day historian of Rome. The student will be introduced to the conventions of editing and reading epigraphical texts, and to the major collections of Latin inscriptions. The seminar will then concentrate on different types of documents in order to understand their formatting and style, as well as the kinds of historical evidence that can be derived from them. Public and private inscriptions, from the decrees of emperors and senatorial careers to personal curse tablets and the simple tombstone epitaphs of the urban poor, will be considered as examples of the range of epigraphical texts available to the modern researcher.",
+    "course_id" : "ANCH510",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "510",
+    "course_title" : "Latin Historical Documents",
+    "crosslistings" : [ {
+      "course_id" : "510",
+      "section_id" : "",
+      "subject" : "LATN"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Alexander and His Age is a freshman seminar designed to introduce you to one of most brilliant periods of world history. As a result of Alexander's conquests Greek culture came into contact with many of the older cultures of the ancient Near East. The result of that meeting was Hellenism, the astonishing culture which spawned, among other things, universities and professional schools, state subsidized health care, triumphalist architecture, the heroization of the noble savage, coinage with royal portraits, the deification of men and a multitude of social, artistic and political forms familiar to us. You will have the opportunity to read widely in the original sources (in translation, of course -no knowledge of Greek or Latin is required), from a variety of inscriptions and papyri as well as the literary works of the age.",
+    "course_id" : "ANCH190",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "190",
+    "course_title" : "Alexander and His Age",
+    "crosslistings" : [ {
+      "course_id" : "190",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "McInerney",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH999",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "999",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is taken by students doing independent work with a faculty advisor, such as students approved to work on a senior research paper in pursuit of honors in the major.",
+    "course_id" : "ANCH399",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "399",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH613",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "613",
+    "course_title" : "The Second Sophistic",
+    "crosslistings" : [ {
+      "course_id" : "613",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will examine theoretical and impirical frameworks for pre-modern forms of exchange. We will focus on substantist and formalist economic theories and will consider the archaeological evidence for such phenomena as barter, gift exchange, administered economies, markets, local exchange, and long distance overland and maritime trade. Our goal is to develop mid-range models for reconstructing ancient economies. The course will emphasize but not be limited to complex societies of the New and Old World.",
+    "course_id" : "ANCH645",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "645",
+    "course_title" : "Economics and Ancient Trade",
+    "crosslistings" : [ {
+      "course_id" : "645",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The Greeks enjoy a special place in the construction of western culture and identity, and yet many of us have only the vaguest notion of what their culture was like. A few Greek myths at bedtime when we are kids, maybe a Greek tragedy like Sophokles' Oidipous when we are at school: these are often the only contact we have with the world of the ancient Mediterranean. The story of the Greeks, however, deserves a wider audience, because so much of what we esteem in our own culture derives from them: democracy, epic poetry, lyric poetry, tragedy, history writing, philosophy, aesthetic taste, all of these and many other features of cultural life enter the West from Greece. The oracle of Apollo at Delphi had inscribed over the temple, \"Know Thyself.\" For us, that also means knowing the Greeks. We will cover the period from the Late Bronze Age, c. 1500 BC, down to the time of Philip of Macedon, c. 350 BC, concentrating on the two hundred year interval from 600-400 BC.",
+    "course_id" : "ANCH026",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "026",
+    "course_title" : "Ancient Greece",
+    "crosslistings" : [ {
+      "course_id" : "026",
+      "section_id" : "",
+      "subject" : "CLST"
+    }, {
+      "course_id" : "026",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "H",
+      "requirement_description" : "History &amp; Tradition Sector"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In this class we will examine the location, development and function of the sanctuaries of Attica. Specifically we will look at Eleusis, Oropos, Rhamnous, Brauron and Sounion. Themes for investigation include changes in cult practice, the role of initiation, relations between centre and periphery in Attic territory, the role of local sanctuaries in the local landscape and economies of Attica, and the importance of sanctuaries in shaping the experience of the sacred in classical Attica.",
+    "course_id" : "ANCH702",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "702",
+    "course_title" : "Greek Sanctuaries",
+    "crosslistings" : [ {
+      "course_id" : "702",
+      "section_id" : "",
+      "subject" : "AAMW"
+    }, {
+      "course_id" : "702",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "McInerney",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In this course, we will study the rise and development of Macedonia from a tiny kingdom on the northern fringes of the Greek world to one of the major powers of the region and beyond. Regarded by the Greeks as an at least semi-barbarian culture on the periphery, Macedonia became the dominant power in the Greek world during the fourth century BC and its king Alexander the Great set out to conquer the world. After his death, Macedonia was one of the Hellenistic kingdoms competing for power and influence in the Mediterranean until it finally came under Roman control. Topics that will be discussed include questions of ethnicity and identity, Macedonian kingship, culture and society (including the role of women) and the role of Macedonian traditions in the Hellenistic era in general. Special emphasis will be laid on the discussion of ancient texts and documents as well as archaeological evidence.",
+    "course_id" : "ANCH330",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "330",
+    "course_title" : "History of Macedonia",
+    "crosslistings" : [ {
+      "course_id" : "332",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH298",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "298",
+    "course_title" : "Study Abroad",
+    "crosslistings" : [ ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Livia, the first empress of Rome, is a critical figure for our understanding of Roman women at the transitional moment between Republic and Empire. As the most publicly celebrated woman of Augustus' household, Livia is an opportune figure through which to examine a variety of Augustan and early imperial texts and monuments. This course will survey Livia's different literary and material representations and attempt to come to terms with the various perspectives on the first empress presented by these texts and contexts. Livia provides a key figure through whom students will be exposed to various issues surrounding the portrayal of Roman women in the early empire. Through lecture and discussion, we will relate Livia to her contemporary world, and then examine the role of imperial women through the rest of the Julio-Claudian era and beyond. We will discover Livia's influence in creating the role of the empress, and analyze the differences between her representation as an ideal and that of later imperial women. Students will write brief response papers to primary texts and present on select secondary readings that add to our understanding of the portrayal of Livia and imperial women more generally.",
+    "course_id" : "ANCH212",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "212",
+    "course_title" : "Women in Imperial Rome",
+    "crosslistings" : [ {
+      "course_id" : "213",
+      "section_id" : "",
+      "subject" : "CLST"
+    }, {
+      "course_id" : "212",
+      "section_id" : "",
+      "subject" : "GSWS"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Gillespie",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH102",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "102",
+    "course_title" : "Art and Religion",
+    "crosslistings" : [ {
+      "course_id" : "121",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "004",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will explore Suetonius' 'Lives of the Caesars' together with the anonymous late antique text commonly referred to as the 'Scriptores Historiae Augustae'. It will examine both the genre of imperial biography as it is manifested in these two texts and the possibilities they offer for the reconstruction of political, cultural, and social histories of the periods in question.",
+    "course_id" : "ANCH535",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "535",
+    "course_title" : "Problems in Ancient History",
+    "crosslistings" : [ {
+      "course_id" : "535",
+      "section_id" : "",
+      "subject" : "HIST"
+    }, {
+      "course_id" : "600",
+      "section_id" : "",
+      "subject" : "LATN"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Grey",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH119",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "119",
+    "course_title" : "Augustan Cultrl Revol",
+    "crosslistings" : [ {
+      "course_id" : "118",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH542",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "542",
+    "course_title" : "Empires Anc Near East",
+    "crosslistings" : [ {
+      "course_id" : "543",
+      "section_id" : "",
+      "subject" : "AAMW"
+    }, {
+      "course_id" : "242",
+      "section_id" : "",
+      "subject" : "NELC"
+    }, {
+      "course_id" : "542",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH612",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "612",
+    "course_title" : "Roman Law",
+    "crosslistings" : [ ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "M",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH318",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "318",
+    "course_title" : "Augustan Cultural Rev.",
+    "crosslistings" : [ {
+      "course_id" : "301",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "318",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH216",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "216",
+    "course_title" : "Jews/Christians/Pagans",
+    "crosslistings" : [ {
+      "course_id" : "216",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "216",
+      "section_id" : "",
+      "subject" : "NELC"
+    }, {
+      "course_id" : "216",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Less than two decades passed between the assassination of Julius Caesar in 44 BCE and the establishment of the Augustan principate, but these years were marked by frequent, swift, and often violent change at Rome. In the year 44, the Roman stage was populated by a large cast of characters, including the assassins Brutus and Cassius, the orator Cicero, and the career soldier Mark Antony. One by one they fell, until just one man was left standing : the young Octavian, adopted son of Julius Caesar and the future future emperor of Rome. Using historical, literary, and material evidence we will trace Octavian's rise to sole power and the transformation of Rome from republic to empire.",
+    "course_id" : "ANCH211",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "211",
+    "course_title" : "The Roman Revolution",
+    "crosslistings" : [ ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Gerrish",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH117",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "117",
+    "course_title" : "Periclean Athens",
+    "crosslistings" : [ {
+      "course_id" : "117",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Most of the primary sources available to us reflect the ideology, concepts and realities of Hellenistic and Roman imperial rule through the lenses of ruling power and its elites. There are, however, a number of sources that provide insights into how provincials and subjects saw and depicted themselves, the imperial power and their interaction. Historiographical and auto-ethnographic works, orations, philosophical and religious texts reflect different attitudes towards the ruling imperial powers ranging from open hostility and frustrated acceptance to praise and even identification. In this seminar we will focus on how ethnic, religious, cultural and/or regional identities were developed, maintained, adapted and interpreted within and in reaction to the imperial frameworks of the Hellenistic and Roman periods. Texts to be read and discussed include some \"canonical\" authors such as Polybius and Flavius Josephus as well as some lesser-known works and fragments from authors like Berossus, Manetho, Nicolaus of Damascus, and Poseidonius and will be complemented by documentary, epigraphic and archaeological evidence. Special emphasis will also be laid on modern scholarly approaches, including concepts of identity, hybridization and cultural change and the dynamics of empire in general.",
+    "course_id" : "ANCH604",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "604",
+    "course_title" : "Provincial Perspectives",
+    "crosslistings" : [ ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Wilker",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "X",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH550",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "550",
+    "course_title" : "Glbl Fld Archaeolg Italy",
+    "crosslistings" : [ {
+      "course_id" : "250",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "250",
+      "section_id" : "",
+      "subject" : "CLST"
+    }, {
+      "course_id" : "550",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH250",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "250",
+    "course_title" : "Glbl Fld Archaeolg Italy",
+    "crosslistings" : [ {
+      "course_id" : "550",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "250",
+      "section_id" : "",
+      "subject" : "CLST"
+    }, {
+      "course_id" : "550",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The history of the Jewish people in the Greek and Roman world has often been interpreted as a history dominated by conflict and hostility. Other approaches, however, have questioned these concepts as too simplistic. In this seminar, we will discuss the social, political, cultural and religious interaction between Jews and non-Jews from the Hellenistic period until the emergence of Rabbinic Judaism. Special emphasis will be laid upon questions of identity, antagonism and coexistence in the diaspora as well as in Judea. Based upon literary, documentary and archaeological sources, topics to be covered include Jewish self-definitions in a predominantly pagan world, different modes of integration, Jewish receptions of Greco-Roman culture, and perceptions of Jews by non-Jewish authors.",
+    "course_id" : "ANCH538",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "538",
+    "course_title" : "Jews in the Greek and Roman World",
+    "crosslistings" : [ {
+      "course_id" : "538",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Wilker",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "TBA",
+    "course_id" : "ANCH353",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "353",
+    "course_title" : "Rhetoric and Community",
+    "crosslistings" : [ {
+      "course_id" : "353",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "McInerney",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Ancient battles have offered great source material for Hollywood movies, such as Gladiator and Troy, the result being the aggrandizement and glamorization of warfare in antiquity. But what were ancient battles really like? What weapons and tactics were used? What innovations and developments in ancient warfare changed the playing field? And who were the leading characters on the battlefield that lead their armies to victory? Through a survey of some of the great battles of the Ancient Near East (Egypt, Israel, Assyria) and the Classical World (Greece, Macedonia, Rome), this course will lead you to explore issues such as the historical context of ancient warfare, how different aspects of warfare evolve over time, and the role and effects of war in ancient society, on soldier and citizen alike. Each week we will tackle some of the most notable battles fought in the Mediterranean region from the Bronze Age to the first century CE, including the campaign of the Egyptian pharaoh Thutmosis III against Megiddo, Homer's Trojan War, the Athenian/Persian naval battle at Salamis, and the Roman army's siege of Masada. We will discuss ancient attitudes toward war and violence, the technical aspects of armor, weaponry, and tactics, and the strategy of individual battles and wars. Additionally, we will debate the validity of the ancient literary sources and the archaeological evidence that provide information about war and warfare in antiquity, and we will review the problems associated with the use of this evidence. Additional topics of inquiry include the role of animals in war, depictions of war in ancient art, and the portrayal of warfare in Hollywood.",
+    "course_id" : "ANCH219",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "219",
+    "course_title" : "Great Battles of the Ancient World",
+    "crosslistings" : [ {
+      "course_id" : "219",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "For centuries the cultures of ancient Greece and Rome have been considered the \"foundation\" of Western society, and the influence of Classical Antiquities continues to be felt in central areas of modern life, from art and literature to politics and science. Yet in recent years the Greco-Roman Classics have become the center of a vibrant debate about our very definition of \"western civilization\" and the values and attitudes that this concept traditionally entails. This course will introduce students to the amazingly rich and dynamic cultures of Classical Antiquity, allowing them to experience many of the most exciting aspects of ancient culture, and to evaluate for themselves the legacy of the classical past in the West. The course will involve, among other things, the study of various aspects of Greco-Roman history, literature, art, philosophy, and politics.",
+    "course_id" : "ANCH115",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "115",
+    "course_title" : "Ancient Rome and America",
+    "crosslistings" : [ {
+      "course_id" : "115",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Grey",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH534",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "534",
+    "course_title" : "Problems in Roman Hist",
+    "crosslistings" : [ ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will survey the religions of the ancient Middle East, situating each in its historical and socio-cultural context and focusing on the key issues of concern to humanity: creation, birth, the place of humans in the order of the universe, death, and destruction. The course will cover not only the better-known cultures from the area, such as Egypt and Mesopotamia, but also some lesser-known traditions, such as those of the Hurrians, or of the ancient Mediterranean town of Ugarit. Religion will not be viewed merely as a separate, sealed-off element of the ancient societies, but rather as an element in various cultural contexts, for example, the relationship between religion and magic and the role of religion in politics will be recurring topics in the survey. Background readings for the lectures will be drawn not only from the modern scholarly literature, but also from the words of the ancients themselves in the form of their myths, rituals, and liturgies.",
+    "course_id" : "ANCH046",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "046",
+    "course_title" : "Myths and Religions of the Ancient World",
+    "crosslistings" : [ {
+      "course_id" : "046",
+      "section_id" : "",
+      "subject" : "NELC"
+    }, {
+      "course_id" : "014",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Frame",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "H",
+      "requirement_description" : "History &amp; Tradition Sector"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH519",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "519",
+    "course_title" : "Classical Athens",
+    "crosslistings" : [ {
+      "course_id" : "519",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "O",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH603",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "603",
+    "course_title" : "Hllnic/Imprl Grk Histiog",
+    "crosslistings" : [ {
+      "course_id" : "601",
+      "section_id" : "",
+      "subject" : "GREK"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "M",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH334",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "334",
+    "course_title" : "Jerusalem in Antiquity",
+    "crosslistings" : [ {
+      "course_id" : "334",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ANCH357",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "357",
+    "course_title" : "Religion and the Polis",
+    "crosslistings" : [ {
+      "course_id" : "357",
+      "section_id" : "",
+      "subject" : "CLST"
+    }, {
+      "course_id" : "257",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "McInerney",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The neat, comforting narratives that we construct of the histories of ancient Greece and Rome cover up a collection of controversies and debates that continue to rage in contemporary scholarship. Can we use the Homeric epics as sources of early Greek history? Who was responsible for the Peloponnesian War? How can we best explain Rome's acquisition of empire? How new was the political revolution of Augustus? What were the main reasons for the rise of Christianity? In this course, we explore these and other controversies, focusing on both modern scholarship and the ancient sources. All texts will be discussed in translation. No prior knowledge of Ancient History is required, although it would be useful to have taken ANCH 026 and/or ANCH 027.",
+    "course_id" : "ANCH301",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "301",
+    "course_title" : "Problems in Greek and Roman History",
+    "crosslistings" : [ {
+      "course_id" : "300",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "ANCH",
+    "department_of_record" : "ANCH",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Grey",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

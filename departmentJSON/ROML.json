@@ -1,0 +1,734 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:19 +0000
+Content-Length: 24475
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:48:19 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ROML216",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "216",
+    "course_title" : "Study Abroad",
+    "crosslistings" : [ ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will introduce participants to the field of technology and foreign language teaching and learning. It will review the pertinent theoretical underpinnings for the pedagogically-sound use of technology in the teaching of languages starting with a brief overview of the historical development of the field. Students will learn to evaluate existing programs and applications with a critical eye through a systematic examination of projects which have been implemented both here at Penn and elsewhere. The course will also have weekly hands-on workshops to introduce participants to the design and developmeent of multimedia materials, including image, video and sound editing. The focus will be primarily on Web-based design and delivery. All participants will select a project to work on during the course of the semester; in addition they develop an online teaching portfolio.",
+    "course_id" : "ROML691",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "691",
+    "course_title" : "Technology and Foreign Languages",
+    "crosslistings" : [ {
+      "course_id" : "673",
+      "section_id" : "",
+      "subject" : "EDUC"
+    }, {
+      "course_id" : "517",
+      "section_id" : "",
+      "subject" : "GRMN"
+    } ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "Romance Languages 690 or its equivalent",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "03",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "DIS",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ROML995",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "995",
+    "course_title" : "Dissertation",
+    "crosslistings" : [ ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ROML121",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "121",
+    "course_title" : "Roml Lang-Intensive I",
+    "crosslistings" : [ ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ROML290",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "290",
+    "course_title" : "Lat American Literature",
+    "crosslistings" : [ {
+      "course_id" : "284",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "270",
+      "section_id" : "",
+      "subject" : "ENGL"
+    }, {
+      "course_id" : "291",
+      "section_id" : "",
+      "subject" : "LALS"
+    } ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "02",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "EEUR 113 or Placement",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Continuation of ROML130",
+    "course_id" : "ROML140",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "Offered though the Penn Language Center",
+    "course_number" : "140",
+    "course_title" : "Intermediate Romanian II",
+    "crosslistings" : [ ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Cotrau",
+    "prerequisites" : "ROML130",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "01",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Conversation, reading skills, grammer review.",
+    "course_id" : "ROML130",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "Offered though the Penn Language Center",
+    "course_number" : "130",
+    "course_title" : "Intermediate Romanian I",
+    "crosslistings" : [ ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "ROML120 or Placement",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "01",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Taking as its point of departure definitions of escapism and the fantasic, thiscourse explores these two enduring literary environments in a variety of GoldenAge writers such as Garcilaso, Quevedo, Gongora, Maria de Zayas, Marianna de Carvajal and Sor Juana.",
+    "course_id" : "ROML357",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "357",
+    "course_title" : "Escape to Fantasy in Golden Age Spain",
+    "crosslistings" : [ ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Dunning",
+    "prerequisites" : "",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "02",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ROML120",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "Offered through the Penn Language Center",
+    "course_number" : "120",
+    "course_title" : "Elementary Quechua II",
+    "crosslistings" : [ {
+      "course_id" : "232",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Americo Mendoza-Mori",
+    "prerequisites" : "ROML 110 or permission of instructor",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "01",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ROML298",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "298",
+    "course_title" : "Study Abroad",
+    "crosslistings" : [ ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "N",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Quechua, the language of the Inca Empire and still spoken by approximately 6 million people throughout the Andes, is the most popular indigenous language of South America. The program focuses on the development of written and oral communicative abilities in Quechua through an interactive activity-based approach. Course includes an introduction to Quechua and Andean culture. Students will participate in pair, small-group and whole-class activities. Assessment is based on both students ability to use the language in written and oral tasks and understanding the language and culture. This beginning level Quechua course is designed for students who have little or no previous knowledge of the language. Lectures will be delivered in English and Quechua.",
+    "course_id" : "ROML110",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "Offered through the Penn Language Center",
+    "course_number" : "110",
+    "course_title" : "Elementary Quechua I",
+    "crosslistings" : [ ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "01",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is an introduction to HAitian Creole language. Students will explore the complex narrative of Haiti and its people. The class draws on a variety of methods and media to develop students' abilities in oral and written communication. Students with research, professional, or personal interests in Haiti or Haitian Diaspora are encouraged to enroll.",
+    "course_id" : "ROML112",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "offered as a hybrid course with an online component",
+    "course_number" : "112",
+    "course_title" : "Beginning Haitian Creole",
+    "crosslistings" : [ ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "none",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "02",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary.",
+    "course_id" : "ROML390",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "390",
+    "course_title" : "Introduction to Literary Theory",
+    "crosslistings" : [ {
+      "course_id" : "360",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "394",
+      "section_id" : "",
+      "subject" : "ENGL"
+    } ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "02",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ROML396",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "396",
+    "course_title" : "Latin American Literatre",
+    "crosslistings" : [ {
+      "course_id" : "396",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "270",
+      "section_id" : "",
+      "subject" : "ENGL"
+    }, {
+      "course_id" : "393",
+      "section_id" : "",
+      "subject" : "LALS"
+    } ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    }, {
+      "activity_code" : "LEC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ROML250",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "250",
+    "course_title" : "Golden Age Spain",
+    "crosslistings" : [ {
+      "course_id" : "179",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "H",
+      "requirement_description" : "History &amp; Tradition Sector"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ROML296",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "296",
+    "course_title" : "Latin American Film",
+    "crosslistings" : [ {
+      "course_id" : "294",
+      "section_id" : "",
+      "subject" : "CINE"
+    }, {
+      "course_id" : "294",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "293",
+      "section_id" : "",
+      "subject" : "ENGL"
+    }, {
+      "course_id" : "296",
+      "section_id" : "",
+      "subject" : "LALS"
+    } ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ROML218",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "218",
+    "course_title" : "SA: Miscellaneous - Lit",
+    "crosslistings" : [ ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "02",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : ".5"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ROML113",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "113",
+    "course_title" : "Haitian Creole",
+    "crosslistings" : [ ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "02",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ROML999",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "999",
+    "course_title" : "Independent Stdy",
+    "crosslistings" : [ ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "ROML512",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "512",
+    "course_title" : "History of Literary Theory",
+    "crosslistings" : [ {
+      "course_id" : "511",
+      "section_id" : "",
+      "subject" : "CLST"
+    }, {
+      "course_id" : "501",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "571",
+      "section_id" : "",
+      "subject" : "ENGL"
+    }, {
+      "course_id" : "534",
+      "section_id" : "",
+      "subject" : "GRMN"
+    }, {
+      "course_id" : "500",
+      "section_id" : "",
+      "subject" : "SLAV"
+    } ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "03",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This is a year long course required of all first-year Teaching Assistants in French and Italian. It is designed to provide new instructors with the necessary practical support to carry out their teaching responsibilities effectively. It will also introduce students to various approaches to foreign language teaching as well as to current issues in second language acquisition.",
+    "course_id" : "ROML690",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "690",
+    "course_title" : "Applied Linguistics and Language Teaching",
+    "crosslistings" : [ {
+      "course_id" : "601",
+      "section_id" : "",
+      "subject" : "FREN"
+    }, {
+      "course_id" : "690",
+      "section_id" : "",
+      "subject" : "FREN"
+    }, {
+      "course_id" : "690",
+      "section_id" : "",
+      "subject" : "ITAL"
+    }, {
+      "course_id" : "609",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "ROML",
+    "department_of_record" : "ROML",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "03",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

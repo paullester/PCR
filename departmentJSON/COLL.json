@@ -1,0 +1,462 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:06 +0000
+Content-Length: 20589
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3525579948.39711.0000; expires=Thu, 04-Dec-2014 09:48:06 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Literatures of the World\" is an \"umbrella course\" covering a family of related courses numbered COLL 221 to 229 each dealing with a particular non-English literature in its original language. These courses, several of which are taught each semester, encourage the understanding of literature within the social contexts in which it was created and examine the works' continuing significance in the modern literary arena. They also introduce students to works of creativity and cultivate their powers of textual perception by providing them with tools for literary analysis, interpretation and criticism. Although the content of the various courses is drawn from specific literary traditions, the emphasis in each course is on developing and strengthening students' general capacity for understanding meaning. The interpretive strategies for literary analysis that the students acquire are universal and applicable to any modern literary tradition. A crucial component of any of these classes is writing analytical essays, thereby training the students to formulate their thoughts in a coherent, well-articulated manner. The current roster includes courses from the following departments: Germanic Languages & Literatures (German); Near Eastern Languages & Literatures (Arabic, Hebrew); Romance Languages (French, Spanish); Slavic Languages (Russian); and, South Asia Studies (Hindi).",
+    "course_id" : "COLL220",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "220",
+    "course_title" : "Literatures of the World",
+    "crosslistings" : [ ],
+    "department" : "COLL",
+    "department_of_record" : "COLL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff from the various Language and Literature departments",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "A",
+      "requirement_description" : "Arts &amp; Letters Sector"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Introduction to the analysis of poetic texts, based on the works of Batyushkov, Lermontov, Tyutchev, Fet, Mandelshtam, and others. RUSS 402. Covers Pushkin's lyrics, narrative poems, and drama.",
+    "course_id" : "COLL224",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "This course is open to all advanced students of Russian (including students who speak Russian at home).",
+    "course_number" : "224",
+    "course_title" : "Russian Poetics - World Literature",
+    "crosslistings" : [ {
+      "course_id" : "485",
+      "section_id" : "",
+      "subject" : "RUSS"
+    } ],
+    "department" : "COLL",
+    "department_of_record" : "COLL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Steiner",
+    "prerequisites" : "RUSS312, RUSS361 or comparable language competence",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Develops students' basic skills of literary interpretation. Exposure to various reading techniques (e.g. close reading, reading for plot, etc.) and to literary terminology and its application. Readings will include selections from prose, drama and lyric poetry.",
+    "course_id" : "COLL225",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "All readings, lectures and discussions in German.",
+    "course_number" : "225",
+    "course_title" : "Introduction to German Literature - World Literatures Course",
+    "crosslistings" : [ {
+      "course_id" : "301",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "301",
+      "section_id" : "",
+      "subject" : "GRMN"
+    } ],
+    "department" : "COLL",
+    "department_of_record" : "COLL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "",
+    "prerequisites" : "GRMN 215 or the equivalent",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is for students who are interested in taking a literature course in Hebrew and are proficient in it. Grading is based primarily on students' literary understanding. There will be four 2-page written assignments over the course of the semester. We will discuss literary works that reflect Israelis' struggle with their national identity, from the patriotic 1948 generation for whom self and country overlapped to contemporary writers who ask what it means to be Israeli. While Yehuda Amichai's 1955 poem \"I want to die in my bed\" was a manifesto for individualism, the seemingly interminable Arab-Israeli conflict returned writers to the national, social, and political arenas starting in the 1980's. Readings include poems by Natan Alterman, Amir Gilboa, Meir Wieseltier and Roni Somek as well as ficition by Amos Oz, David Grossman, Sayed Kashua, Alona Kimhi and Etgar Keret. Texts, discussions and papers in Hebrew. The content of This course changes from year to year so",
+    "course_id" : "COLL227",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "This course can be crosslisted with HEBR 259 or HEBR 359.",
+    "course_number" : "227",
+    "course_title" : "Modern Hebrew Literature - World Literatures Course",
+    "crosslistings" : [ {
+      "course_id" : "359",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "259",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "359",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "559",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "556",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "COLL",
+    "department_of_record" : "COLL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "",
+    "prerequisites" : "For HEBR 259 - HEBR 059 or the equivalent is required.  For HEBR 359 - HEBR 059 or 259 or by permission of the Instructor.",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "SPAN 221. This course engages in an in-depth study of Spanish and Colonial Spanish American culture(s) from the Pre-Roman period through the 17th century to the topics included are: Islam amic Spain, the Spanish Reconquista, the Inquisition, the Origins of the Spanish Language, Sephardic Culture in Spain, the Pilgrmiage Route to St. James, Picaresque Literature, Golden Age Spanish drama, pre-Columbian civilizations, the Conquest of the New World, and the establishment of colonial rule in Spanish America. SPAN 222. This course engages in an in-depth study of certain key moments and texts in Spanish and Spanish American culture from the 18th century to the present. Among the topics dealt with are: the \"failed\" Enlightenment of Spain and Spanish America, the Napoleonic invasion of Spain, Carribean antislavery narrative, the revolt against Spanish rule and the creation of new nations in Spanish America, indigenismo, The Spanish Civil War, dictatorships, the Cuban revolution.",
+    "course_id" : "COLL222",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "This course can be crosslisted with SPAN 221 or SPAN 222",
+    "course_number" : "222",
+    "course_title" : "Early Hispanic Literature & Culture OR Modern Hispanic Literature & Culture - World Literatures Course",
+    "crosslistings" : [ {
+      "course_id" : "223",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "225",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "221",
+      "section_id" : "",
+      "subject" : "SPAN"
+    }, {
+      "course_id" : "222",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "COLL",
+    "department_of_record" : "COLL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "",
+    "prerequisites" : "SPAN 219",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. See the Romance Languages Department's website at http://ccat.sas.upenn.edu/roml for a description of the current offerings. Previous topics have included: Topics In Brazilian Culture and Topics in Brazilian Cinema.",
+    "course_id" : "COLL223",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "223",
+    "course_title" : "Perspectives in Spanish American Literature I - World Literatures Course",
+    "crosslistings" : [ {
+      "course_id" : "240",
+      "section_id" : "",
+      "subject" : "LALS"
+    }, {
+      "course_id" : "221",
+      "section_id" : "",
+      "subject" : "PRTG"
+    }, {
+      "course_id" : "240",
+      "section_id" : "",
+      "subject" : "PRTG"
+    } ],
+    "department" : "COLL",
+    "department_of_record" : "COLL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "ARAB 432 - Arabic Belles-Lettres. Readings in Arabic texts taken from a variety of literary genres from all periods. The course aims to improve reading skills and vocabulary by introducing students to extensive passages taken from Arabic literature. SAST 451 - Readings In Hindi. This course is designed to introduce students to the different literary traditions of premodern and modern Hindi. Readings include Braj and Avadhi poetry, modern Hindi poetry, short and long narrative fiction, and drama. Selections will be drawn from early authors as well as from the developing literary traditions of modern standard Hindi. Contemporary Hindi writers are included, as well as some Hindi critical and commentatorial prose. Depending on student and faculty interest, topics may change from year to year; students may repeat the course for credit with the permission of the instructor.",
+    "course_id" : "COLL226",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "This course can be crosslisted with ARAB 432 or SAST 451",
+    "course_number" : "226",
+    "course_title" : "World Literatures Course",
+    "crosslistings" : [ {
+      "course_id" : "432",
+      "section_id" : "",
+      "subject" : "ARAB"
+    }, {
+      "course_id" : "432",
+      "section_id" : "",
+      "subject" : "COML"
+    } ],
+    "department" : "COLL",
+    "department_of_record" : "COLL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "",
+    "prerequisites" : "For ARAB 432.  Proficiency in ARAB 035 required.  For SAST 451.  Two years of Hindi instruction required.",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "COLL228",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "228",
+    "course_title" : "World Literatures",
+    "crosslistings" : [ {
+      "course_id" : "203",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "203",
+      "section_id" : "",
+      "subject" : "ITAL"
+    } ],
+    "department" : "COLL",
+    "department_of_record" : "COLL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "COLL099",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "099",
+    "course_title" : "Coll099",
+    "crosslistings" : [ ],
+    "department" : "COLL",
+    "department_of_record" : "COLL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "COLL098",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "098",
+    "course_title" : "Penn-Sponsored Internshp",
+    "crosslistings" : [ ],
+    "department" : "COLL",
+    "department_of_record" : "COLL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This basic course in literature provides an overview of French literature and acquaints students with major literary trends through the study of representative works from each period. Students are expected to take active part in class dicussion in French. FREN 221 has as its theme the presentation of Love and Passion in French literature. FREN 222 has as its theme The Individual and Society. FREN 222. This basic course in literature provides an overview of French liter acquaints students with major literary trends through the study of representative works from each period. Special emphasis is placed on reading of texts in order to familiarize students with major authors characteristics and with methods of interpretation. Students are expected to take an active part in the class discussion in French. FREN 222 has as its theme The Individual and Society.",
+    "course_id" : "COLL221",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "This course can be cross-listed with FREN 221 or FREN 222",
+    "course_number" : "221",
+    "course_title" : "Perspectives in French Literature - World Literatures Course",
+    "crosslistings" : [ {
+      "course_id" : "218",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "219",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "221",
+      "section_id" : "",
+      "subject" : "FREN"
+    }, {
+      "course_id" : "222",
+      "section_id" : "",
+      "subject" : "FREN"
+    } ],
+    "department" : "COLL",
+    "department_of_record" : "COLL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed to equip students with the major tenets of rhetorical studies and peer education necessary to work as a CWiC speaking advisor. The course is a practicum that aims to develop students' abilities as speakers, as critical listeners and as advisors able to help others develop those abilities. In addition to creating and presenting individual presentations, students present workshops and practice advising. During this ABCS course, students will practice their advising skills by coaching and mentoring students at a public school in West Philadelphia.",
+    "course_id" : "COLL135",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "Students need to apply and are interviewed by the instructor and Associate Director of CWiC",
+    "course_number" : "135",
+    "course_title" : "The Art of Speaking",
+    "crosslistings" : [ ],
+    "department" : "COLL",
+    "department_of_record" : "COLL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Weber",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

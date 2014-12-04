@@ -1,0 +1,77 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:28 +0000
+Content-Length: 3692
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:48:28 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : ".5"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This is the first part of the two-semester seminar designed to introduce students to the VIPER program and help them prepare for energy-related research. Research articles on various energy-related topics will be discussed, and students will be guided toward their research topic selection. Library research, presentation of data, basic research methods, research ethics, data analysis, advisor identification, and funding options will also be discussed. Sample energy topics discussed will include: Applications of nanostructured materials in solar cells; Solid oxide fuel cells; Global climate modeling: radiant heat transfer; Nanocrystal-based technologies for energy storage;Photo-bioreactor systems for mass production of micro-algae; Advanced rare earths separations chemistry; Modeling of oxides for solar energy applications; and Electronic transport in carbon nanomaterials.",
+    "course_id" : "VIPR120",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "120",
+    "course_title" : "Vagelos Integrated Program in Energy Research (VIPER) Seminar, Part I",
+    "crosslistings" : [ ],
+    "department" : "VIPR",
+    "department_of_record" : "VIPR",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "John M.  Vohs, Andrew M.  Rappe and Kristen L.  Hughes",
+    "prerequisites" : "Admission to VIPER program.",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : ".5"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This is the second part of the two-semester seminar designed to introduce students to the VIPER program and help them prepare for energy-related research. In this semester we will continue to discuss research articles on various energy-related topics, best practices for library research, presentation of data, basic research methods, research ethics, data analysis, and funding options. A large focus of the course will also be on presenting (in both written and oral form) the work from the students' summer research internships.",
+    "course_id" : "VIPR121",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "121",
+    "course_title" : "Vagelos Integrated Program in Energy Research (VIPER) Seminar, Part II",
+    "crosslistings" : [ ],
+    "department" : "VIPR",
+    "department_of_record" : "VIPR",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Andrew M.  Rappe, John M.  Vohs, and Kristen L.  Hughes",
+    "prerequisites" : "VIPR120",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

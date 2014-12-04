@@ -1,0 +1,981 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:00 +0000
+Content-Length: 37623
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3525579948.39711.0000; expires=Thu, 04-Dec-2014 09:48:00 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed to improve students writing and speaking levels through role plays, case studies, essays, interviews, reading articles from newspapers, analyzing books of contemporary Turkish authors such as Orhan Pamuk, Elif Safak, Ayse Kulin, Yasar Kemal and introduce students to Turkish poets such as Nazim Hikmet, Orhan Veli, Ozdemir Asaf, Murathan Mungan, Can Yucel. During each lesson, students will be asked to interview each other on given news articles about different subjects including economy, politics, sports, art, music and daily news. These conversations will take place on student's level of Turkish knowledge.",
+    "course_id" : "TURK026",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "026",
+    "course_title" : "Advanced Modern Turkish II",
+    "crosslistings" : [ {
+      "course_id" : "626",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hatiboglu",
+    "prerequisites" : "TURK 025, Advanced Modern Turkish I, or equivalent",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This is a course for beginners who have no previous knowledge of Turkish. Using a communicative approach, Elementary Turkish introduces basic vocabulary and grammar rules and focuses on building language competencies in listening, reading, speaking and writing. By the end of the course, students will be able to participate in simple conversations, to know daily expressions, and will understand simple dialogues in day-to-day context and will be able to count and tell time. Will be able to speak about events that happened in the past and express plans for the future. Students will also develop writing strategies that will allow them to write simple letters and fill in commonly-used forms.",
+    "course_id" : "TURK021",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "021",
+    "course_title" : "Elementary Turkish I",
+    "crosslistings" : [ {
+      "course_id" : "621",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hatiboglu",
+    "prerequisites" : "",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is a continuation of TURK 021 and is designed to strengthen and extend students' listening, speaking, reading and writing competence and to deepen an understanding of Turkish people in Turkey. By the end of this course, students will be able to handle a variety of day to day needs in Turkish-speaking settings and engage in simple conversations. Students can expect to be able to order food and drinks, purchase things, and to be able to be familiar with current social topics. Students will be able to talk about all tenses, present, future, past, past continuous, make comparisons, describe people and things in detail, make travel plans, make reservations in hotels and holiday resorts, write complaint letters. By the end of the course, students will be able to talk about their studies and their plans for the future. Also, students will develop reading strategies that should allow them to understand the general meaning of articles, and short literary texts. Students will learn practical life in Turkey and will explore Turkish culture on the internet.",
+    "course_id" : "TURK022",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "022",
+    "course_title" : "Elementary Turkish II",
+    "crosslistings" : [ {
+      "course_id" : "622",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hatiboglu",
+    "prerequisites" : "TURK 021, Elementary Turkish I, or equivalent.",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The study of modern Turkish at the advanced level; emphasis on grammar and reading, focusing on business Turkish. Interviews with professionals from different business groups will take place, such as, education, medicine, business, law, and political science. This course is TURK 025 for graduate students.",
+    "course_id" : "TURK625",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "625",
+    "course_title" : "Advanced Modern Turkish I",
+    "crosslistings" : [ {
+      "course_id" : "025",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hatiboglu",
+    "prerequisites" : "TURK 024, Intermediate Turkish II or equivalent",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is TURK 026, Advanced Modern Turkish II for graduate students.",
+    "course_id" : "TURK626",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "626",
+    "course_title" : "Advanced Modern Turkish II",
+    "crosslistings" : [ {
+      "course_id" : "026",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hatiboglu",
+    "prerequisites" : "TURK 625, Advanced Modern Turkish I, or equivalent.",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Expands students writing and speaking competence in Turkish, increases vocabulary, and helps students' practice effective reading and listening strategies. Our in-class discussions are based on role-plays and weekly readings and news reports from TV and newspapers. We create discussion groups and let them communicate through, threaded discussions, chat rooms and skype. The review of grammar will not be the primary focus of the course. Students will, expand and deepen their knowledge of grammar through specific grammar exercises. They will have opportunity to practice and read about the cultural and historical issues and get prepared for an advanced level Turkish.",
+    "course_id" : "TURK024",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "024",
+    "course_title" : "Intermediate Turkish II",
+    "crosslistings" : [ {
+      "course_id" : "624",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hatiboglu",
+    "prerequisites" : "",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is TURK 024 for graduate students.",
+    "course_id" : "TURK624",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "624",
+    "course_title" : "Intermediate Turkish II",
+    "crosslistings" : [ {
+      "course_id" : "024",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hatiboglu",
+    "prerequisites" : "TURK 623, Intermediate Turkish I or equivalent.",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is TURK 022 for graduate students.",
+    "course_id" : "TURK622",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "622",
+    "course_title" : "Elementary Turkish II",
+    "crosslistings" : [ {
+      "course_id" : "022",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hatiboglu",
+    "prerequisites" : "TURK 621, Elementary Turkish II or equivalent.",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A continuation of elementary Turkish, with emphasis on grammar and reading. This course is for students who have previous knowledge of Turkish or students who have completed Elementary Turkish I and II. This course is designed to improve students' writing and speaking competence, to increase vocabulary, to deepen grammar usage and to help develop effective reading and listening strategies in Turkish, and in order give them cultural knowledge, students are exposed to authentic materials.",
+    "course_id" : "TURK023",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "023",
+    "course_title" : "Intermediate Turkish I",
+    "crosslistings" : [ {
+      "course_id" : "623",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hatiboglu",
+    "prerequisites" : "TURK 022 or equivalent.",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A continuation of TURK 622, with emphasis on grammar and reading. This course is TURK 022 for graduate students.",
+    "course_id" : "TURK623",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "623",
+    "course_title" : "Intermediate Turkish I",
+    "crosslistings" : [ {
+      "course_id" : "023",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hatiboglu",
+    "prerequisites" : "TURK 622, Elementary Turkish II, or equivalent.",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is TURK-021 for graduate students. Introduction to the spoken and written language of contemporary Turkey.",
+    "course_id" : "TURK621",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "621",
+    "course_title" : "Elementary Turkish I",
+    "crosslistings" : [ {
+      "course_id" : "021",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hatiboglu",
+    "prerequisites" : "",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "TURK627",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "627",
+    "course_title" : "Adv Spoken Turk/Cinema",
+    "crosslistings" : [ {
+      "course_id" : "027",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "TURK628",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "628",
+    "course_title" : "Adv Spkn Turk/Cinema II",
+    "crosslistings" : [ {
+      "course_id" : "028",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "TURK028",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "028",
+    "course_title" : "Advanced Spoken Turkish and Cinema II",
+    "crosslistings" : [ {
+      "course_id" : "628",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "TURK298",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "298",
+    "course_title" : "Study Abroad",
+    "crosslistings" : [ ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "TURK399",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "399",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "TURK297",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "297",
+    "course_title" : "Study Abroad",
+    "crosslistings" : [ ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is an introduction to Ottoman Turkish with basic characteristics. Ottoman Turkish through readings in printed selections will be exercised with different techniques. Students will learn Persian and Arabic effects on Ottoman Turkish. They will be able to read simple texts at the end of this course. General information on Ottoman Turkish will be given to students during this course. This course will be offered one semester during the school year. Not open to auditors",
+    "course_id" : "TURK229",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "229",
+    "course_title" : "Ottoman Turkish I",
+    "crosslistings" : [ {
+      "course_id" : "629",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hatiboglu",
+    "prerequisites" : "One semester Arabic or Persian equivalent.",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is an introduction to Ottoman Turkish with basic characteristics. Ottoman Turkish through readings in printed selections will be exercised with different techniques. Students will learn Persian and Arabic effects on Ottoman Turkish. They will be able to read simple texts at the end of this course. General information on Ottoman Turkish will be given to students during this course. This course will be offered one semester during the school year.",
+    "course_id" : "TURK629",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "629",
+    "course_title" : "Ottoman Turkish I",
+    "crosslistings" : [ {
+      "course_id" : "229",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hatiboglu",
+    "prerequisites" : "One semester Arabic or Persian equivalent.",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The course would start with a brief introduction to Turkic languages and the place of Turkish in relation to them. This would be followed by information about the Turkic language family's relationship to that of other languages in the context of historical linguistics; the teaching of some of this discipline's principles would be involved. After a brief presentation of the development of Turkish, involving the influence of other languages on it, we would focus on the phonology of Turkish, including phonemes, allophones and vowel harmony. A large part of the course would be devoted to morphology, comprising of suffixes and their function. Finally, syntax, including idiom formation and use would be explored.",
+    "course_id" : "TURK228",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "228",
+    "course_title" : "Structure of Turkish",
+    "crosslistings" : [ ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "DAisy Braverman",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "TURK329",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "329",
+    "course_title" : "Adv Rdgs Ottoman Texts",
+    "crosslistings" : [ {
+      "course_id" : "729",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "TURK729",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "729",
+    "course_title" : "Adv Rdgs Ottoman Texts",
+    "crosslistings" : [ {
+      "course_id" : "329",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is TURK 122 for graduate students.",
+    "course_id" : "TURK522",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "522",
+    "course_title" : "Advanced Turkish Culture & Media II",
+    "crosslistings" : [ {
+      "course_id" : "122",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hatiboglu",
+    "prerequisites" : "",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is for students who are from all different levels of Turkish knowledge. They are expected to write and talk about Turkish movies, culture, politics according to their own level and pace. They will talk to Turkish visitors and interview them. Turkish movies will be the part of the course and once a month, students will watch a Turkish movie and analyze it. Discussions will take place and students will write essays about the movie. This course is designed with a technology-rich, project based approach. The materials will go beyond instruction in grammar and vocabulary to support the acquisition of socio-cultural pragmatics, and intercultural learning.",
+    "course_id" : "TURK121",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "121",
+    "course_title" : "Advanced Turkish Culture & Media I",
+    "crosslistings" : [ {
+      "course_id" : "521",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hatiboglu",
+    "prerequisites" : "",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is TURK 121 for graduate students.",
+    "course_id" : "TURK521",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "521",
+    "course_title" : "Advanced Turkish Culture & Media I",
+    "crosslistings" : [ {
+      "course_id" : "121",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hatiboglu",
+    "prerequisites" : "",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Similar to TURK 212, Advanced Turkish Culture & Media I, in this course students also will have exposure to social Turkish clubs and to establish their own. They will arrange their Turkish tea parties and learn about Turkish cuisine. Expose Turkish daily news and interview Turkish business people in Turkish. Team spirit or ethics with those of the United States. Students will present and prepare a drama. Mainly students will create and decide their activities and discussions and the instructor will just monitor them most of time. They will continue watching Turkish movies and expose to Turkish culture through these films. After each movie discussions and essay writings will be expected.",
+    "course_id" : "TURK122",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "122",
+    "course_title" : "Advanced Turkish Culture & Media II",
+    "crosslistings" : [ {
+      "course_id" : "522",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hatiboglu",
+    "prerequisites" : "",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The study of modern Turkish at the advanced level; emphasis on grammar and reading, focusing on Business Turkish. Interviews with professionals from different business groups will take place, such as, education, medicine, business law and political science.",
+    "course_id" : "TURK025",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "025",
+    "course_title" : "Advanced Modern Turkish I",
+    "crosslistings" : [ {
+      "course_id" : "625",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hatiboglu",
+    "prerequisites" : "TURK 024, Intermediate Turkish II",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "TURK027",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "027",
+    "course_title" : "Advanced Spoken Turkish and Cinema I",
+    "crosslistings" : [ {
+      "course_id" : "627",
+      "section_id" : "",
+      "subject" : "TURK"
+    } ],
+    "department" : "TURK",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Hatiboglu",
+    "prerequisites" : "",
+    "register_subgroup_one" : "07",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

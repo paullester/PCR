@@ -1,0 +1,936 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:10 +0000
+Content-Length: 36349
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:48:10 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "2"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is the equivalent to JPAN 111 + JPAN 112, and completes the College language requirement. Textbooks: Yookoso II and Basic kanji book I (L.11 - L.22) Kanji: reproduction-approx.250/recognitio-approx 350",
+    "course_id" : "JPAN022",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "022",
+    "course_title" : "Intensive Beginning Japanese II",
+    "crosslistings" : [ ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "completion of JPAN 021 or the equivalent",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Intended for students who have no background. The major emphasis is on oral communication skill.",
+    "course_id" : "JPAN001",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "See LPS Course Guide.  **This course does not fulfill the language requirement in the College.",
+    "course_number" : "001",
+    "course_title" : "Introduction to Spoken Japanese I",
+    "crosslistings" : [ ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is a continuation of Japanese language at the upper intermediate level, and authentic reading/listening materials are introduced besides the textbooks. Textbooks: Tobira: Gateway to Advanced Japanese (L.1 - L.10, Basic Kanji Book II (L.37 - L.45), and selected newspaper and video materials. Kanji: reproduction-approx500/recognitio-approx.550",
+    "course_id" : "JPAN311",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "311",
+    "course_title" : "Intermediate Japanese III",
+    "crosslistings" : [ {
+      "course_id" : "611",
+      "section_id" : "",
+      "subject" : "JPAN"
+    } ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Takami",
+    "prerequisites" : "Completion of JPAN 212 or the equivalent.",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Minimum 600 - 700 kanji knowledge is expected. A continuation of Japanese language beyond the intermediate level.",
+    "course_id" : "JPAN411",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "411",
+    "course_title" : "Advanced Japanese I",
+    "crosslistings" : [ ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "Completion of JPAN 312 or the equivalent.",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "JPAN412",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "412",
+    "course_title" : "Advanced Japanese II",
+    "crosslistings" : [ ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "Completion of JPAN 411 or the equivalent.",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is for students with an advanced background in Japanese, who are interested in taking at least the Level 2 Japanese Proficiency Test. Solid grammar, an extensive vocabulary, and the knowledge of at least 800-900 Chinese characters is required. This course is not continuous with any existing 300-level Japanese course; therefore, your grade from a 300-level course does not qualify you to take this course. Eligibility will be determined through an interview and placement test taken in the first meeting. All students who take this course are required to take the Japanese Proficiency Test in December. Since the JLPT is administered in December every year, if you wish to fully prepare for the test, the instructor strongly recommends that you take JPAN 482 first in the spring of the same year. For example, if you plan to take the test in December, 2010, start taking 482 in the spring 2010 and take 481 in the fall 2010. Different from other courses, this full-year course begins in the spring and ends in the fall, because the test is given in December. However, participation in 482 is optional.",
+    "course_id" : "JPAN481",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "Offered through Penn Language Center.",
+    "course_number" : "481",
+    "course_title" : "Advanced Japanese for Proficiency I",
+    "crosslistings" : [ ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "Completion of the JPAN 312 or 382 or the equivalent.",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is for students with an advanced background in Japanese. This course aims to strengthen knowledge of Kanji (Chinese characters) in Japanese, so that the level of reading and writing will be well balanced with the level of listening and speaking, in particular in order to prepare for Japanese Language Proficiency Test Level 2 or above. It is appropriate for those who know approximately 500 Kanji and have oral proficiency levels higher than Intermediate-Mid according to ACTFL guidelines. Since the Japanese Language Proficiency Test is administered in December every year, if you wish to fully prepare for the test, the instructor recommends that you take JPAN 482 first in the spring of the same year. For example, if you plan to take the test in December, 2012, start taking 482 in the spring 2012 and take 481 in the fall 2012. Different from other courses, this full-year course begins in the spring and ends in the fall, because the test is given in December. However, participation in 482 is optional.",
+    "course_id" : "JPAN482",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "482",
+    "course_title" : "Advanced Japanese for Proficiency II",
+    "crosslistings" : [ ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Morris",
+    "prerequisites" : "Japanese proficiency test and permission of instructor.  Offered through the Penn Language Center.",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Readings in classical texts drawn from the Heian, Kamakura, Muromachi, and Edo periods. Introduction to the different styles of classical Japanese, and to classical Japanese as a whole.",
+    "course_id" : "JPAN491",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "491",
+    "course_title" : "Readings in Classical Japanese I",
+    "crosslistings" : [ {
+      "course_id" : "251",
+      "section_id" : "",
+      "subject" : "EALC"
+    }, {
+      "course_id" : "651",
+      "section_id" : "",
+      "subject" : "EALC"
+    } ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Chance, L.",
+    "prerequisites" : "Completion of JPAN 212 or equivalent.",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Readings in classical texts drawn from the Heian, Kamakura, Muromachi, and Edo periods. Introduction to the different styles of classical Japanese, and to classical Japanese as a whole.",
+    "course_id" : "JPAN492",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "492",
+    "course_title" : "Readings in Classical Japanese II",
+    "crosslistings" : [ {
+      "course_id" : "252",
+      "section_id" : "",
+      "subject" : "EALC"
+    }, {
+      "course_id" : "652",
+      "section_id" : "",
+      "subject" : "EALC"
+    } ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Chance",
+    "prerequisites" : "JPAN 212",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Intended for students who have no Japanese background. All four skills, speaking/listening/writing/reading, are equally emphasized. Hiragana/Katakana (Two sets of Japanese syllabic letters) and some Chinese characters (Kanji) are introduced. Textbooks: Yookoso I (Getting Started - Chapt. 3) and basic Kanji Book I (L.1-L.4) Kanji: reproduction-approx.50/recognitio-approx.80",
+    "course_id" : "JPAN011",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "011",
+    "course_title" : "Beginning Japanese I",
+    "crosslistings" : [ ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "None",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Although some reading/writing instruction is given, the major emphasis is on oral communication skill.",
+    "course_id" : "JPAN002",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "See LPS Course Guide.  **This course does not fulfill the language requirement in the College.",
+    "course_number" : "002",
+    "course_title" : "Introduction to Spoken Japanese II",
+    "crosslistings" : [ ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "Completion of JPAN 001 or the equivalent.",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Continuation of JPAN 012. Textbooks: Yookoso II (Do You Remember-Chapt. 3) and Basic Kanji Book I (L.11 - L.16) Kanji: reproduction-approx.170/recognitio-approx.250",
+    "course_id" : "JPAN111",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "111",
+    "course_title" : "Beginning Japanese III",
+    "crosslistings" : [ ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "Completion of JPAN 012 or the equivalent.",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "2"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Intended for students with little or no background in Japanese who wish to finish the language requirement in one year. (Equivalent to JPAN 011 + JPAN 012) Textbooks: Yookoso I and Basic Kanji Book I (L.1-L,10) Kanji: reproduction-approx.110/recognitio-approx.200",
+    "course_id" : "JPAN021",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "021",
+    "course_title" : "Intensive Beginning Japanese I",
+    "crosslistings" : [ ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A continuation of Japanese language beyond the language requirement. Textbooks: Integrated Approach to Intermediate Japanese (L.1 - L.8), and Basic Kanji Book II (L.23 - L.30) Kanji: reproduction-approx.310/recognitio-approx.400",
+    "course_id" : "JPAN211",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "211",
+    "course_title" : "Intermediate Japanese I",
+    "crosslistings" : [ ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "Completion of JPAN 112 or JPAN 022 or the equivalent.",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A continuation of Japanese language at the intermediate level Text books: Integrated Approach to the Intermediate Japanese (L.9 - L.15) and Basic Kanji Book I (L.31 - L.37) Kanji: reproduction-approx.370/recognitio-approx.450",
+    "course_id" : "JPAN212",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "212",
+    "course_title" : "Intermediate Japanese II",
+    "crosslistings" : [ ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "Completion of JPAN 211 or the equivalent.",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : ".5"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "JPAN599",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "599",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Readings in advanced literary and journalistic texts written in modern Japanese.",
+    "course_id" : "JPAN511",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "511",
+    "course_title" : "Readings in Advanced Japanese",
+    "crosslistings" : [ ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "Completion of JPAN 412 or the equivalent.",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "G",
+    "terms_offered_description" : "Two terms. student must enter first term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An intermediate level course of Japanese language focusing on workplace-related topics. Intended for students who will use Japanese in the professions. Textbook: Powering Up Your Japanese Through Case Studies: Intermediate and Advanced Japanese.",
+    "course_id" : "JPAN381",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "Offered through Penn Language Center.",
+    "course_number" : "381",
+    "course_title" : "Japanese for the Professions",
+    "crosslistings" : [ {
+      "course_id" : "681",
+      "section_id" : "",
+      "subject" : "JPAN"
+    } ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Takami",
+    "prerequisites" : "Completion of JPAN 212 or the equivalent.",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course completes the College language requirement. Textbooks: Yookoso II (Chapt. 4 - Chapt. 7) & Basic Kanji Book I (L.17-L.22) Kanji: reproduction-approx250/recognitio-approx.350",
+    "course_id" : "JPAN112",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "112",
+    "course_title" : "Beginning Japanese IV",
+    "crosslistings" : [ ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "Completion of JPAN 111 or the equivalent.",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Readings in advanced literary and journalistic texts written in modern Japanese.",
+    "course_id" : "JPAN512",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "512",
+    "course_title" : "Readings Advanced Japanese II",
+    "crosslistings" : [ ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "Completion of JPAN 511 or the equivalent.",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "D",
+    "terms_offered_description" : "Two terms. student may enter either term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "JPAN298",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "298",
+    "course_title" : "Study Abroad",
+    "crosslistings" : [ ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An intermediate level course of Japanese language focusing on workplace-related topics. Intended for students who will use Japanese in the professions. Textbook: Powering Up Your Japanese Through Case Studies: Intermediate and Advanced Japanese.",
+    "course_id" : "JPAN682",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "Offered through the Penn Language Center",
+    "course_number" : "682",
+    "course_title" : "Japanese for the Professions II",
+    "crosslistings" : [ {
+      "course_id" : "382",
+      "section_id" : "",
+      "subject" : "JPAN"
+    } ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Takami",
+    "prerequisites" : "Completion of JPAN 381 or the equivalent.",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "JPAN611",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "611",
+    "course_title" : "Intermediate Japanese III",
+    "crosslistings" : [ {
+      "course_id" : "311",
+      "section_id" : "",
+      "subject" : "JPAN"
+    } ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "JPAN612",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "612",
+    "course_title" : "Intermediate Japanese IV",
+    "crosslistings" : [ {
+      "course_id" : "312",
+      "section_id" : "",
+      "subject" : "JPAN"
+    } ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An intermediate level course of Japanese language focusing on workplace-related topics. Intended for students who will use Japanese in the professions. Textbook: Powering Up Your Japanese Through Case Studies: Intermediate and Advanced Japanese.",
+    "course_id" : "JPAN382",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "Offered through the Penn Language Center",
+    "course_number" : "382",
+    "course_title" : "Japanese for the Professions II",
+    "crosslistings" : [ {
+      "course_id" : "682",
+      "section_id" : "",
+      "subject" : "JPAN"
+    } ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Takami",
+    "prerequisites" : "Completion of JPAN 381 or the equivalent.",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Textbooks: Textbooks: Tobira: Gateway to Advanced Japanese (L.1l-L.15, and selected video materials. Kanji: reproduction-approx.550/recognitio-approx.700",
+    "course_id" : "JPAN312",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "312",
+    "course_title" : "Intermediate Japanese IV",
+    "crosslistings" : [ {
+      "course_id" : "612",
+      "section_id" : "",
+      "subject" : "JPAN"
+    } ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Takami",
+    "prerequisites" : "Completion of JPAN 311 or the equivalent.",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Textbooks: Yookoso I (Chapt. 4 - Chapt. 7) and Basic Kanji Book I (L.5 - L.10) Kanji: reproduction-approx. 110/recognitio-approx.200",
+    "course_id" : "JPAN012",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "012",
+    "course_title" : "Beginning Japanese II",
+    "crosslistings" : [ ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "Completion of JPAN 011 or the equivalent.",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An intermediate level course of Japanese language focusing on workplace-related topics. Intended for students who will use Japanese in the professions. Textbook: Powering Up Your Japanese Through Case Studies: Intermediate and Advanced Japanese.",
+    "course_id" : "JPAN681",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "Offered through Penn Language Center.",
+    "course_number" : "681",
+    "course_title" : "Japanese for the Professions",
+    "crosslistings" : [ {
+      "course_id" : "381",
+      "section_id" : "",
+      "subject" : "JPAN"
+    } ],
+    "department" : "JPAN",
+    "department_of_record" : "EALC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Takami",
+    "prerequisites" : "Completion of JPAN 212 or the equivalent.",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

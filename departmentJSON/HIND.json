@@ -1,0 +1,398 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:20 +0000
+Content-Length: 19746
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:48:20 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "HIND999",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "999",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "HIND",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "Q",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Beginning in the fall semester of 2014 Beginning Hindi and Beginning Urdu will be merged into a single course, Beginning Hindi-Urdu. At the beginning level spoken Urdu and Hindi are identical except for a few minor points. The broad outline of the course will thus remain the same as that of the current Beginning Hindi and Urdu courses. Students will learn to communicate with the language in a variety of everyday culturally authentic situations. Additional Urdu and Hindi culture will be integrated through authentic materials such as Bollywood film and music clips, and simple written texts. There will be equal emphasis on both scripts and cultures, and parallel written materials will be provided in both scripts. Students will be expected to develop first-year proficiency in one script of their choice, and will be encouraged to learn both. By merging the two courses students will be exposed to a broader range of linguistic and cultural styles, and students will thus have the opportunity to develop a deeper understanding that more closely resembles that of Hindi and Urdu native speakers. Please direct further inquiries to Josh Pien at jpien@sas.upenn.edu",
+    "course_id" : "HIND400",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "400",
+    "course_title" : "Beginning Hindi-Urdu Part I",
+    "crosslistings" : [ {
+      "course_id" : "401",
+      "section_id" : "",
+      "subject" : "NELC"
+    }, {
+      "course_id" : "401",
+      "section_id" : "",
+      "subject" : "URDU"
+    } ],
+    "department" : "HIND",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Pien",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "06",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In Intermediate Hindi the student continues to develop the four language skills, with an emphasis on real-life situations--through hearing and practicing conversation on everyday topics, reading a variety of authentic texts ranging from advertisements to short stories, watching segments of current films, and carrying out short research projects using Hindi sources. There is a strong emphasis on vocabulary development and on using contextually appropriate styles of spoken and written Hindi.",
+    "course_id" : "HIND420",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "420",
+    "course_title" : "Intermediate Hindi Part I",
+    "crosslistings" : [ ],
+    "department" : "HIND",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Pien",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "06",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "E",
+    "terms_offered_description" : "Two terms. student must enter first term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This is a fast paced course for learners who have some degree of listening and speaking skills in Hindi, but have minimal or no literacy skills. In the Fall semester students acquire basic reading and writing skills and advance their speaking and listening skills to be able to communicate on everyday personal and social topics in Hindi. Grammatical accuracy and sociocultural appropriateness are emphasized throughout the course. In the Spring semester, students continue to advance all the linguistic skills (speaking, listening, reading and writing) and functions (narration, description, supporting opinion) with a special focus on reading and writing. Students develop formal vocabulary through authentic oral and written input rich in content and culture.",
+    "course_id" : "HIND456",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "456",
+    "course_title" : "Accelerated Hindi",
+    "crosslistings" : [ ],
+    "department" : "HIND",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Pien",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "06",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Beginning in the fall semester of 2014 Beginning Hindi and Beginning Urdu will be merged into a single course, Beginning Hindi-Urdu. At the beginning level spoken Urdu and Hindi are identical except for a few minor points. The broad outline of the course will thus remain the same as that of the current Beginning Hindi and Urdu courses. Students will learn to communicate with the language in a variety of everyday culturally authentic situations. Additional Urdu and Hindi culture will be integrated through authentic materials such as Bollywood film and music clips, and simple written texts. There will be equal emphasis on both scripts and cultures, and parallel written materials will be provided in both scripts. Students will be expected to develop first-year proficiency in one script of their choice, and will be encouraged to learn both. By merging the two courses students will be exposed to a broader range of linguistic and cultural styles, and students will thus have the opportunity to develop a deeper understanding that more closely resembles that of Hindi and Urdu native speakers. Please direct further inquiries to Josh Pien at jpien@sas.upenn.edu",
+    "course_id" : "HIND401",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "401",
+    "course_title" : "Beginning Hindi-Urdu Part II",
+    "crosslistings" : [ {
+      "course_id" : "402",
+      "section_id" : "",
+      "subject" : "NELC"
+    }, {
+      "course_id" : "402",
+      "section_id" : "",
+      "subject" : "URDU"
+    } ],
+    "department" : "HIND",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Pien",
+    "prerequisites" : "Beginning Hindi or Urdu Part I or equivalant ascertained through placement test or permission of instructor.",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "06",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In Intermediate Hindi the student continues to develop the four language skills, with an emphasis on real-life situations--through hearing and practicing conversation on everyday topics, reading a variety of authentic texts ranging from advertisements to short stories, watching segments of current films, and carrying out short research projects using Hindi sources. There is a strong emphasis on vocabulary development and on using contextually appropriate styles of spoken and written Hindi.",
+    "course_id" : "HIND421",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "421",
+    "course_title" : "Intermediate Hindi Part II",
+    "crosslistings" : [ ],
+    "department" : "HIND",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Pien",
+    "prerequisites" : "Intermediate Hindi Part I or equivalant ascertained through placement test or permission of instructor.",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "06",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will advance students' bilingual and bicultural competence to enhance their knowledge and ability to work in the Indian business context. As part of the course the students will learn about the content and culture of Indian business as it operates nationally and internationally. They will get exposed to issues relevant to conducting business in or with India and learn about diverse cultural nuances (such as rural-urban perspectives) that impact marketing strategies by analyzing Hindi advertisements. Also, students will engage with the content and language through guest lectures, print and audio-video texts gathered from national and international media, such as VOA, BBC, and Business Standard. By the end of the semester, students are expected to enhance their knowledge about Indian business, gain linguistic competence (lexical, socio-cultural and pragmatic) to increase their confidence and comfort level in business domains, and access culturally embedded viewpoints about local and global business issues. In order to demonstrate the above, students will engage in projects that will require them to do research, conduct interviews and make presentations of their findings.",
+    "course_id" : "HIND460",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "460",
+    "course_title" : "Business Hindi",
+    "crosslistings" : [ ],
+    "department" : "HIND",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "06",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Beginning in the fall semester of 2014 Beginning Hindi and Beginning Urdu will be merged into a single course, Beginning Hindi-Urdu. At the beginning level spoken Urdu and Hindi are identical except for a few minor points. The broad outline of the course will thus remain the same as that of the current Beginning Hindi and Urdu courses. Students will learn to communicate with the language in a variety of everyday culturally authentic situations. Additional Urdu and Hindi culture will be integrated through authentic materials such as Bollywood film and music clips, and simple written texts. There will be equal emphasis on both scripts and cultures, and parallel written materials will be provided in both scripts. Students will be expected to develop first-year proficiency in one script of their choice, and will be encouraged to learn both. By merging the two courses students will be exposed to a broader range of linguistic and cultural styles, and students will thus have the opportunity to develop a deeper understanding that more closely resembles that of Hindi and Urdu native speakers. Please direct further inquiries to Josh Pien at jpien@sas.upenn.edu",
+    "course_id" : "HIND500",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "500",
+    "course_title" : "Beginning Hindi-Urdu, For Graduate Students ONLY",
+    "crosslistings" : [ ],
+    "department" : "HIND",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "Q",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In Intermediate Hindi the student continues to develop the four language skills, with an emphasis on real-life situations--through hearing and practicing conversation on everyday topics, reading a variety of authentic texts ranging from advertisements to short stories, watching segments of current films, and carrying out short research projects using Hindi sources. There is a strong emphasis on vocabulary development and on using contextually appropriate styles of spoken and written Hindi.",
+    "course_id" : "HIND520",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "520",
+    "course_title" : "Intermediate Hindi I for Graduate Students Only",
+    "crosslistings" : [ ],
+    "department" : "HIND",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "HIND530",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "530",
+    "course_title" : "Advanced Hindi for Graduate Students Only",
+    "crosslistings" : [ ],
+    "department" : "HIND",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "HIND451",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "451",
+    "course_title" : "Readings in Hindi",
+    "crosslistings" : [ ],
+    "department" : "HIND",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Advanced Hindi aims at systematically developing higher level linguistic functions and cultural nuances. Students learn to describe, narrate and support opinions in informal and formal styles. The objective of the course is to promote a meaningful interaction with written literature and with native speakers in a socially acceptable manner in a variety of simple and complicated situations. A variety of authentic materials are used, such as short stories, plays, newspapers, magazines, videos, television and radio broadcasts, and interviews. Every semester the course materials and foci vary depending on the needs and interests of students in the class.",
+    "course_id" : "HIND430",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "430",
+    "course_title" : "Advanced Hindi",
+    "crosslistings" : [ ],
+    "department" : "HIND",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Pien",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "06",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

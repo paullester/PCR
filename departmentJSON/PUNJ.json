@@ -1,0 +1,179 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:14 +0000
+Content-Length: 8411
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3525579948.39711.0000; expires=Thu, 04-Dec-2014 09:48:14 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course emphasizes speaking and reading skills in Punjabi. Upon completion of this course, students should be able to interact meaningfully and in a socially acceptable manner in a variety of simple situations involving everyday conversational topics. Further, students should be able to read and understand the main idea and most details of simple connected texts. This course will utilize authentic printed, audio, and video materials and will provide opportunities for natural communication both within and outside the classroom.",
+    "course_id" : "PUNJ404",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "404",
+    "course_title" : "Beginning Punjabi Part I",
+    "crosslistings" : [ ],
+    "department" : "PUNJ",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Gahunia",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "08",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed as a continuation of Beginning Punjabi, but can also be taken by anyone who can demonstrate a similar level in proficiency of the language. The course objectives are to expand the mastery of sentence patterns and augment vocabulary and its usage through intensive grammar review and comprehension exercises. A special emphasis will also be placed on greater cultural awareness. Upon completion of this course students should be able to interact socially with added confidence and greater expressiveness. Students should also experience a great improvement in their comprehension of the spoken and written language.",
+    "course_id" : "PUNJ424",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "424",
+    "course_title" : "Intermediate Punjabi Part I",
+    "crosslistings" : [ ],
+    "department" : "PUNJ",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Gahunia",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "08",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "E",
+    "terms_offered_description" : "Two terms. student must enter first term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course emphasizes speaking and reading skills in Punjabi. Upon completion of this course, students should be able to interact meaningfully and in a socially acceptable manner in a variety of simple situations involving everyday conversational topics. Further, students should be able to read and understand the main idea and most details of simple connected texts. This course will utilize authentic printed, audio, and video materials and will provide opportunities for natural communication both within and outside the classroom.",
+    "course_id" : "PUNJ405",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "405",
+    "course_title" : "Beginning Punjabi Part II",
+    "crosslistings" : [ ],
+    "department" : "PUNJ",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Gahunia",
+    "prerequisites" : "Beginning Punjabi Part II or equivalant ascertained through placement test or permission of instructor.",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "08",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The objective of the course is to improve proficiency in speaking, listening, reading and writing. This course addresses the individual needs of learners. The focus of the course will be to study the interpretation of written and oral materials on social, political and contemporary cultural topics from modern literature, television, internet, magazines, newspaper, music and film. Weekly written compositions and oral presentations will be assigned. Grading will be based on this.",
+    "course_id" : "PUNJ434",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "This course is offered through the Penn Language Center.",
+    "course_number" : "434",
+    "course_title" : "Advanced Punjabi",
+    "crosslistings" : [ ],
+    "department" : "PUNJ",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Gahunia",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "08",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed as a continuation of Beginning Punjabi, but can also be taken by anyone who can demonstrate a similar level in proficiency of the language. The course objectives are to expand the mastery of sentence patterns and augment vocabulary and its usage through intensive grammar review and comprehension exercises. A special emphasis will also be placed on greater cultural awareness. Upon completion of this course students should be able to interact socially with added confidence and greater expressiveness. Students should also experience a great improvement in their comprehension of the spoken and written language.",
+    "course_id" : "PUNJ425",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "425",
+    "course_title" : "Inermediate Punjabi Part II",
+    "crosslistings" : [ ],
+    "department" : "PUNJ",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Gahunia",
+    "prerequisites" : "Intermediate Punjabi Part I or equivalant ascertained through placement test orpermission of instructor.",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "08",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

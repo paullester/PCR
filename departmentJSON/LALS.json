@@ -1,0 +1,4593 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:27 +0000
+Content-Length: 186527
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3525579948.39711.0000; expires=Thu, 04-Dec-2014 09:48:27 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In this course we will study the construction of race and ethnicity in key novels written in English by Latina/o writers. We will examine how U.S.- American race relations shape Latino/a notions and contructions of race in these texts and how the authors' connections with Latin America and the Caribbean do the same. In order to understandxc these constructions from a hemispheric perspective, we will juxtapose our reading of Latina/o texts with works by Latin American writers that address similar issues but in a Latin American context. All coursework and discussions are in English.",
+    "course_id" : "LALS275",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "275",
+    "course_title" : "Race and Ethnicity in U.  S.  Latino/a Literature",
+    "crosslistings" : [ ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Carmen Lamas",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS298",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "298",
+    "course_title" : "Study Abroad",
+    "crosslistings" : [ ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A two-part course, combining the literary study and practice of autobiographical and imaginative uses of the self. The class will discuss the readings as models of the scope, techniques, and resources of the forms. The proposed authors and their works are James Boswell, LONDON JOURNAL and parallel sections of the LIFE OF JOHNSON; Edmund Gosse, FATHER AND SON; James Joyce, STEPHEN HERO and A PORTRAIT OF THE ARTIST AS A YOUNG MAN; Virginia Woolf, MOMENTS OF BEING and TO THE LIGHTHOUSE. There will be two short critical papers and another (4-5 pp.) on the readings. For the first six weeks the student will also keep a journal, the source of the third written assignment: a short story, a chapter of an autobiography or novel, one-act play, poem or any other literary form. The focus throughout the course will be on the same means by which \"fact\" is made art. The instructor will require physical evidence of the journal but neither read nor grade it.",
+    "course_id" : "LALS276",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "This course will be Cross-listed with ENGL 276 only when the subject matter is Latina/o Autobiography and Fiction.  The course description for ENGL 276 follows.",
+    "course_number" : "276",
+    "course_title" : "Autobiography and Fiction: Latino/a Autobiography",
+    "crosslistings" : [ {
+      "course_id" : "276",
+      "section_id" : "",
+      "subject" : "GSWS"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Reading and discussion course on selected topics in World History.",
+    "course_id" : "LALS630",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "630",
+    "course_title" : "Colloq:  World History",
+    "crosslistings" : [ ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS207",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "207",
+    "course_title" : "Oral History",
+    "crosslistings" : [ {
+      "course_id" : "207",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Farnsworth-Alvear",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Freshman Seminars under the title \"Topics in Literature\" will afford entering students who are considering literary study as their major the opportunity to explore a particular and limited subject with a professor whose current work lies in that area. Topics may range from the lyric poems of Shakespeare's period to the ethnic fiction of contemporary America. Small class-size will insure all students the opportunity to participate in lively discussions. Students may expect frequent and extensive writing assignments, but these seminars are not writing courses; rather, they are intensive introductions to the serious study of literature. One of them may be counted toward the English major and may be applied to a period, genre, or thematic requirement within the major.",
+    "course_id" : "LALS016",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "Freshman Seminar",
+    "course_number" : "016",
+    "course_title" : "Topics in Literature",
+    "crosslistings" : [ {
+      "course_id" : "016",
+      "section_id" : "",
+      "subject" : "ENGL"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will provide students with a solid knowledge of the history of early modern Spain (1450-1700). Through readings of primary and secondary texts that offer a complex vision of the cultural, religious, intellectual, and economic contexts and processes, students will be able to appreciate the intricacies of Spain's historical evolution. The course focuses on the rise and decline of the Spanish monarchy: the conditions that enabled Spain to become the most powerful monarchy in early modern times, and the conditions that led to its decline. This course also touches upon other important aspects critical to understanding early modern Spain: relationships among Christians, Muslims, and Jews in the Iberian Peninsula; the conquest and colonization of the New World; and early modern debates about Spain's rights to occupy America and the so-called \"destruction of the Indies.\"",
+    "course_id" : "LALS179",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "179",
+    "course_title" : "The Rise and Fall of the Spanish Empire 1450-1700",
+    "crosslistings" : [ {
+      "course_id" : "179",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Feros",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "H",
+      "requirement_description" : "History &amp; Tradition Sector"
+    } ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This is a critical writing seminar. It fulfills the writing requirement for all undergraduates. As a discipline-based writing seminar, the course introduces students to a topic within its discipline but throughout emphasizes the development of critical thinking, analytical, and writing skills. For current listings and descriptions, visit the Critical Writing Program's website at www.writing.upenn.edu/critical.",
+    "course_id" : "LALS009",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "009",
+    "course_title" : "Critical Writing Seminar in Latin American and Latino Studies",
+    "crosslistings" : [ ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "R",
+      "requirement_description" : "Writing Requirement Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Titles and Topics vary. See department website for descriptions: http://www.sp2.upenn.edu/programs/msw/courses.html",
+    "course_id" : "LALS798",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "798",
+    "course_title" : "Advanced Topics",
+    "crosslistings" : [ ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS399",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "399",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. See the Romance Languages Department's website at http://ccat.sas.upenn.edu/roml for a description of the current offerings.",
+    "course_id" : "LALS395",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "395",
+    "course_title" : "Hispanic Theater",
+    "crosslistings" : [ {
+      "course_id" : "395",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Regueiro",
+    "prerequisites" : "Span 219",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This graduate seminar examines the dynamic relationships among empires, nations and states; colonial and post-colonial policies; and anti-colonial strategies within a changing global context. Using the rubrics of anthropology, history, cultural studies, and social theory, we will explore the intimacies of subject formation within imperial contexts- past and present- especially in relation to ideas about race and belonging. We will focus on how belonging and participation have been defined in particular locales, as well as how these notions have been socialized through a variety of institutional contexts. Finally, we will consider the relationships between popular culture and state formation, examining these as dialectical struggles for hegemony.",
+    "course_id" : "LALS588",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "588",
+    "course_title" : "Race, Nation, Empire",
+    "crosslistings" : [ {
+      "course_id" : "587",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Thomas, D",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course examines the visual culture of Latin America before and after the culture of Latin America before and after the conquest up to the eighteenth centy. It first explores Mesoamerican and South American art and architecture, focusing on the Olmec, Mayan, Aztec, Incan and Tupinamba. The the class studies the way in which the colonial culture of the Americas developed in the early modern period throught an analysis of works in various media including codices, painting, featherwork, sculpture, architecture and print. Historical political and religious contexts will be explored in relationship to art production. Some themes for the course include hybridity, cross-cultural interaction, conversion and propaganda.",
+    "course_id" : "LALS299",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "299",
+    "course_title" : "Latin American Art: Pre Colombian to Colonial",
+    "crosslistings" : [ {
+      "course_id" : "299",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS771",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "771",
+    "course_title" : "Oral History",
+    "crosslistings" : [ {
+      "course_id" : "770",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS205",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "205",
+    "course_title" : "Maj Sem World Pre-1800",
+    "crosslistings" : [ {
+      "course_id" : "205",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Immigration is a controversial issue, dividing Americans from Congress to big cities to small towns. What's at stake in these debates? What does immigration mean for cities and regions? And what roles should policy makers planners, and community organizations play in shaping migration and its impacts? This course examines these questions in the context of immigrant, refugee, and receiving communities in the United States. It surveys public policy and community and economic development practices related to migration, at the local, regional, and trans-national scale. Class readings, discussions, and regular visits to a variety of Philadelphia's immigrant neighborhoods explore themes including labor markets, political mobilization, social and cultural policy, and the built environment.",
+    "course_id" : "LALS271",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "271",
+    "course_title" : "Ethnicity:The Immigrant City",
+    "crosslistings" : [ {
+      "course_id" : "270",
+      "section_id" : "",
+      "subject" : "URBS"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hanson, R.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics Vary",
+    "course_id" : "LALS107",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "107",
+    "course_title" : "Freshman Seminar: The World After 1800",
+    "crosslistings" : [ {
+      "course_id" : "107",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "106",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. For current course description, please see department's webpage: http://ccat.sas.upenn.edu/roml/portuguese/undergraduate/courses.html",
+    "course_id" : "LALS231",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "231",
+    "course_title" : "Perspectives in Brazilizan Culture",
+    "crosslistings" : [ {
+      "course_id" : "221",
+      "section_id" : "",
+      "subject" : "PRTG"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Flannery Marcia",
+    "prerequisites" : "Taught in Portuguese",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary",
+    "course_id" : "LALS233",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "233",
+    "course_title" : "World History: Latin America Topics vary.",
+    "crosslistings" : [ {
+      "course_id" : "233",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Are decentralization reforms fostering local community participation and improving the quality of democracy in Latin America? Are they, insted, posing a threat to democracy and development? In the last thirty years, Latin Ameican countries have undergone major reforms that devolved fiscal resources, administrative responsibilities, and political authority from the central governments to the states and municipalities. These decentralization reforms have radically altered the political landscape in Latin America, even inthe countries that have since then tried to recentralize power, such as Venezuela. What were the main causes of the decentralization movement? Who were the main national and international actors who pushed forward these reforms? What have the main political, fiscal, and policy consequences of decentralization been? These are some of the questions this course will focus on. The experiences of decentralization in Argentina, Brazil, Colombia, Bolivia, Venezuela, and Mexico will be studied. Although prior knowledge of Latin American politics is not required, additional readings will be assigned to the students who have not taken at least one introductory course in Latin American politics, history or cultures.",
+    "course_id" : "LALS419",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "419",
+    "course_title" : "Democracy and Decentralization",
+    "crosslistings" : [ {
+      "course_id" : "419",
+      "section_id" : "",
+      "subject" : "PSCI"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Falleti, T.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "M",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will consider the American musical landscape from the colonial period to the present with an emphasis, though not exclusive focus, on non-written traditions. The course is not a chronological journey, but rather a topical treatment of the various issues in the history of American music. Some of the specific, project-oriented activities of the course will consist of, but will not be limited to the following: (1)participating in the development of a traveling exhibition on the Apollo Theater for the SmithsonianInstitution; (2)development of a permanent website for a history of jazz course at Penn; (3)reviewing two manuscripts for publication to a major press; (4)developing a working proposal for a history of African American music. In this context students will learn the basics of contemporary music criticism, including: identifying a work's significant musical gestures; positioning those gestures within a broader field of musical rhetoric, conventions, and social contracts; and theorizing the conventions with respect to large systems of cultural knowledge, such as historical, geographical contexts as well as the lived experiences of audiences, composers, performers, and dancers. Other topics covered: origin and development of American popular music and gendered and racial aspects of American classical music.",
+    "course_id" : "LALS770",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "770",
+    "course_title" : "Seminar in Afro-American Music",
+    "crosslistings" : [ {
+      "course_id" : "771",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "770",
+      "section_id" : "",
+      "subject" : "FOLK"
+    }, {
+      "course_id" : "770",
+      "section_id" : "",
+      "subject" : "MUSC"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Ramsey",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course explores an aspect of Latina/o literature intensively; specific course topics will vary from year to year.",
+    "course_id" : "LALS370",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "Benjamin Franklin Seminar",
+    "course_number" : "370",
+    "course_title" : "Topics In Latina/o Literature",
+    "crosslistings" : [ {
+      "course_id" : "370",
+      "section_id" : "",
+      "subject" : "ENGL"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS599",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "599",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This graduate class focuses on issues of democratization (and de-democratization), as studied in the comparative politics literature. The course is structured in four parts. In the first part, we scrutinize conceptualizations and measurements of democracy. In the second part, we study competing political theories about the origins of democracy. The third part of the seminar is devoted to the study of democratic transition and consolidation processes. To finish, we tackle specific issues in democratization such as social capital and civic participation, as well as the resilience of (subnational) authoritarianism.",
+    "course_id" : "LALS655",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "655",
+    "course_title" : "Democratization",
+    "crosslistings" : [ {
+      "course_id" : "655",
+      "section_id" : "",
+      "subject" : "PSCI"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Falleti",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary.",
+    "course_id" : "LALS350",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "350",
+    "course_title" : "Spanish Literature of the Golden Age",
+    "crosslistings" : [ {
+      "course_id" : "350",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Fuchs, B.",
+    "prerequisites" : "Spanish 219",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary",
+    "course_id" : "LALS240",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "The course is going to be taught in Portuguese during the Spring 2013 semester.",
+    "course_number" : "240",
+    "course_title" : "Topics in Brazilian Culture",
+    "crosslistings" : [ {
+      "course_id" : "232",
+      "section_id" : "",
+      "subject" : "CINE"
+    }, {
+      "course_id" : "223",
+      "section_id" : "",
+      "subject" : "COLL"
+    }, {
+      "course_id" : "226",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "240",
+      "section_id" : "",
+      "subject" : "PRTG"
+    }, {
+      "course_id" : "223",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "A",
+      "requirement_description" : "Arts &amp; Letters Sector"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS580",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "580",
+    "course_title" : "Survey of Span Am Lit",
+    "crosslistings" : [ {
+      "course_id" : "590",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course offers anthropological perspectives on the Caribbean as a geo-political and socio-cultural region, and on contemporary Caribbean diaspora cultures. We will examine how the region's long and diverse colonial history has structured relationships between race, ethnicity, class, gender and power, as well as how people have challenged these structures. As a region in which there have been massive transplantations of peoples and their cultures from Africa, Asia, and Europe, and upon which the United States has exerted considerable influence, we will quesiton the processes by which the meeting and mixing of peoples and cultures has occurred. Course readings include material on the political economy of slavery and the plantation system, family and community life, religious beliefs and practices, gender roles and ideologies, popular culture, and the differing ways national, ethnic, and racial identities are expressed on the islands and throughout the Caribbean diaspora.",
+    "course_id" : "LALS116",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "116",
+    "course_title" : "Caribbean Culture & Politics",
+    "crosslistings" : [ {
+      "course_id" : "116",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Thomas, D.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. For current course description, please see department's webpage: http://ccat.sas.upenn.edu/roml/portuguese/undergraduate/courses.html",
+    "course_id" : "LALS220",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "220",
+    "course_title" : "Literature, Film and Music of Brazil",
+    "crosslistings" : [ {
+      "course_id" : "224",
+      "section_id" : "",
+      "subject" : "CINE"
+    }, {
+      "course_id" : "222",
+      "section_id" : "",
+      "subject" : "PRTG"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "PRTG 221",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course explores an aspect of Postcolonial literature intensively; specific course topics vary from year to year.",
+    "course_id" : "LALS293",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "ENGL 293 is a Topics course.  When the topic is Carribean literature, the following description applies.",
+    "course_number" : "293",
+    "course_title" : "Topics in Literature & Society",
+    "crosslistings" : [ {
+      "course_id" : "293",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "293",
+      "section_id" : "",
+      "subject" : "ENGL"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This survey course considers Caribbean musics within a broad and historical framework. Caribbean musical practices are explored by illustrating the many ways that aesthetics, ritual, communication, religion, and social structure are embodied in and contested through performance. These initial inquiries open onto an investigation of a range of theoretical concepts that become particularly pertinent in Caribbean contexts <-concepts such as post-colonialism, migration, ethnicity, hybridity, syncretism, and globalization. Each of these concepts, moreover, will be explored with a view toward understanding its connections to the central analytical paradigm of the course <- diaspora. Throughout the course, we will listen to many different styles and repertories of music, ranging from calypso to junkanoo, from rumba to merengue, and from dancehall to zouk. We will then work to understand them not only in relation to the readings that frame our discussions but also in relations to our own North-American contexts of music consuption and production.",
+    "course_id" : "LALS258",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "258",
+    "course_title" : "Caribbean Music & Diaspora",
+    "crosslistings" : [ {
+      "course_id" : "258",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "227",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "259",
+      "section_id" : "",
+      "subject" : "FOLK"
+    }, {
+      "course_id" : "258",
+      "section_id" : "",
+      "subject" : "MUSC"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Rommen",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course has two goals: first, to provide an in-depth look at a select number of twentieth century social movements in Latin America. Second, to allow students to \"learn by doing;\" each participant will produce a major research paper based on primary sources. Readings will include testimonial accounts and fictional works, as well as critical studies.",
+    "course_id" : "LALS303",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "303",
+    "course_title" : "Social Movements in Latin America",
+    "crosslistings" : [ {
+      "course_id" : "303",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Farnsworth/Alvear",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS307",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "307",
+    "course_title" : "Gender in Latin America",
+    "crosslistings" : [ {
+      "course_id" : "307",
+      "section_id" : "",
+      "subject" : "HIST"
+    }, {
+      "course_id" : "307",
+      "section_id" : "",
+      "subject" : "GSWS"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Farnsworth-Alvear",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course explores an aspect of the novel intensively, asking how novels work and what they do to us and for us. Specific course topics will vary from year to year.",
+    "course_id" : "LALS260",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "260",
+    "course_title" : "Advance Topics in Narrative",
+    "crosslistings" : [ {
+      "course_id" : "262",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "260",
+      "section_id" : "",
+      "subject" : "AFST"
+    }, {
+      "course_id" : "260",
+      "section_id" : "",
+      "subject" : "ENGL"
+    }, {
+      "course_id" : "260",
+      "section_id" : "",
+      "subject" : "GSWS"
+    }, {
+      "course_id" : "470",
+      "section_id" : "",
+      "subject" : "LING"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course treats some aspect of literary and cultural politics in the 20th-Century with emphasis varying by instructor.",
+    "course_id" : "LALS592",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "592",
+    "course_title" : "20th Century Literature & Theory",
+    "crosslistings" : [ {
+      "course_id" : "592",
+      "section_id" : "",
+      "subject" : "ENGL"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In this advanced seminar, students will be introduced to a variety of approaches to African American literatures, and to a wide spectrum of methodologies and ideological postures (for example, The Black Arts Movement). The course will present an assortment of emphases, some of them focused on geography (for example, the Harlem Renaissance), others focused on genre (autobiography, poetry or drama), the politics of gender and class, or a particular grouping of authors. Previous versions of this course have included \"African American Autobiography,\" \"Backgrounds of African American Literature,\" \"The Black Narrative\" (beginning with eighteenth century slave narratives and working toward contemporary literature), as well as seminars on urban spaces, jazz, migration, oral narratives, black Christianity, and African-American music.",
+    "course_id" : "LALS280",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "280",
+    "course_title" : "Topics In African-American Literature",
+    "crosslistings" : [ ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course examines patterns of inter-American conflict and cooperation. The course examines United States-Latin American relations, regional organizations and subregional organizations. Specific topics include development, dependency, and security.",
+    "course_id" : "LALS251",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "251",
+    "course_title" : "Inter-American Relations",
+    "crosslistings" : [ {
+      "course_id" : "251",
+      "section_id" : "",
+      "subject" : "PSCI"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This is a topics course. The topic may be \"Latin American Travel Narratives or \"Caribbean Writers in the U.S.\"",
+    "course_id" : "LALS252",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "All readings will be offered in English",
+    "course_number" : "252",
+    "course_title" : "Spanish American Literature in Translation.",
+    "crosslistings" : [ {
+      "course_id" : "250",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "A",
+      "requirement_description" : "Arts &amp; Letters Sector"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS689",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "689",
+    "course_title" : "Studies Spanish Cinema",
+    "crosslistings" : [ {
+      "course_id" : "695",
+      "section_id" : "",
+      "subject" : "CINE"
+    }, {
+      "course_id" : "689",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Solomon, M.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The Inca created a vast and powerful South American empire in the high Andes Mountains that was finally conquered by Spain. Using Penn's impressive Museum collections and other archaeological, linguistic, and historical sources, this course will examine Inca religion and worldview, architecture, sacred temples, the capital of Cuzco, ritual calendar, ceque system, textiles, metalworking, economic policies and expansionist politics from the dual perspectives of Inca rulers and their subjects. Our task is to explain the rise, dominance, and fall of the Incas as a major South American civilization.",
+    "course_id" : "LALS254",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "254",
+    "course_title" : "Archaeology of the Inca",
+    "crosslistings" : [ {
+      "course_id" : "254",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Erickson",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "H",
+      "requirement_description" : "History &amp; Tradition Sector"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This class examines the history of Maya culture before and after the arrival of the Spanish Conquistadors in the 16th Century. We will examine the nature of conflict between Spanish and Maya cultures, and the many compromises reasched over the course of a cultural conquest that continues as Mexico, Guatemala, Belize, Honduras and El Salvador seek to establish national identities that is often at conflict with local ethnic identities. These processes in the Maya area will also be illustrated by comparison with the processes of conquest and resistance elsewhere in the Americas and around the world.",
+    "course_id" : "LALS256",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "256",
+    "course_title" : "Ethnohist/Graphy of Maya",
+    "crosslistings" : [ {
+      "course_id" : "256",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course explores an aspect of Latina/o literature intensively; specific course topics will vary from year to year.",
+    "course_id" : "LALS290",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "290",
+    "course_title" : "Topics Latina/o Literature",
+    "crosslistings" : [ {
+      "course_id" : "290",
+      "section_id" : "",
+      "subject" : "ENGL"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Padilla, A.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Seminar participants are introduced to a language planning framework, which they then apply in research on specific language planning cases from around the world. Cases may include: official language decisions, instructional medium choices, literacy initiatives, gender-neutral language reforms, or other language-related decisions and policies.",
+    "course_id" : "LALS927",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "927",
+    "course_title" : "Res Sem:Lang Policy & Ed",
+    "crosslistings" : [ {
+      "course_id" : "927",
+      "section_id" : "",
+      "subject" : "EDUC"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course covers topics in contemporary Spanish Culture, its specific emphasis varying with the instructor.",
+    "course_id" : "LALS386",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "386",
+    "course_title" : "Studies in Span Culture",
+    "crosslistings" : [ {
+      "course_id" : "385",
+      "section_id" : "",
+      "subject" : "CINE"
+    }, {
+      "course_id" : "386",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "Span 219",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. Previous topics have included Latin American Narrative and Art in Times of Globalization, Modernismo / fin de siglo, Art, Literature, and Society in Latin America at the End of the 20th Century.",
+    "course_id" : "LALS690",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "690",
+    "course_title" : "Studies in Spanish American Literature",
+    "crosslistings" : [ {
+      "course_id" : "691",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "690",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS331",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "331",
+    "course_title" : "Latino Politics",
+    "crosslistings" : [ {
+      "course_id" : "331",
+      "section_id" : "",
+      "subject" : "PSCI"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. See the Romance Languages Department's website at http://ccat.sas.upenn.edu/roml for a description of the current offerings.",
+    "course_id" : "LALS394",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "394",
+    "course_title" : "Spanish American Fiction",
+    "crosslistings" : [ {
+      "course_id" : "394",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "Span 219",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. See the Romance Languages Department's website at http://ccat.sas.upenn.edu/roml for a description of the current offerings.",
+    "course_id" : "LALS392",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "392",
+    "course_title" : "Colonial Spanish American Literature",
+    "crosslistings" : [ {
+      "course_id" : "392",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "Span 219",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Early culture contact in Mesoamerica (Mexico and Central America) and the Andes. Compares European and Amerindian conceptions of time and space of evil and disorder, the individual's relation to society, the physical world, and the sacred. Emphasis is on the zones and the means of intercultural communication -- especially as influenced by the introduction of European writing -- and on the intermediaries who straddled the linguistic and cultural boundaries.",
+    "course_id" : "LALS589",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "589",
+    "course_title" : "Conquest and Conversion",
+    "crosslistings" : [ {
+      "course_id" : "589",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "589",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Beginning with Christopher Columbus' eager description of them as \"Indians\"m to the Spanish monarchs, the native inhabitants of the Americas have beennta- the subject of representations that often reveal more about outsiders thanome about indigenous people themselves. In this course we look at how outsiders have characterized some of the indigenous groups of North, Central and South America, from the sixteenth to the twentieth centuries. We will compare various strategies of conquest and control devised by English, Spanish and other European conquerors and their later counterparts. Using historical and anthropological sources as well as literature, film and other visual depictions, we will analyze some of the legal, ontological, moral and philosophical frameworks devised to describe and categorize Indians. We will examine the present-day legacies of cultural differences among indigenous people as well as among their conquerors, and attend to the ways Indians have used new technologies and strategies to represent themselves.",
+    "course_id" : "LALS313",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "313",
+    "course_title" : "Relig & Society/Iberia",
+    "crosslistings" : [ {
+      "course_id" : "313",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Whether as statues, walls, plaques, parks, or other commemorative structures, monuments are regular features of urban topography. Such \"sites of memory\" not only instruct us about significant events of the past, but do so in the space and time of the present. And yet, the historical memory of cities is also made legible through modes of cultural expression and inscription - including literature, visual art, graffiti, music, and street performance. Cycles of urban de-industrialization and renewal since the 1970s, as well as legacies of conflict and inequality, have exacerbated the need for alternate forms of commemoration. The Occupy movement is one continued example of how urban space can be reanimated through demarcation, embodiment, and calls for collectivity.",
+    "course_id" : "LALS414",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "414",
+    "course_title" : "Memory and Urbanism in the Americas",
+    "crosslistings" : [ {
+      "course_id" : "414",
+      "section_id" : "",
+      "subject" : "URBS"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Farber",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. See the Romance Languages Department's website at http://ccat.sas.upenn.edu/roml for a description of current offerings.",
+    "course_id" : "LALS270",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "270",
+    "course_title" : "Major Works in Spanish & Latin American Literature",
+    "crosslistings" : [ {
+      "course_id" : "250",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. See the Romance Languages Department's website at http://ccat.sas.upenn.edu/roml for a description of the current offerings.",
+    "course_id" : "LALS391",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "391",
+    "course_title" : "Spanish American Poetry",
+    "crosslistings" : [ {
+      "course_id" : "391",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "Span 219",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The emphasis will be on readings, class discussions, and seminars, to reflect ongoing discussions in the field. The course will focus on the historical and cultural relationship between Africans and their descendants abroad. We will provide a series of readings for background to each section. Requirements include: Regular reading assignments, commentary on readings, and a paper/proposal.",
+    "course_id" : "LALS702",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "702",
+    "course_title" : "Africa/African Diaspora",
+    "crosslistings" : [ {
+      "course_id" : "702",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "702",
+      "section_id" : "",
+      "subject" : "AFST"
+    }, {
+      "course_id" : "572",
+      "section_id" : "",
+      "subject" : "ENGL"
+    }, {
+      "course_id" : "702",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Seminar on selected topics in the music of the Renaissance.",
+    "course_id" : "LALS720",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "720",
+    "course_title" : "Studies in Renaissance Music",
+    "crosslistings" : [ {
+      "course_id" : "720",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "720",
+      "section_id" : "",
+      "subject" : "MUSC"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Study of the historical context of the colonial period in Spanish America and of major works in prose and poetry.",
+    "course_id" : "LALS692",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "692",
+    "course_title" : "Colonial Literature of Spanish America",
+    "crosslistings" : [ {
+      "course_id" : "692",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. See the Romance Languages Department's website at http://ccat.sas.upenn.edu/roml/ for a description of the current offerings.",
+    "course_id" : "LALS697",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "697",
+    "course_title" : "Studies in Latin American Culture",
+    "crosslistings" : [ {
+      "course_id" : "697",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS330",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "330",
+    "course_title" : "Modern Central America",
+    "crosslistings" : [ ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. See the Romance Languages Department's website at http://ccat.sas.upenn.edu/roml for a description of the current offerings.",
+    "course_id" : "LALS355",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "355",
+    "course_title" : "Topics in Spanish Drama",
+    "crosslistings" : [ {
+      "course_id" : "355",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "Span 219",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A comprehensive review of theories and research on international migration. The course introduces the basic precepts of neoclassical economics, the new economics of labor migration, segmented labor market theory, world systems theory, social capital theory, and the theory of cumulative causation. Readings examine patterns and processes of global migration during the classic age from 1800-1914 as well as during the postwar period from 1945 to the present. The course concludes with an evaluation of immigration policies in the United States.",
+    "course_id" : "LALS677",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "677",
+    "course_title" : "International Migration",
+    "crosslistings" : [ {
+      "course_id" : "677",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Flippen, C",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS232",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "232",
+    "course_title" : "Topics in World History/Gender in Latin America",
+    "crosslistings" : [ {
+      "course_id" : "232",
+      "section_id" : "",
+      "subject" : "GSWS"
+    }, {
+      "course_id" : "232",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Ann Farnsworth-Alvear",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A brief introduction about the stages of French colonialism and its continuing political and cultural consequences, and then reading in various major works -- novels, plays, poems -- in French by authors from Quebec, the Caribbean, Africa (including the Maghreb), etc. Of interest to majors in International Relations, Anthropology and African Studies as well as majors in French.",
+    "course_id" : "LALS390",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "390",
+    "course_title" : "Survey of Francophone Literature",
+    "crosslistings" : [ {
+      "course_id" : "390",
+      "section_id" : "",
+      "subject" : "FREN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary.",
+    "course_id" : "LALS380",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "380",
+    "course_title" : "Contemporary Spanish Literature",
+    "crosslistings" : [ {
+      "course_id" : "380",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "Span 219",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "English is a global language with a distinctly imperial history, and this coursserves as an essential introduction to literary works produced in or about the former European colonies. The focus will be poetry, film, fiction and non fiction and at least two geographic areas spanning the Americas, South Asia, the Caribbean and Africa as they reflect the impact of colonial rule on the cultural representations of identity, nationalism, race, class and gender.",
+    "course_id" : "LALS093",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "ENGL 093 is a topics course.  LTAM 093 will be cross-listed only when the subject matter is relevant to Latin American and Latino Studies.",
+    "course_number" : "093",
+    "course_title" : "Latin American Literature and Society",
+    "crosslistings" : [ {
+      "course_id" : "093",
+      "section_id" : "",
+      "subject" : "ENGL"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Clarke",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The literature studied in this course is usually organized thematically. Examples: American Authors and The Imagined Past, considering the role of history in literature and studying works by Benjamin Franklin, Nathaniel Hawthorne, William Faulkner, Mark Twain, James Fenimore Cooper, and others; \"American Writers and \"The School of Hawthorne\" studying the influence of Hawthorne on Henry James, Flannery O'Connor, Robert Penn Warren, and others: \"Ezra Pound\" or \"Edgar Allan Poe and the Poe Tradition.\"",
+    "course_id" : "LALS286",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "286",
+    "course_title" : "Topics in American Literature",
+    "crosslistings" : [ {
+      "course_id" : "289",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "286",
+      "section_id" : "",
+      "subject" : "ENGL"
+    }, {
+      "course_id" : "286",
+      "section_id" : "",
+      "subject" : "HIST"
+    }, {
+      "course_id" : "286",
+      "section_id" : "",
+      "subject" : "URBS"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    }, {
+      "activity_code" : "SEM",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The focus for each semester will vary to reflect those issues most relevant to current concerns in educational linguistics.",
+    "course_id" : "LALS673",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "673",
+    "course_title" : "Selected Topics in Education Linguistics",
+    "crosslistings" : [ {
+      "course_id" : "673",
+      "section_id" : "",
+      "subject" : "EDUC"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics Varies.",
+    "course_id" : "LALS100",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "For freshmen only",
+    "course_number" : "100",
+    "course_title" : "Intro to Art",
+    "crosslistings" : [ {
+      "course_id" : "100",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "With its booming economy, the recent inauguration of its first female president, and its selection as host to the 2012 World Cup and Olympic games, Brazil is growing in global prestige. But amid all these exciting developments are devastating socioeconomic inequalities. Access to safe living conditions, livable wages, higher education, and overall social mobility remain painfully out of reach to many Brazilians, the majority of whom are the descendants of slaves. Why do these problems persist in a country that has had such an enduring and widespread reputation as a \"racial democracy\"? What are the possibilities of closing the equality gap in Brazil?",
+    "course_id" : "LALS175",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "175",
+    "course_title" : "Society and Culture in Brazil",
+    "crosslistings" : [ {
+      "course_id" : "175",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Walker, T.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course focuses on the musical genres and styles (both traditional and popular) that have grown up around the accordion in the New World. We will begin our explorations in Nova Scotia and move toward the Midwest, travelling though the polka belt. From there, our investigation turns toward Louisiana and Texas--toward zydeco, Cajun, and Tex-Mex music. We will then work our way through Central and South America, considering norteno, cumbia, vallenato, tango, chamame, and forro. Our journey will include in the Caribbean, where we will spend some time thinking about merengue and rake-n-scrape music. Throughout the semester, the musical case studies will be matched by readings and films that afford ample opportunity to think about the ways that music is bound up in ethnicity, identity, and class. We will also have occasion to thinkabout the accordian as a multiply meaningful instrument that continues to be incorporated into debates over cultural politics and mobilized as part of strategies of representation through the New World.",
+    "course_id" : "LALS157",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "157",
+    "course_title" : "Accordians in the New World",
+    "crosslistings" : [ {
+      "course_id" : "255",
+      "section_id" : "",
+      "subject" : "MUSC"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Rommen, T.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "REC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "LEC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course provides an introduction to the broad literature on Latin America's rich colonial history. We will begin by tracing some of the early originas of - and points of contact between - the Indian, Iberian, and Africa men and women who formed the basis of colonial society. As the course progresses, we will explore the variety of ways in which colonial subjects lived, worked, ate, worshipped, and socialized. Lectures and reading assignments will draw upon a variety of sources, including court cases, artistic renderings, city maps and street plans, travel accounts of visits to the regions, and the material, cultural, and intellectual products made possible by the wealth and dynamism of the seventeenth and eighteenth centuries. The course will conclude with an analysis of the Age of Revolutions, a period of dramatic upheaval that remains at the center of lively scholarly debates. By the end of the semester, students will be able to engage the key questions driving these debates, the most important of which, perhaps, is: what is Latin America's colonial legacy?",
+    "course_id" : "LALS070",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "Fulfills History & Tradition Distribution Requirement",
+    "course_number" : "070",
+    "course_title" : "Colonial Latin America",
+    "crosslistings" : [ {
+      "course_id" : "070",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Walker, T.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "H",
+      "requirement_description" : "History &amp; Tradition Sector"
+    } ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. See the Romance Languages Department's website at http://ccat.sas.upenn.edu/roml for a description of the current offerings.",
+    "course_id" : "LALS396",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "396",
+    "course_title" : "Introduction to Spanish American Literature",
+    "crosslistings" : [ {
+      "course_id" : "390",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "390",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "Span 219",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This seminar will explore the diverse ethnic origins, religious practices, and socio-economic experiences of Africans and their descendants in Latin America, from the period of slavery to the present. We will begin with an analysis of a rich body of scholarship and slavery and abolition, as well as iconographic sources and mateial culture studies, to understand how different slavery systems shaped different ideas about the relationship between color and social and legal status. As the course shifts to the late-nineteenth and twentieth centuries, students will use historical analysis to discuss race and ethnicity ina comparative framework. Through group discussions, analytical writing assignments, and independent research, we will address several questions, including whether it is accurate to label Brazil a \"racial democray\", how useful it is to apply U.S. theories about race to Latin America; and a host of other topical and regional subjects.",
+    "course_id" : "LALS206",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "206",
+    "course_title" : "Africans in Latin America",
+    "crosslistings" : [ {
+      "course_id" : "206",
+      "section_id" : "",
+      "subject" : "GSWS"
+    }, {
+      "course_id" : "206",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Tamara Walker",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "0"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course examines the dynamics of political and economic change in twentieth century Latin America, with the goal of achieving an understanding of contemporary politics in the region. We will analyze topics such as the incorporation of the region to the international economy and the consolidatio of oligarchic states (1880s to 1930s), corporatism, populism, and elict pacts (1930s and 1940s), social revolution, democratic breakdown, and military rule (1960s and 1970s), transitions to democracy and human rights advocacy (1980s) makret-oriented reforms (1990s), and the turn to the left of current governments (2000s). The course will draw primarily from the experiences of Argentina, Brazil, Colombia, Chile and Mexico. No prior knowledge of the region is required.",
+    "course_id" : "LALS213",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "213",
+    "course_title" : "Latin American Politics",
+    "crosslistings" : [ {
+      "course_id" : "213",
+      "section_id" : "",
+      "subject" : "PSCI"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Falleti",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course engages in an in-depth study of Spanish and Colonial Spanish American culture(s) from the Pre-Roman period through the 17th century. Among the topics included are: Islamic Spain, the Spanish Reconquista, the Inquisition, the Origins of the Spanish Language, Sephardic Culture in Spain, the Pilgrimage Route to St. James, Picaresque Literature, Golden Age Spanish Drama, pre-Columbian Civilizations, the Conquest of the New World, and the establishment of colonial rule in Spanish America.",
+    "course_id" : "LALS221",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "221",
+    "course_title" : "Early Hispanic Literature and Culture",
+    "crosslistings" : [ {
+      "course_id" : "223",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "221",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "SPAN 219",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course engages in an in-depth study of certain key moments and texts in Spanish and Spanish American culture from the 18th century to the present. Among the topics dealt with are: the \"failed\" Enlightenment of Spain and Spanish America, the Napoleonic invasion of Spain, Caribbean antislavery narrative, the revolt against Spanish rule and the creation of new nations in Spanish America, indigenismo, The Spanish Civil War, dictatorships, the Cuban Revolution.",
+    "course_id" : "LALS222",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "222",
+    "course_title" : "Modern Hispanic Literature & Culture",
+    "crosslistings" : [ {
+      "course_id" : "225",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "222",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A study of the Spanish character as revealed in its history, geography, language, literature, art, music, social institutions and ethnic traditions. This course is primarily designed for the Spanish major and other with an interest in Hispanic culture.",
+    "course_id" : "LALS226",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "226",
+    "course_title" : "Great Themes in Hispanic Literature",
+    "crosslistings" : [ {
+      "course_id" : "226",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary from semester to semester. Some which have been offered in the past include: Media, Culture & Society; Law & Social Change; Biotechnology, Bioethics and the Body; African Urbanization, and Urban Families; Schools and Neighborhoods; Research and Service/Learning.",
+    "course_id" : "LALS230",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "230",
+    "course_title" : "Spcl Topics-Latin Amer",
+    "crosslistings" : [ {
+      "course_id" : "230",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. See the Romance Languages Department's website at http://ccat.sas.upenn.edu/roml for a description of the current offerings.",
+    "course_id" : "LALS398",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "398",
+    "course_title" : "History of Spanish American Culture",
+    "crosslistings" : [ {
+      "course_id" : "397",
+      "section_id" : "",
+      "subject" : "CINE"
+    }, {
+      "course_id" : "397",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "Span 219",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Permission required.",
+    "course_id" : "LALS400",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "400",
+    "course_title" : "Conference Course/Majors.",
+    "crosslistings" : [ {
+      "course_id" : "399",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Dr.  Ann Farnsworth-Alvear",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Readings and discussion course on selected topics in Latin American History.",
+    "course_id" : "LALS409",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "409",
+    "course_title" : "Tpcs in Latin Amer Hist",
+    "crosslistings" : [ {
+      "course_id" : "409",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Consideration of culture history of native peoples of Andean area, with emphasis on pre-conquest archaeology of Central Andean region.",
+    "course_id" : "LALS433",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "433",
+    "course_title" : "Andean Archaeology",
+    "crosslistings" : [ {
+      "course_id" : "433",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Erickson",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS446",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "446",
+    "course_title" : "Cuban History",
+    "crosslistings" : [ {
+      "course_id" : "446",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "On the surface, domestic and factory workers appear to perform radically different tasks. However, if we explore the conditions surrounding their employment, we see that globally, women in these occupations share some very important characteristics. These include similar household status, similar economic motivation and financial goals, and, similar placement on the occupational ladder. Many domestic and factory workers are also migrants, an although they are often better educated than women of previous generations, the vast majority are underemployed. This course examines how new forms of production and the spread of global capitalism have impacted the lives of women. The course will also examine and critique previous and current theoretical constructs that have attempted to describe and explain the phenomenon. By also evaluating women in relation to their country or region of origin, we will compare how global economic, social, and political forces have created new and renewed forms of womens oppression. Through group projects and individual projects, we will research and evaluate the condition of women engaged in domestic and factory labor, and look at how past, present and future global conditions affect women associated with and employed in these categories of work.",
+    "course_id" : "LALS449",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "449",
+    "course_title" : "Globalized Wommen: Domestic and Factory Workers in the Global Economy",
+    "crosslistings" : [ {
+      "course_id" : "449",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "449",
+      "section_id" : "",
+      "subject" : "GSWS"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Diggs-Thompson",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Examination of current understanding of Ancient Maya, emphasizing critical review of recent archaelogical research and theories.",
+    "course_id" : "LALS468",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "468",
+    "course_title" : "The Ancient Maya",
+    "crosslistings" : [ {
+      "course_id" : "468",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Sharer",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Examination of the 20th century (1900-2000) as a potential archaeological subject. Seminar will review the basic history of the 20th century (especially as it unfolded within the United States) in regard to major events, phases and divisions. Specific archaeological research already carried out on sites dating from this century will be reviewed.",
+    "course_id" : "LALS473",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "473",
+    "course_title" : "Arch of 20th Century",
+    "crosslistings" : [ {
+      "course_id" : "473",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS513",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "513",
+    "course_title" : "Comp Pol Feder & Decent",
+    "crosslistings" : [ {
+      "course_id" : "513",
+      "section_id" : "",
+      "subject" : "PSCI"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "I",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "How do anthropologists and other scholars theorize power? In this course we will read a wide variety of approaches to this question and apply them to ethnographies of Latin America and the Caribbean. Discussion will focus on the different forms of power and resistance in Latin America as they are seen in religion, the military, gender, ethnicity, popular culture, knowledge, and social movements. Background readings and films illuminate the themes and the countries. By combining theory and ethnography, this course is designed to sharpen your skills in five areas of scholarship: a) writing, b) reading ethnographies critically, c) understanding theoretical approaches, d) applying theory to ethnographic data, and e) developing your own theoretical agenda.",
+    "course_id" : "LALS523",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "Writing Across the University affiliated course",
+    "course_number" : "523",
+    "course_title" : "Theory and Ethnography of Latin America",
+    "crosslistings" : [ {
+      "course_id" : "523",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "STAFF",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is cross-listed with SOCI 530 (Advanced Selected Topics in Sociology) when the subject matter is related to African American or other African Diaspora issues. Topics vary. Recent courses offered include \"African Urbanization\" and \"Critical Race Theory.\" Consult the Center for Africana Studies for detailed courses descriptions.",
+    "course_id" : "LALS530",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "530",
+    "course_title" : "Advanced Selected Topics",
+    "crosslistings" : [ {
+      "course_id" : "533",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "530",
+      "section_id" : "",
+      "subject" : "DEMG"
+    }, {
+      "course_id" : "530",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Advanced seminar for potential professional archaeologists. Course will examine critically main past and present theoretical issues in archaeological research and interpretation, and consider various methodologies utilized towa these interpretative ends.",
+    "course_id" : "LALS557",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "557",
+    "course_title" : "Archaeology: Theory & Methodology",
+    "crosslistings" : [ {
+      "course_id" : "557",
+      "section_id" : "",
+      "subject" : "AAMW"
+    }, {
+      "course_id" : "557",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Erickson, C.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course covers topics in 20th-Century American fiction with specific emphasis determined by the instructor.",
+    "course_id" : "LALS586",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "586",
+    "course_title" : "Topics in 20th Century American Fiction",
+    "crosslistings" : [ {
+      "course_id" : "586",
+      "section_id" : "",
+      "subject" : "ENGL"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The creation of colonial societies in America under Spanish and Portuguese rule. Emphasis on primary sources (English translation) dealing with the social, cultural and biological effects of European contact. Topics include: the role of missionaries and evangelization, Iberian and Indian perceptions of the \"other\", the impact of Old-World diseases, animals and plants on American people and ecosystems.",
+    "course_id" : "LALS587",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "587",
+    "course_title" : "Iberian Colonialism",
+    "crosslistings" : [ {
+      "course_id" : "587",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "H",
+    "terms_offered_description" : "Course offered fall; even-numbered years"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An introduction to major literary movements and authors from five areas of Francophonie: the Maghreb, West Africa, Central Africa, the Caribbean and Quebec.",
+    "course_id" : "LALS590",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "590",
+    "course_title" : "Introduction to Francophone Literature",
+    "crosslistings" : [ {
+      "course_id" : "590",
+      "section_id" : "",
+      "subject" : "FREN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An overview of educational policy and practice for multilingual populations worldwide, with special attention to bilingual education. Ethnographic studies of bilingual education programs in Peru and the United States serve as the basis for considering the history, contexts, types, methodologies, and educational consequences of bilingual education.",
+    "course_id" : "LALS661",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "661",
+    "course_title" : "Language, Diversity & Education",
+    "crosslistings" : [ {
+      "course_id" : "661",
+      "section_id" : "",
+      "subject" : "EDUC"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hornberger, N.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "On one level Chicano History is the history of Mexican-origin peoples in the United States since 1848. But Chicano also refers to the emergence of a specific historical identity grounded in the protest movements of the late 1960s and early 1970s. Both definitions are part of the project of this course. We will survey the histories of the many Mexican American people who might (or might not) consider themselves Chicano from the Mexican American War to the Zoot Suit Riots, from El Plan Espiritual de Aztl?n to Selena. The class will also explore issues of ethnicity, immigration past and present, class and gender differences, cultural conflict and exchange, transnational economies and identities, popular cultural images and production, family life and community building, struggles for equality, the relationship of Mexican Americans to Latino/as, and the controversies raised by the emergence of an increasingly multi-ethnic, multilingual society.",
+    "course_id" : "LALS136",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "136",
+    "course_title" : "Chicano History in the United States",
+    "crosslistings" : [ {
+      "course_id" : "136",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Surveys Latin American and Caribbean history from the Haitian Revolution of 1791 to the present. We will examine the legacy of Spanish colonialism and slavery, movements for national and cultural independence, twentieth-century radicalism, and the politics of race in contemporary Latin America. Readings include fictional as well as analytical representations, and a film series will accompany the course.",
+    "course_id" : "LALS071",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "071",
+    "course_title" : "Latin America 1791-Present",
+    "crosslistings" : [ {
+      "course_id" : "071",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Farnsworth-Alvear",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "H",
+      "requirement_description" : "History &amp; Tradition Sector"
+    } ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This survey course considers Latin American musics within a broad cultural and historical framework. Latin American musical practices are explored by illustrating the many ways that aesthetics, ritual, communication, religion, and social structure are embodied in and contested through performance. These initial inquiries open onto an investigation of a range of theoretical concepts that become particularly pertinent in Latin American contexts--concepts such as post-colonialism, migration, ethnicity, and globalization. Throughout the course, we will listen to many different styles and repertories of music and then work to understand them not only in relation to the readings that frame our discussions but also in relation to our own, North American contexts of music consumption and production.",
+    "course_id" : "LALS158",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "158",
+    "course_title" : "Music of Latin America",
+    "crosslistings" : [ {
+      "course_id" : "158",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "158",
+      "section_id" : "",
+      "subject" : "FOLK"
+    }, {
+      "course_id" : "258",
+      "section_id" : "",
+      "subject" : "MUSC"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS162",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "162",
+    "course_title" : "Feminism in the Americas",
+    "crosslistings" : [ {
+      "course_id" : "161",
+      "section_id" : "",
+      "subject" : "GSWS"
+    }, {
+      "course_id" : "162",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The purpose of this course is to provide students with a solid knowledge of Atlantic history during the early modern period (XV-XVIII centuries). Through readings of primary and secondary texts we will discuss the cultural, religious, intellectual, and economic developments of Europe, Africa, and the Americas, as well as the connections, struggles, and mutual influences between the peoples of these three continents. Throughout the semester we will study several important topics: medieval precedents of early modern expansion; theories of empire; ideologies and systems of conquest and colonialization; the relevance of race and slavery to the understanding of the early modern Atlantic world; how different peoples perceived others and themselves; how European imperialism and colonialization affected the internal development of Africa and America; the role played by religion in the Atlantic world; persistence and continuity of Native cultures and beliefs during an age of expansion; the creation of new identities; the role played by African nations in the creation of the Atlantic world; and the creation of an Atlantic economy.",
+    "course_id" : "LALS178",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "178",
+    "course_title" : "Early Modern Atlantic World",
+    "crosslistings" : [ {
+      "course_id" : "178",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Feros",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS202",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "202",
+    "course_title" : "Major Seminar in History: Europe After 1800",
+    "crosslistings" : [ {
+      "course_id" : "202",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "HIST 204 is a topics course. LALS 204 will be cross-listed only when the subject matter is relevant to Latin American and Latino Studies.",
+    "course_id" : "LALS204",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "204",
+    "course_title" : "Major Seminar - Americas, Post 1800",
+    "crosslistings" : [ {
+      "course_id" : "205",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "204",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    }, {
+      "activity_code" : "LEC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Study of the empirical and logical validity of some of the main arguments that connect the economy and politics in Latin America. The course focuses on themes such as the agro-exporting economy, the oligarchic state, import-substitution industrialization, bureaucratic-authoritarian regimes, transition to and consolidation of democracy, and structural reforms.",
+    "course_id" : "LALS413",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "413",
+    "course_title" : "Latin American Politics",
+    "crosslistings" : [ {
+      "course_id" : "413",
+      "section_id" : "",
+      "subject" : "PSCI"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Falleti",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. A recent topic is \"The Black Body and the Lens.\" The Spring 2013 topic, \"Race in Brazil.: The goal of this course is to have an understanding of race and race-mixing in Brazil with explicit comparisons with the U.S., Mexico, and other countries in the Western Hemisphere. We will compare and contrast forms of racial categorization and ideologies towards race mixture, whether in the form of family formation, nation-building projects, and social policy. Specifically, we will examine how it has been promoted or prevented by society as well as the state. We will draw primarily on social science perspectives, however we will cover some work by historians and legal scholars. By the end of this course, students should have an understanding of the role of race-mixing in both constructing and deconstructing racial categories and its impact on racial and ethnic inequality. This course will count as a requirement for the Africana major and minor.",
+    "course_id" : "LALS387",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "387",
+    "course_title" : "Topics in Africana Studies",
+    "crosslistings" : [ {
+      "course_id" : "387",
+      "section_id" : "",
+      "subject" : "AFRC"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Osuji, Sanders-Johnson, Willis",
+    "prerequisites" : "Junior and Senior Seminar",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course examines U.S. literature and culture in the context of the global history of the Americas. Historical moments informing the course will range from the origins of the Caribbean slave-and-sugar trade at the beginning of the nineteenth century, to the Monroe Doctrine of 1823 and the U.S. Mexico and Spanish-American wars. Readings will include works by authors such as Frances Calder?n de la Barca, Frederick Douglass, Helen Hunt Jackson, Henry Wadsworth Longfellow, Jose Marti, Herman Melville, John Rollin Ridge, Mar?a Amparo Ruiz de Burton, and Felix Varela.",
+    "course_id" : "LALS057",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "057",
+    "course_title" : "Literature of Americas Before 1900",
+    "crosslistings" : [ {
+      "course_id" : "057",
+      "section_id" : "",
+      "subject" : "ENGL"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A survey of cultural productions by Latinas/os (i.e. people of Latin American descent who have been raised in the U.S.) that usually will focus on the twentieth century, but might at times examine earlier periods instead. The course will take a culturally and historically informed approach to a wide range of novels, poems, plays, and films, and will sometimes include visual art and music. Writers and artists might include Am?rico Paredes, Piri Thomas, Cherr?e Moraga, Sandra Cisneros, Julia Alvarez, Junot D?az, Cristina Garc?a, El Teatro Campesino, John Leguizamo, Carmen Lomas Garza, the Hernandez Brothers, and Los Tigres del Norte.",
+    "course_id" : "LALS060",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "060",
+    "course_title" : "Intro to Latina/o Lit",
+    "crosslistings" : [ {
+      "course_id" : "070",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "070",
+      "section_id" : "",
+      "subject" : "ENGL"
+    }, {
+      "course_id" : "060",
+      "section_id" : "",
+      "subject" : "GSWS"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "R.  Ellis",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS393",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "393",
+    "course_title" : "Latin American Literature",
+    "crosslistings" : [ {
+      "course_id" : "396",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "396",
+      "section_id" : "",
+      "subject" : "ROML"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The relationship between the activities of native peoples and the environment is a complex and contentious issue. One perspective argues that native peoples had little impact on the environments because of their low population densities, limited technology, and conservation ethic and worldview. At other extreme, biodiversity, and Nature itself, is considered the product of a long history of human activities. This seminar will examine the Myth of the Ecologically Noble Savage, the Myth of the Pristine Environment, the alliance between native peoples and Green Politics, and the contribution of native peoples to appropriate technology, sustainable development and conservation of biodiversity.",
+    "course_id" : "LALS133",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Freshman Seminar",
+    "course_number" : "133",
+    "course_title" : "Native People and Their Environment",
+    "crosslistings" : [ {
+      "course_id" : "133",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Erickson",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Story telling, oral history, and memoir are some of the oldest forms of documenting lives. Pivoting around the themes of voices, authenticity and memory, this course dconsiders the methods, theories and archival practices of autobiography, biography and oral history.It builds on the last two decades of scholarship that pair oral history with traditional written archival material- giving particular attention to the methodologies and practices used by African descended women and queer storytellers and listeners. During our discussons, we will consider the ethics between researher and storyteller while addresing the following questions: How do emotions, performances, and identities (gender, sexuality, race, age (dis)ability, etc.) inform the stories we tell and collect? How does history impact the contemporary construction and narration of history? How does the practice and procedure of black women's and queer autobiography, biography and oral history inform interdisciplinary research methods and blur narrative genres?",
+    "course_id" : "LALS527",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "527",
+    "course_title" : "Spring 2015: Race, Gender & Auto/Biography",
+    "crosslistings" : [ {
+      "course_id" : "527",
+      "section_id" : "",
+      "subject" : "AFRC"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Sanders",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Designed to introduce students to the interdisciplinary field of Latin American and Latino Studies, this is a seminar oriented toward first and second year students. Readings will range widely, from scholarly work on the colonial world that followed from and pushed back against the \"conquest\"; to literary and artistic explorations of Latin American identities; to social scientists' explorations of how Latinos are changing the United States in the current generation.",
+    "course_id" : "LALS072",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "072",
+    "course_title" : "Introduction to Latin American and Latino Studies",
+    "crosslistings" : [ {
+      "course_id" : "072",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Dr.  Ann Farnsworth-Alvear",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "See the Romance Language site.",
+    "course_id" : "LALS296",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "296",
+    "course_title" : "Latin American Film",
+    "crosslistings" : [ {
+      "course_id" : "294",
+      "section_id" : "",
+      "subject" : "CINE"
+    }, {
+      "course_id" : "294",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "296",
+      "section_id" : "",
+      "subject" : "ROML"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course explores the visual history of race in the United States as both self-fashioning and cultural mythology by examining the ways that conceptions ofNative American, Latino, and Asian identity, alongside ideas of Blackness and Whiteness, have combined to create the various cultural ideologies of class, gender, and sexuality that remain evident in historical visual and material culture. We will also investigate the ways that these creations have subsequently helped to launch new visual entertainments, including museum spectacles, blackface minstrelsy, and early film, from the colonial period through the 1940s.",
+    "course_id" : "LALS294",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "294",
+    "course_title" : "Facing America",
+    "crosslistings" : [ {
+      "course_id" : "294",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "274",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "294",
+      "section_id" : "",
+      "subject" : "ASAM"
+    }, {
+      "course_id" : "293",
+      "section_id" : "",
+      "subject" : "CINE"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Shaw",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS215",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "215",
+    "course_title" : "Cult Polit of Latin Amer",
+    "crosslistings" : [ {
+      "course_id" : "215",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS224",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "224",
+    "course_title" : "Third Wave Cinema (Brazilian, Cuban, Martiniquan, and African Cinema)",
+    "crosslistings" : [ {
+      "course_id" : "224",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "221",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "224",
+      "section_id" : "",
+      "subject" : "CINE"
+    }, {
+      "course_id" : "210",
+      "section_id" : "",
+      "subject" : "COML"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Rachel Ellis Neyra",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS239",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "239",
+    "course_title" : "Conquest of Mesoamerica",
+    "crosslistings" : [ {
+      "course_id" : "239",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS285",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "285",
+    "course_title" : "2012 & the Ancient Maya",
+    "crosslistings" : [ {
+      "course_id" : "286",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Chinese economic and political engagements now stretch across the globe from Africa to Latin America. This state of affairs is hardly historically unique- complex interconnections have existed for centuries. Yet this course looks behind the numbers to consider whether the current moment is qualitatively different from earlier iterations of globalization. How do we understand a roadbuilt by Chinese laborers in Nigeria, a \"Chinese\" airport in Sudan, a copper mine in Zambia, a gold mine in Peru, oil investments in Venezuela and Ecuador, or massively increasing trade with Brazil? Together we will explore Chinese state and firm-level interventions in Africa and Latin America as harbingers of an emergent global economic structure, largely defined by intensified and re-configured South-South linkages. Through the disciplinary methods of anthropology, political economy, management, and media studies we will consider both the historical context of intensified Chinese involvement in these regions and a wide range of more contemporary ethnographies and case studies. In the process, we will subject transnational economic studies, the statements of managers and officials, and popular culture texts alike to fine-grained readings. 129",
+    "course_id" : "LALS522",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "522",
+    "course_title" : "The New Global South: China in Africa and Latin America",
+    "crosslistings" : [ {
+      "course_id" : "522",
+      "section_id" : "",
+      "subject" : "AFST"
+    }, {
+      "course_id" : "522",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "A.  Bund",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS334",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "334",
+    "course_title" : "Feminist Ethnography",
+    "crosslistings" : [ {
+      "course_id" : "334",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "334",
+      "section_id" : "",
+      "subject" : "GSWS"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course takes a multi-disciplinary approach to the study of the resiliency and impact of Latin@ cultural and artistic contributions, esthetics, expressions and institution building int he United Stats from the Civil Rights Era to the present. We will explore how Latin@s arguculturally defining being \"American\"; how their artistic expressions fit and influence the creativity and productivity of American and global Arts & Cultural expressions; and the Latin@ interactions of race, culture, society, economy and politics in the U.S.",
+    "course_id" : "LALS425",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "425",
+    "course_title" : "Latin@ Cultural History",
+    "crosslistings" : [ {
+      "course_id" : "425",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Irizarry, Johnny",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. See the Romance Languages Department's website at http://ccat.sas.upenn.edu/roml/ for a description of the current offerings.",
+    "course_id" : "LALS694",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "694",
+    "course_title" : "Spanish & Latin Am Cine",
+    "crosslistings" : [ {
+      "course_id" : "694",
+      "section_id" : "",
+      "subject" : "CINE"
+    }, {
+      "course_id" : "694",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary.",
+    "course_id" : "LALS301",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "301",
+    "course_title" : "Undergraduate Seminar",
+    "crosslistings" : [ {
+      "course_id" : "301",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Meister, Holod, Brownlee, Poggi, Haselberger, Kuttner, Davis, Maxwell, Pittman, Silver, Beckman, Leja, Shaw, Dombrowski, Ousterhout, Silverman",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topics vary. See the Romance Languages Department's website at http://ccat.sas.upenn.edu/roml for a description of the current offerings.",
+    "course_id" : "LALS397",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "397",
+    "course_title" : "Studies in Spanish-American Literature",
+    "crosslistings" : [ {
+      "course_id" : "396",
+      "section_id" : "",
+      "subject" : "CINE"
+    }, {
+      "course_id" : "396",
+      "section_id" : "",
+      "subject" : "GSWS"
+    }, {
+      "course_id" : "396",
+      "section_id" : "",
+      "subject" : "SPAN"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "Span 219",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Most people's information about the Past is drawn from coffee table picture books, popular movies, video games, documetaries about discoveries of \"ancient, mysterious, and lost\" civilations, and tours often led by guides of limited or even dubious credentials. How are these ideas presented, formed, and circulated? Who creates and selects the information presented in this diverse media? Are these presentations accurate? Do they promote or hurt scientific explanations? Can the artisitic, aesthetic, and scientific realms be bridged to effectively promote the past? This class will focus on case studies and critiques of how archaeology and the past are created, presented and used in movies, museums, games, the internet, and art.",
+    "course_id" : "LALS268",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "268",
+    "course_title" : "Visualizing the Past/Peopling the Present",
+    "crosslistings" : [ {
+      "course_id" : "258",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "106",
+      "section_id" : "",
+      "subject" : "CIS"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Badler/Erickson",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course presents a broad overview of the Latino population in the United States that focuses on the economic and sociological aspects of Latino immigration and assimilation. Topics to be covered include: construction of Latino identity, the history of U.S. Latino immigration, Latino family patterns and household structure, Latino educational attainment. Latino incorporation into the U.S. labor force, earnings and economic well-being among Latino-origin groups, assimilation and the second generation. The course will stress the importance of understanding Latinos within the overall system of race and ethnic relations in the U.S., as well as in comparison with previous immigration flows, particularly from Europe. We will pay particular attention to the economic impact of Latio immigration on both the U.S. receiving and Latin American sending communities, and the efficacy and future possililities of U.S. immigration policy. Within all of these diverse topics, we will stress the heterogeneity of the Latino population according to national origin groups (i.e. Mexican, Puerto Rican, Cuban, and other Latinos), as well as generational differences between immigrants and the native born.",
+    "course_id" : "LALS235",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "235",
+    "course_title" : "Special Topics in Sociology/Latinos in the United States",
+    "crosslistings" : [ {
+      "course_id" : "266",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Emilio Parrado",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course approaches the Americas not only as a geographical area but also asan historical and theoretical problem. Drawing from all of the major areas of research in anthropology (biological, archaeological, lingustic, and socio- cultural), we will explore the Americas as a space through which to think about processes of colonization, conquest, imperialism, nation-building, and race making, understanding these processes as necessarily intwined. We emphazise a transnational hemispheric perspective on the Americas in order to think through what was \"new\" about the \"new world\", long before Columbus landedin Hispaniola in 1492, as well as what continues to be new today as new people,products, and ideas continue to populate the region. Throughout the course, wewill contextualize our questions about borderlands and frontiers, empires and colonialism, adaptations and creolizations, and politics and economics within a global frame. And finally, we will highlight the ways anthropologists from different backgrounds have contributed to the public debates regarding the mostpressing issues facing us today, and can work together to enrich our understanding of varius contemporary problems.",
+    "course_id" : "LALS125",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "125",
+    "course_title" : "Anthropology of the Americas",
+    "crosslistings" : [ {
+      "course_id" : "125",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Deborah Thomas",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course explores the visual history of race in the United States as both self-fashioning and cultural mythology by examining the ways that conceptions of Native American, Latino, and Asian identity, alongside ideas of Blackness and Whiteness, have combined to create the various cultural ideologies of class, gender, and sexuality that remain evident in historical visual and material culture. We also investigate the ways that these creations have subsequently helped to launch new visual entertainments, including museum spectacles, blackface minstrelsy, and early film, from the colonial period through the 1940s.",
+    "course_id" : "LALS274",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "274",
+    "course_title" : "Facing America",
+    "crosslistings" : [ {
+      "course_id" : "274",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Shaw",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS287",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "287",
+    "course_title" : "Intro-Latin/Amer Film",
+    "crosslistings" : [ ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course explores an aspect of Latina/o literature intensively; specific course topics will vary from year to year. See the English Department's website at www.english.upenn.edu for a description of the current offerings.",
+    "course_id" : "LALS291",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "Spaces will be reserved for English Majors",
+    "course_number" : "291",
+    "course_title" : "Latin American Literature",
+    "crosslistings" : [ {
+      "course_id" : "284",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "270",
+      "section_id" : "",
+      "subject" : "ENGL"
+    }, {
+      "course_id" : "290",
+      "section_id" : "",
+      "subject" : "ROML"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS329",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "329",
+    "course_title" : "Comparative Slavery",
+    "crosslistings" : [ {
+      "course_id" : "329",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "329",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Tamara Walker",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "REC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "LEC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed to introduce students to comparative political analysis. How can the political behavior, circumstances, institutions, and dynamic patterns of change that people experience in very different societies be analyzed using the same set of concepts and theories? Key themes include nationalism, political culture, democratization, authoritarianism, and the nature of protracted conflict.",
+    "course_id" : "LALS110",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "110",
+    "course_title" : "Comparative Politics",
+    "crosslistings" : [ {
+      "course_id" : "110",
+      "section_id" : "",
+      "subject" : "PSCI"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "LALS554",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "554",
+    "course_title" : "Democ in Latin America",
+    "crosslistings" : [ {
+      "course_id" : "554",
+      "section_id" : "",
+      "subject" : "PSCI"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The United States and Latin America produced a remarkable series of revolutions and reforms during the twentieth century. This course examines efforts throughout the hemisphere to define and address problems around land, labor, and property; nation, empire, and autonomy; and racism, democracy, and citizenship. It considers the relationship between national upheavals, the global consequences of events in the hemisphere, and the relation between social and political history, on the one hand, and the development of economic ideas, on the other.",
+    "course_id" : "LALS174",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "174",
+    "course_title" : "Reform and Revolution in the Americas",
+    "crosslistings" : [ {
+      "course_id" : "174",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Offner",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This coure will explore the arrival, establishment and contributions of free and enslaved Africans in Ibero-America, the region presently known as Latin America, and the Spanish Speaking Caribbean. It will look at how these actors and their descendants known today as Afro-Latinos, shaped and built the foun- dations of Latin American society and culture throughout the centuries from conial period to present. The course will seek to understand Afro-Latinos' agency and negotiations as intellectual contributors to the ideologies that led to independence and the creation of Latin American nations. Likewis, the course will also explore the accomplishments, controversies and tensios in racedynamics and politics, gender relations, socio-economic issues, among others factors that took and continue to take place as people of African descent negotiate their identity and struggle to uphold their space in Latin America and the U. S.A. today.",
+    "course_id" : "LALS155",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "155",
+    "course_title" : "Afro-Latinos in the U.S.",
+    "crosslistings" : [ {
+      "course_id" : "155",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "154",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "LALS",
+    "department_of_record" : "LALS",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Andino, Sandra",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

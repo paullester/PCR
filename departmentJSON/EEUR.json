@@ -1,0 +1,327 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:01 +0000
+Content-Length: 11007
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:48:01 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "EEUR199",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "199",
+    "course_title" : "Independent Study.",
+    "crosslistings" : [ ],
+    "department" : "EEUR",
+    "department_of_record" : "SLAV",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Continuation of EEUR 121",
+    "course_id" : "EEUR122",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Offered through Penn Language Center.",
+    "course_number" : "122",
+    "course_title" : "Elementary Hungarian II",
+    "crosslistings" : [ ],
+    "department" : "EEUR",
+    "department_of_record" : "SLAV",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Mizsei",
+    "prerequisites" : "EEUR 121 or placement",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "D",
+    "terms_offered_description" : "Two terms. student may enter either term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Continuation of EEUR123.",
+    "course_id" : "EEUR124",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Offered through Penn Language Center.",
+    "course_number" : "124",
+    "course_title" : "Intermediate Hungarian II",
+    "crosslistings" : [ ],
+    "department" : "EEUR",
+    "department_of_record" : "SLAV",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Mizsei",
+    "prerequisites" : "EEUR 121-123 or placement",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "D",
+    "terms_offered_description" : "Two terms. student may enter either term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "EEUR112",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "Offered through the Penn Language Center",
+    "course_number" : "112",
+    "course_title" : "Elementary Romanian II",
+    "crosslistings" : [ ],
+    "department" : "EEUR",
+    "department_of_record" : "SLAV",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "EEUR 111 or Placement",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The basic aim is to enable students, independently or under the guidance of theteacher, to communicate in Hungarian and express their thoughts (orally or in writing) at an advanced level.",
+    "course_id" : "EEUR125",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Offered through the Penn Language Center.",
+    "course_number" : "125",
+    "course_title" : "Advanced Hungarian I",
+    "crosslistings" : [ ],
+    "department" : "EEUR",
+    "department_of_record" : "SLAV",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "O",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An introduction to the fundamentals of the Hungarian language, acquisition of conversational, readings and writing skills.",
+    "course_id" : "EEUR121",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Offered through Penn Language Center.",
+    "course_number" : "121",
+    "course_title" : "Elementary Hungarian I",
+    "crosslistings" : [ ],
+    "department" : "EEUR",
+    "department_of_record" : "SLAV",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Mizsei",
+    "prerequisites" : "",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "D",
+    "terms_offered_description" : "Two terms. student may enter either term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An introduction to the fundamentals of the Romanian language, acquisition of conversational, reading and writing skills.",
+    "course_id" : "EEUR111",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "Offered through the Penn Language Center as a distance-learning course in collaboration with Columbia University.",
+    "course_number" : "111",
+    "course_title" : "Elementary Romanian I",
+    "crosslistings" : [ ],
+    "department" : "EEUR",
+    "department_of_record" : "SLAV",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Hours and credits on an individual basis.",
+    "course_id" : "EEUR399",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "399",
+    "course_title" : "Supervised Work in a Language of Eastern Europe",
+    "crosslistings" : [ ],
+    "department" : "EEUR",
+    "department_of_record" : "SLAV",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A continuation of Advanced Hungarian I",
+    "course_id" : "EEUR126",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Offered through the Penn Language Center.",
+    "course_number" : "126",
+    "course_title" : "Advanced Hungarian II",
+    "crosslistings" : [ ],
+    "department" : "EEUR",
+    "department_of_record" : "SLAV",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "O",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Emphasis on vocabulary building, conversation and reading skills. Grammar review.",
+    "course_id" : "EEUR123",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Offered through the Penn Language Center",
+    "course_number" : "123",
+    "course_title" : "Intermediate Hungarian I",
+    "crosslistings" : [ ],
+    "department" : "EEUR",
+    "department_of_record" : "SLAV",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Mizsei",
+    "prerequisites" : "EEUR 121-122 or placement",
+    "register_subgroup_one" : "04",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "D",
+    "terms_offered_description" : "Two terms. student may enter either term."
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

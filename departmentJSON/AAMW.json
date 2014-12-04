@@ -1,0 +1,2328 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:18 +0000
+Content-Length: 84459
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3525579948.39711.0000; expires=Thu, 04-Dec-2014 09:48:18 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW750",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "750",
+    "course_title" : "Supervised Reading and Research",
+    "crosslistings" : [ ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "D",
+    "terms_offered_description" : "Two terms. student may enter either term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "DIS",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW995",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "995",
+    "course_title" : "Dissertation",
+    "crosslistings" : [ ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Opportunities for qualified students to join in current expeditions. Credit allowed will depend on the length of time spent in the field.",
+    "course_id" : "AAMW751",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "751",
+    "course_title" : "Participation in Archaeological Excavations",
+    "crosslistings" : [ ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "L",
+    "terms_offered_description" : "Course usually offered summer term only"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course surveys the political, religious and domestic arts, patronage and display in Rome's Mediterranean, from the 2nd c. BCE to Constantine's 4th-c. Christianized empire. Our subjects are images and decorated objects in their cultural, political and socio-economic contexts (painting, mosaic, sculpture, luxury and mass-produced arts in many media from pottery, silverware and jewelry to textiles and ornamental furniture). We start with the Hellenistic cosmopolitan culture of the Greek kingdoms and their neighbors, and the late Etruscan and Republican Italy; next we map Roman art and art industry as developed around the capital city Rome, further adapted to unify the Empire's many peoples from Britain to the Middle East. The nature of the intercultural exchange is consistently an issue. To understand ancient viewers' encounters, we discuss the spaces of sanctuary and tomb, house and city, garden and private collection; visits to the Penn Museum.",
+    "course_id" : "AAMW626",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "626",
+    "course_title" : "Hellenistic and Roman Art and Artifact",
+    "crosslistings" : [ {
+      "course_id" : "226",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "626",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Kuttner",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW618",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "618",
+    "course_title" : "Achaemenidean Empire and the Greeks",
+    "crosslistings" : [ {
+      "course_id" : "618",
+      "section_id" : "",
+      "subject" : "ANCH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW540",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "540",
+    "course_title" : "Arch Etruria & Carthage",
+    "crosslistings" : [ {
+      "course_id" : "540",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The Etruscans have been portrayed in popular imagination as history's underdogspottery, bronzes, terracottas and tomb painting), students' specialized interes",
+    "course_id" : "AAMW410",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "410",
+    "course_title" : "Etruscan Art & Archaeology",
+    "crosslistings" : [ {
+      "course_id" : "410",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "O",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW614",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "614",
+    "course_title" : "Sem in Greek Archaeology",
+    "crosslistings" : [ {
+      "course_id" : "614",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW612",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "612",
+    "course_title" : "Digital Reconstruct Arch",
+    "crosslistings" : [ {
+      "course_id" : "212",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW477",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "477",
+    "course_title" : "Archaeological Chemistry",
+    "crosslistings" : [ {
+      "course_id" : "477",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "577",
+      "section_id" : "",
+      "subject" : "HSPV"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "McGovern",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The art, archaeology and history of athletics in ancient Greece. Among the topics to be included are: famous Greek athletetes, female athletes, the ancient Olympic Games and other athletic festivals, ancient athletic facilities and equipment, the excavation of ancient athletic sites and practical athletics.",
+    "course_id" : "AAMW413",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "413",
+    "course_title" : "Ancient Athletics",
+    "crosslistings" : [ {
+      "course_id" : "270",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Romano",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An examination of archaeological evidence relevant to selected problems in Greek history.",
+    "course_id" : "AAMW601",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "601",
+    "course_title" : "Archaeology and Greek History",
+    "crosslistings" : [ {
+      "course_id" : "601",
+      "section_id" : "",
+      "subject" : "ANCH"
+    }, {
+      "course_id" : "601",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "MST",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW990",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "990",
+    "course_title" : "Masters Thesis",
+    "crosslistings" : [ ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Prerequisite(s). Exposure to introductory courses. An examination of selected aspects of the Bronze Age to Late Roman period archaeology of the northeastern African coast between Alexandria and Syrtic gulf.",
+    "course_id" : "AAMW736",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "736",
+    "course_title" : "The Archaeology of Coastal Northeast Africa: Cyrenaeca and Marmarica",
+    "crosslistings" : [ {
+      "course_id" : "736",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW440",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "440",
+    "course_title" : "Corinth Computer Project",
+    "crosslistings" : [ {
+      "course_id" : "440",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "J",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topic Varies",
+    "course_id" : "AAMW528",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "528",
+    "course_title" : "Topics in Classical Architecture",
+    "crosslistings" : [ {
+      "course_id" : "528",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Haselberger",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course surveys Greek art and artifacts from Sicily to the Black Sea from the 10th century BCE to the 2rd century BCE, including the age of Alexander and the Hellenistic Kingdoms. Public sculpture and painting on and around grand buildings and gardens, domestic luxury arts of jewelry, cups and vases, mosaic floors, and cult arfefacts are discussed. Also considered are the ways in which heroic epic, religious and political themes are used to engaged viewer's emotions and served both domestic and the public aims. We discuss how art and space was considered, along with ideas of invention and progress, the role of monuments, makers and patrons in Greek society.",
+    "course_id" : "AAMW625",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "625",
+    "course_title" : "Greek Art and Artifact",
+    "crosslistings" : [ {
+      "course_id" : "225",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "625",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "220",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Kuttner",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Introduction to ceramics, ceramic typology and analysis. Course will untilize largely work done on ancient Near Eatern ceramics, though it is not intended as an introduction to ancient Near Eastern ceramic sequences. Course is intended as a practical introduction for archaeologists to ceramics, the ways ceramics are collected and dealt with in the field, ceramic typology and \"laboratory analyses\". To provide depth the course will cover both the ways ceramics have been dealt with in the past and current trends in the study of ceramics.",
+    "course_id" : "AAMW630",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "630",
+    "course_title" : "Ceramics & Analysis",
+    "crosslistings" : [ {
+      "course_id" : "630",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Zettler, Henrickson",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW531",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "531",
+    "course_title" : "Anatolia/Etruria/Greece",
+    "crosslistings" : [ {
+      "course_id" : "531",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will examine theoretical and impirical frameworks for pre-moder forms of exchange. We will focus on substantist and formalist economic theories and will consider the archaeological evidence for such phenomena a barter, gift exchange, administered economies, markets, local exchange, and long distance overland and maritime trade. Our goal is to develop mid-rang models for reconstructing ancient economies. The course will emphasize but not be limited to complex societies of the New and Old World.",
+    "course_id" : "AAMW645",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "645",
+    "course_title" : "Economy of Ancient Trade",
+    "crosslistings" : [ {
+      "course_id" : "645",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW608",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "608",
+    "course_title" : "Space, Ritual, Performance, and Politics",
+    "crosslistings" : [ {
+      "course_id" : "608",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will examine the written and especially the archaeological evidence for the production of Greek drama. Topics will include the theater buildings themselves, stage machinery, scene painting, and costumes. The main chronological focus will be on the fifth and fourth centuries B.C., but some attention will be paid to later developments.",
+    "course_id" : "AAMW603",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "603",
+    "course_title" : "Archaeology & The Greek Theater",
+    "crosslistings" : [ {
+      "course_id" : "603",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is intended to familiarize new graduate students with the collections of the University of Pennsylvania Museum of Archaeology and Anthropology and the wide range of scholarly interests and approaches used by faculty at Penn and neighboring institutions, as well as to provide an introduction to archaeological methods and theory in a Mediterranean context. Each week, invited lecturers will address the class on different aspects of archaeological methodology in their own research, emphasizing specific themes that will be highlighted in readings and subsequent discussion. The course is divided into five sections: Introduction to the Mediterranean Section; Collections; Method and Theory in Mediterranean Archaeology; Museum Work; and Ethics. The course is designed for new AAMW graduate students, though other graduate students or advanced undergraduate students may participate with the permission of the instructor.",
+    "course_id" : "AAMW526",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "526",
+    "course_title" : "Material & Methods in Mediterranean Archaeology",
+    "crosslistings" : [ {
+      "course_id" : "526",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "526",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Tartaron",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "M",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topic varies.",
+    "course_id" : "AAMW723",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "723",
+    "course_title" : "Topics in the Art of the Ancient Near East",
+    "crosslistings" : [ {
+      "course_id" : "723",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "723",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "740",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Pittman",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An introduction to the art and archaeology of ancient Greece from the Archaic through Hellenistic periods. Topics to be considered include the formation of the Greek polis, the rising and falling fortunes of Athens and the other Greek city-states in the Classical period, and the world of Alexander the Great. Emphasis is placed on the consideration of the archaeological evidence, e.g., sculpture, painting, pottery, architecture, and other material culture. This course is part of a sequence of introductory courses (with Ages of Homer and Introduction to Roman Archaeology) on the archaeology of the Greco-Roman world. There are no prerequisites, and these courses need not be taken in a particular order.",
+    "course_id" : "AAMW401",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "401",
+    "course_title" : "Introduction to Greek Archaeology",
+    "crosslistings" : [ {
+      "course_id" : "275",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topic varies.",
+    "course_id" : "AAMW535",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "535",
+    "course_title" : "Topics in Islamic Epigraphy",
+    "crosslistings" : [ {
+      "course_id" : "535",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Holod",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An introduction to the procedures and uses of GIS in modern archaeological field and laboratory work. The course will introduce the student to computerized GIS, discuss the philosophy and theory of its use, as well as the analytical potential of its utilization. Archaeological case studies will be presented. Open to graduate students. Undergraduates with permission.",
+    "course_id" : "AAMW515",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "515",
+    "course_title" : "Geographical Information Systems (GIS) Applications in Archaeology",
+    "crosslistings" : [ {
+      "course_id" : "515",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Romano",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topic varies.",
+    "course_id" : "AAMW530",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "530",
+    "course_title" : "Vitruvian Studies",
+    "crosslistings" : [ {
+      "course_id" : "530",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Haselberger",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Spring 2015: Practiced in almost all ancient cultures, magic offered ways of managing or understanding the present, controlling supernatural agencies, and seeing the future. The objects and images associated with magical practices are rich and varied and are well represented in the University of Pennsylvania Museum. The aim of the seminar is to prepare an exhibit on magic and divination, working with the archaeological collections of the UPM, specifically the Ancient Near Eastern, Egyptian, and Mediterranean sections. It will include objects such as amulets, curse tablets, incantation bowls, and magical papyri, as well as images representing magical practices. Participating students will select and research objects and prepare wall texts for the exhibit.",
+    "course_id" : "AAMW501",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "501",
+    "course_title" : "Curatorial Seminar",
+    "crosslistings" : [ {
+      "course_id" : "501",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "602",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW999",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "May be repeated for credit",
+    "course_number" : "999",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Introduction to the art of building and city planning in the Roman world, 6th c. BC - 2nd c. AD. Emphasis on concepts of organizing space, on issues of structure, materials, decoration, proportion, and the Etruscan and Greek heritage as well as on theory and practice of urbanism as reflected in ancient cities (Rome, Ostia, Roman Alexandria, Timgad) and writings (Vitruvius, and others). Excursions to the Penn Museum and Philadelphia. No prerequisites.",
+    "course_id" : "AAMW629",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "629",
+    "course_title" : "Roman Architecture and Urbanism",
+    "crosslistings" : [ {
+      "course_id" : "229",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "629",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Haselberger",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Top Varies",
+    "course_id" : "AAMW429",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "429",
+    "course_title" : "Topic in Roman Art",
+    "crosslistings" : [ {
+      "course_id" : "429",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "420",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Haselberger",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW411",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "411",
+    "course_title" : "Landscape Archaeology",
+    "crosslistings" : [ {
+      "course_id" : "411",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "J",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW800",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "800",
+    "course_title" : "Pedagogy",
+    "crosslistings" : [ ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A one-semester survey of Islamic art and architecture which examines visual culture as it functions within the larger sphere of Islamic culture in general. Particular attention will be given to relationships between visual culture and literature, using specific case studies, sites or objects which may be related to various branches of Islamic literature, including historical,didactic, philosophical writings, poetry and religious texts. All primary sources are available in English translation.",
+    "course_id" : "AAMW635",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "635",
+    "course_title" : "Introduction to Visual Culture of the Islamic World",
+    "crosslistings" : [ {
+      "course_id" : "235",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "635",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "285",
+      "section_id" : "",
+      "subject" : "NELC"
+    }, {
+      "course_id" : "685",
+      "section_id" : "",
+      "subject" : "NELC"
+    }, {
+      "course_id" : "235",
+      "section_id" : "",
+      "subject" : "VLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Holod",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "O",
+      "requirement_description" : "Humanities &amp; Social Science Sector"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An introduction to the archaeology of Troy, in northwestern Turkey. The course will focus on the results of excavations at the site in 1988, although the earlier excavations of Schliemann, Dorpfeld, and Blegen will also be considered. The course will cover a broad chronological span--from the early Bronze age through the late Roman period, and will include Greek, Roman, and Medieval attitudes toward Troy and the Trojan legend.",
+    "course_id" : "AAMW715",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "715",
+    "course_title" : "Archaeology of Troy",
+    "crosslistings" : [ {
+      "course_id" : "715",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Rose",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW701",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "701",
+    "course_title" : "Proseminar in Methods",
+    "crosslistings" : [ {
+      "course_id" : "701",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "704",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course explores ships, seafaring, and seafarers of the ancient Greek world from the Bronze Age (Minoans and Mycenaeans) to the Age of Alexander (Hellenistic period). Sources include shipwrecks and related artifacts, artistic representations, and ancient literature. The emphasis is not so much on the technical aspects of shipbuilding and navigation as on the ways that seafaring shaped Greek history and connected the Greeks to a wider world through trade, warfare, colonization, and adventure.",
+    "course_id" : "AAMW541",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "541",
+    "course_title" : "Ancient Seafaring",
+    "crosslistings" : [ {
+      "course_id" : "541",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Tartaron",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The Museum Internship in the spring consists of a research project with Penn Museum collections based on a proposal designed and approved during the fall AAMW Proseminar (AAMW 526). It is offered to, and is a requirement for, first-year AAMW graduate students only.",
+    "course_id" : "AAMW546",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "546",
+    "course_title" : "Museum Internship",
+    "crosslistings" : [ ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The course will focus on the planning for and design of an exhibit on Gordio and the Phrygians that will take place at the Penn Museum in 2016. The exhibit will feature substantial loans from museums in Turkey, including the \"Midas Mound\" at Gordion and the \"Lydian Treasure\" from the area around Sardis.",
+    "course_id" : "AAMW710",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "710",
+    "course_title" : "Curatorial Seminar: Gordion, Royal City of Midas",
+    "crosslistings" : [ {
+      "course_id" : "708",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "709",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "710",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Rose",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW543",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "543",
+    "course_title" : "Empires Anc Near East",
+    "crosslistings" : [ {
+      "course_id" : "542",
+      "section_id" : "",
+      "subject" : "ANCH"
+    }, {
+      "course_id" : "242",
+      "section_id" : "",
+      "subject" : "NELC"
+    }, {
+      "course_id" : "542",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW408",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "408",
+    "course_title" : "Rel & Rit Anc Greek Wrld",
+    "crosslistings" : [ {
+      "course_id" : "408",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW509",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "509",
+    "course_title" : "Curatorial Seminar",
+    "crosslistings" : [ {
+      "course_id" : "501",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "501",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW642",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "642",
+    "course_title" : "Pilgrims and Crusaders",
+    "crosslistings" : [ {
+      "course_id" : "242",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "642",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Maxwell",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An introductory survey, this course investigates painting, sculpture, and the \"minor arts\" of the Middle Ages. Students will become familiar with selected major monuments of the Late Antique, Byzantine, Carolingian, Romanesque, and Gothic periods, as well as primary textual sources. Analysis of works emphasizes the cultural context, the thematic content, and the function of objects. Discussions focus especially on several key themes: the aesthetic status of art and the theological role of images; the revival of classical models and visual modes; social rituals such as pilgrimage and crusading; the cult of the Virgin and the status of women in art; and, more generally, the ideology of visual culture across the political and urban landscapes.",
+    "course_id" : "AAMW640",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "640",
+    "course_title" : "Medieval Art",
+    "crosslistings" : [ {
+      "course_id" : "240",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "640",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Maxwell",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course provides an introduction to the built environment of the Middle Ages. From the fall of Rome to the dawn of the Renaissance, a range of architectural styles shaped medieval daily life, religious experience and civic spectacle. We will become familiar with the architectural traditions of the great cathedrals, revered pilgrimage churches, and reclusive monasteries of western Europe, as well as castles, houses, and other civic structures. We integrate the study of the architecture with the study of medieval culture, exploring the role of pilgrimage, courts and civil authority, religious reform and radicalism, crusading and social violence, and rising urbanism. In this way, we will explore the ways in which the built environment profoundly affected contemporary audiences and shaped medieval life.",
+    "course_id" : "AAMW641",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "641",
+    "course_title" : "Introduction to Medieval Architecture",
+    "crosslistings" : [ {
+      "course_id" : "241",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "641",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Medieval",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Ethnoarchaeology involves distinctive theoretical and methodological approaches to the study of living societies for the explicit purpose of shedding light on archaeological questions. In this seminar, we will review the intellectual history of ethnoarchaeology in North America and Europe, and explore case studies from Greece, the wider Mediterranean, and beyond. Among the topics will be analogy, cross-cultural comparison, experimental archaeology, oral history research, and archaeologically oriented ethnographic fieldwork. Students will create a proposal for ethnoarchaeological fieldwork in their area of interest in NSF or Wenner-Gren format, to be critiqued by the instructor and their peers.",
+    "course_id" : "AAMW705",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "705",
+    "course_title" : "ETHNOARCHAEOLOGY: GREECE",
+    "crosslistings" : [ {
+      "course_id" : "705",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Introduction to thin-section petrography of stone and ceramic archaeological materials. Using polarized light microscopy, the first half of this course will cover the basics of mineralogy and the petrography of igneous, metamorphic and sedimentary rocks. The second half will focus on the petrographic description of ceramic materials, mainly pottery, with emphasis on the interpretation of provenance and technology. As part of this course, students will characterize and analyze archaeological samples from various collections. Prior knowledge of geology is not required.",
+    "course_id" : "AAMW512",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "512",
+    "course_title" : "Petrography of Cultural Materials",
+    "crosslistings" : [ {
+      "course_id" : "514",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "512",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW533",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "533",
+    "course_title" : "Topog & Mon of Anc Rome",
+    "crosslistings" : [ {
+      "course_id" : "328",
+      "section_id" : "",
+      "subject" : "CLST"
+    }, {
+      "course_id" : "533",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Two key Roman cities will serve as the focus for an introduction to the archaeology and art history of the ancient Romans. Among the topics to be considered will be the development of Roman archaeology since the Renaissance, the topographical growth of the two cities, and the outlines of Roman painting, sculpture and architecture.",
+    "course_id" : "AAMW405",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "405",
+    "course_title" : "Art & Archaeology of Rome & Pompeii",
+    "crosslistings" : [ {
+      "course_id" : "274",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "2",
+      "requirement_description" : "2"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW502",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "502",
+    "course_title" : "Intro Arch Ceramics II",
+    "crosslistings" : [ {
+      "course_id" : "502",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "603",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Introduction to the art of building and city planning in the ancient Greek world, 7th-1st c. BC. Emphasis on concepts of organizing space, on issues of structure, materials, decoration, proportion, and the Mycenean and eastern heritage as well as on theory and practice of urbanism as reflected in ancient cities (Athens, Pergamon, Alexandria) and writings (Plato, Artistotle, and others). Excursions to the Penn Museum and Philadelphia. No prerequisites.",
+    "course_id" : "AAMW628",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "628",
+    "course_title" : "Greek Architecture and Urbanism",
+    "crosslistings" : [ {
+      "course_id" : "228",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "628",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Haselberger",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "C",
+      "requirement_description" : "General Requirement in Science Studies"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW738",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "738",
+    "course_title" : "Tpcs in Islamic Archaeol",
+    "crosslistings" : [ {
+      "course_id" : "738",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "731",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An introduction to the major architectural monuments and trends, as well as to the best-known objects of the medieval (seventh-to fourteenth-century) Islamic world. Attention is paid to such themes as the continuity of late antique themes, architecture as symbol of community and power, the importance of textiles and primacy of writing. Suitable for students of literature, history, anthropology as well as art history.",
+    "course_id" : "AAMW435",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "435",
+    "course_title" : "Medieval Islamica art & Architecture",
+    "crosslistings" : [ {
+      "course_id" : "435",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "415",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "489",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Holod",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course offers a survey of ancient Iranian art and culture from the painted pottery cultures of the Neolithic era to the monuments of the Persian Empire. Particular emphasis is placed on the Early Bronze Age.",
+    "course_id" : "AAMW622",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "622",
+    "course_title" : "Art of Ancient Iran",
+    "crosslistings" : [ {
+      "course_id" : "222",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "622",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Pittman",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Architecture and its decoration from Early Christian times in East and West until the sixth century A.D., and in the Byzantine lands until the Turkish Conquest.",
+    "course_id" : "AAMW432",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "432",
+    "course_title" : "Early Christian and Byzantine Architecture",
+    "crosslistings" : [ {
+      "course_id" : "432",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Ousterhout",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topic varies.",
+    "course_id" : "AAMW740",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "740",
+    "course_title" : "Topics in Medieval Art",
+    "crosslistings" : [ ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Maxwell",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topic varies.",
+    "course_id" : "AAMW537",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "537",
+    "course_title" : "Topics in Art of Iran",
+    "crosslistings" : [ {
+      "course_id" : "537",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "617",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Holod",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topic varies.",
+    "course_id" : "AAMW732",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "732",
+    "course_title" : "Topics in Byzantine Art and Architecture",
+    "crosslistings" : [ {
+      "course_id" : "732",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A discussion of the arts of the Islamic period in the countries of the western Mediterranean. The particular focus is the art of Muslim Spain (Andalusia), dealing with the importance of its architectural and artistic achievements for the art of the western Mediterranean.",
+    "course_id" : "AAMW538",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "538",
+    "course_title" : "Topics in Art of Andalusia",
+    "crosslistings" : [ {
+      "course_id" : "538",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Holod",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Topic varies.",
+    "course_id" : "AAMW523",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "523",
+    "course_title" : "Topics in Art of Ancient Near East",
+    "crosslistings" : [ {
+      "course_id" : "523",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Pittman",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW643",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "643",
+    "course_title" : "Medieval Art II",
+    "crosslistings" : [ {
+      "course_id" : "243",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "643",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Maxwell",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "AAMW703",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "703",
+    "course_title" : "The Ancient House",
+    "crosslistings" : [ {
+      "course_id" : "703",
+      "section_id" : "",
+      "subject" : "CLST"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "M",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An intensive introduction to the architecture of the Neoclassical century (ca. 1750-1850), as it made its appearance all over Europe and parts of North America. Following an exploration of the roots and intellectual preconditions of this \"true style,\" a selection of major monuments in France, Germany, Britain, and the USA will be analyzed as well as some forms of neoclassical revival in the early decades of the 20th century. Field trips to the Second Bank Building and the Art Museum in Philadelphia. No prerequisites.",
+    "course_id" : "AAMW631",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "631",
+    "course_title" : "Neoclassical Architecture",
+    "crosslistings" : [ {
+      "course_id" : "231",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "631",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Haselberger",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course surveys the arts of Byzantium from the fall of Rome to the fall of Constantinople in 1453. Study of major monuments, including icons, mosaics, architecture, and ivories provide us with an overview of this rich artistic culture. We pay special attention to the role of the Orthodox Church and liturgy in the production and reception of art works. Weekly recitation sections focus on selected major issues, such as the relationship of art to the Holy, the uses and abuses of Iconoclasm, and imperial patronage. The course also grapples with the Empire's relationship to other cultures by looking at the impact of the Christian Crusades and Moslem invasions - as well as Byzantium's crucial impact on European art (e.g., in Sicily, Spain).",
+    "course_id" : "AAMW632",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "632",
+    "course_title" : "Byzantine Art and Architecture",
+    "crosslistings" : [ {
+      "course_id" : "232",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "632",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Ousterhout",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This lecture course examines major architectural developments in the eastern Mediterranean between the 4th and 14th centuries CE. The focus is on the Byzantine Empire, with its capital at Constantinople. Lectures also devoted to related developments in the Caucasus (Armenia and Georgia), early Russia, the Balkans (Bulgaria and Serbia), Sicily and under the Normans, the Crusader states. Parallel developments in early Islamic architecture are used for comparative purposes. The course examines evidence for religious and secular buildings, as well as urbanism and settlement patterns.",
+    "course_id" : "AAMW633",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "633",
+    "course_title" : "Eastern Medieval Architecture",
+    "crosslistings" : [ {
+      "course_id" : "233",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "633",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "AAMW",
+    "department_of_record" : "AAMW",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Ousterhout",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

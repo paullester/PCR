@@ -1,0 +1,1237 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:13 +0000
+Content-Length: 62037
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:48:13 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "All independent studies must be arranged and approved by a Real Estate department faculty member with the exception of the Seevak Research Competition. Seevak Student Research Seminar: This class meets in the Spring semester to analyze how to conduct research in the real estate market - where to find data; how to critique research; how to frame research questions; how to write a business research report; how to present a business research report. Topics are provided each year. For more information regarding the Seevak Competition see the Real Estate Department's website: http://real-estate.wharton.upenn.edu/",
+    "course_id" : "REAL399",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "399",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "V",
+    "school_code" : "WH",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course examines the functions of a housing finance system, the various types of institutions that may be involved (including public as well as private), the different types of residential mortgages and mortgage-related instruments, the structure of primary and secondary markets, construction cycles, housing subsidies, and issues regarding consumer protection. Class sessions are partly lecture, partly discussion. Readings are in a bulkpack available from Wharton Reprographics and in class handouts. There will be a mid-term and final examination. Exams are open-book and emphasize problem-solving and application rather than regurgitation. They are viewed as part of the educational process for both professor and student. Inactive",
+    "course_id" : "REAL722",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "722",
+    "course_title" : "Housing Financing and Public Policy",
+    "crosslistings" : [ {
+      "course_id" : "210",
+      "section_id" : "",
+      "subject" : "FNCE"
+    }, {
+      "course_id" : "722",
+      "section_id" : "",
+      "subject" : "FNCE"
+    }, {
+      "course_id" : "210",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Staff",
+    "prerequisites" : "FNCE 602",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course provides an introduction to real estate with a focus on investment and financing issues. Project evaluation, financing strategies, investment decision making and real estate capital markets are covered. No prior knowledge of the industry is required, but students are expected to rapidly acquire a working knowledge of real estate markets. Classes are conducted in a standard lecture format with discussion required. The course contains cases that help students evaluate the impact of more complex financing and capital markets tools used in real estate. There are case studies and two mid-terms, (depending on instructor). Cross-listed with FNCE 721.",
+    "course_id" : "REAL721",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Lecture with discussion required.",
+    "course_number" : "721",
+    "course_title" : "Real Estate Investment: Analysis and Financing",
+    "crosslistings" : [ {
+      "course_id" : "209",
+      "section_id" : "",
+      "subject" : "FNCE"
+    }, {
+      "course_id" : "721",
+      "section_id" : "",
+      "subject" : "FNCE"
+    }, {
+      "course_id" : "944",
+      "section_id" : "",
+      "subject" : "FNCE"
+    }, {
+      "course_id" : "209",
+      "section_id" : "",
+      "subject" : "REAL"
+    }, {
+      "course_id" : "944",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Ferreira, Sinai, Wong, Handbury",
+    "prerequisites" : "FNCE 611 or FNCE 612",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course provides an introduction to real estate with a focus on investment and financing issues. Project evaluation, financing strategies, investment decision making and real estate capital markets are covered. No prior knowledge of the industry is required, but students are expected to rapidly acquire a working knowledge of real estate markets. Classes are conducted in a standard lecture format with discussion required. The course contains cases that help students evaluate the impact of more complex financing and capital markets tools used in real estate. There are case studies and two mid-terms, (depending on instructor). All PhD students will be expected to complete a research paper in addition to the successful completion of the course examination requirements.",
+    "course_id" : "REAL944",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "944",
+    "course_title" : "Real Estate Investment: Analysis and Financing",
+    "crosslistings" : [ {
+      "course_id" : "721",
+      "section_id" : "",
+      "subject" : "FNCE"
+    }, {
+      "course_id" : "944",
+      "section_id" : "",
+      "subject" : "FNCE"
+    }, {
+      "course_id" : "721",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Ferreira, Sinai, Wong",
+    "prerequisites" : "FNCE 601",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Real estate is a rapidly changing and evolving field. Traditional course offerings are not always able to incorporate the most recent advances in the many areas that make up the field of real estate. In this course, the participants - both faculty and students - research and present current topics and recent advances in real estate. The content will vary depending on the participants' interests and areas of expertise, but will typically cover urban economics, spatial issues, the economics of housing and commercial real estate markets, and real estate finance and investment. This course is intended to expand students' awareness of current topics in real estate and to prepare them to conduct their own academic quality research. The proseminar is organized as a series of lectures by faculty and students on topics of their own choosing. These lectures may involve well-known areas of knowledge, research, and methodology, as well as subjects currently under study. The main course requirements are preparing and presenting a series of lectures on a real estate topic (subject to the organizing faculty member's approval) and writing a research proposal that describes a workable project building upon or extending one of the topics covered in the course.",
+    "course_id" : "REAL900",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "900",
+    "course_title" : "Real Estate Proseminar",
+    "crosslistings" : [ ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The purpose of this course is to examine the financing of governments in the urban economy. Topics to be covered include the causes and consequences of the urban fiscal crisis, the design of optimal tax and spending policies for local governments, funding of public infrastructures and the workings of the municipal bond market, privatization of government services, and public financial systems for emerging economies. Applications include analyses of recent fiscal crises, local services and taxes as important determinants of real estate prices, the infrastructure crisis, financing and the provision of public education, and fiscal constitutions for new democracies using South Africa as an example. All PhD students will be expected to complete a research paper in addition to the successful completion of the course examination requirements.",
+    "course_id" : "REAL973",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "973",
+    "course_title" : "Urban Fiscal Policy",
+    "crosslistings" : [ ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Inman",
+    "prerequisites" : "MGEC 621",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The purpose of this course is to examine the financing of governments in the urban economy. Topics to be covered include the causes and consequences of the urban fiscal crisis, the design of optimal tax and spending policies for local governments, funding of public infrastructures and the workings of the municipal bond market, privatization of government services, and public financial systems for emerging economies. Applications include analyses of recent financial crises, local services and taxes as important determinants of real estate prices, the infrastructure crises, financing and the provision of public education, and fiscal constitutions for new democracies using South Africa as an example.",
+    "course_id" : "REAL230",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "230",
+    "course_title" : "Urban Fiscal Policy",
+    "crosslistings" : [ {
+      "course_id" : "230",
+      "section_id" : "",
+      "subject" : "BEPP"
+    }, {
+      "course_id" : "230",
+      "section_id" : "",
+      "subject" : "FNCE"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Inman",
+    "prerequisites" : "FNCE 101",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "V",
+    "school_code" : "WH",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "REAL990",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "990",
+    "course_title" : "Masters Thesis",
+    "crosslistings" : [ ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "See Applied Economics Ph.D. Program Prerequisites. This course covers fundamental and cutting-edge topics in urban economics and real estate as well as the most important econometric issues that arise in the estimation of urban economics and real estate models. The first part of the course focuses on the application of modern econometric methods to analyze empirical questions in the broad urban economics field, which includes topics from public economics and local finances, such as household sorting and valuation of public goods. This part of the course is especially concerned about dealing with non-experimental data, and also provides a guide for tools that are useful for applied research. The second and third parts of the course examine the economic modeling and intuition of a range of topics in urban economics and real estate,such as spatial equilibrium, supply and demand of space, housing prices and cycles. In addition, special emphasis is given to how the understanding of economic theory and institutions can help any empirical analysis. At the end of the course students should have a firm grasp of theory and econometric tools that lead to convincing empirical applications. All PhD students will be expected to complete a research paper in addition to the successful completion of the course examination requirements.",
+    "course_id" : "REAL945",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "945",
+    "course_title" : "Urban Real Estate Economics",
+    "crosslistings" : [ ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Ferreira",
+    "prerequisites" : "MGEC 601",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The purpose of this course is to examine the financing of governments in the urban economy. Topics to be covered include the causes and consequences of the urban fiscal crisis, the design of optimal tax and spending policies for local governments, funding of public infrastructures and the workings of the municipal bond market, privatization of government services, and public financial systems for emerging economies. Applications include analyses of recent fiscal crises, local services and taxes as important determinants of real estate prices, the infrastructure crises, financing and the provision of public education, and fiscal constitutions for new democracies using South Africa as an example.",
+    "course_id" : "REAL730",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Lecture, discussion.",
+    "course_number" : "730",
+    "course_title" : "Urban Fiscal Policy",
+    "crosslistings" : [ {
+      "course_id" : "773",
+      "section_id" : "",
+      "subject" : "BEPP"
+    }, {
+      "course_id" : "730",
+      "section_id" : "",
+      "subject" : "FNCE"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Inman",
+    "prerequisites" : "MGEC 621",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : ".5"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "What makes a successful entrepreneur in the real estate industry? This half semester mini-course exposes undergraduates and MBA students to this question in the context of real estate opportunities past and present: equity investments, debt investments and real estate operating companies. The topics require the evaluation of entrepreneurial opportunities, structures, investment decision-making, and risks which are present in commercial real estate markets. This course requires a strong understanding of core business topics, especially: entrepreneurship, finance, management and real estate. No formal prerequisites or past experience are required but will prove helpful. This course focuses on identifying real world opportunities, developing concepts, identifying and mitigating risks, raising capital and exiting investments. The course consists of lectures by the professor, case discussions, and guest lectures by leading entrepreneurs.",
+    "course_id" : "REAL891",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "The course consists of lectures by the professor, case discussions, and guest lectures by leading entrepreneurs.  Offered in the first half of the semester.",
+    "course_number" : "891",
+    "course_title" : "Real Estate Entrepreneurship",
+    "crosslistings" : [ {
+      "course_id" : "396",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "L",
+    "school_code" : "WH",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A policy-oriented course, topics include the role of housing in economic development, the functions and objectives of a housing finance systems, an overview of the U.S. system, housing finance instruments, characteristics of primary and secondary mortgage markets, housing subsidies, factors affecting allocational efficiency, cyclical instability in residential mortgage and construction markets.",
+    "course_id" : "REAL210",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "210",
+    "course_title" : "Housing Finance and Public Policy",
+    "crosslistings" : [ {
+      "course_id" : "210",
+      "section_id" : "",
+      "subject" : "FNCE"
+    }, {
+      "course_id" : "722",
+      "section_id" : "",
+      "subject" : "FNCE"
+    }, {
+      "course_id" : "722",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Staff",
+    "prerequisites" : "FNCE 101 & STAT 101",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "V",
+    "school_code" : "WH",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course considers a range of local policies in cities and regions. Examples include: clusters and other local development initiatives, large scale regional policies, employment zones and other targeted policies. More traditional urban policies such as zoning and planning and constraints, transportation pricing, and parking policies among many others will also be considered. Practical examples will be extremely diverse and include the Silicon Valley and attempts to copy it, the Tennessee Valley Authority, housing retrictions in developing countries such as Brazil, congestion pricing in London, etc. Students will be expected to actively participate and make presentations. The course emphasizes the importance of the economic context, the understanding of the underlying rationale for policies, and how the private agents respond to public incentives. The main learning goals are the following: be able to use simple empirical tools of economic evaluations, be able to articulate a critical analysis of competing viewpoints and assessments, and be able to integrate various analytic steps into an overal assessment of economic policies that relies on sound principles and is well argued.",
+    "course_id" : "REAL772",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "772",
+    "course_title" : "Urban Public Policy & Private Economic Development",
+    "crosslistings" : [ {
+      "course_id" : "206",
+      "section_id" : "",
+      "subject" : "BEPP"
+    }, {
+      "course_id" : "772",
+      "section_id" : "",
+      "subject" : "BEPP"
+    }, {
+      "course_id" : "206",
+      "section_id" : "",
+      "subject" : "REAL"
+    }, {
+      "course_id" : "972",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Gilles Duranton",
+    "prerequisites" : "Microeconomics, basic familiarity with Statistics",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course considers the pervasive interactions between real estate developers and government. Governments influence real estate development in many ways: through zoning laws, taxes, public expenditures, impact fees, infrastructure, building codes, environmental regulations, to name just a few. Much of the time in the course is spent understanding the effect on residential and commercial real estate development of these government interventions. There are lectures, student led discussions, special lectures by private developers and policy officials. Prerequisite: Microeconomics course with a grade of B or better. All PhD students will be expected to complete a research paper in addition to the examination requirements.",
+    "course_id" : "REAL972",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "972",
+    "course_title" : "Urban Public Policy & Private Economic Development",
+    "crosslistings" : [ {
+      "course_id" : "206",
+      "section_id" : "",
+      "subject" : "BEPP"
+    }, {
+      "course_id" : "772",
+      "section_id" : "",
+      "subject" : "BEPP"
+    }, {
+      "course_id" : "206",
+      "section_id" : "",
+      "subject" : "REAL"
+    }, {
+      "course_id" : "772",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Pack",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course, is designed for majors in Real Estate, but is also open to finance-oriented students who wish a deeper analysis of real estate investment and investment analysis issues than that offered in REAL/FNCE 721. The class will contain a mixture of lectures, guest speakers and case discussions. Academic research is paired with recent industry analysis of key issues in order to marry sound theory and empirical results with current events and practices. Several classes will include lectures outlining what economics and finance tell us about a number of topics. Generally, these will be followed by guest lectures from industry professionals who will focus on a specific application of the principles introduced in the lectures. Format: Lecture, industry speakers.",
+    "course_id" : "REAL840",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "840",
+    "course_title" : "Advanced Real Estate Investment and Analysis",
+    "crosslistings" : [ {
+      "course_id" : "240",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Gyourko",
+    "prerequisites" : "REAL/FNCE721",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course examines the fundamentals of real estate finance and development from a legal perspective. The course serves as a foundation course for real estate majors and provides an introduction to real estate for other students. It attempts to develop skills in using legal concepts in a real estate transactional setting. The course will be of interest to students contemplating careers in accounting, real estate development, real estate finance, city planning, or banking. The main topics covered may include the following: land acquisition, finance; choice of entity; tax aspects; management (leasing, environmental); disposition of real property (sale of mortgaged property, foreclosures, wraparound mortgages, sale-leasebacks); and recent legal developments.",
+    "course_id" : "REAL204",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "204",
+    "course_title" : "Real Estate Law",
+    "crosslistings" : [ {
+      "course_id" : "204",
+      "section_id" : "",
+      "subject" : "LGST"
+    }, {
+      "course_id" : "804",
+      "section_id" : "",
+      "subject" : "LGST"
+    }, {
+      "course_id" : "804",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "V",
+    "school_code" : "WH",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed for majors in Real Estate, but is also open to finance-oriented students who wish a deeper analysis of real estate investment and investment analysis issues than that offered in REAL/FNCE 209. The class will contain a mixture of lectures, guest speakers and case discussions. Academic research is paired with recent industry analysis of key issues in order to marry sound theory and empirical results with current events and practices. Several classes will include lectures outlining what economics and finance tell us about a number of topics. Generally, these will be followed by guest lectures from industry professionals who will focus on a specific application of the principles introduced in the lectures.",
+    "course_id" : "REAL240",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "240",
+    "course_title" : "Advanced Real Estate Investment and Analysis",
+    "crosslistings" : [ {
+      "course_id" : "840",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Gyourko",
+    "prerequisites" : "REAL 209",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "U",
+    "school_code" : "WH",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course focuses on international comparisons of housing finance systems and housing market outcomes. This includes comparative analyses of the economic factors that underlay housing market differences and similarities. Changing housing market institutions and policies in previously socialist economies and newly emerging countries are examined. The course also addresses integration of global financial markets for national housing markets. International speakers present their views on institutional innovations and the policy setting process in their respective markets. Various approaches to understanding these issues will be used, including readings, written assignments, and group projects.",
+    "course_id" : "REAL236",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "236",
+    "course_title" : "International Housing Comparisons",
+    "crosslistings" : [ {
+      "course_id" : "236",
+      "section_id" : "",
+      "subject" : "BEPP"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Wachter",
+    "prerequisites" : "ECON 1, ECON2, FNCE 101",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "V",
+    "school_code" : "WH",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course provides an introduction to real estate with a focus on investment and financing issues. Project evaluation, financing strategies, investment decision making and real estate capital markets are covered. No prior knowledge of the industry is required, but students are expected to rapidly acquire a working knowledge of real estate markets. Classes are conducted in a standard lecture format with discussion required. The course contains cases that help students evaluate the impact of more complex financing and capital markets tools used in real estate. There are case studies and two midterms, (depending on instructor).",
+    "course_id" : "REAL209",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "209",
+    "course_title" : "Real Estate Investment: Analysis and Financing",
+    "crosslistings" : [ {
+      "course_id" : "209",
+      "section_id" : "",
+      "subject" : "FNCE"
+    }, {
+      "course_id" : "721",
+      "section_id" : "",
+      "subject" : "FNCE"
+    }, {
+      "course_id" : "721",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Ferreira, Sinai, Wong, Handbury",
+    "prerequisites" : "FNCE 100 & STAT 101-102",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "V",
+    "school_code" : "WH",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : ".5"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "As a truly non-U.S. focused course, we explore the world of cross-border real estate development and investment, with a focus on fast growing emerging market economies. We examine the rational for international real estate investing and its challenges-including demographic, economic, transparency, taxation, subsidy, legal and political issues, the strategies of composing an international real estate portfolio, the macro and micro factors that will determine the performance of the investment, and the different investment formats suited to different international settings. International cases presented by practitioners are an integral part of the course. Cases have been selected to cover different types of real estate developments: residential, office, retail, hospitality, and logistics-important emerging market countries/continents, (East/South Asia, Latin America, Russia, SSAfrica) and different investment strategies.",
+    "course_id" : "REAL890",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "This class is offered in the second half of the semester.",
+    "course_number" : "890",
+    "course_title" : "International Real Estate Comparisons",
+    "crosslistings" : [ {
+      "course_id" : "390",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "All independent studies must be arranged and approved by a Real Estate Department faculty member with the exception of the Seevak Research Competition. Seevak Student Research Seminar: This class meets in the Spring s analyze how to conduct research in the real estate market, where how to critique research, how to frame research questions, how to business research report, how to present a business research repo are provided each year. For further information regarding the An Research Competition see the Real Estate department's website: http://real-estate.wharton.upenn.edu/",
+    "course_id" : "REAL899",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "899",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "WH",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : ".5"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "As a truly non-U.S. focused course, we explore the world of cross-border real estate development, with a focus on fast growing emerging market economies. We examine the rational for international real estate investing and its challenges-including demographic, economic, transparency, taxation, subsidy, legal and political issues, the strategies of composing an international real estate portfolio, the macro and micro factors that will determine the performance of the investment, and the different investment formats suited to different international settings. International cases presented by practitioners are an integral part of the course. Cases have been selected to cover different types of real estate developments: residential, office, retail, hospitality, and logistics-important emerging market countries/continents, (East/South Asia, Latin America, Russia, SSAfrica) and different investment strategies.",
+    "course_id" : "REAL390",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "This class is offered in the second half of the semester.",
+    "course_number" : "390",
+    "course_title" : "International Real Estate Comparisons",
+    "crosslistings" : [ {
+      "course_id" : "890",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "V",
+    "school_code" : "WH",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "REAL999",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "999",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "WH",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : ".5"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "What makes a successful entrepreneur in the real estate industry? This half semester mini-course exposes undergraduates and MBA students to this question in the context of real estate opportunities past and present: equity investments, debt investments and real estate operating companies. The topics require the evaluation of entrepreneurial opportunities, structures, investment decision-making, and risks which are present in commercial real estate markets. This course requires a strong understanding of core business topics, especially: entrepreneurship, finance, management and real estate. No formal prerequisites or past experience are required but will prove helpful. This course focuses on identifying real world opportunities, developing concepts, identifying and mitigating risks, raising capital and exiting investments.",
+    "course_id" : "REAL396",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "The course consists of lectures by the professor, case discussions, and guest lectures by leading entrepreneurs.  Offered in the first half of the semester.",
+    "course_number" : "396",
+    "course_title" : "Real Estate Entrepreneur",
+    "crosslistings" : [ {
+      "course_id" : "891",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "V",
+    "school_code" : "WH",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course examines the fundamentals of real estate finance and development from a legal perspective. The course serves as a foundation course for real estate majors and provides an introduction to real estate for other students. It attempts to develop skills in using legal concepts in a real estate transactional setting. The course will be of interest to students contemplating careers in accounting, real estate development, real estate finance, city planning, or banking. The main topics covered may include the following: land acquisition, finance; choice of entity; tax aspects; management (leasing, environmental); disposition of real property (sale of mortgaged property, foreclosures, wraparound mortgages, sale-leasebacks); and recent legal developments. Format: Although some of the material is presented by lecture, the instructor expects considerable class participation. Cross- listed with LGST 804.",
+    "course_id" : "REAL804",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Although some of the material is presented by lecture, the instructor expects considerable class participation.",
+    "course_number" : "804",
+    "course_title" : "Real Estate Law",
+    "crosslistings" : [ {
+      "course_id" : "204",
+      "section_id" : "",
+      "subject" : "LGST"
+    }, {
+      "course_id" : "804",
+      "section_id" : "",
+      "subject" : "LGST"
+    }, {
+      "course_id" : "204",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Urban Real Estate Economics uses economic concepts to analyze real estate markets, values and trends. The course focuses on market dynamics in the U.S. and internationally, with an emphasis on how urban growth and local and federal government policies impact urban development and real estate pricing. A group development project gives hands on experience, and invited guest speakers bring industry knowledge. Besides the group project and presentation, problem sets are required along with a midterm and an optional second exam.",
+    "course_id" : "REAL215",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "215",
+    "course_title" : "Urban Real Estate Economics",
+    "crosslistings" : [ {
+      "course_id" : "724",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Wachter",
+    "prerequisites" : "FNCE 100 & 101",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "V",
+    "school_code" : "WH",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "REAL321",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "321",
+    "course_title" : "Real Estate Development, (see REAL 821)",
+    "crosslistings" : [ {
+      "course_id" : "768",
+      "section_id" : "",
+      "subject" : "ARCH"
+    }, {
+      "course_id" : "821",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "WH",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Urban Real Estate Economics uses economic concepts to analyze real estate markets, values, and trends. The course focuses on market dynamics in the U.S. and internationally, with an emphasis on how urban growth and local and federal government policies impact urban development and real estate pricing. A group development project gives hands on experience, and invited guest speakers bring industry knowledge. Besides the group project and presentation, problem sets are required along with a midterm and optional second exam.",
+    "course_id" : "REAL724",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Lecture.",
+    "course_number" : "724",
+    "course_title" : "Urban Real Estate Economics",
+    "crosslistings" : [ {
+      "course_id" : "215",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Wachter",
+    "prerequisites" : "MGEC 621, Managerial Economics",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course evaluates \"ground-up\" development as well as re-hab, re-development, and acquisition investments. We examine raw and developed land and the similarities and differences of traditional real estate product types including office, R & D, retail, warehouses, single family and multi-family residential, mixed use, and land as well as \"specialty\" uses like golf courses, assisted living, and fractional share ownership. Emphasis is on concise analysis and decision making. We discuss the development process with topics including market analysis, site acquisition, due diligence, zoning, entitlements, approvals, site planning, building design, construction, financing, leasing, and ongoing management and disposition. Special topics like workouts and running a development company are also discussed. Course lessons apply to all markets but the class discusses U.S. markets only. Throughout the course, we focus on risk management and leadership issues. Numerous guest lecturers who are leaders in the real estate industry participate in the learning process. Format: predominately case analysis and discussion, some lectures, project visits.",
+    "course_id" : "REAL821",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Predominately case analysis, discussion, some lectures, and project visits.",
+    "course_number" : "821",
+    "course_title" : "Real Estate Development",
+    "crosslistings" : [ {
+      "course_id" : "768",
+      "section_id" : "",
+      "subject" : "ARCH"
+    }, {
+      "course_id" : "321",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Nakahara",
+    "prerequisites" : "REAL/FNCE 721 & REAL/LGST 804.The prerequisites are STRICTLY enforced for this class unless it is undersubscribed.",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course considers a range of local policies in cities and regions. Examples include: clusters and other local development initiatives, large scale regional policies, employment zones and other targeted policies. More traditional urban policies such as zoning and planning and constraints, transportation pricing, and parking policies among many others will also be considered. Practical examples will be extremely diverse and include the Silicon Valley and attempts to copy it, the Tennessee Valley Authority, housing retrictions in developing countries such as Brazil, congestion pricing in London, etc. Students will be expected to actively participate and make presentations. The course emphasizes the importance of the economic context, the understanding of the underlying rationale for policies, and how the private agents respond to public incentives. The main learning goals are the following: be able to use simple empirical tools of economic evaluations, be able to articulate a critical analysis of competing viewpoints and assessments, and be able to integrate various analytic steps into an overal assessment of economic policies that relies on sound principles and is well argued.",
+    "course_id" : "REAL206",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "206",
+    "course_title" : "Urban Public Policy & Private Economic Development",
+    "crosslistings" : [ {
+      "course_id" : "206",
+      "section_id" : "",
+      "subject" : "BEPP"
+    }, {
+      "course_id" : "772",
+      "section_id" : "",
+      "subject" : "BEPP"
+    }, {
+      "course_id" : "772",
+      "section_id" : "",
+      "subject" : "REAL"
+    }, {
+      "course_id" : "972",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Gilles Duranton",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "V",
+    "school_code" : "WH",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course addresses advanced topics in urban and real estate economics. The course will mix theory and empirics and will cover a broad range of topics including the modeling and estimation of agglomeration economies, land use and urban costs, transportation in cities, urban growth, migration between cities etc. The classes will mix formal presentations made by the instructor and student-led discussions of recent academic papers. In addition to presentations, students will be expected to complete a series of assignments including a short original research paper.",
+    "course_id" : "REAL946",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "All PhD students will be expected to complete a research paper in addition to the successful completion of the course examination requirements.",
+    "course_number" : "946",
+    "course_title" : "Advanced Topics in Urban Econonomics",
+    "crosslistings" : [ ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "FERREIRA,DURANTON",
+    "prerequisites" : "The course assumes that students have familiarity with standard first year econometrics and microeconomics.",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed for students interested in the economics and operations of housing markets. It is primarily a U.S. focused course, but does include a limited amount of international material for comparative purposes. The class is divided into four sections: (1) supply and demand for housing, including the operations of homebuilders and rental landlords; (2) house prices, including cycles and price dynamics; (3) international comparisons; and (4) public policy analysis applied to a current housing markets-related issue. This course presumes knowledge of intermediate economics, as we will apply that knowledge throughout the semester. For Wharton students, this means you must have passed BEPP 250 (undergrads) or MGEC 611 and 612 for MBA's. Non-Wharton students should have taken the equivalent course in the College.",
+    "course_id" : "REAL208",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Lecture with discussion required.",
+    "course_number" : "208",
+    "course_title" : "Housing Markets",
+    "crosslistings" : [ {
+      "course_id" : "208",
+      "section_id" : "",
+      "subject" : "BEPP"
+    }, {
+      "course_id" : "708",
+      "section_id" : "",
+      "subject" : "BEPP"
+    }, {
+      "course_id" : "708",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "GYOURKO",
+    "prerequisites" : "Managerial Economics (BEPP 250) or equivalent.",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "V",
+    "school_code" : "WH",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed for students interested in the economics and operations of housing markets. It is primarily a U.S. focused course, but does include a limited amount of international material for comparative purposes. The class is divided into four sections: (1) supply and demand for housing, including the operations of homebuilders and rental landlords; (2) house prices, including cycles and price dynamics; (3) international comparisons; and (4) public policy and analysis applied to a current housing markets-related issue. This course presumes knowledge of intermediate economics, as we will apply that knowledge throughout the semester. For Wharton students, this means you must have passed BEPP 250 (undergrads) or MGEC 611 and 612 for MBA's. Non-Wharton students should have taken the equivalent course in the College.",
+    "course_id" : "REAL708",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Lecture with discussion required.",
+    "course_number" : "708",
+    "course_title" : "Housing Markets",
+    "crosslistings" : [ {
+      "course_id" : "208",
+      "section_id" : "",
+      "subject" : "BEPP"
+    }, {
+      "course_id" : "708",
+      "section_id" : "",
+      "subject" : "BEPP"
+    }, {
+      "course_id" : "208",
+      "section_id" : "",
+      "subject" : "REAL"
+    } ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "GYOURKO",
+    "prerequisites" : "Microeconomics for Managers (MGEC 611) and Microeconomics for Managers (Advanced) (MGEC 612) or equivalent.",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : ".5"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "REAL723",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "WEMBA COURSE",
+    "course_number" : "723",
+    "course_title" : "INTRODUCTION TO REAL ESTATE",
+    "crosslistings" : [ ],
+    "department" : "REAL",
+    "department_of_record" : "REAL",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Sinai",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

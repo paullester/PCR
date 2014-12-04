@@ -1,0 +1,1518 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:30 +0000
+Content-Length: 64483
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3525579948.39711.0000; expires=Thu, 04-Dec-2014 09:48:30 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is an introduction to some of the central problems in global justice. Some of the topics that we will examine include realism, human rights, sovereignty and intervention, economic justice, and war and morality. We will look at questions such as: Is it coherent to talk about global justice, or is the global arena essentially a Hobbesian state of nature? In what sense are human rights universal? Is the idea of universal rights compatible with the political sovereignty of states? What is a just war? What is terrorism, and what are the moral limits in combating terrorism? Can a state engage in military intervention to defend human rights in a foreign country? Readings will be draw from contemporary authors such as Rawls, Walzer,and Sen, as well as historical figures like Kant and Hobbes.",
+    "course_id" : "PPE 271",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "271",
+    "course_title" : "Global Justice",
+    "crosslistings" : [ {
+      "course_id" : "271",
+      "section_id" : "",
+      "subject" : "PHIL"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Tan",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PPE 291",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "291",
+    "course_title" : "Topics in Djt Theme",
+    "crosslistings" : [ ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PPE 062",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "062",
+    "course_title" : "Soviet & Post-Sov Econ",
+    "crosslistings" : [ {
+      "course_id" : "189",
+      "section_id" : "",
+      "subject" : "RUSS"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "01",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course aims to offer a historical overview about human reasoning, as well as to illustrate how logical reasoning can be treated in a rigorous way by formal means. In particular, we shall trace the attempts to provide an accountof correct reasoning from Aristotle and Euclid, to the work of Boole and Frege in the 19th century. We shall then focus on deductively correct reasoning: those circumstances in which the truth of a conclusion is guaranteed by the truth and correctness of the premises and reasoning adopted to reach it. Our goal is to distinguish valid and invalid arguments by purely formal means. As opposed to the analysis of deductive reasoning carried out in the first part of the course, in the second part we shall concentrate on inductive reasoning. We shall review the skeptic challenge to empirical knowledge, and examine some answers to such challenge. In this setting we shall consider the development of probability calculus and decision theory.",
+    "course_id" : "PPE 101",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "101",
+    "course_title" : "Nature of Reasoning",
+    "crosslistings" : [ ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "01",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course consists of a detailed examination of evolutionary theory and its philosophical foundations. The course begins with a consideration of Darwin's formulation of evolutionary theory and the main influences on Darwin. We will then consider two contemporary presentations of the theory Richard Dawkins' and Richard Lewontin's. The remainder of the course will deal with a number of foundational issues and may include discussions of adaptation, what constitutes a species, whether there is evolutionary progress, and the concept of fitness. We will also discuss the units of selection, the alleged reduction of classical genetics to molecular genetics, and the possibility of grounding ethics in evolutionary theory.",
+    "course_id" : "PPE 225",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "225",
+    "course_title" : "Philosophy of Biology",
+    "crosslistings" : [ {
+      "course_id" : "226",
+      "section_id" : "",
+      "subject" : "PHIL"
+    }, {
+      "course_id" : "521",
+      "section_id" : "",
+      "subject" : "PHIL"
+    }, {
+      "course_id" : "128",
+      "section_id" : "",
+      "subject" : "STSC"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Domotor, Weisberg",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "N",
+      "requirement_description" : "Natural Science &amp; Math Sector"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course consists of a detailed examination of evolutionary theory and its philosophical foundations. The course begins with a consideration of Darwin's formulation of evolutionary theory and the main influences on Darwin. We will then consider two contemporary presentations of the theories of Richard Dawkins'and Richard Lewontin's. The remainder of the course will deal with a number of foundational issues and may include discussions of adaptation, what constitutes a species, evolutionary progress, the concept of fitness, the units of selection, the alleged reduction of classical genetics to molecular genetics, and the possibility of grounding ethics in evolutionary theory. The evolution of altruism will also be discussed, time permitting.",
+    "course_id" : "PPE 421",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "421",
+    "course_title" : "Philosophy of Biology",
+    "crosslistings" : [ {
+      "course_id" : "226",
+      "section_id" : "",
+      "subject" : "PHIL"
+    }, {
+      "course_id" : "421",
+      "section_id" : "",
+      "subject" : "PHIL"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Weisberg",
+    "prerequisites" : "Either two philosophy courses or BIOL 101/102 (or equivalent).",
+    "register_subgroup_one" : "03",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Student arranges with a faculty member in Philosophy, Economics or Political Science to pursue a program of reading and writing on a suitable topic.",
+    "course_id" : "PPE 299",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "299",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PPE 298",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "298",
+    "course_title" : "Study Abroad",
+    "crosslistings" : [ ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A survey of moral problems in medicine and biomedical research. Problems discussed include: genetic manipulation, informed consent, infanticide, abortion, euthanasia, and the allocation of medical resources. Moral theory is presented with the aim of enabling students to think critically and analytically about moral issues. The need for setting biomedical issues in broader humanistic perspective is stressed.",
+    "course_id" : "PPE 072",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "072",
+    "course_title" : "Biomedical Ethics",
+    "crosslistings" : [ {
+      "course_id" : "101",
+      "section_id" : "",
+      "subject" : "HSOC"
+    }, {
+      "course_id" : "072",
+      "section_id" : "",
+      "subject" : "PHIL"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "01",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "S",
+      "requirement_description" : "Society Sector"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This is an integrative senior seminar (open to others by departmental permission). The following website will give descriptions of the specific capstone courses that will be offered each semester: http://www.sas.upenn.edu/ppe/Courses/general",
+    "course_id" : "PPE 476",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "PPE Capstone Seminar",
+    "course_number" : "476",
+    "course_title" : "Philosophy, Politics and Economics",
+    "crosslistings" : [ {
+      "course_id" : "233",
+      "section_id" : "",
+      "subject" : "PPE"
+    }, {
+      "course_id" : "395",
+      "section_id" : "",
+      "subject" : "PSCI"
+    }, {
+      "course_id" : "418",
+      "section_id" : "",
+      "subject" : "PSCI"
+    }, {
+      "course_id" : "453",
+      "section_id" : "",
+      "subject" : "PSYC"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "03",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Judgments, decisions under certainty and uncertainty, problem solving, logic, rationality, and moral thinking.",
+    "course_id" : "PPE 153",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "An LPS section may be given",
+    "course_number" : "153",
+    "course_title" : "Judgment and Decisions",
+    "crosslistings" : [ {
+      "course_id" : "253",
+      "section_id" : "",
+      "subject" : "PSYC"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff",
+    "prerequisites" : "Econ 1 or Stat 111 or Stat 101",
+    "register_subgroup_one" : "01",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This is a discussion and project-based course that will provide you with a hands-on introduction to the field of agent-based modeling. An agent-based model is a tool used by social scientists to study how large-scale social dynamics result from micro-level individual behavior. In its basic form, a collection of individuals, or agents, are programmed into a computer, along with a simple behavioral algorithm describing how they act. The computer then allows the agents to interact (possibly in both space and time), and ultimately generates a social dynamic that can then be analyzed in terms of the behavioral rules. In the social sciences many problems we are interested in involve group phenomena that may seem perplexing when viewed in the aggregate. Examples include fads, norms, segregation, stereotyping, and network formation. The goal of an agent-based model is to look at the micro-level decisions that people make - the decision to live close to a friend, slow down to take a look at an accident, arrive early to the theater to get a good seat, or return a phone call - and study how these \"small\" decisions may have large and unintended consequences for society as a whole.",
+    "course_id" : "PPE 320",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "320",
+    "course_title" : "Agent-Based Modeling for the Social Sciences",
+    "crosslistings" : [ ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course may be taken by a PPE student for advanced research. Enrollment by permit only.",
+    "course_id" : "PPE 499",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "499",
+    "course_title" : "Advanced Research",
+    "crosslistings" : [ ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "03",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The Course explores the development of economic theory for antiquity to the twentieth century. Students read and discuss a rich collection of writing from Aristotle and Aquinas to Marshall and Keynes, with special attention to Adam Smith, David Ricardo, and Karl Marx. The course pays special interdisciplinary attention to many historical (great events, social changes), political (governmental involvement in the economy, the process of democratization), and philosophical (theories of value, the notions of freedom,equality, and fairness) factors that shaped economic thinking and economy. Many fascinating questions are discussed. What are the economic values and goods? How are those goods created? How do we value them? What is the role of labor in creating these goods? And what is the role of trade and money? What is the state's role? What is the role of freedom, equality, and other political values in the economic process? In the past, these questions were considered so important that the greatest thinkers and philosophers discussed them. The course attempts to illustrate that great tradition and attract students' attention to the fundamental economic concepts. In addition, the methodological evolution of the scientific status of economic theory is examined.",
+    "course_id" : "PPE 231",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "231",
+    "course_title" : "History of Economic Theory",
+    "crosslistings" : [ ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The course will cover non-cooperative game theory with special attention to its epistemological foundations, such as: conceptions of rationality, common knowledge and common belief, belief revision and the rationale for different solution concepts. We will also cover behavioral game theory, and examine the alternative models of social preference that have been advanced to explain experimental data.",
+    "course_id" : "PPE 417",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "417",
+    "course_title" : "Game Theory",
+    "crosslistings" : [ {
+      "course_id" : "417",
+      "section_id" : "",
+      "subject" : "PHIL"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Bicchieri",
+    "prerequisites" : "",
+    "register_subgroup_one" : "03",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "REC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "LEC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course explores the role of the U.S. Supreme Court in political struggles over the distribution and uses of power in the U.S. constitutional system. Issues include the division of powers between the state and national governments, and the branches of the federal government; economic powers of private actors and governmental regulators; the authority of governments to enforce or transform racial and gender hierarchies; and the powers of individuals to make basic choices, such as a woman's power to have an abortion. We will pay special attention to how the tasks of justifying the Supreme Court's own power, and constitutionalism more broadly, contribute to logically debatable but politically powerful constitutional arguments. Readings include Supreme Court decisions and background materials on their historical and political context.",
+    "course_id" : "PPE 270",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "270",
+    "course_title" : "Constitutional Law",
+    "crosslistings" : [ {
+      "course_id" : "271",
+      "section_id" : "",
+      "subject" : "PSCI"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Smith",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    }, {
+      "activity_code" : "SEM",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course deals with several problems that lie at the interface among philosophy, logic, linguistics, psychology, and computer science.",
+    "course_id" : "PPE 244",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "244",
+    "course_title" : "Introduction to Philosophy of Mind",
+    "crosslistings" : [ {
+      "course_id" : "244",
+      "section_id" : "",
+      "subject" : "PHIL"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Domotor",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PPE 275",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "275",
+    "course_title" : "Political Psychology",
+    "crosslistings" : [ {
+      "course_id" : "275",
+      "section_id" : "",
+      "subject" : "PSYC"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "How do minds work? This course surveys a wide range of answers to this question from the disciplines ranging from philosophy to neuroscience. The course devotes special attention to the use of simple computational and mathematical models. Topics include perception, action, thought, learning, memory and social interaction.",
+    "course_id" : "PPE 140",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "This is a Formal Reasoning course.",
+    "course_number" : "140",
+    "course_title" : "Introduction to Cognitive Science",
+    "crosslistings" : [ {
+      "course_id" : "140",
+      "section_id" : "",
+      "subject" : "CIS"
+    }, {
+      "course_id" : "001",
+      "section_id" : "",
+      "subject" : "COGS"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff",
+    "prerequisites" : "An introductory course in Computer Science, Linguistics, Neuroscience, Philosophy or Psychology",
+    "register_subgroup_one" : "01",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    }, {
+      "activity_code" : "LEC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PPE 073",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "073",
+    "course_title" : "Topics in Ethics",
+    "crosslistings" : [ {
+      "course_id" : "073",
+      "section_id" : "",
+      "subject" : "PHIL"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "01",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PPE 290",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "290",
+    "course_title" : "Topics in Cbt Theme",
+    "crosslistings" : [ ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will provide an introduction to models of human decision making. One of the primary purposes of the course is to provide a set of basic tools that will help the student translate uncertainty into numbers. Rational choice under uncertainty is by far the most used theory of decision making, and its applications are widespread in economics, finance, political science, law, managerial decision making, the economics of health care, and artificial intelligence. The course will use examples from each of these fields (and also fun \"paradoxes\" such as the Monty Hall Puzzle) in providing an introduction to the basic foundations of decision making. We will also look at the shortcomings of the rational choice theory: both from intuitive and empirical perspectives. No mathematical prerequisites are necessary beyond high school algebra and arithmetic.",
+    "course_id" : "PPE 110",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "Fulfills the Formal Reasoning Requirement for the College.  This course counts as either Social Structrues or Science & Technology for wharton.",
+    "course_number" : "110",
+    "course_title" : "Introduction to Decision Theory",
+    "crosslistings" : [ ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Sen",
+    "prerequisites" : "",
+    "register_subgroup_one" : "01",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is about strategically interdependent decisions. In such situations, the outcome of your actions depends also on the actions of others. When making your choice, you have to think what the others will choose, who in turn are thinking what you will be choosing, and so on. Game Theory offers several concepts and insights for understanding such situations, and for making better strategic choices. This course will introduce and develop some basic ideas from game theory, using illustrations, applications, and cases drawn from business, economics, politics, sports, and even fiction and movies. Some interactive games will be played in class. There will be little formal theory, and the only pre-requisites are some high-school algebra and having taken Econ 1. However, general numeracy (facility interpreting and doing numerical graphs, tables, and arithmetic calculations) is very important. This course will also be accepted by the Economics department as an Econ course, to be counted toward the minor in Economics (or as an Econ elective).",
+    "course_id" : "PPE 201",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "Prerequisite: ECON 1",
+    "course_number" : "201",
+    "course_title" : "Strategic Reasoning",
+    "crosslistings" : [ {
+      "course_id" : "013",
+      "section_id" : "",
+      "subject" : "ECON"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Dillenberger, D",
+    "prerequisites" : "Some high school algebra, ECON 001.",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course applies psychological research to economic theory, investigating what happens when agents have human limitations and complications. The effects of limited cognitive capacities, willpower, and self-interest will be considered.",
+    "course_id" : "PPE 203",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "Prerequisite: ECON 1",
+    "course_number" : "203",
+    "course_title" : "Behavioral Economics and Psychology",
+    "crosslistings" : [ {
+      "course_id" : "265",
+      "section_id" : "",
+      "subject" : "PSYC"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff",
+    "prerequisites" : "ECON 001.",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Student arranges with a faculty member in Philosophy, Economics or Political Science to do an honors thesis on a suitable topic.",
+    "course_id" : "PPE 301",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "Open only to senior majors in PPE.",
+    "course_number" : "301",
+    "course_title" : "Directed Honors Research",
+    "crosslistings" : [ ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "03",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course examines the political and economic determinants of government policies. The course presents economic arguments for government action in the private economy. How government decides policies via simple majority voting, representative legislatures, and executive veto and agenda-setting politics will be studied. Applications include government spending and redistributive policies.",
+    "course_id" : "PPE 232",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "232",
+    "course_title" : "Political Economy",
+    "crosslistings" : [ ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff",
+    "prerequisites" : "ECON 101; MATH 104 and MATH 114 or MATH 115.  ECON 103 is recommended.",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    }, {
+      "activity_code" : "SEM",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course examines the history and significance of social contract doctrine for modern social and political thought. In particular, the works of Thomas Hobbes, John Locke, J.J. Rousseau, and John Rawls will be studied. We also study the utilitarian critique of social contract doctrine and the utilitarian views of David Hume, Adam Smith, J.S. Mill, and Karl Marx's criticism of liberal-democratic justice. This course is an introduction to many of the major figures in modern political philosophy.",
+    "course_id" : "PPE 008",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "008",
+    "course_title" : "The Social Contract",
+    "crosslistings" : [ {
+      "course_id" : "008",
+      "section_id" : "",
+      "subject" : "PHIL"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Freeman, Tan",
+    "prerequisites" : "",
+    "register_subgroup_one" : "01",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "S",
+      "requirement_description" : "Society Sector"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PPE 293",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "293",
+    "course_title" : "Topics in Ppg Theme",
+    "crosslistings" : [ ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PPE 292",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "292",
+    "course_title" : "Topics in Glo Theme",
+    "crosslistings" : [ ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course provides an introduction to the economic method for analyzing public policy questions. It develops the implications of this method for the role of government in a market economy and for the analysis of specific public projects.",
+    "course_id" : "PPE 030",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "Credit cannot be received for both ECON 030 and 231",
+    "course_number" : "030",
+    "course_title" : "Public Policy Analysis",
+    "crosslistings" : [ {
+      "course_id" : "030",
+      "section_id" : "",
+      "subject" : "ECON"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff",
+    "prerequisites" : "ECON 001 and 002 or ECON 010.",
+    "register_subgroup_one" : "01",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The course begins with an extensive discussion of models of labor market demand and supply. The rest of the course addresses a variety of related topics including the school-to-work transition, job training, employee benefits, the role of labor, unions, discrimination, workforce diversity, poverty, and public policy.",
+    "course_id" : "PPE 033",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "Credit cannot be received for both ECON 033 and 233.",
+    "course_number" : "033",
+    "course_title" : "Labor Economics",
+    "crosslistings" : [ {
+      "course_id" : "033",
+      "section_id" : "",
+      "subject" : "ECON"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff",
+    "prerequisites" : "ECON 001 and 002.",
+    "register_subgroup_one" : "01",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will examine the ethical issues and dilemmas that commonly arise in the professions, such as the law, medicine and health care, journalism, business, public and civil service, and ethnographical and archaeological research. The aim of this course is to introduce students to the moral issues and challenges that practitioners in different professions encounter and to study how moral reasoning can help us understand and confront these challenges.Some of the central organizing philosophical issues we will examine include that of collective responsibility, and the question of special or role obligation. Prerequisite: At least one of Phil 2, Phil 9, Phil 8 or equivalent",
+    "course_id" : "PPE 272",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "272",
+    "course_title" : "Ethics and the Professions",
+    "crosslistings" : [ {
+      "course_id" : "272",
+      "section_id" : "",
+      "subject" : "PHIL"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff",
+    "prerequisites" : "At Least one of PHIL 002, 008, 009 or equivalent.",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The course will use economic theory and econometric analysis to explore issues regarding decision making and allocation of resources within the family. The impact of gender roles and differences on economic outcomes will be discussed. We will study some feminist criticism of the economic tools for understanding household allocations and gender differences. The US economy will serve as the reference point though developing countries will also be discussed.",
+    "course_id" : "PPE 034",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "034",
+    "course_title" : "Economics of Family & Gender",
+    "crosslistings" : [ {
+      "course_id" : "034",
+      "section_id" : "",
+      "subject" : "ECON"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Stein",
+    "prerequisites" : "ECON 001, 002, and 103.",
+    "register_subgroup_one" : "01",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Theories of various industrial organizational structures and problems are developed, including monopoly, oligopoly, moral hazard and adverse selection. These theories are then applied to the study of various industries, antitrust cases, and regulatory issues.",
+    "course_id" : "PPE 035",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "Credit cannot be received for both ECON 035 and 235.",
+    "course_number" : "035",
+    "course_title" : "Industrial Organization",
+    "crosslistings" : [ {
+      "course_id" : "035",
+      "section_id" : "",
+      "subject" : "ECON"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff",
+    "prerequisites" : "ECON 001 and 002.",
+    "register_subgroup_one" : "01",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The relationship of economic principles to law and the use of economic analysis to study legal problems. Topics will include: property rights and intellectual property; analysis of antitrust and economic analysis of legal decision making.",
+    "course_id" : "PPE 036",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "Credit cannot be received for both ECON 036 and 234.",
+    "course_number" : "036",
+    "course_title" : "Law and Economics",
+    "crosslistings" : [ {
+      "course_id" : "036",
+      "section_id" : "",
+      "subject" : "ECON"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff",
+    "prerequisites" : "ECON 001 and 002",
+    "register_subgroup_one" : "01",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "How does google find what you're looking for? Why do real estate values rise or plummet in certain neighborhoods? Do people act rationally in economic and financial settings? Are you really only six friends away from Kevin Bacon? How does the stock market actually work? What do game theory and the Paris subway have to do with Internet routing? Networked Life will explore recent scientific efforts to explain social, econimic and technological structures -- and the way these structures interact -- on many different scales, from the behavior of individuals or small groups to that of complex networks such as the Internet and global economy.",
+    "course_id" : "PPE 112",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "112",
+    "course_title" : "Networked Life",
+    "crosslistings" : [ {
+      "course_id" : "112",
+      "section_id" : "",
+      "subject" : "CIS"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "01",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PPE 294",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "294",
+    "course_title" : "Topics in Ept Theme",
+    "crosslistings" : [ ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course explores some crucial foundational issues of contemporary social science. It focuses on vaious types of explanation, the construction of social models, and their validation. Specific topics will include: 1. Rational choice models (including game-theoretic ones) and alternative models of bounded rationality; 2. Experimental models in economics and psychology and whether they present a radical departure from traditional exonomic models; 3. Evolutionary models of the emergence of institutions, and agent-based simulations of such dynamics. In partidular, we will explore theoretical and empirical models of trust, reciprocity, cooperation and fairness, asking what motivates individuals to engage in pro-social behavior and how such behavior can emerge and persist. This course will cover some of the material presented in other Core courses, with particular attention to foundational and explanatory issues that are not usually discussed in a typical social science course.",
+    "course_id" : "PPE 204",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Prerequisite: ECON 1, ECON 2, PHIL 8, PPE 201",
+    "course_number" : "204",
+    "course_title" : "Philosophy of Social Science",
+    "crosslistings" : [ {
+      "course_id" : "228",
+      "section_id" : "",
+      "subject" : "PHIL"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Weisberg, M/Bicchieri, C",
+    "prerequisites" : "ECON 001, ECON 002, PHIL 008 and PPE 201.",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    }, {
+      "activity_code" : "SEM",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In this course we will focus on the philosophical background to questions regarding the exercise of legitimate political power and individuals' rights under the U.S. Constitution, including 1st Amendment freedoms of religion, expression, and association, the 14th Amdendment guarantee of due process and the right of privacy and obortion, the Equal Protection clause and its bearing on affirmative action and equal political rights, and the Takings and Contract clauses and their bearing on rights of private property and economic freedom. We will also discuss competing conceptions of democracy and their implications for the purported authority of courts to reverse democratically enacted decisions by a majority. In addition to Supreme Court decisions concerning these and other issues, we will read works by J.S. Mill, John Rawls, Ronald Dworkin, T.M. Scanlon, Martha Nussbaum, Cass Sunstein, and other contemporary theorists.",
+    "course_id" : "PPE 277",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "277",
+    "course_title" : "Justice, Law and Morality",
+    "crosslistings" : [ {
+      "course_id" : "277",
+      "section_id" : "",
+      "subject" : "PHIL"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "S.  Freeman",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In this course, general philosophy of science issues are applied to economics, and some problems specific to economics are tackled. While analytical questions like \"What is economics?\" or \"What is an economic explanation\" must be pursued, the ultimate goal is practical: What is good economics? How can economists contribute to a better understanding of society, and a better society? How can we make economics better? Topics to be discussed include the following: specific object and method of economics as a social science; its relation with other disciplines (physics, psychology and evolutionary theory); values in economics (welfare, freedom, equality and neutrality); the role of understanding and possible limits of a quantitative unpredictability and the pretension of prediction; causation in econometrics and in economic theory (equilibrium); selfishness and utility maximization (cognitive and behaviorist interpretations); economic models and unrealistic assumptions (realism and instrumentalism); empirical basis of economics (observation and experiment); microeconomics and macroeconomics(reductionism and autonomy); pluralism in economics (mainstream economics and heterodox schools).",
+    "course_id" : "PPE 233",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "233",
+    "course_title" : "Philosophy of Economics",
+    "crosslistings" : [ {
+      "course_id" : "233",
+      "section_id" : "",
+      "subject" : "PHIL"
+    }, {
+      "course_id" : "475",
+      "section_id" : "",
+      "subject" : "PPE"
+    }, {
+      "course_id" : "476",
+      "section_id" : "",
+      "subject" : "PPE"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Lindemans, Jan Willem",
+    "prerequisites" : "ECON 001, ECON 002 and any theoretical philosophy class.",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PPE 395",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "395",
+    "course_title" : "Pwr Shring Deeply Dv Pl",
+    "crosslistings" : [ {
+      "course_id" : "395",
+      "section_id" : "",
+      "subject" : "PSCI"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PPE 599",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "599",
+    "course_title" : "Advanced Ind Study",
+    "crosslistings" : [ ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "0"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course integrates economic, ethical and political perspectives. It examines competing theories, models, and analytical frameworks for understanding policymaking. The course will focus on: 1. How public problems are framed and described; 2. What crieteria are useful in developing and assessing policy choices; and 3. How policy choices and outcomes are mediated and influenced by individuals, organizations and political institutions.",
+    "course_id" : "PPE 202",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "202",
+    "course_title" : "The Public Policy Process",
+    "crosslistings" : [ {
+      "course_id" : "236",
+      "section_id" : "",
+      "subject" : "PSCI"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Levendusky",
+    "prerequisites" : "",
+    "register_subgroup_one" : "02",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This is an integrative senior seminar (open to others by departmental permission). The following website will give descriptions of the specific capstone courses that will be offered each semester: http://www.sas.upenn.edu/ppe/Courses/general.html",
+    "course_id" : "PPE 475",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "PPE Capstone Seminar",
+    "course_number" : "475",
+    "course_title" : "Philosophy, Politics and Economics",
+    "crosslistings" : [ {
+      "course_id" : "475",
+      "section_id" : "",
+      "subject" : "PHIL"
+    }, {
+      "course_id" : "233",
+      "section_id" : "",
+      "subject" : "PPE"
+    }, {
+      "course_id" : "418",
+      "section_id" : "",
+      "subject" : "PSCI"
+    }, {
+      "course_id" : "453",
+      "section_id" : "",
+      "subject" : "PSYC"
+    }, {
+      "course_id" : "475",
+      "section_id" : "",
+      "subject" : "PSYC"
+    } ],
+    "department" : "PPE ",
+    "department_of_record" : "PPE",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "03",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

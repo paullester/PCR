@@ -1,0 +1,237 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:14 +0000
+Content-Length: 10457
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:48:14 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course introduces students to colloquial Bengali. It gives equal emphasis to each of the four skills, reading, writing, listening, and speaking. Language will be studied in the context of socio-cultural aspects of West Bengal and Bangladesh. Besides lessons from the text, a major portion of the syllabus will be based on topics drawn from films, cultural events, festivals, food, and religion.",
+    "course_id" : "BENG404",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "404",
+    "course_title" : "Beginning Bengali Part II",
+    "crosslistings" : [ ],
+    "department" : "BENG",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Banerjee",
+    "prerequisites" : "Beginning Bengali Part I or equivalant ascertained through placement test or permission of instructor.",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "04",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The objective of this course is to develop the proficiency level of the students in all the four skills by using different genres of Bengali literature (West Bengal and Bangladesh) s its course content. Reading comprehension will be enhanced as students learn to understand authentic texts at the linguistic and cultural level while discussion (description, narration, supporting opinion) on issues related to these texts aim to hone the oral and written skills. Studentswill be allowed to work on individual texts & topics(with the instructors permission)for their final project. This is a one semester course. Spring: Bengali Popular Culture- This course aims to use as its content, different aspects of popular Bengali culture as they are represented in media (film, television, magazines, newspapers) and arts (fashion, local and regional art, music). Students will be expected to develop their linguistic skills (description, narration, supporting opinion) and socio-cultural awareness while interacting with these varied types of texts. Students will be allowed to work on individual texts & topics (with the instructors permission) for their final project. This is a one semester course.",
+    "course_id" : "BENG433",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "433",
+    "course_title" : "Advanced Bengali",
+    "crosslistings" : [ ],
+    "department" : "BENG",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Banerjee.S",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "04",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course introduces students to colloquial Bengali. It gives equal emphasis to each of the four skills, reading, writing, listening, and speaking. Language will be studied in the context of socio-cultural aspects of West Bengal and Bangladesh. Besides lessons from the text, a major portion of the syllabus will be based on topics drawn from films, cultural events, festivals, food, and religion.",
+    "course_id" : "BENG403",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "403",
+    "course_title" : "Beginning Bengali Part I",
+    "crosslistings" : [ ],
+    "department" : "BENG",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Banerjee",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "04",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "BENG434",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "434",
+    "course_title" : "Ad Bengali: Pop Culture",
+    "crosslistings" : [ ],
+    "department" : "BENG",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "BENG462",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "462",
+    "course_title" : "Readings in Bengali",
+    "crosslistings" : [ ],
+    "department" : "BENG",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course develops the student's prior knowledge of Bengali. An attempt is made to gear the syllabus to meet the specific needs of students. The focus of the course is to develop the oral and aural skills of the learner as well as improve writing skills and reading strategies. Emphasis is also laid on increasing the sociolinguistic and strategic competence of the learners so that they will be able to function in the target culture. Besides discussions on various aspects of Bengali life, students read some short literary texts in the original Bengali version.",
+    "course_id" : "BENG424",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "424",
+    "course_title" : "Intermediate Bengali Part II",
+    "crosslistings" : [ ],
+    "department" : "BENG",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Banerjee",
+    "prerequisites" : "Intermediate Bengali Part I or equivalant ascertained through placement test or permission of instructor.",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "04",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course develops the student's prior knowledge of Bengali. An attempt is made to gear the syllabus to meet the specific needs of students. The focus of the course is to develop the oral and aural skills of the learner as well as improve writing skills and reading strategies. Emphasis is also laid on increasing the sociolinguistic and strategic competence of the learners so that they will be able to function in the target culture. Besides discussions on various aspects of Bengali life, students read some short literary texts in the original Bengali version.",
+    "course_id" : "BENG423",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "423",
+    "course_title" : "Intermediate Bengali Part I",
+    "crosslistings" : [ ],
+    "department" : "BENG",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Banerjee",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "04",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "E",
+    "terms_offered_description" : "Two terms. student must enter first term."
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

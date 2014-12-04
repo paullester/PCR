@@ -1,0 +1,269 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:24 +0000
+Content-Length: 11566
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:48:24 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Foundations: Sets, Functions, Summations, and Sequences. Introduction to algorithms. Counting techniques: The pigeonhole principle, permutations and combinations. Discrete probability. Selected topics from Number theory and/or Graph theory.",
+    "course_id" : "CIT 592",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "592",
+    "course_title" : "Mathematical Foundations of Computer Science",
+    "crosslistings" : [ ],
+    "department" : "CIT ",
+    "department_of_record" : "CIT",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "EG",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Basic data structures, including lists, stacks, queues, hash tables, trees, priority queues, and Java Collections. Algorithms, algorithm types, and simple complexity analysis. Development and implementation of program specifications. Software architecture and design methods, including modular program development, correctness arguments, and testing techniques. Concepts illustrated through extensive programming assignments in Java.",
+    "course_id" : "CIT 594",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "594",
+    "course_title" : "Programming Languages and Techniques II",
+    "crosslistings" : [ ],
+    "department" : "CIT ",
+    "department_of_record" : "CIT",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "CIT 591 or consent of the instructor",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "EG",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course explores various topics in modern operating systems and computer architecture, including multithreading and synchronization, interprocess communication, memory management (caching, virtual memory, etc.), I/O, and security. We also look at techniques that are used to enhance processor performance at the hardware and software level. You will learn a variety of C and C++ programming techniques that will make you a better IT professional, and will get an understanding of what's happening \"under the covers\" in modern computer systems.",
+    "course_id" : "CIT 595",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "595",
+    "course_title" : "Digital System Organization and Design",
+    "crosslistings" : [ ],
+    "department" : "CIT ",
+    "department_of_record" : "CIT",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "CIT 593 or equivalent.",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "EG",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Relations. Finite automata, regular languages, regular grammars, and applications. Pushdown automatia, trees, context-free grammars, and applications. Turing machines. Introduction to computability and complexity theory.",
+    "course_id" : "CIT 596",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "596",
+    "course_title" : "Theory of Computation",
+    "crosslistings" : [ ],
+    "department" : "CIT ",
+    "department_of_record" : "CIT",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "CIT 592 or equivalent",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "EG",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Advanced object-oriented programming for Linux and Windows web servers, taught hands-on in a lab. Java and/or C# topics may include serialization, synchronization, reflection, advanced I/O, servlets and generic handlers, dependency injection, protecting against SQL injection, XML, Javascript, SOAP and REST web services, database access for web pages, and others. Substantial programming assignments. May be taken by MCIT and CIS graduate students.",
+    "course_id" : "CIT 597",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "597",
+    "course_title" : "Programming Languages and Techniques III",
+    "crosslistings" : [ ],
+    "department" : "CIT ",
+    "department_of_record" : "CIT",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "CIT 591 or equivalent and CIT 594 or equivalent.  No prior experience with C# or .NET required.",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "EG",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Introduction to fundamental concepts of programming and computer science for students who have little or no experience in these areas. Principles of modern object-oriented programming languages: abstraction, types, polymorphism, encapsulation, and inheritance. Basic algorithmic techniques and informal complexity analysis. Graphical user interfaces. Substantial programming assignments in Java. This course is for students who do not have an academic background in computer science and who are not pursuing the Master's in Computer Information Technology and who are not graduate students in the CIS Department. Students in SEAS graduate programs such as EE, TCOM, BIOT, MEAM , & MSE, as well as students outside SEAS, such as those in Cell & Molecular Biology (CAMB) and Genomics & Computational Biology (GCB) in the Medical School, as well as graduate students from other disciplines in the University will find this course useful.",
+    "course_id" : "CIT 590",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "590",
+    "course_title" : "Programming Languages and Techniques.",
+    "crosslistings" : [ ],
+    "department" : "CIT ",
+    "department_of_record" : "CIT",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "EG",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Introduction to fundamental concepts of programming and computer science. Principles of modern object-oriented programming languages: abstraction, types, polymorphism, encapsulation, and inheritance. Basic algorithmic techniques and informal complexity analysis. Graphical user interfaces. Substantial programming assignments.",
+    "course_id" : "CIT 591",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "591",
+    "course_title" : "Programming Languages and Techniques I",
+    "crosslistings" : [ ],
+    "department" : "CIT ",
+    "department_of_record" : "CIT",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "EG",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course provides an introduction to fundamental concepts of computer systems and computer architecture. You will learn the C programming language and an instruction set (machine language) as a basis for understanding how computers represent data, process information, and execute programs. The course also focuses on the Unix environment and includes a weekly hands-on lab session.",
+    "course_id" : "CIT 593",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "593",
+    "course_title" : "Introduction to Computer Architecture",
+    "crosslistings" : [ ],
+    "department" : "CIT ",
+    "department_of_record" : "CIT",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "EG",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

@@ -1,0 +1,3967 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:15 +0000
+Content-Length: 180041
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:48:15 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "\"Despite the overwhelming reality of economic decline; despite unimaginable poverty; despite wars, malnutrition, disease and political instability, African cultural productivity grows apace: popular literatures, oral narrative and poetry, dance, drama, and visual art all thrive.\"-- Kwame Anthony Appiah from In My Father's House What role(s) does folklore play in the lives of Africans today? How has folklore adapted to the realities of contemporary, urban Africa? This course will investigate the continuation of traditional elements produced in diverse media and circumstances in a modern, largely urban, Africa. Although traditional African culture has been transformed and changed in the face of rapid urbanization and modernity, it continues to provide a means through which people enjoy themselves and comment on a wide range of issues affecting their lives. Issues such as identity, difference, and diversity; tradition and history; modernity and development; wealth and power; politics and political change; and gender relations.",
+    "course_id" : "FOLK233",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "233",
+    "course_title" : "African Folklore",
+    "crosslistings" : [ {
+      "course_id" : "233",
+      "section_id" : "",
+      "subject" : "AFST"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will examine traditional systems of supernatural belief with an emphasis on the role of personal experience in their development and maintenance. The course will focus on the subject of belief generally conceived of as being \"folk\" in some sense (e.g., beliefs in ghosts), but will not exclude a consideration of popular and academic beliefs where appropriate (e.g., popular beliefs about UFO's and theological doctrines of the immortality of the soul). The course will be multidisciplinary in scope. This course serves as an introduction to folk belief systems and is open to qualified undergraduate students.",
+    "course_id" : "FOLK510",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "510",
+    "course_title" : "Ethnography of Belief",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hufford, D.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "J",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Adanced students may arrange for a practicum. The nature of the learning task and the work to be completed must be discussed both with the student's advisor and the practicum supervisor at the hosting organization or institution. Suitable practicum sites are museums, community or state arts organizations, not-for-profit organizations in the realm of cultural programming and advocacy, etc. The practicum may be taken for credit only once.",
+    "course_id" : "FOLK702",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "702",
+    "course_title" : "Practicum",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hufford, M.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "As well know anthropologist was once asked, \"Why do some cultures produce more things than others?\" We will address this issue as we explore the production, meaning, and use of manuscripts and books. We will begin with an understanding of the role of environment and archaeology, cultural anthropology, history, folklore, popular culture, and religious studies, we will see how these disciplines have used material culture to intepret the past and define the present. Throughout the class we will move between a disciplinary focus and one that centers on the perspective ofindividuals within their own cultures. Besides looking at the creation of these objects we will also consider consumption, commodification and display. What are the consequences of these issues for the definition of self and identity, including age, gender, social status, and ethnicity? Finally, how do individuals bridge, integrate and experience the social and natural worlds through material culture? Short writing assignments leading to the completion of a longer paper and class presentations are required.",
+    "course_id" : "FOLK655",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "655",
+    "course_title" : "Objects of Memory Objects of Desire: The Material Culture of Everyday Life",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Rabberman & Theophano",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Examination of theories concerning the origin and function of folk beliefs, investigation of the expression of folk beliefs in legend, folk art, custom and ritual. Ritual is the focal genre for explanatory purposes, and introduction to the social symbolic approach to analysis and interpretation is primary for exploration and application.",
+    "course_id" : "FOLK533",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "533",
+    "course_title" : "Folk and Unorthodox Health Systems",
+    "crosslistings" : [ {
+      "course_id" : "533",
+      "section_id" : "",
+      "subject" : "HSSC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hufford, D.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The course will explore the history and practice of popular culture and culture studies in the United States. We will begin by challenging the concepts of \"folk,\" \"mass\" and \"popular\" as well as \"American\" and \"culture.\" Furthermore, we will interrogate various media such as television, film, music, comics and popular romances to gain insights into the conditions for the reproduction of social relations. Through an analysis of audience response to performed or viewed events we will explore how and why people actively negotiate and interpret popular materials. This class will attempt to situate popular culture within a larger social, cultural and political framework. Some areas of popular culture we may investigate include MTV, talk shows, fashion, club cultures, rap and other musics, snaps, pro-wrestling, professional sports, Hollywood movies, advertising, McDonald's and there will be room to explore other areas students may find interesting. We will end by looking into the exportation of American popular culture and its reception, interpretation, adaptation and consumption around the world.",
+    "course_id" : "FOLK231",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "231",
+    "course_title" : "American Popular Culture",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Lee",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Over the past decade there has been a growing awareness of the importance of such basic aspects of human diversity as culture, (religion, language), ethnicity, economic status, gender, age and disability in health care as in other areas of life. This course will deal with (1) the social and cultural foundations of health care in the modern world and (2) the ways that diversity affects and is affected by health care. Because simplistic views of diversity reinforce stereotypes, the course necessarily recognizes that each individual belongs to more than one group -- each person has a cultural background, a gender, an age, may have one or more disabilites, and so forth. And even within groups, the experiences and needs of each individual are unique. For example, there is no such person as \"the African-American patient\" or \"the female patient.\" Proper attention to diversity can enhance both cultural and individually appropriate care for all persons. By dealing with these political, social and cultural aspects of diversity and health care, this course will introduce students to complex and basic issues of social construction ranging from cultural dimensions of medical ethics to the importance of differing health traditions (from folk medicine to foodways to such beliefs as the idea that AIDS is a genocidal government conspiracy).",
+    "course_id" : "FOLK514",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "514",
+    "course_title" : "Human Diversity and the Cultures of Medicine",
+    "crosslistings" : [ {
+      "course_id" : "514",
+      "section_id" : "",
+      "subject" : "HSSC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hufford, D.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Folk art pays testimony to the persistence and pervasiveness of human creativity and aesthetic motivation. While it has been defined in numerous ways, and often marginalized, it is central to human expression. Through reading, discussion, visits with folk artists on-site and in class, and multimedia formats, this course will survey the various definitions of folk art,examine issues such as artistic canons, contexts of production and interpretation, economics, connoisseurship, virtuosity, appropriation, and politics, and explore the rich panoply of material folk art.",
+    "course_id" : "FOLK358",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "358",
+    "course_title" : "Folk Art",
+    "crosslistings" : [ {
+      "course_id" : "358",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Rita Moonsammy",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "How do words transform people, places, and events in ways that bring about social change? What are the motivations, methods, politics and implications of \"doing good work?\" How does an understanding of doing good work depend on ones position: as non-profit worker, social justice advocate, community activist, business person? In this interdisciplinary seminar we will cover current issues surrounding social initiatives in many forms of literature: from fiction and non-fiction, to exhibits, web-sites, on-line journals, grant-proposals, and ethnographic documentaries. Students will be given an opportunity to do participatory research on local concerns: witnessing, critiquing, and putting words into action and thereby gain pratical knowledge about how artists express themselves in ways that impact and empower local community arts, cultural and education programs. Students may, for example work in programs to learn about how art and community performance can bring people together through location, spirit and tradition ccan empower people to adress difficult social issues. And, as art, after all, is not only created by artist and craftsperons, but disseminated bothe informally and formally -- through schools, museums and programs -- we will also explore how particular policies affect society and local culture.",
+    "course_id" : "FOLK580",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "580",
+    "course_title" : "Literature and Activism",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Watterson",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "L",
+    "terms_offered_description" : "Course usually offered summer term only"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK540",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "540",
+    "course_title" : "Masculinity in Narrative & Performance",
+    "crosslistings" : [ {
+      "course_id" : "540",
+      "section_id" : "",
+      "subject" : "GSWS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Dautcher",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In the 19th century, Czech, Polish, German, Italian, Croatian, Slovene, Ukrainian and other popular nationalist movements started tearing apart Habsburg central Europe--a culturally complex, multilingual region where state loyalty was superimposed on diverse people with different customs, traditions and languages. The course, will revisit significant episodes in these peoples quest for national self-identification that employed various forms of folklore to generate new national symbols, monuments, cults, rituals, holidays, and festivals. The idea of national identity, however, consisted of two opposite forces: the centripetal fusion of individuals into new \"imagined: communities always coexisted with the centrifugal and separation of \"us\" from \"them.\" The mechanism of \"demonizing the others\" will be illustrated on the exclusionary role anti-Semitism played in the shaping of nationalist identities after the WW1. As central European states began to integrate themselves into the European Union in the last few years forging yet another set of collective indentities for themselves and others, the themes drawn from the rich folkloric tradition are often employed in the process. Thus,the study of the local folklore furnish a useful perspective on continuing social transformations of Eastern and Central Europe.",
+    "course_id" : "FOLK307",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "307",
+    "course_title" : "Nationality, Indentity and Folklore in Central Europe",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK257",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "257",
+    "course_title" : "Palestinian Women Folklr",
+    "crosslistings" : [ {
+      "course_id" : "256",
+      "section_id" : "",
+      "subject" : "GSWS"
+    }, {
+      "course_id" : "257",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "B",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Starting with birth and working chronologically through a series of case studies, this course invites students to examine the centrality of rituals that celebrate the human lifecycle as well as overtly competitve sporting an political rituals. We will explore rituals that unfold at the local level a well as those that most Americans experience only via the media. Rituals under examination include birthday parties, Bat Mitzvahs, Halloween, Quinceaneras, Proms, graduations, rodeos, Homecomings, weddings, Greek initiations, beauty pageants, reunions, and funerals. Students will be encouraged to critically examine their own ritual beliefs and practices and consider these and other theoretical questions: What is the status of ritual in post-industrial culture? What distinguishes popular culture from officia ritual and secular from religious ritual? How do sociological variables suc as race, class, gender, sexuality, and religion shape people's understanding of, and participation in, modern family life? How do contemporary rituals bond Americans at the local and/or national level? All students will be expected to conduct original research on a ritual of their own.",
+    "course_id" : "FOLK082",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "Freshman Seminar",
+    "course_number" : "082",
+    "course_title" : "Ritual In American Life",
+    "crosslistings" : [ {
+      "course_id" : "082",
+      "section_id" : "",
+      "subject" : "GSWS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Paxton",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course examines the emergent aesthetic and expressive traditions of urban environments. Cities are unique places with a wide range of folkloric traditions, including neighborhood stories, ethnic festivals, and folk art. We will examine the material, customary, and verbal traditions that emerge in everyday life, including contemporary legends, urban agriculture and food ways, public displays and celebrations, body art, children s play, and Philadelphia s ethnic arts. We will consider how these contemporary practices may be understood within a traditional folklore framework, as well as what these practices reveal about contemporary values, anxieties, and concerns. Course work will involve local field observations and will be of use to anyone studying human interaction, creative processes, or urban ethnography.",
+    "course_id" : "FOLK436",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "436",
+    "course_title" : "Urban Folklore",
+    "crosslistings" : [ {
+      "course_id" : "436",
+      "section_id" : "",
+      "subject" : "URBS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The purpose of this course is to present a variety of narrative genres and to discuss and illustrate the modes whereby they can be analyzed. We will be looking at shorter types of narrative: short stories, novellas, and fables, and also some extracts from longer works such as autobiographies. While some works will come from the Anglo-American tradition, a larger number will be selected from European and non-Western cultural traditions and from earlier time-periods. The course will thus offer ample opportunity for the exploration of the translation of cultural values in a comparative perspective.",
+    "course_id" : "FOLK125",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "125",
+    "course_title" : "Narrative Across Cultures",
+    "crosslistings" : [ {
+      "course_id" : "125",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "180",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "What are the intersections between art, play and game? This course will involve student field work in a play or game genre chosen by each student. Readings include the folklore and anthropology of games, the psychology of play, and the interdisciplinary literature that suggests that play is the root of all art. Of interest to anyone involved in video games, childhood study, or creativity, the course invites fieldwork that challenges the course readings. From chess to Halo, from double dutch to puzzles, come discover the art of play.",
+    "course_id" : "FOLK428",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "428",
+    "course_title" : "Ballad, Epic, Song",
+    "crosslistings" : [ {
+      "course_id" : "428",
+      "section_id" : "",
+      "subject" : "AFAM"
+    }, {
+      "course_id" : "428",
+      "section_id" : "",
+      "subject" : "COML"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Abrahams",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK306",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "306",
+    "course_title" : "Russians & Fairy Tales",
+    "crosslistings" : [ {
+      "course_id" : "290",
+      "section_id" : "",
+      "subject" : "RUSS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Z.  Vaganova",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "H",
+    "terms_offered_description" : "Course offered fall; even-numbered years"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Directed study at the senior level.",
+    "course_id" : "FOLK499",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "499",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "\"Fieldwork\" is the term folklorists and scholars in related fields use to describe the process by which they arrive at their discipline's subject matter. This includes everything from the pragmatic issues of collecting and documenting materials to the complex relations involved whken people study people. Readings, short writing assignments, and class discussions will probe this spectrum of concerns comprehensively. Brief exercises are planned to experience different aspects of fieldwork. On this background of theory and practice, students will work toward designing a fieldwork based project and draft a funding proposal.",
+    "course_id" : "FOLK503",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "An introduction to folklore for graduate students, concentrating upon certain key issues in the theory and history of the discipline.",
+    "course_number" : "503",
+    "course_title" : "Issues in Folklore Theory",
+    "crosslistings" : [ {
+      "course_id" : "503",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "512",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "503",
+      "section_id" : "",
+      "subject" : "ENGL"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Although many have attributed modern medicine's success to its liberation from the ancient association of healing with religion, recent research has shown that spirituality (the personal aspect of the sacred) and relgion (the institutional forms of spiritual belief and practice) are powerful influences in health decision-making and that most American patients want spiritual matters discussed with their medical care. Additional research has documented effects of spiritual belief and relgious practice on physical and mental health, ranging from general effects of religiosity on overall health and longevity to double-blind studies of intercessory prayer. At the same time critics argue that the research is flawed and that clinical involvement in religious matters is unethical. This topic, once marginal, now appears in the pages of major medical journals and has drawn the attention of the National Institutes of Health. This course will examine a variety of spiritual traditions in realtion to health, including major world religions and those groups with highly specific health teachings such as Jehovah's Witnesses, Christian Science and shamanic traditions. Competing points of view will be considered in ethical, medical and cultural terms.",
+    "course_id" : "FOLK512",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "512",
+    "course_title" : "Spirituality, Religion and Health: Ethical, Cultural and Medical Issues",
+    "crosslistings" : [ {
+      "course_id" : "503",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hufford, D.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "REC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "LEC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Myths are traditional stories that have endured many years. Some of them have to do with events of great importance, such as the founding of a nation. Others tell the stories of great heroes and heroines and their exploits and courage in the face of adversity. Still others are simple tales about otherwise unremarkable people who get into trouble or do some great deed. What are we to make of all these tales, and why do people seem to like to hear them? This course will focus on the myths of ancient Greece and Rome, as well as a few contemporary American ones, as a way of exploring the nature of myth and the function it plays for individuals, societies, and nations. We will also pay some attention to the way the Greeks and Romans themselves understood their own myths. Are myths subtle codes that contain some universal truth? Are they a window on the deep recesses of a particular culture? Are they entertaining stories that people like to tell over and over? Are they a set of blinders that all of us wear, though we do not realize it? Investigate these questions through a variety of topics creation of the universe between gods and mortals, religion and family, sex,love, madness, and death.",
+    "course_id" : "FOLK200",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "200",
+    "course_title" : "Greek and Roman Mythology",
+    "crosslistings" : [ {
+      "course_id" : "100",
+      "section_id" : "",
+      "subject" : "CLST"
+    }, {
+      "course_id" : "200",
+      "section_id" : "",
+      "subject" : "CLST"
+    }, {
+      "course_id" : "200",
+      "section_id" : "",
+      "subject" : "COML"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Struck",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "A",
+      "requirement_description" : "Arts &amp; Letters Sector"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course surveys the fairy tale (M rchen) as an oral narrative genre, and in its transformations as literature, sequential art, and film. Topics include classic and contemporary collections from Europe, the United States, and beyoond;issues of \"authenticity\" and the ownership of tales; fairy tales as folk performance, post-modern pastiche, and material culture; and the genre's relationship to geography, gender, power, and desire. This course will serve as a scholarly introduction to the field of Fairy-Tale Studies. And it may examine works from Matthew Bright, Angela Carter, Emma Donoghue, Guillermo Del Toro, Neil Gaiman, David Kaplan, and Bill Willingham.",
+    "course_id" : "FOLK240",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "240",
+    "course_title" : "Fairy Tales",
+    "crosslistings" : [ {
+      "course_id" : "240",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "290",
+      "section_id" : "",
+      "subject" : "ENGL"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK255",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "255",
+    "course_title" : "Fld Meth in Ethno",
+    "crosslistings" : [ {
+      "course_id" : "250",
+      "section_id" : "",
+      "subject" : "MUSC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is intended for those with no prior background in folklore or knowledge of various cultures. Texts range in age from the first century to the twentieth, and geographically from the Middle East to Europe to the United States. Each collection displays various techniques of collecting folk materials and making them concerete. Each in its own way also raises different issues of genre, legitimacy, canon formation, cultural values and context.",
+    "course_id" : "FOLK241",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "241",
+    "course_title" : "Great Story Collections",
+    "crosslistings" : [ {
+      "course_id" : "193",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "099",
+      "section_id" : "",
+      "subject" : "ENGL"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Azzolina",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "A",
+      "requirement_description" : "Arts &amp; Letters Sector"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "With folksongs and ballads, ordinary people in every era have turned language into poetry and their own voices into music. Our folksong and ballad traditions contain some of the great poetic, narrative and music artistry ever created. As stories told in song, ballads tell takes of tender love and brutal murder, of painful partings and joyous reunions, of outlawed men and warrier women, of mighty nobles and downtrodden commons. Lyric songs express humanity's basic emotions: love and hate, fear and desire joy and sorrow. This course will exame folksongs and ballards in all their forms, concentratingon English-language materials but making excurions into other traditions as well. We will explore the themes and meaning of different kinds of songs, from the classic medieval ballads to the journalistic fare of the nineteenth century, from homey songs of place to frightening tales of terror. We will explore different regional and ethnic traditions, including British and Irish songs, Appalachian ballads and African-American blues, Western Cowboy songs and Mexican-American outlaw ballards. We will detail how folksong traditions in American played a crucial role in the development of popular music, inquire into the history of individul songs, and ask how folk songs vary from singer to singer and from country to country.",
+    "course_id" : "FOLK228",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "228",
+    "course_title" : "Ballads and Folk Poetry",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Winick",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In this course we will explore the mythologies of selected peoples in the Ancient Near East, Africa, Asia, and Native North and South America and examine how the gods function in the life and belief of each society. The study of mythological texts will be accompanied, as much as possible, by illustrative slides that will show the images of these deities in art and ritual.",
+    "course_id" : "FOLK229",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "229",
+    "course_title" : "Myth in Society",
+    "crosslistings" : [ {
+      "course_id" : "226",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "357",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "249",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Ben-Amos",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Psychological implications of differences in human experience arising from distinctive cultural patterns of mankind considered with reference to a variety of problems.",
+    "course_id" : "FOLK521",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "521",
+    "course_title" : "Culture and Psychology: Identity, Self and Culture",
+    "crosslistings" : [ {
+      "course_id" : "521",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hammarberg",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An introduction to the intent, approach, and contribution of anthropology to the study of socialization and schooling in cross-cultual perspecive. Education is examined in traditional, colonial, and complex industrial societies.",
+    "course_id" : "FOLK527",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "527",
+    "course_title" : "Anthropology and Education",
+    "crosslistings" : [ {
+      "course_id" : "547",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "547",
+      "section_id" : "",
+      "subject" : "EDUC"
+    }, {
+      "course_id" : "547",
+      "section_id" : "",
+      "subject" : "URBS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Using Philadelphia as the site of students' praxis, this course explores the symbolic meanings and social production of urban life and culture in the nation's fifth largest city. This course is structured as a seminar with ethnographic background readings from Philadelphia and other urban settings to introduce students to the study of the city as a site of everyday practice, as well as training in conducting an ethnographic fieldwork project. The urban landscape provides an intensification of macro processes such as globalization. Such processes and how humans experience them are more easily studied and understood in an urban setting. The class will explore social relational and cultural themes such as the ethnic city, the gendered city, the contested city, the sacred city, the global city, and the aesthetic and expressive city. A diverse range of reading assignments, images, and videos will augment our understandings of urban life. Students will design and execute their own ethnographic fieldwork projects on an urban topic that interests them. Through step-by-step instruction throughout the semester, students will learn qualitative research techniques such as field notes, participant-observation, interviewing, and how to interpret their own data, so that they will be able to complete their semester project.",
+    "course_id" : "FOLK513",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "513",
+    "course_title" : "Urban Ethnography",
+    "crosslistings" : [ {
+      "course_id" : "213",
+      "section_id" : "",
+      "subject" : "URBS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Saverino",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course explores the form and development of America's built landscape -- its houses, farm buildings, churches, factories, and fields -- as a source of information on folk history, vernacular culture, and architectural practice.",
+    "course_id" : "FOLK518",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "518",
+    "course_title" : "American Vernacular Architecture",
+    "crosslistings" : [ {
+      "course_id" : "528",
+      "section_id" : "",
+      "subject" : "HSPV"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "St. George",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Through readings and collaborative projects this working seminar will explore the place of metaphor in the genres of proverb and riddle and examine their position in oral communication in traditional and modern societies. Critical readings of former definitions and models of riddles and metaphors will enable students to obtain a comprehensive perspective of these genres that will synthesize functional, structural, metaphoric, and rhetoric theories.",
+    "course_id" : "FOLK532",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "532",
+    "course_title" : "Proverb, Riddle and Speech Metaphor",
+    "crosslistings" : [ {
+      "course_id" : "529",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "682",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Ben-Amos",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will examine the play, games, and oral lore of childhood cross culturally with an emphasis on both the uniqueness of children's traditional communication, and its similarities with the culture in which it is found. Classical study of children's lore genres, the complex analysis of play in live performance, and the history of children's folklore research will be discussed. The course will emphasize student field work and the recording of children's folklore in different contexts, and may be of interest to those working in education, psychology, sociology, social welfare, and anthropology.",
+    "course_id" : "FOLK535",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "535",
+    "course_title" : "Children's Folklore",
+    "crosslistings" : [ {
+      "course_id" : "550",
+      "section_id" : "",
+      "subject" : "EDUC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Game Play introduces the interdisciplinary study of games, across cultures, and across time. Students will challenge assumptions about what games do by carrying out observations and performing interviews. The course readings represent foklore classics in the study of toys and games, and includes cutting edge writings in the ecology of play.",
+    "course_id" : "FOLK536",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "536",
+    "course_title" : "Game Play",
+    "crosslistings" : [ {
+      "course_id" : "559",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "559",
+      "section_id" : "",
+      "subject" : "EDUC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Beresin",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "People shape memories to make their history coherent and compelling. By examining ethnographies of history-making and literatures on memory, this course will explore the relationship between social experience and collective remembrance, between history and folklore, between individual narrators and scholarly reflexivity.",
+    "course_id" : "FOLK585",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "585",
+    "course_title" : "Ethnography and Memory",
+    "crosslistings" : [ {
+      "course_id" : "585",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "St. George",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Behind a simple proverb like \"You are what you eat\" lies a great deal of food for thought. Human beings have always elaborated on the biological necessity of eating, and this course will explore the myriad ways in which people work, think, and communicate with food. The course will survey the major approaches from folklore, anthropology and related fields toward the role of food, cookery, feasting and fasting in culture. Among the topics to be addressed are gender roles and differences in foodways, the significance of food in historical transformations, the transmission of foodways in writing and publishing, the relationship of foodways to ethnicity and region, the intimate relationship between food and religion, and foodways in the global market place. Short exercises and a term project will provide students with opportunities to research and write about foodways from different angles.",
+    "course_id" : "FOLK603",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "603",
+    "course_title" : "Food, Culture, and Society",
+    "crosslistings" : [ {
+      "course_id" : "601",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In tandem with global political and economic restructuring, and the related unsettling of national and local identities, scholarship on place has burgeoned. Recently, scholars from multiple disciplines have called for a shift from identity-centered approaches to the study of place and region to a more critical assessment of how the encounter of the local with \"the larger than local\" is articulated (Shuman, 1993). \"Critical regionalism,\" a term hailing from architectual theory, names an effort to \"frame a dialogue between localized dimensionality and the imperatives of international architecture\" (Frampton, 1981). One way of framing this dailogue is to examine the imaginaries that span disjunct places \"twinned\" through those larger than local processes, imaginaries that regionalize from within (Herr, 1996). What are the foundations for such a project in folkloristics, and what is the role of ethnography in cultivating critical regionalism? To get at such questions, we will examine selected regional ethnographies and place-based folklore programs. Work for the course will include 1) evaluating a regional ethnography and a public program inlight of critical regionalist theory and 2) developing, with a partner or group, a proposal for a multi-site kethnography anchored partly in the mid-Atlantic region.",
+    "course_id" : "FOLK650",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "650",
+    "course_title" : "Folklore and Critical Regionalism",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hufford, M.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will introduce students to a conceptual language and the theoretical tools to analyze the complex dynamics of racial, ethnic, gender, sexual, and class differences. The students will critically examine the interrelationships between culture, power, and identities through the recent contributions in cultural studies, critical pedagogy and post-structuralist theory and will explore the usefulness of these ideas for improving their own work as researchers and as practitioners.",
+    "course_id" : "FOLK706",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "706",
+    "course_title" : "Culture/Power/Identities",
+    "crosslistings" : [ {
+      "course_id" : "704",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "706",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "706",
+      "section_id" : "",
+      "subject" : "EDUC"
+    }, {
+      "course_id" : "706",
+      "section_id" : "",
+      "subject" : "URBS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hall",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Bodylore, a term coined in the late 1980s by folklorist Katharine Young, names an emerging subfield focused on the body's role in the making of social meanings. In this seminar, we'll consider the body as it is theorized by Bakhtin, Bourdieu, Douglas, Harvey, Stewart, Young, and others, and we'll turn to selected ethnographic case studies to explore problems of embodiment. How does the body enact the discourses that constitute it? How do our ways of imagining and interpreting the body bear on our ways of ordering the social and natural world? How is the body's dual status as both mode and object of knowing (Stewart) negotiated in ethnographic and scientific practice? How might a more humanistic ethnography undo and displace the dualisms of mind and body, body and self, and perhaps even return us to the body as a measure of all things (Harvey)? Work for the course will include in-class presentations, participation in electronic and face-to-face discussion about the readings, and a final paper.",
+    "course_id" : "FOLK725",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "725",
+    "course_title" : "Bodylore",
+    "crosslistings" : [ {
+      "course_id" : "725",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hufford, M",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "M",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Directed study at the sophomore level.",
+    "course_id" : "FOLK299",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "299",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This survey course considers Latin American musics within a broad cultural and historical framework. Latin American musical practices are explored by illustrating the many ways that aesthetics, ritual, communication, religion, and social structure are embodied in and contested through performance. These initial inquiries open onto an investigation of a range of theoretical concepts that become particularly pertinent in Latin American contexts^K-concepts such as post-colonialism, migration, ethnicity, and globalization. Throughout the course, we will listen to many different styles and repertories of music and then work to understand them not only in relation to the readings that frame our discussions but also in relation to our own, North American contexts of music consumption and production.",
+    "course_id" : "FOLK158",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "158",
+    "course_title" : "Musics of Latin America, the Caribbean, and Hispanics in the U.S.",
+    "crosslistings" : [ {
+      "course_id" : "158",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "158",
+      "section_id" : "",
+      "subject" : "LALS"
+    }, {
+      "course_id" : "158",
+      "section_id" : "",
+      "subject" : "MUSC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Rommen",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In this place-based community serivce learning course, we explore the use of traditional verbal arts material practices among immigrant communities seeking to make Philadelphia home. We begin with theories of culture, community, identity, and the production of locality from the social science, and move from there into historic, literary, and ethnographic portrayals of relevance tothe community we will be working with. Students are introduced to the principles of ethnographic fieldwork, including techniques of participant observation, interviewing, community-based research design, interpretation, and presentation, and the ethical dimensions of fieldwork. Applying these methods, students develop a project that serves the needs of a collaborating Philadephia community. Students gain critical thinking and oberservation skills from the readings, discussion, writing assignments, and field trips. The fieldwork component for the Spring 2007 focuses on the verbal arts and material cultural traditions of South Philadelpia's Indonesian community. In partnersip with the Folk Arts and Cultural Treasures School (FACTS),students and faculty will develop an overview of Philadelpia's Indonesian community and its goals for cultural and lingustic maintenance. Students will also work with community members to identify resources on which FACTS can draw in order to support these goals for the many Indonesian children who have recently enrolled in the school. This one and a half credit course, which fulfils the General Disribution requirement in Society, will be of special value to students interested in anthropology, sociology, folklore and urban studies, linguistics, asian studies, liteerary studies and vernacular arts and culture.",
+    "course_id" : "FOLK321",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "321",
+    "course_title" : "Exploring Local Memory and Tradition",
+    "crosslistings" : [ {
+      "course_id" : "321",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "321",
+      "section_id" : "",
+      "subject" : "ASAM"
+    }, {
+      "course_id" : "327",
+      "section_id" : "",
+      "subject" : "URBS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hufford M.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The shifting definition of folklore as a subject has allowed for the dynamic development of a field that has never been content with narrow disciplinary territory. The course endeavors to provide an entry into the breadth of folkloric expression--told, performed, enacted, believed, or made. We will also study the sociopolitical and intellectual ground on which the study of folklore has been positioned over roughly the last two hundred years. Readings and class discussions will clarify how scholars today conceptualize \"expressive culture,\" exemplify earlier ways of organizing and analyzing the material, and explore the linkage between available technological recording tools and the shape of folklore documentation and analysis. (required course for graduate students in folklore; open to others with instructor's permission)",
+    "course_id" : "FOLK500",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "500",
+    "course_title" : "Proseminar in Folklore",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This graduate seminar explores the theory and practice of folkloristic ethnography, with a focus on sites in West Philadelphia. Through reading and exercises in ethnographic observation and writing, students consider the natureof the enthnographic encounter, its social functions and civic possibilities, and the writings, archives, films, recordings and community events that form its outcomes. Historical and contemporary reading provide an overview of ethnography as it has emerged in the social sciences over the past century, while attention to the techniques and technologies in fieldnotes, sound and video recording, photography, archiving, and sensing will develop students' skills as ethnographic scholars, writers, and community activists. Undergraduates may enroll with permission.",
+    "course_id" : "FOLK502",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "502",
+    "course_title" : "Fieldwork Theory and Practice",
+    "crosslistings" : [ {
+      "course_id" : "506",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "502",
+      "section_id" : "",
+      "subject" : "GSWS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hufford, M.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK866",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "866",
+    "course_title" : "News Images",
+    "crosslistings" : [ {
+      "course_id" : "866",
+      "section_id" : "",
+      "subject" : "COMM"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "J",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "From medieval processions to the Mummer's Parade, from military reenactments to Mardi Gras, communities do more than \"write\" or \"read\" history in order to feel its power and shape their futures. Drawing upon traditions in theater, spectacle, religion, and marketing, they also perform their history--by replaying particular characters, restaging pivotal events and sometimes even changing their outcomes--in order to test its relevance to contemporary life and to both mark and contest ritual points in the annual cycle. This course will explore diverse ways of \"performing history\" in different cultures, including royal passages, civic parades, historical reenactments, community festivals, and film.",
+    "course_id" : "FOLK103",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "103",
+    "course_title" : "Performing History",
+    "crosslistings" : [ {
+      "course_id" : "103",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "093",
+      "section_id" : "",
+      "subject" : "HIST"
+    }, {
+      "course_id" : "103",
+      "section_id" : "",
+      "subject" : "THAR"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "St.  George",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will present the study of health traditions in the field of folklore and folklife. It is designed to explore the value of this approach to disciplines and individuals as they simultaneously bear upon all human experience with, communication about, and understanding of illness, disease and healing.",
+    "course_id" : "FOLK369",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "369",
+    "course_title" : "Introduction Complementary and Alternative Medicine",
+    "crosslistings" : [ {
+      "course_id" : "369",
+      "section_id" : "",
+      "subject" : "HSOC"
+    }, {
+      "course_id" : "359",
+      "section_id" : "",
+      "subject" : "STSC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Examines life experience through autobiographies, journals, diaries, life histories and other self-reports in relation to culturally-constituted identities and life plans for different societies and subgroups. Explores tensions, conflicts and creativity associated with sex, gender and age, rites of passage, personal development, family systems, and identity processes and cultural integration. Requirements include your own autobiographical writing and a consultant-based life-history analysis (15-20 page limit).",
+    "course_id" : "FOLK570",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "570",
+    "course_title" : "Identity and the Life Course",
+    "crosslistings" : [ {
+      "course_id" : "570",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hammarberg",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "J",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "\"Environmental imaginaries\" names the contending discourses that order society around processes of development and change. Behind public controversies over development, its subject, objects, and technologies, are an array of collectively wrought fictions that relate people to their material surroundings. We will be especially attentive to solipsistic cartesian fictions that enable the persistent separation of culture from environment. How are these fictions produced, enacted, and materialized in such diverse sites as Appalachian strip mines and Sea World, nature walks and prmit hearing?What kind of environmental imaginary sustains the notion that \"wisdon sits in places\"? How are alternative ways of knowing and being cojured through naming practices, narratives, and other speech genres, as well as yardscapes, protest rallies and other forms of public display? We will traverse the border between humanities and social sciences. How is Bakhtin's law of placement essential for urban planners? Why is Bateson's notion of the thinking system vial for environmental writers? Moving from theories of world making, multiple realities, and aesthetic ecologies through ethnographic literature on culture and environment, and into your own experience, obsevation, and written reflections, this seminar will explore the production of environmental imaginaries acress a range of modern genres and practices. At stake is nothing less than place, identity, and the nature of human being.",
+    "course_id" : "FOLK575",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "575",
+    "course_title" : "Environmental Imaginaries",
+    "crosslistings" : [ {
+      "course_id" : "584",
+      "section_id" : "",
+      "subject" : "ENGL"
+    }, {
+      "course_id" : "575",
+      "section_id" : "",
+      "subject" : "ENVS"
+    }, {
+      "course_id" : "575",
+      "section_id" : "",
+      "subject" : "HSSC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hufford, M.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An overview of the major forms of expressive culture developed by Afro-Americans. The course focuses on the continuous development of black cultural expression from slavery to the present, emphasizing the socio-historical context in which they are to be understood and interpreted.",
+    "course_id" : "FOLK203",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "203",
+    "course_title" : "Afro-American Folklore",
+    "crosslistings" : [ {
+      "course_id" : "203",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "213",
+      "section_id" : "",
+      "subject" : "AFST"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will introduce students to the modern academic study of the different genres of medieval Jewish literature-- poetry, narrative, interpretation of the Bible, liturgy, historiography, philosophy, sermonic, mystical and pietistic writings. In addition to studying the primary texts, the course will also explore the historical, religious, and cultural contexts in which these texts were first produced and then studied, and the aspects of Jewish historical experience that these texts reflect. The specific topic of the course (eg. Medieval Biblical Interpretation, Kabbalah) will vary from semester to semester. In some cases, the specific topic may also be the work of a specific author, like Maimonides. Primary sources will be read in their original Hebrew. While no previous experience in studying these texts is required, students should be able to read unpointed Hebrew texts. If there is a question as to whether the course is appropriate for you, please contact the professor.",
+    "course_id" : "FOLK258",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "258",
+    "course_title" : "Studies in Medieval Jewish Literature",
+    "crosslistings" : [ {
+      "course_id" : "258",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "258",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "228",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Stern/Fishman",
+    "prerequisites" : "Reading knowledge of Hebrew",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In the 1950's America seemed to be a land of \"Protestant, Catholic, and Jew.\" Now it is clearly also a land of Muslims and Hindus, Buddhists and Taoists, Rastafarians and Neo-pagans and many more religious groups. This course will focus upon a variety of topics: religious diversity in West Philadelphia, Philadelphia and beyond; the politics of religious diversity; religion in American schools and cities; and conflicts and cooperation among diverse religious groups.",
+    "course_id" : "FOLK310",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "310",
+    "course_title" : "Religious Diversity in America: West Philadelphia",
+    "crosslistings" : [ {
+      "course_id" : "308",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "310",
+      "section_id" : "",
+      "subject" : "RELS"
+    }, {
+      "course_id" : "310",
+      "section_id" : "",
+      "subject" : "URBS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Matter",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Seminar on selected topics in ethnomusicology. Freedom is a pervasive idea in the twentieth century, in the United States and elsewhere. This seminar will examine a range of texts concerned with the idea of freedom, politically, philosophically, and musically. A key part of the seminar will focus on free jazz, as it has been recorded in the twentieth century, and as it occurs in live performances on Penn campus and elsewhere in Philadelphia.",
+    "course_id" : "FOLK715",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Open to graduate students from all departments",
+    "course_number" : "715",
+    "course_title" : "Seminar in Ethnomusicology",
+    "crosslistings" : [ {
+      "course_id" : "705",
+      "section_id" : "",
+      "subject" : "AFST"
+    }, {
+      "course_id" : "705",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "715",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "705",
+      "section_id" : "",
+      "subject" : "GSWS"
+    }, {
+      "course_id" : "705",
+      "section_id" : "",
+      "subject" : "MUSC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Muller",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The purpose of the course is to introduce you to the subjects of the disciplineof Folkore, their occurrence in social life and the scholarly analysis of their use in culture. As a discipline folklore explores the manaifestations of expressive forms in both traditional and moderns societies, in small-scale groups where people interace with each face-to-face, and in large-scale, often industrial societies, in which the themes, symbols, and forms that permeate traditional life, occupy new positions, or occur in differenct occasions in in everyday life. For some of you the distinction between low and high culture, or artistic and popular art will be helpful in placing folkore forms in modern societies. For others, these distinction will not be helpful. In traditional societies, and within social groups that define themselvfes ethnically, professionally, or culturally, within modern heterogeneous societies, and traditional societies in the Americas, Africa, Asia, Europe and Australia,folkore plays a more prominent role in society, than it appears to plan in literatie cultures on the same continents. Consequently the study of folklore and the analysis of its forms are appropriate in traditional as well as modern societies and any society that is in a transitional phase.",
+    "course_id" : "FOLK101",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "101",
+    "course_title" : "Introduction to Folklore",
+    "crosslistings" : [ {
+      "course_id" : "101",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "181",
+      "section_id" : "",
+      "subject" : "NELC"
+    }, {
+      "course_id" : "108",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Ben-Amos",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "O",
+      "requirement_description" : "Humanities &amp; Social Science Sector"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will explore the history of America's use and fascination with material goods between 1600 and 1860. We will examine such issues as the transferal of European traditions of material culture to the New World, the creationof American creolized forms, the impact of reformers in the late eighteenth and early nineteenth centuries, and the development of regional landscapes. Thematic issues will include consumerism, objects as symbolic communication and metaphor, and the complementary issues of archaeology and history of art in material culture study.",
+    "course_id" : "FOLK323",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "323",
+    "course_title" : "Material Life in America, 1600-1800",
+    "crosslistings" : [ {
+      "course_id" : "323",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "St.  George",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In modern American popular culture Jewish humor is considered by Jews and non-Jews as a recognizable and distinct form of humor. Focusing upon folk-humor, in this course we will examine the history of this perception, and study different manifestation of Jewish humor as a particular case study of ethnic in general. Specific topics for analysis will be: humor in the Hebrew Bible, Jewish humor in Europe and in America, JAP and JAM jokes, Jewish tricksters and pranksters, Jewish humor in the Holocaust and Jewish humor in Israel. The term paper will be collecting project of Jewish jokes.",
+    "course_id" : "FOLK296",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "296",
+    "course_title" : "Jewish Humor",
+    "crosslistings" : [ {
+      "course_id" : "259",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "254",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Ben-Amos",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "A",
+      "requirement_description" : "Arts &amp; Letters Sector"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK320",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "320",
+    "course_title" : "Folklore, Nationalism and the Politics of Culture",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Turkoz",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Museums, mural arts, mummers on Moyamenssing, skateboarding at Love Park, Fifty-Second Street, vendors, The Arts Garage and local arts spaces. These can be seen as places our communities come together to tell themselves about themselves. But who is telling these stories, from which vantage points, and at what costs and benefits to various communities? We explore how scholarship-at its best and most effective-transcends and transgresses boundaries between academic and public spaces, to create a broader arena for intellectural exchangeand cross-cultural dialogue. this course thus positions itself at the intersection local arts and public culture and of community studies and applied social science to inspire a dialogue and inquiry. Class-members jointly explore the many ways in which cultural research, traditional arts, and community studies are brought to public audiences. In particular, we will discuss how modern public scholars can work to reconcile the ideas and ideals so often discussed in the academy which practice in the community. Our class will engage in critical assessment of both cultural and programming and civically engaged scholarship, with an eye toward developing a more politically aware practice and more collaborative, community-sensitive models for action.",
+    "course_id" : "FOLK579",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "579",
+    "course_title" : "Public Arts, Liberal Arts: Applied Ethnography and Community Based Research",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course examines how we as consumers in the \"Western\" world engage with musical difference largely through the products of the global entertainment industry. We examine music cultures in contact in a variety of ways-- particularly as traditions in transformation. Students gain an understanding of traditional music as live, meaningful person-to-person music making, by examining the music in its original site of production, and then considering its transformation once it is removed, and recontextualized in a variety of ways. The purpose of the course is to enable students to become informed and critical consumers of \"World Music\" by telling a series of stories about particular recordings made with, or using the music of, peoples culturally and geographically distant from the US. Students come to understand that not all music downloads containing music from unfamiliar places are the same, and that particular recordings may be embedded in intriguing and controversial narratives of production and consumption. At the very least, students should emerge from the class with a clear understanding that the production, distribution, and consumption of world music is rarely a neutral process.",
+    "course_id" : "FOLK022",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "022",
+    "course_title" : "World Music and Cultures",
+    "crosslistings" : [ {
+      "course_id" : "050",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "050",
+      "section_id" : "",
+      "subject" : "AFST"
+    }, {
+      "course_id" : "022",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "050",
+      "section_id" : "",
+      "subject" : "MUSC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Muller",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "A",
+      "requirement_description" : "Arts &amp; Letters Sector"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Gender is culturally and socially constructed. Expressive traditions are one of the main forces in the process that reflect, define and shape the interpretations of gender in our societies and cultures constantly. How do folk narratives depict the indeallized female images, helpless priceless, capable housewives, benevolent fairies, or warriors in different cultures? How do women construct their identities through some unique genres in expressive traditions including quilting, ritual and religious performances, pottery, music, dance, life stories or even their self-invented writing system? How do women use their expressive forms to resist/subvert unbalanced power relationships and creat meanings for themselves in daily life?",
+    "course_id" : "FOLK247",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "247",
+    "course_title" : "Gender, Genre and Power in Expressive Traditions",
+    "crosslistings" : [ {
+      "course_id" : "247",
+      "section_id" : "",
+      "subject" : "GSWS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Jing li",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will emphasize religion as it is believed, practiced, and experienced in everyday life. Emphasis will be placed on Christian belief systems in Europe and America in historical and contemporary perspective. Among the topics to be discussed in 2005 will be stigmata, healing miracles of the saints, apparitions of the Virgin Mary, possession, exorcism, the near-death experience,the Rapture, Vodou, and contemporary Witchcraft.",
+    "course_id" : "FOLK223",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "223",
+    "course_title" : "Folk Religion",
+    "crosslistings" : [ {
+      "course_id" : "213",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will examine American expressive culture, including everyday speech, narrative, music, foodways, religion, public celebrations, and material culture through an exploration of the multiple and changing avenues of diversity in the United States. Folklore can be considered the unofficial culture that exists beneath and between the institutions of power that we read about in our history books, and that is what we will be studying--the 99% of American life that goes unseen and unnoticed in other college courses. Some of the topics we will examine are: campus folklore; body art and adornment; contemporary (urban) legends and beliefs; public celebrations and rituals; and the adaptation and commodification of folk culture in popular media.",
+    "course_id" : "FOLK201",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "201",
+    "course_title" : "American Folklore",
+    "crosslistings" : [ {
+      "course_id" : "205",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "205",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The phenomena of writing are examined as expressive and instrumental parts of culture and society, sets of variable, multiple, diverse and changing practices contingent upon specific cultural and social contexts. We apply the perspectives of education, literary theory, folklore, linguistics, and anthropology to our understanding of writing phenomena, and will consider ways these approaches can inform educational practice.",
+    "course_id" : "FOLK552",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "552",
+    "course_title" : "Writing and Culture",
+    "crosslistings" : [ {
+      "course_id" : "549",
+      "section_id" : "",
+      "subject" : "EDUC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "camitta",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "L",
+    "terms_offered_description" : "Course usually offered summer term only"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Japan has one of the richest and most varied theatrical traditions in the world. In this course, we will examine Japanese theater in historical and comparative contexts. The readings and discussions will cover all areas of the theatrical experience (script, acting, stage design, costumes, music, audience). Audio-visual material will be used whenever appropriate and possible. The class will be conducted in English, with all English materials.",
+    "course_id" : "FOLK485",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "485",
+    "course_title" : "Japanese Theatre",
+    "crosslistings" : [ {
+      "course_id" : "385",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "255",
+      "section_id" : "",
+      "subject" : "EALC"
+    }, {
+      "course_id" : "485",
+      "section_id" : "",
+      "subject" : "THAR"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Kano",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Humor in ethnic societies has two dimensions: internal and external. The inside humor of an ethnic group is accessible to its members; it draws upon their respective social structures, historical and social experiences, languages, cultural symbols, and social and economic circumstances and aspirations. The external humor of an ethnic group targets members of other ethnic groups, and draws upon their stereotypes, and attributed characteristics by other ethnic groups. The external ethnic humor flourishes in immigrant and ethnically heterogenic societies. In both cases jokes and humor are an integral part of social interaction, and in their performance relate to the social, economic, and political dynamics of traditional and modern societies.",
+    "course_id" : "FOLK202",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "202",
+    "course_title" : "Ethnic Humor",
+    "crosslistings" : [ {
+      "course_id" : "287",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "287",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Ben-Amos",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This seminar treats selected aspects of the history, aesthetics, criticism and historiography of African-American music. Topics will vary each time this course is offered.",
+    "course_id" : "FOLK770",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "770",
+    "course_title" : "Seminar in Afro-American Music",
+    "crosslistings" : [ {
+      "course_id" : "771",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "770",
+      "section_id" : "",
+      "subject" : "MUSC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Ramsey",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Sexuality is usually thought of as being biological or social, divided into categories of natural and unnatural. Often misssed are its creative and communicative aspects. Examining the constructed social elements of sexuality requires attention be paid to folklore in groups, between individuals and on the larger platform of popular technological media. The most interesting locations for exploration are those places where borderlands or margins, occur between genders, orientations and other cultural categories. A field-based paper will be required that must include documentary research.",
+    "course_id" : "FOLK270",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "270",
+    "course_title" : "Folklore and Sexuality",
+    "crosslistings" : [ {
+      "course_id" : "270",
+      "section_id" : "",
+      "subject" : "GSWS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Azzolina",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Directed study at the junior level.",
+    "course_id" : "FOLK399",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "399",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK672",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "672",
+    "course_title" : "Intro Ethnog/Qual Method",
+    "crosslistings" : [ {
+      "course_id" : "721",
+      "section_id" : "",
+      "subject" : "EDUC"
+    }, {
+      "course_id" : "672",
+      "section_id" : "",
+      "subject" : "URBS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK542",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "542",
+    "course_title" : "Narrating the Self",
+    "crosslistings" : [ {
+      "course_id" : "545",
+      "section_id" : "",
+      "subject" : "EDUC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course gives students the opportunity to engage with the most significant theoretical influences upon feminist thought and historical scholarship in the last 35 years. Foucault, Bourdieu, Rubin, Butler, and Freud are just some of the theorists we will discuss. We will also incorporate recent works in feminist film theory and queer theory. Our focus is twofold: working collectively through difficult theory that is too daunting to tackle alone, and exploring possible applications of feminist theory for feminist politics and historical studies of women, gender and sexuality. Approximately half of our course reading will be devoted to work designated as \"theory\" and the other half to recent applications by historians.",
+    "course_id" : "FOLK620",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "When the topic is \"Feminist Theories,\" FOLK 620 will be crosslisted and the following description applies.",
+    "course_number" : "620",
+    "course_title" : "Feminist Theories",
+    "crosslistings" : [ {
+      "course_id" : "620",
+      "section_id" : "",
+      "subject" : "HIST"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Using Philadelphia as the site of students' praxis, this course explores the symbolic meanings and social production of urban life and culture in the nation's fifth largest city. This course is structured as a seminar with ethnographic background readings from Philadelphia and other urban settings to introduce students to the study of the city as a site of everyday practice as well as step-by-step training in conducting an ethnographic fieldwork project. The urban landscape provides an intensification of macro processes such as globalization. Such processes and how humans experience them are more easily studied and understood in an urban setting. The class will look explore social relational and cultural themes such as the ethnic city, the gendered city, the contested city the sacred city, the global city, and the aesthetic and expressive city. Students will design and execute their own ethnographic fieldwork projects on an urban topic that interests them. A diverse range of reading assignments, images, video, and field trips will augment our understandings of urban life.",
+    "course_id" : "FOLK213",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "213",
+    "course_title" : "Folklore and Literature",
+    "crosslistings" : [ {
+      "course_id" : "211",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "513",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "513",
+      "section_id" : "",
+      "subject" : "FOLK"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Course topics will vary; have included The Binding of Isaac, Responses to Catastrophies in Jewish History, and Concepts of Jewishness from Biblical Israel to the Modern State (Stern); Holy Men & Women (Ben-Amos): Rewriting the Bible (Dohrmann)",
+    "course_id" : "FOLK252",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "252",
+    "course_title" : "Themes in Jewish Tradition",
+    "crosslistings" : [ {
+      "course_id" : "252",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK517",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "517",
+    "course_title" : "Religion in America",
+    "crosslistings" : [ {
+      "course_id" : "517",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Griswold",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK653",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "653",
+    "course_title" : "Folklore in Hebrew Bible",
+    "crosslistings" : [ {
+      "course_id" : "653",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "653",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Theories of myth are the center of modern and post-modern, structural and post-structural thought. Myth has served as a vehicle and a metaphor for the formulation of a broad range of modern theories. In this course we will examine the theoretical foundations of these approaches to myth focusing on early thinkers such as Vico, and concluding with modern twentieth century scholars in several disciplines that make myth the central idea of their studies.",
+    "course_id" : "FOLK629",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "629",
+    "course_title" : "Theories of Myth",
+    "crosslistings" : [ {
+      "course_id" : "662",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "683",
+      "section_id" : "",
+      "subject" : "NELC"
+    }, {
+      "course_id" : "605",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Ben-Amos",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This seminar in ethnomusicology examines music from a cultural perspective. We investigate theoretical and methodological issues that arise when music is situated within an ethnographic context. Theories from anthropology and folklore are studied as they have been applied in ethnomusicology, including structural-functionalism, structuralism, symbolic anthropology, and performance theory. Topics include music and social structure; ritual and performance; social change and historical process; class, ethnic identity, and gender. Case studies from around the globe enrich this exploration of music in culture.",
+    "course_id" : "FOLK605",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "605",
+    "course_title" : "Anthropology of Music",
+    "crosslistings" : [ {
+      "course_id" : "605",
+      "section_id" : "",
+      "subject" : "AFST"
+    }, {
+      "course_id" : "605",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "605",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "605",
+      "section_id" : "",
+      "subject" : "MUSC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Muller",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course tracks the different theoretical appropriations of \"culture\" and examines how the meanings we attach to it depend on the perspectives through which we define it. The course first addresses perspectives on culture suggested by anthropology, sociology, communication, and aesthetics, and then considers the tensions across academic disciplines that have produced what is commonly known as \"cultural studies.\" The course is predicated on the importance of becoming cultural critics versed in alternative ways of naming cultural problems, issues, and texts. The course aims not to lend closure to competing notions of culture but to illustrate the diversity suggested by different approaches.",
+    "course_id" : "FOLK639",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "639",
+    "course_title" : "Issues in Cultural Studies",
+    "crosslistings" : [ {
+      "course_id" : "639",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "639",
+      "section_id" : "",
+      "subject" : "COMM"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Zelizer",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "J",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK028",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "028",
+    "course_title" : "Women and Folklore",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hercsberg",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The idea and study of folklore are central to the understanding of culture, literature, society, and history in the age of multi-culturalism, ethnicity, nationalism, and globalization. The seminar explores problems, methods and theories involved in the study of folklore and its position and relevance to traditional and modern societies.",
+    "course_id" : "FOLK102",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "102",
+    "course_title" : "Problems in Folklore",
+    "crosslistings" : [ {
+      "course_id" : "102",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "105",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Ben-Amos",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A survey of the theoretical basis and the historical development of research in international and American folkloristics.",
+    "course_id" : "FOLK606",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "606",
+    "course_title" : "History of Folklore Studies",
+    "crosslistings" : [ {
+      "course_id" : "760",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "680",
+      "section_id" : "",
+      "subject" : "HSSC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Ben-Amos",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK616",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "616",
+    "course_title" : "Interp of Oral Tradition",
+    "crosslistings" : [ {
+      "course_id" : "606",
+      "section_id" : "",
+      "subject" : "MUSC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK298",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "298",
+    "course_title" : "Folklore Abroad",
+    "crosslistings" : [ {
+      "course_id" : "298",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK998",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "998",
+    "course_title" : "Independent Research",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "MST",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK990",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "990",
+    "course_title" : "Masters Thesis",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This survey course considers Caribbean musics within a broad and historical framework. Caribbean musical practices are explored by illustrating the many ways that aesthetics, ritual, communication, religion, and social structure are embodied in and contested through performance. These initial inquiries open onto an investigation of a range of theoretical concepts that become particularly pertinent in Caribbean contexts <-concepts such as post-colonialism, migration, ethnicity, hybridity, syncretism, and globalization. Each of these concepts, moreover, will be explored with a view toward understanding its connections to the central analytical paradigm of the course <- diaspora. Throughout the course, we will listen to many different styles and repertories of music, ranging from calypso to junkanoo, from rumba to merengue, and from dancehall to zouk. We will then work to understand them not only in relation to the readings that frame our discussions but also in relations to our own North-American contexts of music consuption and production.",
+    "course_id" : "FOLK259",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "259",
+    "course_title" : "Caribbean Music & Diaspora",
+    "crosslistings" : [ {
+      "course_id" : "258",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "227",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "258",
+      "section_id" : "",
+      "subject" : "LALS"
+    }, {
+      "course_id" : "258",
+      "section_id" : "",
+      "subject" : "MUSC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Rommen",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This is a critical writing seminar. It fulfills the writing requirement for all undergraduates. As a discipline-based writing seminar, the course introduces students to a topic within its discipline but throughout emphasizes the development of critical thinking, analytical, and writing skills. For current listings and descriptions, visit the Critical Writing Program's website at www.writing.upenn.edu/critical.",
+    "course_id" : "FOLK009",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "009",
+    "course_title" : "Critical Writing Seminar in Folklore",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "R",
+      "requirement_description" : "Writing Requirement Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK565",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "565",
+    "course_title" : "History of Anthropology",
+    "crosslistings" : [ {
+      "course_id" : "585",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "585",
+      "section_id" : "",
+      "subject" : "HSSC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Kuklick",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "DIS",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK995",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "995",
+    "course_title" : "Dissertation",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Ethnograpic research has brought anthropologists and folklorist, sociologists and oral historians face to face with some compelling challenges as they describe specific social and cultual groups to a variety of audiences: insiders and outsiders, academics and lay audiences. Attempting to be both scientific and humanistic, ethnograhy has been accused of being neither. How can ethnographers best understand their impact on the groups they study, and the impact of their research on their own identity? How can ethnographers balance their personal agendas (related for example to political and ideological goals, particulary Feminism and anti-imperalism) with an academic quest to produce \"scientific,\" well-supported research? And how have ethnographers experimented with style and genre to break the chains of traditional ethnographic writing and better represent their experience in the field?",
+    "course_id" : "FOLK543",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "543",
+    "course_title" : "Ethnographic Writing",
+    "crosslistings" : [ {
+      "course_id" : "543",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Rabberman, Theophano",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course examines the intersections among race, poverty and class in the United States. We will probe recent theories on poverty, and examine the war against the poor undertaken by various cultural and political forces. We will investigate intra-racial class conflicts in black communities, as well as tackle the rise of prosperity gospel messages in African-American churches. We will also examine the Bill Cosby controversy, and the aftermath of Hurricane Katrina in situatin racial and class discourse around poverty. Finally, we will examine religous responses to poverty, race and class.",
+    "course_id" : "FOLK119",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "119",
+    "course_title" : "Race, Poverty and Class",
+    "crosslistings" : [ {
+      "course_id" : "119",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "119",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "M.  Dyson",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In folklore scholarship, structural analysis extends over several genres. In this course we will examine the analysis of genres from structural perspectives, the critique of structural analysis and the current constructive directions that have emerged in the field in response to criticism of structuralism.",
+    "course_id" : "FOLK549",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "549",
+    "course_title" : "Structural Analysis",
+    "crosslistings" : [ {
+      "course_id" : "545",
+      "section_id" : "",
+      "subject" : "ANTH"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Ben-Amos",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will deal with the Jewish culture of magic in Late Antiquity and the early Middle Ages. It will focus on two aspects: how was Jewish magic characterized within the evidence provided by \"insiders,\" namely practitioners, and how was it described and presented in \"outsider\" accounts, mainly rabbinic sources. We will examine magical artifacts such as amulets and magic bowls, as well as manuals and treatises of magic. The course explores the beliefs, practices and aims of Jewish magic activity. At the same time, we will delve into the political question of accusations of magic and their role in the struggle of the religious elites for monopoly over holiness and ritual power. All course materials will be in English.",
+    "course_id" : "FOLK129",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "129",
+    "course_title" : "Early Jewish Magic: Practice, Text and Context",
+    "crosslistings" : [ {
+      "course_id" : "229",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "289",
+      "section_id" : "",
+      "subject" : "NELC"
+    }, {
+      "course_id" : "229",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Harari",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course focuses on the musical genres and styles (both traditional and popular) that have grown up around the accordion in the New World. We will begin our explorations in Nova Scotia and move toward the Midwest, travelling though the polka belt. From there, our investigation turns toward Louisiana and Texas--toward zydeco, Cajun, and Tex-Mex music. We will then work our way through Central and South America, considering norteno, cumbia, vallenato, tango, chamame, and forro. Our journey will include in the Caribbean, where we will spend some time thinking about merengue and rake-n-scrape music. Throughout the semester, the musical case studies will be matched by readings and films that afford ample opportunity to think about the ways that music is bound up in ethnicity, identity, and class. We will also have occasion to thinkabout the accordian as a multiply meaningful instrument that continues to be incorporated into debates over cultural politics and mobilized as part of strategies of representation through the New World.",
+    "course_id" : "FOLK157",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "157",
+    "course_title" : "Accordians in the New World",
+    "crosslistings" : [ {
+      "course_id" : "157",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "255",
+      "section_id" : "",
+      "subject" : "MUSC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Our perception and interpretation of body language is often subliminal, but is crucial in all communication. This course will develop skills in observation and analysis of nonverbal behavior, with a particular emphasis on cross cultural communication. In contemporary society, the analysis of nonverbal communication has applications in education, psychology, business, advertising, medicine, police work, the justice system, the military, religion, sports, and politics. As video and digital cameras are increasingly being placed in public (and private!) locations, the ethical questions of why, how, and by whom body movements and images are analyzed become a topic of primary importance for society. Clothing, scents, gestures, eye contact, silence, music, dance, the built environment -- all are used to construct relationships and develop markets for the new century. Readings from a number of disciplinary perspectives will give us the opportunity to investigate these and other issues related to the body and to nonverbal communication in multicultural societies.",
+    "course_id" : "FOLK420",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "420",
+    "course_title" : "Culture, Communication, and Body Language",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK104",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "104",
+    "course_title" : "Supernatural Beliefs, Legends, and Practices",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "A.  Griswold",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course relies on a variety of sociological approaches to media and popular, with a particular emphasis on the importance of the organization of the culture industries, the relationship between cultural consumption and status, and the social significance of leisure activities from sports to shopping. Specific course topics include the branding of Disney, Nike and Starbucks; the glovalization of popular culture; the blurring of entertainment and politics; and the rise of new media technologies in the digital age.",
+    "course_id" : "FOLK137",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "Also fulfills General Requirement in Arts & Letters for Class of 2009 and prior",
+    "course_number" : "137",
+    "course_title" : "Sociology of Media and Popular Culture",
+    "crosslistings" : [ {
+      "course_id" : "137",
+      "section_id" : "",
+      "subject" : "SOCI"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Grazian",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "S",
+      "requirement_description" : "Society Sector"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Throughout human history, the relationships of science and religion, as well as of science and magic, have been complex and often surprising. This course will cover topics ranging from the links between magic and science in the seventeenth century to contemporary anti-science movements.",
+    "course_id" : "FOLK025",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "025",
+    "course_title" : "Western Science, Magic and Religion 1600 to the present",
+    "crosslistings" : [ {
+      "course_id" : "025",
+      "section_id" : "",
+      "subject" : "HIST"
+    }, {
+      "course_id" : "116",
+      "section_id" : "",
+      "subject" : "RELS"
+    }, {
+      "course_id" : "028",
+      "section_id" : "",
+      "subject" : "STSC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Kuklick",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "H",
+      "requirement_description" : "History &amp; Tradition Sector"
+    } ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course explores aspects of the origins, style development, aesthetic philosophies, historiography, and contemporary conventions of African-American musical traditions. Beginning with the African legacy, we situate the conceptual approaches of African American music within the larger African Diaspora. The course provides a foundation for the advanced study of the various strains of black musics to appear in the United States. Covering the 19th and 20th centuries, we explore the socio-political contexts and cultural imperatives of black music from a multidisciplinary perspective (musicology, ethnomusicology, linguistics, African-American literary criticism, cultural studies, history, anthropology). The range of genres, styles, idioms, and time periods include: the music of West and Central Africa, the music of colonial America, 19th century church and dance music, minstrelsy, music of the Harlem Renaissance, jazz, blues, gospel, hip-hop, and film music. Special attention is given to the ways in which black music generates \"meaning\" and to how the social energy circulating within black music articulates myriad issues about American identity at specific historical moments.",
+    "course_id" : "FOLK106",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "106",
+    "course_title" : "Studies in African-American Music",
+    "crosslistings" : [ {
+      "course_id" : "147",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "156",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "235",
+      "section_id" : "",
+      "subject" : "MUSC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Ramsey",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Have you ever noticed that scholars in different academic disciplines seem to speak different languages? Have you wondered how scholars put together a plan for their research, explain their findings, and organize and write their papers? This class is designed to introduce MLA students and other advanced students to the research and writing conventions used by scholars in the arts and sciences. With attention to disciplines in the humanities, social sciences, and sciences, we will identify and explore some of the theories, sources, language, and qualitative and quantitative methodologies that scholars use as they conduct original research in their fields. Throughout the class, we'll also discuss writing conventions across the arts and sciences, with special attention to the structure of argument; the use of evidence; voice and style in both traditional academic writing and more innovative forms of writing; and documentation conventions. Students will develop an original research project through incremental writing assignments, and will write a formal research proposal (15-20 pages), which can be used as their Capstone proposal if they wish.",
+    "course_id" : "FOLK541",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "541",
+    "course_title" : "Academic Writing and Research Design in the Arts and Sciences",
+    "crosslistings" : [ {
+      "course_id" : "541",
+      "section_id" : "",
+      "subject" : "MLA"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Rabberman",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "African-American folk culture developed under conditions of oppression, which both maintained and broke the continuity of its development. Thus it displays characteristics of the worldwide phenomenon of creolization, which occurs when cultures converge and clash. Multilingualism and multiculturalism, which inevitably result, act to unleash the creative energies of both groups. This course analyzes creolization in culture and history, using concepts from linguistics, anthropology, folkloristics, translation theory, and other disciplines. Issues of hegemony, class struggle, and resistance through expressive culture will be examined, if not settled.",
+    "course_id" : "FOLK560",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "560",
+    "course_title" : "Creolization, Clash, and Creativity",
+    "crosslistings" : [ {
+      "course_id" : "560",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "560",
+      "section_id" : "",
+      "subject" : "AFST"
+    }, {
+      "course_id" : "560",
+      "section_id" : "",
+      "subject" : "ENGL"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Haring",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A more advanced approach to specific topics in folklore, this course is designed for undergraduate and graduate students. Topics will vary from semester to semester, and the course may be repeated for credit.",
+    "course_id" : "FOLK490",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "490",
+    "course_title" : "Special Topics in Folklore",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK441",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "441",
+    "course_title" : "Great Story Collections",
+    "crosslistings" : [ {
+      "course_id" : "241",
+      "section_id" : "",
+      "subject" : "FOLK"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK599",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "599",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The study of oral narratives of personal experience: principles of narratology, including modes of temporal organization; evaluation; linguistic devices for transforming experience in the interests of the teller. This year s course will have a special emphasis on narratives dealing with the escalation of violence; contact and >> confrontation with the dead; and premonitions of future events. The analysis will extend to similarities and parallels with the work of epic poets and narrative historians. Students will participate in the analysis by eliciting and recording narratives of personal experience from family and social networks. Text: W. Labov, The Language of Life and Death.",
+    "course_id" : "FOLK470",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "470",
+    "course_title" : "Narrative Analysis",
+    "crosslistings" : [ {
+      "course_id" : "470",
+      "section_id" : "",
+      "subject" : "LING"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Labov",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Music 075 401 (Dr. Ramsey): Exploration of the family of musical idioms called jazz. Attention will be given to issues of style, to selected musicians, and to the social, cultural, and scholarly issues raised by its study. Music 075 601 (Professor Parberry): Development of jazz from the beginning of the 20th Century to present. Analysis of the stylistic flux of jazz, such as the progression from dance music to bebop and the emergence of the avant-garde and jazz rock. Attention will be given to both the artists who generated the changes and the cultural conditions that often provided the impetus.",
+    "course_id" : "FOLK075",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Open to all students",
+    "course_number" : "075",
+    "course_title" : "Jazz: Style and History",
+    "crosslistings" : [ {
+      "course_id" : "077",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "075",
+      "section_id" : "",
+      "subject" : "GSWS"
+    }, {
+      "course_id" : "075",
+      "section_id" : "",
+      "subject" : "MUSC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Ramsey, Parberry",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Introduction to the role of women in major religious traditions, focusing on the relationship between religion and culture. Attention to views of women i sacred texts, and to recent feminist responses.",
+    "course_id" : "FOLK029",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "029",
+    "course_title" : "Women and Religion",
+    "crosslistings" : [ {
+      "course_id" : "109",
+      "section_id" : "",
+      "subject" : "GSWS"
+    }, {
+      "course_id" : "005",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "O",
+      "requirement_description" : "Humanities &amp; Social Science Sector"
+    } ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This class provides an overview of the most popular musical styles, and discussion of the cultural and political contexts in which they emerged in contemporary Africa. We will cover sub-Saharan and North Africa, with a strong focus on southern Africa. Learning to perform a limited range of African music/dance will be part of this course. No prior performance experience required, though completion of Music 50 is recommended.",
+    "course_id" : "FOLK253",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "253",
+    "course_title" : "Music & Perf of Africa",
+    "crosslistings" : [ {
+      "course_id" : "253",
+      "section_id" : "",
+      "subject" : "AFRC"
+    }, {
+      "course_id" : "253",
+      "section_id" : "",
+      "subject" : "AFST"
+    }, {
+      "course_id" : "253",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "253",
+      "section_id" : "",
+      "subject" : "GSWS"
+    }, {
+      "course_id" : "253",
+      "section_id" : "",
+      "subject" : "MUSC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The Jews are among the few nations and ethnic groups whose oral tradition occurs in literary and religious texts dating back more than two thousand years. This tradition changed and diversified over the years in terms of the migrations of Jews into different countries and the historical, social, and cultural changes that these countries underwent. The course attempts to capture the historical and ethnic diversity of Jewish folklore in a variety of oral literary forms. A basic book of Hasidic legends from the 18th century will serve as a key text to explore problems in Jewish folklore relating to both earlier and later periods.",
+    "course_id" : "FOLK280",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "280",
+    "course_title" : "Jewish Folklore",
+    "crosslistings" : [ {
+      "course_id" : "283",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "260",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "258",
+      "section_id" : "",
+      "subject" : "NELC"
+    }, {
+      "course_id" : "221",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Ben-Amos",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A survey of the indigenous oral literaturres of North America that will read Native American myths and other traditional narratives with the primary aim to exploring their meanings to Native people. Topics will include, among other things, moral and religious significance, performance, aesthetics, humor, and the relationship of myth to landscape and individual life experience. The course will also place the study of Native American folklore in the context of the history of scholarship, and current issues such as cultural renewal, language endangerment, cultural representation, and cultural property rights.",
+    "course_id" : "FOLK360",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "360",
+    "course_title" : "Native American Folklore",
+    "crosslistings" : [ {
+      "course_id" : "360",
+      "section_id" : "",
+      "subject" : "ANTH"
+    }, {
+      "course_id" : "362",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "316",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "J.Berman",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The topics of discussion in the course are the following: the nature of narrative, narrative taxonomy and terminology, performance in storytelling events, the transformation of historical experience into narrative, the construction of symbolic reality, the psycho-social interpretation of folktales, the search for minimal units, the historic-geographic method in folktale studies, the folktale in history and the history of folktale research.",
+    "course_id" : "FOLK531",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "531",
+    "course_title" : "Prose Narrative",
+    "crosslistings" : [ {
+      "course_id" : "560",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "582",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Ben-Amos",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "FOLK999",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "999",
+    "course_title" : "Independent Study and Research",
+    "crosslistings" : [ ],
+    "department" : "FOLK",
+    "department_of_record" : "FOLK",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

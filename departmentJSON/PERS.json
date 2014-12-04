@@ -1,0 +1,1255 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:47:59 +0000
+Content-Length: 48097
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:47:59 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PERS599",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "599",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PERS615",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "615",
+    "course_title" : "Advanced Persian I",
+    "crosslistings" : [ {
+      "course_id" : "015",
+      "section_id" : "",
+      "subject" : "PERS"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "For the second semester: completion of the first semester or permission of the instructor; PERS 013 or PERS 017 or permission of the instructor.",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Reading, writing, basic grammar and elemental speaking.",
+    "course_id" : "PERS112",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "This is a two-semester course.",
+    "course_number" : "112",
+    "course_title" : "Beginning Pashtu II",
+    "crosslistings" : [ {
+      "course_id" : "512",
+      "section_id" : "",
+      "subject" : "PERS"
+    }, {
+      "course_id" : "406",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Santry",
+    "prerequisites" : "For second semester, completion of the first semester.",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PERS399",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "399",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "2"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Course description: This intensive course is intended for highly self-motivated and dedicated students who wish to work toward improving their Persian proficiency in all four skills of reading, writing, listening and speaking. We will try to expand our vocabulary, fine-tune our grammar, and deepen competencies in the four skills. We will work across literary genres and contemporary media to analyze and interpret cultural, political and historical moments in Persian speaking countries; Iran, Afghanistan and Tajikstan. Every day we will read Modern and Classical Persian prose and poetry, as well as readings from Persian media and historical texts. Students are required to produce written compositions regularly. In the course of the summer session, we will screen two Iranian movies per week, and discuss them subsequently. The class will take field trips to related cultural areas and Persian restaurants in New York, Washington D.C. and the Philadelphia area.",
+    "course_id" : "PERS118",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "118",
+    "course_title" : "Intensive Advanced Persian I&II",
+    "crosslistings" : [ {
+      "course_id" : "618",
+      "section_id" : "",
+      "subject" : "PERS"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Minuchehr",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "L",
+    "terms_offered_description" : "Course usually offered summer term only"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Course description: This intensive course is intended for highly self-motivated and dedicated students who wish to work toward improving their Persian proficiency in all four skills of reading, writing, listening and speaking. We will try to expand our vocabulary, fine-tune our grammar, and deepen competencies in the four skills. We will work across literary genres and contemporary media to analyze and interpret cultural, political and historical moments in Persian speaking countries; Iran, Afghanistan and Tajikstan. Every day we will read Modern and Classical Persian prose and poetry, as well as readings from Persian media and historical texts. Students are required to produce written compositions regularly. In the course of the summer session, we will screen two Iranian movies per week, and discuss them subsequently. The class will take field trips to related cultural areas and Persian restaurants in New York, Washington D.C. and the Philadelphia area.",
+    "course_id" : "PERS618",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "618",
+    "course_title" : "Intensive Advanced Persian I&II",
+    "crosslistings" : [ {
+      "course_id" : "118",
+      "section_id" : "",
+      "subject" : "PERS"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Minuchehr",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "L",
+    "terms_offered_description" : "Course usually offered summer term only"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In this course, we will continue to address a broader variety of cultural topics in order to increase your proficiency in linguistic as well as cultural terms. Emphasis is place on actively using Persian for interpersonal, interpretive and presentational modes of communication. Therefore use of English is restricted. Listening, speaking, reading, and writing are integrated into the course, as are culture, grammar, vocabulary, and pronunciation. Students must either have successfully completed PERS-013, or take the departmental placement exam.",
+    "course_id" : "PERS014",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "014",
+    "course_title" : "Intermediate Persian II",
+    "crosslistings" : [ {
+      "course_id" : "614",
+      "section_id" : "",
+      "subject" : "PERS"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Entezari",
+    "prerequisites" : "",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PERS514",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "Offered through Penn Language Center.  This is a two-semester course.",
+    "course_number" : "514",
+    "course_title" : "Intermediate Pashtu II",
+    "crosslistings" : [ {
+      "course_id" : "114",
+      "section_id" : "",
+      "subject" : "PERS"
+    }, {
+      "course_id" : "426",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Santry",
+    "prerequisites" : "",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "G",
+    "terms_offered_description" : "Two terms. student must enter first term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PERS015",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "015",
+    "course_title" : "Advanced Persian I",
+    "crosslistings" : [ {
+      "course_id" : "615",
+      "section_id" : "",
+      "subject" : "PERS"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "For the second semester: completion of the first semester or permission of the instructor; PERS 013 or PERS 017 or permission of the instructor.",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PERS199",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "199",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Reading, writing, basic grammar and elemental speaking.",
+    "course_id" : "PERS111",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "111",
+    "course_title" : "Beginning Pashtu I",
+    "crosslistings" : [ {
+      "course_id" : "511",
+      "section_id" : "",
+      "subject" : "PERS"
+    }, {
+      "course_id" : "405",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Santry",
+    "prerequisites" : "",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A wide variety of reading genres, writing, and oral expression.",
+    "course_id" : "PERS113",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "113",
+    "course_title" : "Intermediate Pashtu",
+    "crosslistings" : [ {
+      "course_id" : "513",
+      "section_id" : "",
+      "subject" : "PERS"
+    }, {
+      "course_id" : "425",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Santry",
+    "prerequisites" : "Beg.  Pashtu, or permission by instructor.",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A wide variety of reading genres, writing, and oral expression.",
+    "course_id" : "PERS513",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "Offered through the Penn Language Center",
+    "course_number" : "513",
+    "course_title" : "Intermediate Pashtu I",
+    "crosslistings" : [ {
+      "course_id" : "113",
+      "section_id" : "",
+      "subject" : "PERS"
+    }, {
+      "course_id" : "431",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Santry",
+    "prerequisites" : "Beg.  Pashtu, or permission by instructor.",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "G",
+    "terms_offered_description" : "Two terms. student must enter first term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Beg. Pashto, or permission of the instructor. A wide variety of reading genres, writing, and oral expression",
+    "course_id" : "PERS114",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "Offered through Penn Language Center.  This is a two-semester course.",
+    "course_number" : "114",
+    "course_title" : "Intermediate Pashtu II",
+    "crosslistings" : [ {
+      "course_id" : "514",
+      "section_id" : "",
+      "subject" : "PERS"
+    }, {
+      "course_id" : "426",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Santry",
+    "prerequisites" : "",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PERS515",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "Offered through the Penn Language Center",
+    "course_number" : "515",
+    "course_title" : "Advanced Pashtu I",
+    "crosslistings" : [ {
+      "course_id" : "115",
+      "section_id" : "",
+      "subject" : "PERS"
+    }, {
+      "course_id" : "432",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Santry",
+    "prerequisites" : "",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "G",
+    "terms_offered_description" : "Two terms. student must enter first term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Modern literary short stories. BBC news broadcasts for listening comprehension and discussion.",
+    "course_id" : "PERS115",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "Offered through the Penn Language Center",
+    "course_number" : "115",
+    "course_title" : "Advanced Pashtu I",
+    "crosslistings" : [ {
+      "course_id" : "515",
+      "section_id" : "",
+      "subject" : "PERS"
+    }, {
+      "course_id" : "435",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Santry",
+    "prerequisites" : "Beg.  And Int.  Pashto required",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PERS516",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "Offered through Penn Language Center.",
+    "course_number" : "516",
+    "course_title" : "Advanced Pashtu II",
+    "crosslistings" : [ {
+      "course_id" : "116",
+      "section_id" : "",
+      "subject" : "PERS"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Santry",
+    "prerequisites" : "",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "G",
+    "terms_offered_description" : "Two terms. student must enter first term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Pashto dialects, using recordings from different regions. BBC broadcasts for listening comprehension and discussion.",
+    "course_id" : "PERS116",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "Offered through Penn Language Center.",
+    "course_number" : "116",
+    "course_title" : "Advanced Pashtu II",
+    "crosslistings" : [ {
+      "course_id" : "516",
+      "section_id" : "",
+      "subject" : "PERS"
+    }, {
+      "course_id" : "445",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Santry",
+    "prerequisites" : "",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PERS616",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "616",
+    "course_title" : "Advanced Persian II",
+    "crosslistings" : [ {
+      "course_id" : "016",
+      "section_id" : "",
+      "subject" : "PERS"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PERS016",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "016",
+    "course_title" : "Advanced Persian II",
+    "crosslistings" : [ {
+      "course_id" : "616",
+      "section_id" : "",
+      "subject" : "PERS"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Assefi-Shirazi",
+    "prerequisites" : "PERS015 or permission of the instructor",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PERS018",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "018",
+    "course_title" : "Advanced Persian in the Media",
+    "crosslistings" : [ ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Reading, writing, basic grammar and elemental speaking.",
+    "course_id" : "PERS512",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "Offered through Penn Language Center.  This is a two-semester course.",
+    "course_number" : "512",
+    "course_title" : "Beginning Pashtu II",
+    "crosslistings" : [ {
+      "course_id" : "112",
+      "section_id" : "",
+      "subject" : "PERS"
+    }, {
+      "course_id" : "406",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Santry",
+    "prerequisites" : "For second semester, completion of the first semester.",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "G",
+    "terms_offered_description" : "Two terms. student must enter first term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An intensive course designed to teach the reading and writing of standard Tehran Persian to those with a speaking knowledge of that language. In recent years there has been an increasing demand from Persian-speaking Iranian-American students for formal instruction in Persian. While many of these students have some degree of spoken fluency in Persian, they are often unable to read or write it. Their speaking ability makes it difficult to integrate them into first- or second-year classes of students who have started with no knowledge of Persian. If these Persian-speaking students could be brought to at least a second-year level of reading and writing, they could then be enrolled in more advanced courses in Persian where they would be more or less at the same level as other students. The course will focus on the lexical and syntactic differences between written and spoken Persian, and the problems of Persian spelling.",
+    "course_id" : "PERS017",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "017",
+    "course_title" : "Persian for Heritage Speakers I",
+    "crosslistings" : [ {
+      "course_id" : "617",
+      "section_id" : "",
+      "subject" : "PERS"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Assefi-Shirazi",
+    "prerequisites" : "Fluency in spoken Persian.",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An intensive, one-semester course designed to teach the reading and writing of standard Tehran Persian to those with a speaking knowledge of that language. In recent years there has been an increasing demand from Persian-speaking Iranian-American students for formal instruction in Persian. While many of these students have some degree of spoken fluency in Persian, they are often unable to read or write it. Their speaking ability makes it difficult to integrate them into first- or second-year classes of students who have started with no knowledge of Persian. If these Persian-speaking students could be brought to at least a second-year level of reading and writing, they could then be enrolled in more advanced courses in Persian where they would be more or less at the same level as other students. The course will focus on the lexical and syntactic differences between written and spoken Persian, and the problems of Persian spelling.",
+    "course_id" : "PERS617",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "617",
+    "course_title" : "Persian Reading and Writing for Fluent Speakers",
+    "crosslistings" : [ {
+      "course_id" : "017",
+      "section_id" : "",
+      "subject" : "PERS"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "Fluency in spoken Persian.",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PERS299",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "299",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed for Persian speaers who cannot easily read or write. Students begin by learning alphabet and reading simple texts infirst semester, and advanced by the end of the second semester to reading intermediate texts, and writing letters and simple compositions. Students are expected to come to the class with the assigned text prepared(30%), general exams (mid-term and final), 50% attendance and participation in the class (20%).",
+    "course_id" : "PERS019",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "Offered through the Penn Language Center.",
+    "course_number" : "019",
+    "course_title" : "Persian for Heritage Speakers II",
+    "crosslistings" : [ {
+      "course_id" : "619",
+      "section_id" : "",
+      "subject" : "PERS"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Assefi-Shirazi",
+    "prerequisites" : "PERS 017 or permission of the instructor.",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "PERS619",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "619",
+    "course_title" : "Persian for Heritage Speakers II",
+    "crosslistings" : [ {
+      "course_id" : "019",
+      "section_id" : "",
+      "subject" : "PERS"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed to help you build upon what you have learned in Elementary Persian I. Emphasis is placed on using the language for interpersonal, interpretive, and presentational modes of communication. Therefore use of English is restricted. Listening, speaking, reading, and writing-as well as culture, vocabulary, grammar, and pronunciation-are integrated into the course. Students must either have successfully completed PERS-611, or take the departmental exam.",
+    "course_id" : "PERS612",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "612",
+    "course_title" : "Elementary Persian II",
+    "crosslistings" : [ {
+      "course_id" : "012",
+      "section_id" : "",
+      "subject" : "PERS"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Entezari",
+    "prerequisites" : "",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed to help you build upon what you have learned in Elementary Persian I. Emphasis is placed on using the language for interpersonal, interpretive, and presentational modes of communication. Therefore use of English is restricted. Listening, speaking, reading, and writing-as well as culture, vocabulary, grammar, and pronunciation-are integrated into the course. Students must either have successfully completed PERS-011, or take the departmental exam.",
+    "course_id" : "PERS012",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "012",
+    "course_title" : "Elementary Persian II",
+    "crosslistings" : [ {
+      "course_id" : "612",
+      "section_id" : "",
+      "subject" : "PERS"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Entezari",
+    "prerequisites" : "",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed to help you start learning Persian and to give you the necessary tools to continue your study of Persian. This course introduces the Persian alphabet alongside grammar and vocabulary. Emphasis is placed on actively using the language for interpersonal, interpretive, and presentational modes of communitcation. The four language skills (i.e., listening, speaking, readaing and writing) as well as pronunciation and culture are integrated into the curriculum. There is no prerequisite.",
+    "course_id" : "PERS011",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "011",
+    "course_title" : "Elementary Persian I",
+    "crosslistings" : [ {
+      "course_id" : "611",
+      "section_id" : "",
+      "subject" : "PERS"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Entezari",
+    "prerequisites" : "",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed to help you start learning Persian and to give you the necessary tools to continue your study of Persian. This course introduces the Persian alphabet alongside grammar and vocabulary. Emphasis is placed on actively using the language for interpersonal, interpretive, and presentational modes of communitcation. The four language skills (i.e., listening, speaking, readaing and writing) as well as pronunciation and culture are integrated into the curriculum. There is no prerequisite.",
+    "course_id" : "PERS611",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "611",
+    "course_title" : "Elementary Persian I",
+    "crosslistings" : [ {
+      "course_id" : "011",
+      "section_id" : "",
+      "subject" : "PERS"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Entezari",
+    "prerequisites" : "",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is conducted in Persian and designed to help you continue expanding upon what you have learned in Elementary Persian II (PERS-012). In this course, we will begin to address a broader variety of cultural topics in order to increase your proficiency in linguistic as well as cultural terms. Emphasis is placed on actively using the language for interpersonal, interpretive and presentational modes of communication. Therefore use of English is restricted. Listening, speaking, reading, and writing are integrated into the course, as are culture, grammar, vocabulary, and pronunciation. Students must either have successfully completed PERS-012 or take the departmental placement exam.",
+    "course_id" : "PERS013",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "013",
+    "course_title" : "Intermediate Persian I",
+    "crosslistings" : [ {
+      "course_id" : "613",
+      "section_id" : "",
+      "subject" : "PERS"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Entezari",
+    "prerequisites" : "PERS 012 or equivalent",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is conducted in Persian and designed to help you continue expanding upon what you have learned in Elementary Persian II (PERS-012). In this course, we will begin to address a broader variety of cultural topics in order to increase your proficiency in linguistic as well as cultural terms. Emphasis is placed on actively using the language for interpersonal, interpretive and presentational modes of communication. Therefore use of English is restricted. Listening, speaking, reading, and writing are integrated into the course, as are culture, grammar, vocabulary, and pronunciation. Students must either have successfully completed PERS-612 or take the departmental placement exam.",
+    "course_id" : "PERS613",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "613",
+    "course_title" : "Intermediate Persian I",
+    "crosslistings" : [ {
+      "course_id" : "013",
+      "section_id" : "",
+      "subject" : "PERS"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Entezari",
+    "prerequisites" : "For the second semester: Completion of the first semester or permission of the instructor",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In this course, we will continue to address a broader variety of cultural topics in order to increase your proficiency in linguistic as well as cultural terms. Emphasis is place on actively using Persian for interpersonal, interpretive and presentational modes of communication. Therefore use of English is restricted. Listening, speaking, reading, and writing are integrated into the course, as are culture, grammar, vocabulary, and pronunciation. Students must either have successfully completed PERS-613, or take the departmental placement exam.",
+    "course_id" : "PERS614",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "614",
+    "course_title" : "Intermediate Persian II",
+    "crosslistings" : [ {
+      "course_id" : "014",
+      "section_id" : "",
+      "subject" : "PERS"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Entezari",
+    "prerequisites" : "",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Reading, writing, basic grammar and elemental speaking.",
+    "course_id" : "PERS511",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "Offered through the Penn Language Center",
+    "course_number" : "511",
+    "course_title" : "Beginning Pashtu I",
+    "crosslistings" : [ {
+      "course_id" : "111",
+      "section_id" : "",
+      "subject" : "PERS"
+    }, {
+      "course_id" : "405",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "PERS",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Santry",
+    "prerequisites" : "",
+    "register_subgroup_one" : "06",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

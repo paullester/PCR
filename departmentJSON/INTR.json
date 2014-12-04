@@ -1,0 +1,271 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:13 +0000
+Content-Length: 10401
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3525579948.39711.0000; expires=Thu, 04-Dec-2014 09:48:13 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A survey of theoretical and conceptual approaches to the study of InternationalRelations as they are employed by analysts and practitioners in the field.",
+    "course_id" : "INTR200",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "200",
+    "course_title" : "International Relations Theory & Practice",
+    "crosslistings" : [ ],
+    "department" : "INTR",
+    "department_of_record" : "INTR",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2J",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "INTR290",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "290",
+    "course_title" : "Topics in International Relations",
+    "crosslistings" : [ {
+      "course_id" : "365",
+      "section_id" : "",
+      "subject" : "HIST"
+    }, {
+      "course_id" : "412",
+      "section_id" : "",
+      "subject" : "HIST"
+    }, {
+      "course_id" : "282",
+      "section_id" : "",
+      "subject" : "SAST"
+    }, {
+      "course_id" : "292",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "INTR",
+    "department_of_record" : "INTR",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2J",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Seminar in International Relations. A two semester sequence including review of advanced International Relations theory and research methods for the preparation of the senior thesis.",
+    "course_id" : "INTR390",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "Senior Seminar for Thesis Research",
+    "course_number" : "390",
+    "course_title" : "Senior Seminar for Thesis Research",
+    "crosslistings" : [ ],
+    "department" : "INTR",
+    "department_of_record" : "INTR",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2J",
+    "instructors" : "Staff",
+    "prerequisites" : "Intr 350",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "INTR199",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "199",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "INTR",
+    "department_of_record" : "INTR",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2J",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Seminar in international relations. Second semester of a two semester sequence including review of advanced international relations theory and research methods for the preparation of the senior thesis.",
+    "course_id" : "INTR391",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "391",
+    "course_title" : "Senior Seminar For Thesis Research",
+    "crosslistings" : [ ],
+    "department" : "INTR",
+    "department_of_record" : "INTR",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2J",
+    "instructors" : "Staff",
+    "prerequisites" : "INTR 390",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Research seminar for thesis writing",
+    "course_id" : "INTR301",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Majors Only",
+    "course_number" : "301",
+    "course_title" : "Senior Seminars in International Relations",
+    "crosslistings" : [ {
+      "course_id" : "397",
+      "section_id" : "",
+      "subject" : "PSCI"
+    } ],
+    "department" : "INTR",
+    "department_of_record" : "INTR",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2J",
+    "instructors" : "Staff",
+    "prerequisites" : "PSCI 150 or INTR 101",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Transnational Issues in Global Politics This course is designed to provide students with an introduction to transnational issues and world politics and to acquaint them with some of the leading issues, theories, concepts and processes that shape and define world events. It is expected that students taking the course will gain an ability to analyze, understand objectively evaluate and apprecate the complex dynamic that is \"global politics.\" In order to better understand other nations, their leaders and their motivations, the readings and lectures in the first segment of this course will examine the traditional and contemporary approaches to studying world politics. Next, we will focus on the instruments of conflict and cooperation and the forces of integration and fragmentation in the world today. Finally, we will assess some of the major international issues of our time (i.e. climate change, proliferation of weapons of mass destruction, genocide and human trafficking) and debate the prospects for bringing peace and prosperity to a world that is rife with conflict and poverty. The overriding challenge in this introductory course is to consider international relations from different perspectives and to be open and adaptive as you develop a deeper understanding of global issues and politics.",
+    "course_id" : "INTR101",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "101",
+    "course_title" : "Transnational Issues in Global Politics",
+    "crosslistings" : [ ],
+    "department" : "INTR",
+    "department_of_record" : "INTR",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2J",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "International Relations is concerned with both theory and practice so we employ a range of analytical tools to examine actors and events in world politics. The purpose of this course is to introduce students to the various research methods utilized by students and scholars in the field of IR including: case studies, historical - comparative and archival research, survey research, interviewing techniques, simulations, quantitative and statistical analysis.",
+    "course_id" : "INTR350",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "350",
+    "course_title" : "Research Methods/Practice in IR",
+    "crosslistings" : [ ],
+    "department" : "INTR",
+    "department_of_record" : "INTR",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2J",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

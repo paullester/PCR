@@ -1,0 +1,236 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:30 +0000
+Content-Length: 8468
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:48:30 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The first semester of a two-semester course on the fundamental results and techniques of mathematical logic. This course will treat the basic metamathematics of first-order logic including the Completeness Theorem, Compactness Theorem, Lowenhein-Skolem Theorem, Godel Incompleteness Theorems, and Church's Theorem. Connections between logic and algebra, analysis, combinatorics, computer science, and the foundations of mathematics will be emphasized.",
+    "course_id" : "LGIC310",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "310",
+    "course_title" : "Logic I",
+    "crosslistings" : [ {
+      "course_id" : "570",
+      "section_id" : "",
+      "subject" : "MATH"
+    }, {
+      "course_id" : "006",
+      "section_id" : "",
+      "subject" : "PHIL"
+    } ],
+    "department" : "LGIC",
+    "department_of_record" : "LGIC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2G",
+    "instructors" : "Weinstein, Scedrov",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The second semester of a two-semester course on the fundamental results and techniques of mathematical logic. Topics will be drawn from model theory, proof theory, recursion theory, and set theory. Connections between logic and algebra, analysis, combinatorics, computer science, and the foundations of mathematics will be emphasized.",
+    "course_id" : "LGIC320",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "320",
+    "course_title" : "Logic II",
+    "crosslistings" : [ {
+      "course_id" : "571",
+      "section_id" : "",
+      "subject" : "MATH"
+    }, {
+      "course_id" : "670",
+      "section_id" : "",
+      "subject" : "MATH"
+    }, {
+      "course_id" : "412",
+      "section_id" : "",
+      "subject" : "PHIL"
+    }, {
+      "course_id" : "416",
+      "section_id" : "",
+      "subject" : "PHIL"
+    } ],
+    "department" : "LGIC",
+    "department_of_record" : "LGIC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2G",
+    "instructors" : "Weinstein, Scedrov",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The first semester of a two-semester course designed to intoduce students to a range of mathematical subjects useful in the analysis of information and computation. This course will treat topics chosen from set theory, combinatorics, graph theory, and number theory.",
+    "course_id" : "LGIC210",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "210",
+    "course_title" : "Applied Mathematics of Information and Computation I",
+    "crosslistings" : [ {
+      "course_id" : "340",
+      "section_id" : "",
+      "subject" : "MATH"
+    } ],
+    "department" : "LGIC",
+    "department_of_record" : "LGIC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2G",
+    "instructors" : "Scedrov",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course provides an introduction to some of the fundamental ideas of logic and computation. Topics will include truth functional logic, quantificational logic, and logical decision problems.",
+    "course_id" : "LGIC010",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "This is a Formal Reasoning course.",
+    "course_number" : "010",
+    "course_title" : "Ideas in Logic and Computation",
+    "crosslistings" : [ {
+      "course_id" : "005",
+      "section_id" : "",
+      "subject" : "PHIL"
+    } ],
+    "department" : "LGIC",
+    "department_of_record" : "LGIC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2G",
+    "instructors" : "Weinstein",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The second semester of a two-semester course devoted to mathematical subjects useful in the analysis of information and computation. Topics will be drawn from automata theory, formal languages, computability and complexity, and information theory.",
+    "course_id" : "LGIC220",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "220",
+    "course_title" : "Applied Mathematics of Information and Computation II",
+    "crosslistings" : [ {
+      "course_id" : "341",
+      "section_id" : "",
+      "subject" : "MATH"
+    } ],
+    "department" : "LGIC",
+    "department_of_record" : "LGIC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2G",
+    "instructors" : "Scedrov",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will focus on the fundamental results and techniques of mathematical logic. Topics will be drawn from model theory, proof theory, recursion theory, and set theory. Connections between logic and algebra, analysis, combinatorics, computer science, and the foundations of mathematics will be emphasized.",
+    "course_id" : "LGIC499",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "499",
+    "course_title" : "Topics in Logic",
+    "crosslistings" : [ {
+      "course_id" : "412",
+      "section_id" : "",
+      "subject" : "PHIL"
+    } ],
+    "department" : "LGIC",
+    "department_of_record" : "LGIC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2G",
+    "instructors" : "Weinstein",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

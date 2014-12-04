@@ -1,0 +1,1828 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:22 +0000
+Content-Length: 75185
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3525579948.39711.0000; expires=Thu, 04-Dec-2014 09:48:22 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "HEBR599",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "599",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A study of the institution of Jewish prayer, its literature, and synagogu poetry. Texts will be read in Hebrew with supplementary English readings.",
+    "course_id" : "HEBR358",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "358",
+    "course_title" : "Siddur and Piyyut",
+    "crosslistings" : [ {
+      "course_id" : "658",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "355",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Stern",
+    "prerequisites" : "HEBR 052 or equivalent",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "HEBR298",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "298",
+    "course_title" : "Study Abroad",
+    "crosslistings" : [ ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An introduction to the skills of reading, writing, and conversing in modern Hebrew. This course assumes no previous knowledge of Hebrew. A grade of B- or higher is needed to proceed to HEBR 052, Elementary Modern Hebrew II.",
+    "course_id" : "HEBR051",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "051",
+    "course_title" : "Elementary Modern Hebrew I",
+    "crosslistings" : [ {
+      "course_id" : "651",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "051",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course constitutes the final semester of Intermediate Modern Hebrew. Hence, one of the main goals of the course is to prepare the students for the proficiency exam in Hebrew. Emphasis will be placed on grammar skills and ability to read literary texts. Open to all students who have completed three semesters of Hebrew at Penn with a grade of B- or above and new students with equivalent competency.",
+    "course_id" : "HEBR654",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "654",
+    "course_title" : "Intermediate Modern Hebrew IV",
+    "crosslistings" : [ {
+      "course_id" : "054",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "054",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "HEBR 653 or permission of instructor",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is for students who are interested in taking a literature course in Hebrew and are proficient in it. Grading is based primarily on students' literary understanding. There will be four 2-page written assignments over the course of the semester. We will discuss literary works that reflect Israelis' struggle with their national identity, from the patriotic 1948 generation for whom self and country overlapped to contemporary writers who ask what it means to be Israeli. While Yehuda Amichai's 1955 poem \"I want to die in my bed\" was a manifesto for individualism, the seemingly interminable Arab-Israeli conflict returned writers to the national, social, and political arenas starting in the 1980's. Readings include poems by Natan Alterman, Amir Gilboa, Meir Wieseltier and Roni Somek as well as fiction by Amos Oz, David Grossman, Sayed Kashua, Alona Kimhi and Etgar Keret. Texts, discussions and papers in Hebrew. The content of this course changes from year to year so students may take it for credit more than once.",
+    "course_id" : "HEBR359",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "359",
+    "course_title" : "Seminar Modern Hebrew Literature: LITERATURE & IDENTITY",
+    "crosslistings" : [ {
+      "course_id" : "227",
+      "section_id" : "",
+      "subject" : "COLL"
+    }, {
+      "course_id" : "359",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "659",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "359",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "556",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Gold",
+    "prerequisites" : "HEBR 059 or HEBR 259 or permission of the instructor.  This class is conducted in Hebrew and the texts are read in the original.  The syllabus serves solely as an outline.  The amount of material we cover depends on the pace of the class.  Additionally, the packet contains significantly more material than will be studied in class to compensate for the difficulty of obtaining Hebrew texts in America.  The content of this course changes from year to year and therefore students may take it for credit more than once.",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "A",
+      "requirement_description" : "Arts &amp; Letters Sector"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is an introduction to Biblical Hebrew. It assumes no prior knowledge, but students who can begin to acquire a reading knowledge of the Hebrew alphabet before class starts will find it extremely helpful. The course is the 1st of a 4-semester sequence whose purpose is to prepare students to take courses in Bible that demand a familiarity with the original language of the text.",
+    "course_id" : "HEBR151",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "151",
+    "course_title" : "Elementary Biblical Hebrew I",
+    "crosslistings" : [ {
+      "course_id" : "451",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "171",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "471",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Carasik",
+    "prerequisites" : "",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is an introduction to Biblical Hebrew. It assumes no prior knowledge, but students who can begin to acquire a reading knowledge of the Hebrew alphabet before class starts will find it extremely helpful. The course is the 1st of a 4-semester sequence whose purpose is to prepare students to take courses in Bible that demand a familiarity with the original language of the text.",
+    "course_id" : "HEBR451",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "451",
+    "course_title" : "Elementary Biblical Hebrew I",
+    "crosslistings" : [ {
+      "course_id" : "151",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "171",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "471",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Carasik",
+    "prerequisites" : "",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An introduction to the skills of reading, writing, and conversing in modern Hebrew. This course assumes no previous knowledge of Hebrew.",
+    "course_id" : "HEBR651",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "651",
+    "course_title" : "Elementary Modern Hebrew I",
+    "crosslistings" : [ {
+      "course_id" : "051",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "051",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "HEBR297",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "297",
+    "course_title" : "Study Abroad: Non Major",
+    "crosslistings" : [ ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A continued introduction to the grammar of Biblical Hebrew, focusing on the verbal system, with an emphasis on developing language skills in handling Biblical texts. A suitable entry point for students who have had some modern Hebrew.",
+    "course_id" : "HEBR152",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "152",
+    "course_title" : "Elementary Biblical Hebrew II",
+    "crosslistings" : [ {
+      "course_id" : "452",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "172",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "472",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Carasik",
+    "prerequisites" : "Successful completion of HEBR 151 or permission of the instructor.",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A continued introduction to the grammar of Biblical Hebrew, focusing on the verbal system, with an emphasis on developing language skills in handling Biblical texts. A suitable entry point for students who have had some modern Hebrew.",
+    "course_id" : "HEBR452",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "452",
+    "course_title" : "Elementary Biblical Hebrew II",
+    "crosslistings" : [ {
+      "course_id" : "152",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "172",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "472",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Carasik",
+    "prerequisites" : "Successful completion of HEBR 451 or permission of the instructor.",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A continuation of HEBR 051, First Year Modern Hebrew, which assumes basic skills of reading and speaking and the use of the present tense. Open to all students who have completed one semester of Hebrew at Penn with a grade of B- or above and new students with equivalent competency.",
+    "course_id" : "HEBR052",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "052",
+    "course_title" : "Elementary Modern Hebrew II",
+    "crosslistings" : [ {
+      "course_id" : "652",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "052",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "HEBR 051 or permission of instructor",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Development of the skills of reading, writing, and conversing in modern Hebrew on an intermediate level. Open to all students who have completed two semesters of Hebrew at Penn with a grade of B- or above and new students with equivalent competency.",
+    "course_id" : "HEBR653",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "653",
+    "course_title" : "Intermediate Modern Hebrew III",
+    "crosslistings" : [ {
+      "course_id" : "053",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "053",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "HEBR 652 or permission of the instructor.",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course constitutes the final semester of Intermediate Modern Hebrew. Hence, one of the main goals of the course is to prepare the students for the proficiency exam in Hebrew. Emphasis will be placed on grammar skills and ability to read literary texts. Open to all students who have completed three semesters of Hebrew at Penn with a grade of B- or above and new students with equivalent competency.",
+    "course_id" : "HEBR054",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "054",
+    "course_title" : "Intermediate Modern Hebrew IV",
+    "crosslistings" : [ {
+      "course_id" : "654",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "054",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "HEBR 053 or permission of instructor",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will focus on using the grammar and vocabulary learned at the introductory level to enable students to read Biblical texts independently and take advanced Bible exegesis courses. We will also work on getting comfortable with the standard dictionaries, concordances, and grammars used by scholars of the Bible. We will concentrate on prose this semester, closely reading Ruth, Jonah, and other prose selections. We will begin to translate from English into Biblical Hebrew, and there will also be a unit on the punctuation marks used in the Bible. This is a suitable entry point for students who already have strong Hebrew skills.",
+    "course_id" : "HEBR153",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "153",
+    "course_title" : "Intermediate Biblical Hebrew I",
+    "crosslistings" : [ {
+      "course_id" : "453",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "173",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "473",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Carasik",
+    "prerequisites" : "Successful completion of HEBR 152 or permission of the instructor.  This course is the prerequisite for HEBR 154 (no one is \"permitted\" into that semester; you must take the previous semester course).",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will focus on using the grammar and vocabulary learned at the introductory level to enable students to read Biblical texts independently and take advanced Bible exegesis courses. We will also work on getting comfortable with the standard dictionaries, concordances, and grammars used by scholars of the Bible. We will concentrate on prose this semester, closely reading Ruth, Jonah, and other prose selections. We will begin to translate from English into Biblical Hebrew, and there will also be a unit on the punctuation marks used in the Bible. This is a suitable entry point for students who already have strong Hebrew skills.",
+    "course_id" : "HEBR453",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "453",
+    "course_title" : "Intermediate Biblical Hebrew I",
+    "crosslistings" : [ {
+      "course_id" : "153",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "173",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "473",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Carasik",
+    "prerequisites" : "Successful completion of HEBR 452 or permission of the instructor.  This course is the prerequisite for HEBR 454 (no one is \"permitted\" into that semester; you must take the previous semester course).",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will introduce students to the modern academic study of the different genres of medieval Jewish literature-- poetry, narrative, interpretation of the Bible, liturgy, historiography, philosophy, sermonic, mystical and pietistic writings. In addition to studying the primary texts, the course will also explore the historical, religious, and cultural contexts in which these texts were first produced and then studied, and the aspects of Jewish historical experience that these texts reflect. The specific topic of the course (eg. Medieval Biblical Interpretation, Kabbalah) will vary from semester to semester. In some cases, the specific topic may also be the work of a specific author, like Maimonides. Primary sources will be read in their original Hebrew. While no previous experience in studying these texts is required, students should be able to read unpointed Hebrew texts. If there is a question as to whether the course is appropriate for you, please contact the professor.",
+    "course_id" : "HEBR258",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "258",
+    "course_title" : "Studies in Medieval Jewish Literature",
+    "crosslistings" : [ {
+      "course_id" : "258",
+      "section_id" : "",
+      "subject" : "FOLK"
+    }, {
+      "course_id" : "558",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "258",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "228",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Stern/Fishman",
+    "prerequisites" : "Reading knowledge of Hebrew",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is a continuation of the Fall semester's Intermediate Biblical Hebrew I. No one will be admitted into the course who has not taken the Fall semester. It will continue to focus on using the grammar and vocabulary learned at the introductory level to enable students to read biblical texts independently and take advanced Bible exegesis courses. We will concentrate this semester on various selections of Biblical poetry, including Exodus 15 and Job 28. We will also continue to translate English prose into Biblical Hebrew.",
+    "course_id" : "HEBR154",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "154",
+    "course_title" : "Intermediate Biblical Hebrew II",
+    "crosslistings" : [ {
+      "course_id" : "454",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "174",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "474",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Carasik",
+    "prerequisites" : "Successful completion of HEBR 153.",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In-depth textual study of a book of the Hebrew Bible studied in the light of modern scholarship (including archaeology and ancient Near Eastern literature) as well as ancient and medieval commentaries. The book varies each semester and the course may be repeated for credit. Prerequisite(s): Thorough command of Biblical Hebrew and prior experience studying the Bible in the original in high school, college, or a comparable setting. Language of instruction is in English.",
+    "course_id" : "HEBR550",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "The course is designed primarily for undergraduates who have previously studied the Bible in Hebrew either in high school or college.  It presupposes fluency in reading Biblical Hebrew, including a working knowledge of Biblical Hebrew grammar.",
+    "course_number" : "550",
+    "course_title" : "A Book of the Bible",
+    "crosslistings" : [ {
+      "course_id" : "350",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "351",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "550",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "322",
+      "section_id" : "",
+      "subject" : "RELS"
+    }, {
+      "course_id" : "521",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "Thorough command of Biblical Hebrew and prior experience studying the Bible in the original in high school, college, or a comparable setting.  Language of instruction is in English.",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is a continuation of the Fall semester's Intermediate Biblical Hebrew I. No one will be admitted into the course who has not taken the Fall semester. It will continue to focus on using the grammar and vocabulary learned at the introductory level to enable students to read biblical texts independently and take advanced Bible exegesis courses. We will concentrate this semester on various selections of Biblical poetry, including Exodus 15 and Job 28. We will also continue to translate English prose into Biblical Hebrew.",
+    "course_id" : "HEBR454",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "454",
+    "course_title" : "Intermediate Biblical Hebrew II",
+    "crosslistings" : [ {
+      "course_id" : "154",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "174",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "474",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Carasik",
+    "prerequisites" : "Successful completion of HEBR 453.",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course concentrates on contemporary Israeli short stories, post-modernist as well as traditional, written by male and female authors. The diction is simple, often colloquial, but the stories reflect an exciting inner world and a stormy outer reality. For Hebrew writers, the short story has been a favorite genre since the Renaissance of Hebrew literature in the 19th century until now, when Hebrew literature is vibrant in a country where Hebrew is spoken. The lion share of the course focuses on authors who emerged in the last 25 years like Orly Kastel-Bloom, Alex Epstein, Almog Bahar. Student level and literary taste will influence the choice of works. The content of this course changes from year to year, so students may take it for credit more than once.",
+    "course_id" : "HEBR259",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "The class will be conducted in Hebrew and the texts read in the original. There will be 3-4 short papers and a final exam.",
+    "course_number" : "259",
+    "course_title" : "Introduction to Modern Hebrew Literature: Israeli Short Story",
+    "crosslistings" : [ {
+      "course_id" : "227",
+      "section_id" : "",
+      "subject" : "COLL"
+    }, {
+      "course_id" : "266",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "559",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "259",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Gold",
+    "prerequisites" : "HEBR 059 or equivalent.",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "A",
+      "requirement_description" : "Arts &amp; Letters Sector"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course introduces students to the methods and resources used in the modern study of the Bible. To the extent possible, these methods will be illustrated as they apply to a single book of the Hebrew Bible that will serve as the main focus of the course. The course is designed for undergraduates who have previously studied the Bible in Hebrew either in high school or college. It presupposes fluency in reading and translating Bibical Hebrew and a working knowledge of Biblical Hebrew grammar.",
+    "course_id" : "HEBR250",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "250",
+    "course_title" : "Studies in the Hebrew Bible",
+    "crosslistings" : [ {
+      "course_id" : "228",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "256",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "220",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "THE AKEIDAH IN MIDRASH AND IN MEDIEVAL JEWISH BIBLICAL COMMENTARIES The story of the Akeidah (Gen. 22) is one of the most significant and problematic texts in traditional Jewish literature. In this course, we will trace the history of the interpretation of this text in classical Jewish literature, from early post-Biblical interpretations found among the Dead Sea Scrolls, through Rabbinic midrash, and into the various medieval commentators--Rashi, Rashbam, Ibn Ezra, Radak, Ramban, and still others. While the focus of the course will be on the Akeidah, we will also use this text as a test-case to study the history of how Jews read, and why the interpretations of this story differ so radically. Attention will also be paid to contemporary Christian and Islamic interpretations. All texts will be read in the original Hebrew, and students should be able to read unpointed Hebrew texts, but no other previous experience in reading these texts is necessary.",
+    "course_id" : "HEBR557",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "557",
+    "course_title" : "Studies in Rabbinic Literature",
+    "crosslistings" : [ {
+      "course_id" : "257",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "257",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "226",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Stern",
+    "prerequisites" : "",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "D",
+    "terms_offered_description" : "Two terms. student may enter either term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will introduce students to the modern academic study of the different genres of medieval Jewish literature-- poetry, narrative, interpretation of the Bible, liturgy, historiography, philosophy, sermonic, mystical and pietistic writings. In addition to studying the primary texts, the course will also explore the historical, religious, and cultural contexts in which these texts were first produced and then studied, and the aspects of Jewish historical experience that these texts reflect. The specific topic of the course (eg. Medieval Biblical Interpretation, Kabbalah) will vary from semester to semester. In some cases, the specific topic may also be the work of a specific author, like Maimonides. Primary sources will be read in their original Hebrew. While no previous experience in studying these texts is required, students should be able to read unpointed Hebrew texts. If there is a question as to whether the course is appropriate for you, please contact the professor.",
+    "course_id" : "HEBR558",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "558",
+    "course_title" : "Studies in Medieval Jewish Literature",
+    "crosslistings" : [ {
+      "course_id" : "258",
+      "section_id" : "",
+      "subject" : "FOLK"
+    }, {
+      "course_id" : "258",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "258",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "228",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Stern/Fishman",
+    "prerequisites" : "Undergraduates need permission from the instructor.",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Readings in Rabbinic lore from classical Midrashic texts.",
+    "course_id" : "HEBR357",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "357",
+    "course_title" : "Classical Midrash & Aggadah",
+    "crosslistings" : [ {
+      "course_id" : "657",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "352",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "552",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Stern",
+    "prerequisites" : "Students must be able to read an unpointed Hebrew text.",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "D",
+    "terms_offered_description" : "Two terms. student may enter either term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "After four semesters of language study, it's time to enter the vibrant world of contemporary Israeli culture. In this course students read some of the best plays, poems, short stories, and journalism published in Israel today. They also watch and analyze some of Israel's most popular films, TV programs, and videos. Themes include Jewish-Arab relations, the founding of the State, family ties and intergenerational conflict, war and society, and the recent dynamic changes in Israel society. HEBR 054 or permission of instructor. Since the content of this course may change from year to year, students may take it more than once (but only once for credit).",
+    "course_id" : "HEBR059",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "059",
+    "course_title" : "Advanced Modern Hebrew: Reading and Composition",
+    "crosslistings" : [ {
+      "course_id" : "552",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "059",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Engel",
+    "prerequisites" : "HEBR 054 or permission of instructor",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "E",
+    "terms_offered_description" : "Two terms. student must enter first term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "According to reigning historiography, the Jewish subcultures of Ashkenaz and Sefarad developed differently because the former was the cultural heir of ancient Palestinian Jewry, while the latter was the heir of Babylonian Jewry. Yet scholarship of the last several decades has shown the inadequacy of this claim. This graduate level course will reconstruct some of the underlying problems with this claim and suggest that examination of developments in the broader Roman, Christian and Islamic societies offer alternate ways of accounting for the emergence of these Jewish subcultures in the Middle Ages. Topics to be explored include cultural-geographic patterns following the collapse of the Roman Empire; divergent approaches to Islamic law under the abbasid and Umayyad caliphates; genres of legal composition in different parts of the Islamic world, and the status of aggadah (i.e., non-legal rabbinic tradition) in medieval Ashkenaz and Sephardic traditions. Undergraduates may attend with the instructor's permission.",
+    "course_id" : "HEBR583",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "583",
+    "course_title" : "Studies in Medieval Jewish Culture",
+    "crosslistings" : [ {
+      "course_id" : "527",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "523",
+      "section_id" : "",
+      "subject" : "HIST"
+    }, {
+      "course_id" : "523",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "523",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Fishman",
+    "prerequisites" : "Unless otherwise noted, reading knowledge of Hebrew is required.",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "J",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "HEBR182",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "182",
+    "course_title" : "Study Abroad",
+    "crosslistings" : [ ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course traces reflections on rabbinic culture produced within Jewish legal literature of the classic rabbinic period - - Midrash, Mishna, and Talmud - - and in later juridical gemres - - Talmudic commentary, codes and responsa. Attention will be paid to the mechanics of different genres, the role of the underlying prooftext, the inclusion or exclusion of variant opinions, the presence of non-legal information, attitudes toward predecessors, balance between precedent and innovation.",
+    "course_id" : "HEBR486",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "486",
+    "course_title" : "Rabbinic Writers on Rabbinic Culture",
+    "crosslistings" : [ {
+      "course_id" : "426",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "426",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Fishman",
+    "prerequisites" : "Reading knowledge of Hebrew",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Readings in Rabbinic lore from classical Midrashic texts.",
+    "course_id" : "HEBR657",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "657",
+    "course_title" : "Classical Midrash & Aggadah",
+    "crosslistings" : [ {
+      "course_id" : "357",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "352",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "552",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Stern",
+    "prerequisites" : "Students must be able to read an unpointed Hebrew text.",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "D",
+    "terms_offered_description" : "Two terms. student may enter either term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An introduction to the reading of classical Rabbinic literature. The topic will vary ranging from Talmudic to Siddur. Readings will be in Hebrew with supplemental English works.",
+    "course_id" : "HEBR656",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "656",
+    "course_title" : "Talmudic Midrashic Literature",
+    "crosslistings" : [ {
+      "course_id" : "356",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "327",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Stern",
+    "prerequisites" : "Two years of Hebrew or equivalent required.",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A study of the institution of Jewish prayer, its literature, and synagogue poetry. Texts will be read in Hebrew with supplementary English readings.",
+    "course_id" : "HEBR658",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "658",
+    "course_title" : "Siddur & Piyyut",
+    "crosslistings" : [ {
+      "course_id" : "358",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "355",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "655",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Stern",
+    "prerequisites" : "HEBR 054 or equivalent",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "HEBR455",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "455",
+    "course_title" : "Post-Baccalaureate Hebrew Texts",
+    "crosslistings" : [ ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An introduction to the reading of classical Rabbinic literature. The topic will vary ranging from Talmudic to Siddur. Readings will be in Hebrew with supplemental English works.",
+    "course_id" : "HEBR356",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "356",
+    "course_title" : "Talmudic Midrashic Literature",
+    "crosslistings" : [ {
+      "course_id" : "656",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "327",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Stern",
+    "prerequisites" : "Two years of Hebrew or equivalent required.",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "After four semesters of language study, it's time to enter the vibrant world of contemporary Israeli culture. In this course students read some of the best plays, poems, short stories, and journalism published in Israel today. They also watch and analyze some of Israel's most popular films, TV programs, and videos. Themes include Jewish-Arab relations, the founding of the State, family ties and intergenerational conflict, war and society, and the recent dynamic changes in Israel society. HEBR 054 or permission of instructor. Since the content of this course may change from year to year, students may take it more than once (but only once for credit).",
+    "course_id" : "HEBR552",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "552",
+    "course_title" : "Advanced Modern Hebrew: Reading and Composition",
+    "crosslistings" : [ {
+      "course_id" : "059",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "059",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Engel",
+    "prerequisites" : "HEBR 054 or permission of instructor",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "E",
+    "terms_offered_description" : "Two terms. student must enter first term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In-depth study of a special topic or issue in Biblical studies.",
+    "course_id" : "HEBR556",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "May be repeated for credit.",
+    "course_number" : "556",
+    "course_title" : "Seminar in Biblical Studies",
+    "crosslistings" : [ {
+      "course_id" : "650",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "620",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "Facility in Biblical Hebrew.",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course concentrates on contemporary Israeli short stories, post-modernist as well as traditional, written by male and female authors. The diction is simple, often colloquial, but the stories reflect an exciting inner world and a stormy outer reality. For Hebrew writers, the short story has been a favorite genre since the Renaissance of Hebrew literature in the 19th century until now, when Hebrew literature is vibrant in a country where Hebrew is spoken. The lion share of the course focuses on authors who emerged in the last 25 years like Orly Kastel-Bloom, Alex Epstein, Almog Bahar. Student level and literary taste will influence the choice of works. The content of this course changes from year to year, so students may take it for credit more than once. The content of this course changes from year to year, thus students may take it for credit more than once.",
+    "course_id" : "HEBR559",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "The class will be conducted in Hebrew and the texts read in the original.dents There will be 3-4 short papers and a final exam.",
+    "course_number" : "559",
+    "course_title" : "Introduction to Modern Hebrew Literature: Generation of the State",
+    "crosslistings" : [ {
+      "course_id" : "227",
+      "section_id" : "",
+      "subject" : "COLL"
+    }, {
+      "course_id" : "266",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "259",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "259",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Gold",
+    "prerequisites" : "HEBR 059 or equivalent.",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "THE AKEIDAH IN MIDRASH AND IN MEDIEVAL JEWISH BIBLICAL COMMENTARIES The story of the Akeidah (Gen. 22) is one of the most significant and problematic texts in traditional Jewish literature. In this course, we will trace the history of the interpretation of this text in classical Jewish literature, from early post-Biblical interpretations found among the Dead Sea Scrolls, through Rabbinic midrash, and into the various medieval commentators--Rashi, Rashbam, Ibn Ezra, Radak, Ramban, and still others. While the focus of the course will be on the Akeidah, we will also use this text as a test-case to study the history of how Jews read, and why the interpretations of this story differ so radically. Attention will also be paid to contemporary Christian and Islamic interpretations. All texts will be read in the original Hebrew, and students should be able to read unpointed Hebrew texts, but no other previous experience in reading these texts is necessary.",
+    "course_id" : "HEBR257",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "257",
+    "course_title" : "Studies in Rabbinic Literature",
+    "crosslistings" : [ {
+      "course_id" : "557",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "257",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "226",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Stern",
+    "prerequisites" : "",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "D",
+    "terms_offered_description" : "Two terms. student may enter either term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "HEBR282",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "282",
+    "course_title" : "Hebr Poetry Middle Ages",
+    "crosslistings" : [ {
+      "course_id" : "202",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "285",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In-depth textual study of a book of the Hebrew Bible studied in the light of modern scholarship (including archaeology and ancient Near Eastern literature) as well as ancient and medieval commentaries. The book varies each semester and the course may be repeated for credit. Prerequisite(s): Thorough command of Biblical Hebrew and prior experience studying the Bible in the original in high school, college, or a comparable setting. Language of instruction is in English.",
+    "course_id" : "HEBR350",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "The course is designed primarily for undergraduates who have previously studied the Bible in Hebrew either in high school or college.  It presupposes fluency in reading Biblical Hebrew, including a working knowledge of Biblical Hebrew grammar.",
+    "course_number" : "350",
+    "course_title" : "A Book of the Bible",
+    "crosslistings" : [ {
+      "course_id" : "550",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "351",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "322",
+      "section_id" : "",
+      "subject" : "RELS"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "Thorough command of Biblical Hebrew and prior experience studying the Bible in the original in high school, college, or a comparable setting.  Language of instruction is in English.",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is for students who are interested in taking a literature course in Hebrew and are proficient in it. Grading is based primarily on students' literary understanding. There will be four 2-page written assignments over the course of the semester. We will discuss literary works that reflect Israelis' struggle with their national identity, from the patriotic 1948 generation for whom self and country overlapped to contemporary writers who ask what it means to be Israeli. While Yehuda Amichai's 1955 poem \"I want to die in my bed\" was a manifesto for individualism, the seemingly interminable Arab-Israeli conflict returned writers to the national, social, and political arenas starting in the 1980's. Readings include poems by Natan Alterman, Amir Gilboa, Meir Wieseltier and Roni Somek as well as fiction by Amos Oz, David Grossman, Sayed Kashua, Alona Kimhi and Etgar Keret. Texts, discussions and papers in Hebrew. The content of This course changes from year to year so students may take it for credit more than once.",
+    "course_id" : "HEBR659",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "The content of this course changes from year to year; and, therefore, students may take it for credit more than once.",
+    "course_number" : "659",
+    "course_title" : "Seminar Modern Hebrew Literature: LITERATURE & IDENTITY",
+    "crosslistings" : [ {
+      "course_id" : "359",
+      "section_id" : "",
+      "subject" : "COML"
+    }, {
+      "course_id" : "359",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "359",
+      "section_id" : "",
+      "subject" : "JWST"
+    }, {
+      "course_id" : "556",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Gold",
+    "prerequisites" : "HEBR 059 or HEBR 259 or permission of the instructor.  This class is conducted in Hebrew and the texts are read in the original.  The syllabus serves solely as an outline.  The amount of material we cover depends on the pace of the class.  Additionally, the packet contains significantly more material than will be studied in class to compensate for the difficulty of obtaining Hebrew texts in America.  The content of this course changes from year to year and therefore students may take it for credit more than once.",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "HEBR554",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "554",
+    "course_title" : "The Critical Study of Talmud",
+    "crosslistings" : [ ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Stern",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Development of the skills of reading, writing, and conversing in modern Hebrew on an intermediate level. Open to all students who have completed two semesters of Hebrew at Penn with a grade of B- or above and new students with equivalent competency.",
+    "course_id" : "HEBR053",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "053",
+    "course_title" : "Intermediate Modern Hebrew III",
+    "crosslistings" : [ {
+      "course_id" : "653",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "053",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "HEBR 052 or permission of the instructor.",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A continuation of HEBR 051, First Year Modern Hebrew, which assumes basic skills of reading and speaking and the use of the present tense. Open to all students who have completed one semester of Hebrew at Penn with a grade of B- or above and new students with equivalent competency.",
+    "course_id" : "HEBR652",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "652",
+    "course_title" : "Elementary Modern Hebrew II",
+    "crosslistings" : [ {
+      "course_id" : "052",
+      "section_id" : "",
+      "subject" : "HEBR"
+    }, {
+      "course_id" : "052",
+      "section_id" : "",
+      "subject" : "JWST"
+    } ],
+    "department" : "HEBR",
+    "department_of_record" : "NELC",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Staff",
+    "prerequisites" : "HEBR 651 or permission of instructor",
+    "register_subgroup_one" : "05",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

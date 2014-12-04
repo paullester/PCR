@@ -1,0 +1,1200 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:22 +0000
+Content-Length: 54813
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3525579948.39711.0000; expires=Thu, 04-Dec-2014 09:48:22 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "STU",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "VLST311",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "311",
+    "course_title" : "Color",
+    "crosslistings" : [ {
+      "course_id" : "211",
+      "section_id" : "",
+      "subject" : "FNAR"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "STU",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is an introduction to the fundamental perception, representation, aesthetics, and design that shape today's visual culture. It addresses the way artists and designers create images; design with analog and digital tools; communicate, exchange, and express meaning over broad range of media; and find their voices within the fabric of contemporary art, design, and visual culture. Emphasis is placed on building an extended form of visual literacy by studying and making images using a variety of representation techniques; learning to organize and structure two-dimensional and three-dimensional space, and designing with time-based and procedural media. Students learn to develop an individual style of idea-generation, experimentation, iteration, and critique as part of their creative and critical responses to visual",
+    "course_id" : "VLST264",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "Course Fee $75.00",
+    "course_number" : "264",
+    "course_title" : "Art, Design and Digital Culture",
+    "crosslistings" : [ {
+      "course_id" : "264",
+      "section_id" : "",
+      "subject" : "FNAR"
+    }, {
+      "course_id" : "636",
+      "section_id" : "",
+      "subject" : "FNAR"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Visual Studies 101 provides an introduction to the collaboration of eye, mind, and image that produces our experience of a visual world. How and what do we see? How do we perceive color, space, and motion? What is an image? Does seeing vary across cultures and time? What can art tell us about vision? Is there a 21st-century form of seeing? This course combines different approaches to the study of vision, drawing from psychology, cognitive science, philosophy, history of art, and fine art. Professors representing two or three disciplines present lectures that demonstrate the methods of their disciplines and draw connections across fields. This course combines different approaches to the study of vision, drawing from psychology, cognitive science, philosophy, history of art, and fine art. Professors representing two or three disciplines present lectures that demonstrate the methods of their disciplines and draw connections across fields.",
+    "course_id" : "VLST101",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "Fulfills General Education in Sectors IV (Humanities and Social Sciences) and VII (Natural Science and Mathematics).  This course is required of all Visual Studies Majors (stage 1).",
+    "course_number" : "101",
+    "course_title" : "Eye, Mind, and Image",
+    "crosslistings" : [ ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hatfield/Leja",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "B",
+      "requirement_description" : "Hum/Soc Sci or Nat Sci/Math Sector"
+    } ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Taking our perceptual experience as a given, what causes it? In a realistic mood, we accept that objects in the environment, or in the \"external world,\" cause us to have the perceptual experiences that we do (as of a table with food, or as of a garden with flowers in it). Yet on this realistic view, our perception is the result of a causal chain that leads from object to eye to brain to experiences, and we are only given the last element: the experience. So how do we really know how our experiences are caused, and where do we get the idea that they are casued by an external world of physical objects? The seminar will focus on the problem of the external world as examined by David Hume, Thomas Reid, G. E. Moore, and Bertrand Russell, along with recent authors.",
+    "course_id" : "VLST222",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "Department Majors Only.  This course can count toward Sector A, (Stage 2 or 3) of the Visual Studies Major.",
+    "course_number" : "222",
+    "course_title" : "Philosophy of Perception",
+    "crosslistings" : [ {
+      "course_id" : "330",
+      "section_id" : "",
+      "subject" : "PHIL"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hatfield",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "STU",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed to develop visual awareness and perceptual acuity through the process of drawing. Students learn to sharpen perceptual skills through observational drawing, and to explore the expressive potential of drawing. A variety of problems and media will be presented in order to familiarize students with various methods of working and ways of communicating ideas visually. Subject matter will include object study, still life, interior and exterior space, self-portrait and the figure. Different techniques and materials (charcoal, graphite, ink, collage) are explored in order to understand the relationship between means, material and concept. Critical thinking skills are developed through frequent class critiques and through the presentation of and research into historical and contemporary precedent in drawing.",
+    "course_id" : "VLST253",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "253",
+    "course_title" : "Drawing I",
+    "crosslistings" : [ {
+      "course_id" : "123",
+      "section_id" : "",
+      "subject" : "FNAR"
+    }, {
+      "course_id" : "523",
+      "section_id" : "",
+      "subject" : "FNAR"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "D",
+    "terms_offered_description" : "Two terms. student may enter either term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "STU",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is an introduction to the basic principles, strategies and processes of photographic practice. It is designed to broaden the student's aesthetic explorations and to help the student develop a visual language based on cross-disciplinary artistic practice. Through a series of projects and exercises students will be exposed to a range of camera formats, techniques and encouraged to experiment with the multiple modes and roles of photography - both analogue and digital. Attention will also be given to developing an understanding of critical aesthetic and historical issues in photography. Students will examine a range of historical and contemporary photowork as an essential part of understanding the possibilities of image making.",
+    "course_id" : "VLST260",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Course Fee $75.00",
+    "course_number" : "260",
+    "course_title" : "Photography Practices",
+    "crosslistings" : [ {
+      "course_id" : "150",
+      "section_id" : "",
+      "subject" : "FNAR"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Visual Studies 301 is a seminar-format course that challenges students to develop independent ideas about how the eye, the mind and the image that is created therein, all work together to inform our conception of the world at large. Rather than present a unified viewpoint, the course asks the question, \"What is visual studies?\" by examining parallel and sometimes antagonistic approaches to the ways that human beings understand sight and the concept of visuality. Over the course of the semester, students will discuss and write about various approaches to vision, examining this contested field through the lenses of several disciplines -- including psychology, philosophy, and art history. By parsing and assimilating diverse ideas, students will decide for themselves what are the most pertinent and relevant approaches to the various avenues of research that present themselves in the emerging interdisciplinary field of Visual Studies.",
+    "course_id" : "VLST301",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "This course is required of all Visual Studies Majors (Stage 2).",
+    "course_number" : "301",
+    "course_title" : "What is Visual Studies?",
+    "crosslistings" : [ {
+      "course_id" : "301",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "501",
+      "section_id" : "",
+      "subject" : "VLST"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "VLST 101 or Instructor Permission",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Images are ubiquitous in the cultural life of the 21st century, yet only two centries ago they were rare. When and how did pictures come to permeate daily life? How has ordinary experience--psychological, social, cultural, intellectual--changed as a result? This seminar addresses these questions through close reading of influential historical and theoretical writings about the rise of image culture and its effects, including Benjamin, Debord, McLahan, Mitchell.",
+    "course_id" : "VLST303",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "This course can count toward Sector B, (Stage 2 or 3) of the Visual Studies Major.",
+    "course_number" : "303",
+    "course_title" : "The Rise of Image Culture: History and Theories",
+    "crosslistings" : [ {
+      "course_id" : "503",
+      "section_id" : "",
+      "subject" : "VLST"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Leja",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "VLST211",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "Topics for this course vary each semester.  Dept permission required.  This course can count toward Sector A, (Stage 2 or 3) of the Visual Studies Major.",
+    "course_number" : "211",
+    "course_title" : "Perception",
+    "crosslistings" : [ {
+      "course_id" : "111",
+      "section_id" : "",
+      "subject" : "PSYC"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "STU",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Through studio projects, readings and class discussion, this class will begin to address, both conceptually and physically, basic 3D structures and translations between 3D and 2D, as well as materiality, experiential phenomena, light and time-based processes. The interconnection between mediums in our cultural climate employs a wide range of tools, processes, and ideas. It is imperative that visual studies students recognize and think through these connections. The work produced and ideas confronted in this class will facilitate discussions and constructive criticism on the fundamentalsof space and time via the experiential, conceptual, and the formal as essential elements of meaning. The interconnection between mediums in our cultural climate employs a wide range of tools, processes, and ideas. It is imperative that visual studies students recognize and think through theses connections. The work produced and ideas confronted in this class will facilitate discussions and constructive critism on the fundamentals of space and time via the experiential, conceptual, and the formal as essential elements of meaning.",
+    "course_id" : "VLST103",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "This course is required of all Visual Studies Majors (stage 1 or 2).",
+    "course_number" : "103",
+    "course_title" : "3 Dimensions: Time and Space",
+    "crosslistings" : [ ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Wahl/Freedman",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "VLST399",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "See department for appropriate section numbers",
+    "course_number" : "399",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "STU",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will introduce students to the theory and practice of image making, focusing on the development of observational skills and analytical thinking. We will look at conventions of pictorial representation across time and cultures; discuss types of visual information and modes of formal language; explore visual narrative techniques; and seek to expand our understanding of the role images play in our culture. We will look at conventions of pictorial representation across time and cultures; discuss types of visual information and modes of formal language; explore visual narrative techniques; and seek to expand our understanding of the roll images play in our culture.",
+    "course_id" : "VLST102",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "This course is required of all Visual Studies Majors (stage 1 or 2).",
+    "course_number" : "102",
+    "course_title" : "2 Dimensions: Forms and Meanings",
+    "crosslistings" : [ ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Wahl/Hyland",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The course starts with a discussion of theories of visual perception and their relation to philosophy. We survey the history of visual theories from Euclid to Marr and Rick, with stops to include Ibn al-Haytham, Descartes, Berkeley, Helmholtz, and Gibson. We then consider selected philosophical topics, such as the nature of object perception, or the representational relation between images and things imaged (eg., between pictures and what they represent).",
+    "course_id" : "VLST223",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "This course can count toward Sector A, (Stage 2 or 3) of the Visual Studies Major.",
+    "course_number" : "223",
+    "course_title" : "Philosophy and Visual Perception",
+    "crosslistings" : [ {
+      "course_id" : "667",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "223",
+      "section_id" : "",
+      "subject" : "PHIL"
+    }, {
+      "course_id" : "423",
+      "section_id" : "",
+      "subject" : "PHIL"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hatfield",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : ".5"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Permission of Instructor Required.",
+    "course_id" : "VLST395",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "This course is required of all Visual Studies Majors. (Stage 4) Seniors only.",
+    "course_number" : "395",
+    "course_title" : "Senior Project",
+    "crosslistings" : [ ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "E",
+    "terms_offered_description" : "Two terms. student must enter first term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "VLST540",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "540",
+    "course_title" : "Topics in Visual Culture",
+    "crosslistings" : [ {
+      "course_id" : "572",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The course explores various concepts of images. It considers natural images (as in optics), images as artifacts, virtual images, images as representations, and works of art as images. Themes to include: the image controversy in cognitive science, which asks whether some cognitive representations are irreducibly imagistic; the question of whether some images resemble what they represent; the development of the concept of the virtual image and of three-dimensional images; the notions of pictorial representation and non-representational images in art. Readings from C. S. Peirce, Nelson Goodman, Robert Hopkins, Dominic Lopes, W. J. T. Mitchell, John Kulvicki, and Mark Rollins, among others.",
+    "course_id" : "VLST305",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "This course can count toward Sector A, (Stage 2 or 3) of the Visual Studies Major.",
+    "course_number" : "305",
+    "course_title" : "What is an Image?",
+    "crosslistings" : [ {
+      "course_id" : "505",
+      "section_id" : "",
+      "subject" : "VLST"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hatfield",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Visual Studies 301 is a seminar-format course that challenges students to develop independent ideas about how the eye, the mind and the image that is created therein, all work together to inform our conception of the world at large. Rather than present a unified viewpoint, the course asks the question, \"What is visual studies?\" by examining parallel and sometimes antagonistic approaches to the ways that human beings understand sight and the concept of visuality. Over the course of the semester, students will discuss and write about various approaches to vision, examining this contested field through the lenses of several disciplines -- including psychology, philosophy, and art history. By parsing and assimilating diverse ideas, students will decide for themselves what are the most pertinent and relevant approaches to the various avenues of research that present themselves in the emerging interdisciplinary field of Visual Studies.",
+    "course_id" : "VLST501",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "501",
+    "course_title" : "What is Visual Studies?",
+    "crosslistings" : [ {
+      "course_id" : "301",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "301",
+      "section_id" : "",
+      "subject" : "VLST"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Images are ubiquitous in the cultural life of the 21st century, yet only two centries ago they were rare. When and how did pictures come to permeate daily life? How has ordinary experience--psychological, social, cultural, intellectual--changed as a result? This seminar addresses these questions through close reading of influential historical and theoretical writings about the rise of image culture and its effects, including Benjamin, Debord, McLahan, Mitchell.",
+    "course_id" : "VLST503",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "503",
+    "course_title" : "Rise of Image Culture",
+    "crosslistings" : [ {
+      "course_id" : "303",
+      "section_id" : "",
+      "subject" : "VLST"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Leja",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In this course, we will explore philosophical questions concerning the nature of minds. In seeking to understand the nature of minds, philosophers and psychologists have often used metaphors drawn from the forms of technology available to them. Leibniz once described the mind as a mill, while Freud compared the mind to a hydrolytic and electromagnetic system. In our own time, many have followed Alan Turing's proposal and have viewed the mind as a special kind of computer; indeed, this \"Computational Theory of Mind\" forms the foundation for much work in contemporary cognitive science. In this class, we will explore the extent to which the computational theory of mind can adequately characterize the distinctive capacities involved in representing an external environment and having conscious experiences that is displayed by minds in general and human minds in particular. Although an introductory class in philosophy or logic will aid students' understanding, no prior familiarity with the philosophy of mind or cognitive science will be presumed.",
+    "course_id" : "VLST221",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "This course can count toward Sector A, (Stage 2 or 3) of the Visual Studies Major.",
+    "course_number" : "221",
+    "course_title" : "Introduction to Philosophy of Mind",
+    "crosslistings" : [ {
+      "course_id" : "244",
+      "section_id" : "",
+      "subject" : "PHIL"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Domotor",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "VLST505",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "505",
+    "course_title" : "What is an Image?",
+    "crosslistings" : [ {
+      "course_id" : "305",
+      "section_id" : "",
+      "subject" : "VLST"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Hatfield",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is an introduction to the visual arts including painting, sculpture, print culture, and new media such as photography, film, performance and installation art-in Europe and the United States from 1400 to the present. It offers a broad historical overview of the key movements and the artists of the period, as well as an investigation into the crucial themes and contexts that mark visual art production after the middle ages. Such themes include the secularization of art; the (gendered) role of the artist in society; the sites of art production and consumption such as the artist's studio, the royal courts and the art exhibition; the materials of art; the import of technology and science to art's making, content and distribution; the rise of art criticism; and the socio-political contexts of patronage and audience; among others.",
+    "course_id" : "VLST232",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "This course can count toward Sector B, (Stage 2 or 3) of the Visual Studies Major.",
+    "course_number" : "232",
+    "course_title" : "Renaissance to Contemporary: Introduction to Western Art, 1400 to the Present",
+    "crosslistings" : [ {
+      "course_id" : "102",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Shaw/Dombrowski",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "A",
+      "requirement_description" : "Arts &amp; Letters Sector"
+    } ],
+    "scheduling_priority" : "O",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Introduction to major artistic traditions of China and Japan and to the methodological practices of art history. Attention given to key cultural concepts and ways of looking, in such topics as: concepts of the afterlife and its representation; Buddhist arts and iconography; painting styles and subjects; and more broadly at the transmission of styles and cultural practices across East Asia. Serves as an introduction to upper level lecture courses in East Asian art history cultures. If size of class permits, certain sessions will be held in the University Museum or the Philadelphia Museum of Art.",
+    "course_id" : "VLST233",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "This course can count toward Sector B, (Stage 2 or 3) of the Visual Studies Major.",
+    "course_number" : "233",
+    "course_title" : "Art and Civiliation in East Asia",
+    "crosslistings" : [ {
+      "course_id" : "103",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "013",
+      "section_id" : "",
+      "subject" : "EALC"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Davis/Steinhardt",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "A",
+      "requirement_description" : "Arts &amp; Letters Sector"
+    } ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is a survey of sculpture, painting and architecture in the Indian sub-continent from 2300 B.C., touching on the present. It attempts to explore the role of tradition in the broader history of art in India, but not to see India as 'traditional' or unchanging. The Indian sub-continent is the source for multi-cultural civilizations that have lasted and evolved for several thousand years. Its art is as rich and complex as that of Europe and diverse. This course introduces the full range of artistic production in India in relation to the multiple strands that have made the cultural fabric of the sub-continent so rich and long lasting.",
+    "course_id" : "VLST234",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "This course can count toward Sector B, (Stage 2 or 3) of the Visual Studies Major.",
+    "course_number" : "234",
+    "course_title" : "Introduction to Art in South Asia",
+    "crosslistings" : [ {
+      "course_id" : "104",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "200",
+      "section_id" : "",
+      "subject" : "SAST"
+    }, {
+      "course_id" : "500",
+      "section_id" : "",
+      "subject" : "SAST"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Meister",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "A",
+      "requirement_description" : "Arts &amp; Letters Sector"
+    } ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "A one-semester survey of Islamic art and architecture which examines visual culture as it functions within the larger sphere of Islamic culture in general. Particular attention will be given to relationships between visual culture and literature, using specific case studies, sites or objects which may be related to various branches of Islamic literature, including historical,didactic, philosophical writings, poetry and religious texts. All primary sources are available in English translation.",
+    "course_id" : "VLST235",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "This course can count toward Sector B, (Stage 2 or 3) of the Visual Studies Major.",
+    "course_number" : "235",
+    "course_title" : "Introduction to Visual Culture of the Islamic World",
+    "crosslistings" : [ {
+      "course_id" : "635",
+      "section_id" : "",
+      "subject" : "AAMW"
+    }, {
+      "course_id" : "235",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "635",
+      "section_id" : "",
+      "subject" : "ARTH"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Holod",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "O",
+      "requirement_description" : "Humanities &amp; Social Science Sector"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "VLST236",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "This course can count toward Sector B, (Stage 2 or 3) of the Visual Studies Major.",
+    "course_number" : "236",
+    "course_title" : "Contemporary Art",
+    "crosslistings" : [ {
+      "course_id" : "294",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "694",
+      "section_id" : "",
+      "subject" : "ARTH"
+    }, {
+      "course_id" : "294",
+      "section_id" : "",
+      "subject" : "GSWS"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Silverman",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "STU",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "The course offers an introduction to several forms of printmaking including: intaglio, screen printing, relief, and monoprinting. Through in-class demonstrations students are introduced to various approaches to making and printing in each medium. The course enhances a student's capacity for developing images through two-dimensional design and conceptual processes. Technical and conceptual skills are developed through discussions and critiques.",
+    "course_id" : "VLST250",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Course Fee $75.00",
+    "course_number" : "250",
+    "course_title" : "Introduction to Printmaking",
+    "crosslistings" : [ {
+      "course_id" : "250",
+      "section_id" : "",
+      "subject" : "FNAR"
+    }, {
+      "course_id" : "550",
+      "section_id" : "",
+      "subject" : "FNAR"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "STU",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is an introduction to the basic processes and techniques of black & white photography. Students will learn how to expose and process 35mm film, SLR camera operation, darkroom procedures & printing, basic lighting and controlled applications. It begins with an emphasis on understanding and mastering technical procedures and evolves into an investigation of the creative and expressive possibilities of making images. This is a project-based course, where students will begin to develop their personal vision, their understanding of aesthetic issues and photographic history. Assignments, ideas and important examples of contemporary art will be presented via a series of slide lectures, critiques and discussion. No previous experience necessary. 35mm SLR cameras will be available throughout the semester for reservation and checkout from the photography equipment room.",
+    "course_id" : "VLST251",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "Course Fee $75.00",
+    "course_number" : "251",
+    "course_title" : "Introduction to Photography",
+    "crosslistings" : [ {
+      "course_id" : "271",
+      "section_id" : "",
+      "subject" : "FNAR"
+    }, {
+      "course_id" : "571",
+      "section_id" : "",
+      "subject" : "FNAR"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "STU",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "As an introduction to traditional and contemporary three-dimensional practice, this course is concerned with the concepts and methodologies surrounding three-dimensional art making in our time. Students experiment with a variety of modes of production, and develop some of the fundamental techniques used in sculpture. In addition to these investigations, assignments relative to the history and social impact of these practices are reinforced through readings and group discussion. Processes covered include use of the Fab Lab, wood construction, clay, paper, mixed media, and more.",
+    "course_id" : "VLST252",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "252",
+    "course_title" : "Sculpture Practices",
+    "crosslistings" : [ {
+      "course_id" : "145",
+      "section_id" : "",
+      "subject" : "FNAR"
+    }, {
+      "course_id" : "545",
+      "section_id" : "",
+      "subject" : "FNAR"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course provides students with the introductory skills and concepts related to producing short works that explore the language of the moving image. Students will learn the basics of cinematography and editing through a series of assignments designed to facilitate the use of the medium for artistic inquiry, cultural expression and narrative storytelling, through both individual and group projects.",
+    "course_id" : "VLST261",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "Course Fee $75.00",
+    "course_number" : "261",
+    "course_title" : "Video I",
+    "crosslistings" : [ {
+      "course_id" : "061",
+      "section_id" : "",
+      "subject" : "CINE"
+    }, {
+      "course_id" : "061",
+      "section_id" : "",
+      "subject" : "FNAR"
+    }, {
+      "course_id" : "661",
+      "section_id" : "",
+      "subject" : "FNAR"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "STU",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This class offers an in-depth technical and conceptual foundation in digital imagery and the opportunity to explore the creative, expressive possibilities of photography. Students will become proficient with the basic use of the camera, techniques of digital capture, color management and color correction. They will also develop competency in scanning, retouching, printing and a variety of manipulation techniques in Photoshop. Through weekly lectures and critiques, students will become familiar with some of the most critical issues of representation, consider examples from photo history, analyze the impact of new technologies and social media. With an emphasis on structured shooting assignments, students are encouraged to experiment, expand their visual vocabulary while refining their technical skills. No previous experience is necessary. Although it is beneficial for students to have their own Digital SLR camera, registered students may reserve and checkout Digital SLR cameras and other high-end equipment from the department.",
+    "course_id" : "VLST265",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "Course Fee $75.00",
+    "course_number" : "265",
+    "course_title" : "Digital Photography",
+    "crosslistings" : [ {
+      "course_id" : "340",
+      "section_id" : "",
+      "subject" : "FNAR"
+    }, {
+      "course_id" : "640",
+      "section_id" : "",
+      "subject" : "FNAR"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "B",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    }, {
+      "activity_code" : "REC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "An introduction to the scientific study of vision, with an emphasis on the biological substrate and its relation to behavior. Topics will typically include physiological optics, transduction of light, visual thresholds, color vision, anatomy and physiology of the visual pathways, and the cognitive neuroscience of vision.",
+    "course_id" : "VLST217",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "This course can count toward Sector A, (Stage 2 or 3) of the Visual Studies Major.",
+    "course_number" : "217",
+    "course_title" : "Visual Neuroscience",
+    "crosslistings" : [ {
+      "course_id" : "217",
+      "section_id" : "",
+      "subject" : "BIBB"
+    }, {
+      "course_id" : "217",
+      "section_id" : "",
+      "subject" : "PSYC"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Rust",
+    "prerequisites" : "PSYC 001, COGS 001, or VLST 101",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "VLST599",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "See department for appropriate section numbers",
+    "course_number" : "599",
+    "course_title" : "Independent Study",
+    "crosslistings" : [ ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "In this research course, students will begin by first replicating earlier experiments to measure human visual memory capacity. After several class discussions to discuss ideas, each student will design and conduct their own experiment to further investigate visual and/or familiarity memory.",
+    "course_id" : "VLST212",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "Dept permission required.  Undergraduates only.  This course can count toward Sector A, (Stage 2 or 3) of the Visual Studies Major.",
+    "course_number" : "212",
+    "course_title" : "Research Experience in Perception",
+    "crosslistings" : [ {
+      "course_id" : "311",
+      "section_id" : "",
+      "subject" : "PSYC"
+    } ],
+    "department" : "VLST",
+    "department_of_record" : "VLST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2D",
+    "instructors" : "Rust",
+    "prerequisites" : "One semester of statistics, and one of the following: PSYC 111, 149, 151, 217, or permission of instructor.",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

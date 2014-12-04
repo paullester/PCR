@@ -1,0 +1,164 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:25 +0000
+Content-Length: 6245
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3525579948.39711.0000; expires=Thu, 04-Dec-2014 09:48:25 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : ".5"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "MICROECONOMICS FOR MANAGERS: ADVANCED APPLICATIONS. This course will cover the economic foundations of business strategy and decision-making in market environments with less than full information. Topics include game theoretic approach to market strategies with application to market creation and protection (4 lectures), auction theory and application (1 lecture), strategiesfor managing risk including the value of information (1 lecture), moral hazard and principle-agent theory with application to incentive contracts (1 lecture), asymmetric information and signaling strategies (1 lecture), public goods and externalities within and between firms (1 lecture), and the management of interdependencies through cooperative behavior or politics (1 lecture).",
+    "course_id" : "MGEC612",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "612",
+    "course_title" : "Microeconomics for Managers: Advanced Applications",
+    "crosslistings" : [ ],
+    "department" : "MGEC",
+    "department_of_record" : "BEPP",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Staff.",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : ".5"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "MGEC391",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "391",
+    "course_title" : "Special Topic",
+    "crosslistings" : [ ],
+    "department" : "MGEC",
+    "department_of_record" : "BPUB",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "L",
+    "school_code" : "WH",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "MGEC603",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "603",
+    "course_title" : "Basic Microecon Analysis",
+    "crosslistings" : [ ],
+    "department" : "MGEC",
+    "department_of_record" : "BPUB",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "L",
+    "terms_offered_description" : "Course usually offered summer term only"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "0"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "MGEC608",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "608",
+    "course_title" : "Mng Econ Waiver Prep",
+    "crosslistings" : [ ],
+    "department" : "MGEC",
+    "department_of_record" : "BPUB",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "L",
+    "terms_offered_description" : "Course usually offered summer term only"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : ".5"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course establishes the micro-economic foundations for understanding business decision-making. The course will cover consumer theory and market demand under full information (2 lectures), production theory and economic (and opportunity) cost (2 lectures), pricing strategies in competitive and monopoly markets (2 lectures), sophisticated pricing strategies with segmented markets using price discrimination and bundling (2 lectures), sophisticated pricing strategies of a single consumer using two-part tariffs (1 lecture), and decision-making under uncertainty (1 lecture). Students are expected to have mastered these materials before enrolling in the second quarter course: Microeconomics for Managers: Advanced Applications.",
+    "course_id" : "MGEC611",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "611",
+    "course_title" : "Microeconomics for Managers: Foundations",
+    "crosslistings" : [ ],
+    "department" : "MGEC",
+    "department_of_record" : "BPUB",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "",
+    "instructors" : "Staff",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "P",
+    "school_code" : "WH",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

@@ -1,0 +1,48 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:04 +0000
+Content-Length: 2133
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:48:04 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will examine the interactions between human beings, their organs and cells, and various infectious agents such as bacteria, viruses, fungi and parasites. The biological, societal and historical factors influencing these interactions will be analyzed and emerging infectious diseases will be particularly studied. Important infectious pathogenic agents will be surveyed in terms of their physiological functions, properties that permit them to be pathogens, pathogenesis of infections, clinical pictures of the disease states, therapeutic agents, and methods of prevention of infection. Each student will choose an infectious disease, and make an oral and written presentation on it and in this way will learn how to keep up with the topic of infectious diseases. Special requirements: Juniors and seniors only; all students need permission of the instructor, Dr. Helen Davies. ALL students must send Dr. Davies an e-mail message explaining their background and why they want to take the course.",
+    "course_id" : "BFMD073",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "073",
+    "course_title" : "Infectious Diseases",
+    "crosslistings" : [ ],
+    "department" : "BFMD",
+    "department_of_record" : "BENF",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2E",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

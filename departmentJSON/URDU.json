@@ -1,0 +1,355 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:29 +0000
+Content-Length: 16362
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3525579948.39711.0000; expires=Thu, 04-Dec-2014 09:48:29 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "URDU442",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "442",
+    "course_title" : "Advanced Urdu II",
+    "crosslistings" : [ ],
+    "department" : "URDU",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Beginning in the fall semester of 2014 Beginning Hindi and Beginning Urdu will be merged into a single course, Beginning Hindi-Urdu. At the beginning level spoken Urdu and Hindi are identical except for a few minor points. The broad outline of the course will thus remain the same as that of the current Beginning Hindi and Urdu courses. Students will learn to communicate with the language in a variety of everyday culturally authentic situations. Additional Urdu and Hindi culture will be integrated through authentic materials such as Bollywood film and music clips, and simple written texts. There will be equal emphasis on both scripts and cultures, and parallel written materials will be provided in both scripts. Students will be expected to develop first-year proficiency in one script of their choice, and will be encouraged to learn both. By merging the two courses students will be exposed to a broader range of linguistic and cultural styles, and students will thus have the opportunity to develop a deeper understanding that more closely resembles that of Hindi and Urdu native speakers. Please direct further inquiries to Josh Pien at jpien@sas.upenn.edu",
+    "course_id" : "URDU401",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "401",
+    "course_title" : "Beginning Hindi I",
+    "crosslistings" : [ {
+      "course_id" : "400",
+      "section_id" : "",
+      "subject" : "HIND"
+    }, {
+      "course_id" : "401",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "URDU",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Menai",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "12",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "E",
+    "terms_offered_description" : "Two terms. student must enter first term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course is designed to give in-depth exposure to some of the finest works of classical and modern Urdu prose and poetry along with the historical and socio-political trends they represent. Figures covered range from Ghalib (b.1797) to Faiz, Fehmida Riaz, and post 9/11 Urdu prose and poetry. The course is open to both undergraduates and graduate students, subject to having intermediate level proficiency. The course is repeatable, and hte content changes every semester. Multi-media content such as music, videos, blogs etc. will be actively incorporated. Every effort will be made to accommidate individual interests. Students are encouraged to contact the instructor with any questions, or if they are unsure about eligibility.",
+    "course_id" : "URDU431",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "Intermediate reading, writing and speaking skills in Urdu are recommended but please contact the instructor if you are unsure of your eligility and want to discuss further.  Topic changes each semester.",
+    "course_number" : "431",
+    "course_title" : "Advanced Urdu",
+    "crosslistings" : [ {
+      "course_id" : "431",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "URDU",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Menai",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "12",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "URDU457",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "457",
+    "course_title" : "Accelerated Urdu",
+    "crosslistings" : [ ],
+    "department" : "URDU",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Beginning in the fall semester of 2014 Beginning Hindi and Beginning Urdu will be merged into a single course, Beginning Hindi-Urdu. At the beginning level spoken Urdu and Hindi are identical except for a few minor points. The broad outline of the course will thus remain the same as that of the current Beginning Hindi and Urdu courses. Students will learn to communicate with the language in a variety of everyday culturally authentic situations. Additional Urdu and Hindi culture will be integrated through authentic materials such as Bollywood film and music clips, and simple written texts. There will be equal emphasis on both scripts and cultures, and parallel written materials will be provided in both scripts. Students will be expected to develop first-year proficiency in one script of their choice, and will be encouraged to learn both. By merging the two courses students will be exposed to a broader range of linguistic and cultural styles, and students will thus have the opportunity to develop a deeper understanding that more closely resembles that of Hindi and Urdu native speakers. Please direct further inquiries to Josh Pien at jpien@sas.upenn.edu",
+    "course_id" : "URDU402",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "402",
+    "course_title" : "Beginning Hindi-Urdu Part II",
+    "crosslistings" : [ {
+      "course_id" : "401",
+      "section_id" : "",
+      "subject" : "HIND"
+    }, {
+      "course_id" : "402",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "URDU",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Pien",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "12",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This continuing second-year course allows students to continue improving their Urdu proficiency while also gaining a broad foundational understanding of Urdu society and culture throughout South Asia. The course provides students the tools needed to handle a variety of authentic written and spoken Urdu sources including film, music, media reports, folk tales, and simple literature. Students will also continue to increase their speaking and writing proficiency to be able to discuss a broad range of concrete, real-world topics. The course is designed for students with one year of previous Urdu or Hindi study or the equivalent proficiency.",
+    "course_id" : "URDU422",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "422",
+    "course_title" : "Intermediate Urdu Part II",
+    "crosslistings" : [ {
+      "course_id" : "422",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "URDU",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Menai",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "12",
+    "requirements_met" : [ {
+      "requirement_code" : "M",
+      "requirement_description" : "Last Language Course"
+    } ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "URDU462",
+    "course_level" : "4",
+    "course_level_description" : "Graduate",
+    "course_notes" : "",
+    "course_number" : "462",
+    "course_title" : "Urdu Topics Course",
+    "crosslistings" : [ ],
+    "department" : "URDU",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "",
+    "terms_offered_description" : ""
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course will look at Urdu-Hindi expressions of resistance to militant fundamentalism trends, as well as literature resisting the influence of liberal progressive thought. Through comparisons of these divergent trends, we will explore the real inersections, comfortable comprises and contradictions that are internalized by people on the ground in developing societies. The historical and linguistic roots of resistance poetry will be studied, contrasting South Asian Urdu-Hindi poetry and prose (original and translated) with resistance movements from other parts of the world. This course provides students with the opportunity to deepen their knowledge of Urdu culture, literature, and society while expanding and refining their Urdu language skills. We will explore various social, political, and cultural issues through authentic sources such as journalism and media, prose literature and poetry, and film and music. The course is designed to be flexible to address students' needs and interests. It targets students with two years of Urdu study or the equivalent proficiency.",
+    "course_id" : "URDU452",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "452",
+    "course_title" : "Urdu Poetry In Translation: Poetry of Resistance: I am Truth - Anul Haq",
+    "crosslistings" : [ ],
+    "department" : "URDU",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Menai",
+    "prerequisites" : "Intermediate reading, writing and speaking skills in Urdu are recommended but please contact the instructor if you are unsure of your eligility and want to discuss further.",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "M",
+    "terms_offered_description" : "Course not offered every year"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "This course allows students to continue improving their Urdu proficiency while also gaining a broad foundational understanding of Urdu society and culture throughout South Asia. The course provides students the tols needed to handle a variety of authentic written and spoken Urdu sources including film, music, media reports, folk tales, and simple literature. Student will also continue to increase their speaking and writing proficiency to be able to discuss a broad range of concrete, real-world topics. The course is designed for students with one year previous Urdu or Hindi study or the equivalent proficiency. Students with speaking ability in Urdu or Hindi but without reading/writing skills are encouraged to contact the instructor for placement.",
+    "course_id" : "URDU421",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "421",
+    "course_title" : "Intermediate Urdu Part I",
+    "crosslistings" : [ {
+      "course_id" : "421",
+      "section_id" : "",
+      "subject" : "NELC"
+    } ],
+    "department" : "URDU",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "Menai",
+    "prerequisites" : "",
+    "register_subgroup_one" : "09",
+    "register_subgroup_two" : "12",
+    "requirements_met" : [ {
+      "requirement_code" : "I",
+      "requirement_description" : "Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "E",
+    "terms_offered_description" : "Two terms. student must enter first term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "URDU441",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "",
+    "course_number" : "441",
+    "course_title" : "Advanced Urdu I",
+    "crosslistings" : [ ],
+    "department" : "URDU",
+    "department_of_record" : "SAST",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2C",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ {
+      "requirement_code" : "Q",
+      "requirement_description" : "Advanced Language Course"
+    } ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "B",
+    "terms_offered_description" : "Course usually offered in spring term"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}

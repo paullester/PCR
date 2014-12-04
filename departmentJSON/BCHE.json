@@ -1,0 +1,209 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:48:07 +0000
+Content-Length: 7009
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:48:07 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "BCHE300",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "10-20 h., 1-2 c.u., admission by permission of the biochemistry undergraduate chairman.",
+    "course_number" : "300",
+    "course_title" : "Senior Research Projects",
+    "crosslistings" : [ ],
+    "department" : "BCHE",
+    "department_of_record" : "CHEM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2G",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "01",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "A",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "SEM",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Independent research projects in the laboratories of individual faculty members. A list of possible research supervisors is available in the Biochemistry office (357 Chemistry). In addition to their laboratory projects, students will attend a weekly seminar in which their own and related work will be discussed.",
+    "course_id" : "BCHE404",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "Year long course --initial registration must occur in Fall term, 0 c.u. for first term and 2 c.u. for second term, 10h.  CHEM 451 or permission of instructor required.",
+    "course_number" : "404",
+    "course_title" : "Biochemistry Laboratory",
+    "crosslistings" : [ ],
+    "department" : "BCHE",
+    "department_of_record" : "CHEM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2G",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "01",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "E",
+    "terms_offered_description" : "Two terms. student must enter first term."
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "BCHE085",
+    "course_level" : "1",
+    "course_level_description" : "Introductory",
+    "course_notes" : "",
+    "course_number" : "085",
+    "course_title" : "Medicine & Literature",
+    "crosslistings" : [ {
+      "course_id" : "085",
+      "section_id" : "",
+      "subject" : "ENGL"
+    }, {
+      "course_id" : "148",
+      "section_id" : "",
+      "subject" : "HSOC"
+    } ],
+    "department" : "BCHE",
+    "department_of_record" : "CHEM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2G",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "D",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "BCHE280",
+    "course_level" : "2",
+    "course_level_description" : "Intermediate",
+    "course_notes" : "",
+    "course_number" : "280",
+    "course_title" : "Biological Physics",
+    "crosslistings" : [ {
+      "course_id" : "280",
+      "section_id" : "",
+      "subject" : "PHYS"
+    } ],
+    "department" : "BCHE",
+    "department_of_record" : "CHEM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2G",
+    "instructors" : "",
+    "prerequisites" : "PHYS 101 (or higher), MATH 104-MATH 114 or MATH 104-MATH 115 or MATH 116. Recommended: previous or concurrent PHYS 102; basic background in chemistry and biology.",
+    "register_subgroup_one" : "01",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "C",
+    "school_code" : "AS",
+    "terms_offered_code" : "A",
+    "terms_offered_description" : "Course usually offered in fall term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "LEC",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "",
+    "course_id" : "BCHE580",
+    "course_level" : "",
+    "course_level_description" : "",
+    "course_notes" : "",
+    "course_number" : "580",
+    "course_title" : "Biological Physics",
+    "crosslistings" : [ {
+      "course_id" : "580",
+      "section_id" : "",
+      "subject" : "PHYS"
+    } ],
+    "department" : "BCHE",
+    "department_of_record" : "CHEM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2G",
+    "instructors" : "",
+    "prerequisites" : "Physics 150-151 or 170-171, Math 104-114 or Math 104-115.  Recommended: concurrent Physics 230 or prior Physics 250, basic background in chemistry and biology.",
+    "register_subgroup_one" : "01",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "H",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  }, {
+    "activities_and_credits" : [ {
+      "activity_code" : "IND",
+      "credit" : "1"
+    } ],
+    "corequisites" : "",
+    "course_credit_connector" : "F",
+    "course_credit_type" : "CU",
+    "course_description" : "Independent Research.",
+    "course_id" : "BCHE299",
+    "course_level" : "3",
+    "course_level_description" : "Advanced",
+    "course_notes" : "10-20 h., 1-2 c.u., admission by permission of the biochemistry undergraduate chairman.",
+    "course_number" : "299",
+    "course_title" : "Undergraduate Research Projects",
+    "crosslistings" : [ ],
+    "department" : "BCHE",
+    "department_of_record" : "CHEM",
+    "distribution_requirement" : "",
+    "eas_credit_factor_code" : "2G",
+    "instructors" : "",
+    "prerequisites" : "",
+    "register_subgroup_one" : "01",
+    "register_subgroup_two" : "",
+    "requirements_met" : [ ],
+    "scheduling_priority" : "",
+    "school_code" : "AS",
+    "terms_offered_code" : "C",
+    "terms_offered_description" : "One-term course offered either term"
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 999
+  }
+}
