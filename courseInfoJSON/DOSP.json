@@ -1,0 +1,371 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:55:38 +0000
+Content-Length: 10723
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3525579948.39711.0000; expires=Thu, 04-Dec-2014 09:55:38 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activity" : "LEC",
+    "activity_description" : "Lecture",
+    "corequisite_activity" : "",
+    "corequisite_activity_description" : "",
+    "course_department" : "DOSP",
+    "course_description" : "",
+    "course_description_url" : "",
+    "course_meeting_message" : "",
+    "course_notes" : "",
+    "course_notes_message" : "",
+    "course_number" : "605",
+    "course_status" : "O",
+    "course_status_normalized" : "Open",
+    "course_status_reason_code" : "",
+    "course_terms_offered" : "",
+    "course_title" : "Anes/Pain/Emergency",
+    "credit_and_grade_type" : "2.25 CR",
+    "credit_connector" : "F",
+    "credit_type" : "CR",
+    "credits" : "2.25 CR",
+    "crosslist_primary" : "",
+    "crosslistings" : [ ],
+    "department_description" : "Oral Surgery and Pharmacology",
+    "department_url" : "",
+    "end_date" : "2015-04-22T04:00:00Z",
+    "first_meeting_days" : "",
+    "fulfills_college_requirements" : [ ],
+    "grade_type" : "",
+    "important_notes" : [ ],
+    "instructors" : [ {
+      "name" : "Eric Granquist",
+      "section_id" : "DOSP605001",
+      "term" : "2015A"
+    }, {
+      "name" : "Lee Ryan Carrasco",
+      "section_id" : "DOSP605001",
+      "term" : "2015A"
+    }, {
+      "name" : "Lawrence Mark Levin",
+      "section_id" : "DOSP605001",
+      "term" : "2015A"
+    }, {
+      "name" : "Elliot V Hersh",
+      "section_id" : "DOSP605001",
+      "term" : "2015A"
+    }, {
+      "name" : "David Charles Stanton",
+      "section_id" : "DOSP605001",
+      "term" : "2015A"
+    }, {
+      "name" : "Joli C. Chou",
+      "section_id" : "DOSP605001",
+      "term" : "2015A"
+    }, {
+      "name" : "Helen E. Giannakopoulos",
+      "section_id" : "DOSP605001",
+      "term" : "2015A"
+    } ],
+    "is_cancelled" : false,
+    "is_closed" : false,
+    "is_crosslist_primary" : false,
+    "is_not_scheduled" : true,
+    "is_special_session" : true,
+    "labs" : [ ],
+    "lectures" : [ ],
+    "max_enrollment" : "150",
+    "max_enrollment_crosslist" : "150",
+    "maximum_credit" : "2.25",
+    "meetings" : [ ],
+    "minimum_credit" : "2.25",
+    "prerequisite_notes" : [ ],
+    "primary_instructor" : "",
+    "recitations" : [ ],
+    "requirements" : [ ],
+    "requirements_title" : "Associated Courses",
+    "section_id" : "DOSP605001",
+    "section_id_normalized" : "DOSP-605-001",
+    "section_number" : "001",
+    "section_title" : "Anes/Pain/Emergency",
+    "start_date" : "2014-08-26T04:00:00Z",
+    "syllabus_url" : "",
+    "term" : "2015A",
+    "term_normalized" : "Spring 2015",
+    "term_session" : "S",
+    "third_party_links" : [ ]
+  }, {
+    "activity" : "LEC",
+    "activity_description" : "Lecture",
+    "corequisite_activity" : "",
+    "corequisite_activity_description" : "",
+    "course_department" : "DOSP",
+    "course_description" : "",
+    "course_description_url" : "",
+    "course_meeting_message" : "",
+    "course_notes" : "",
+    "course_notes_message" : "",
+    "course_number" : "770",
+    "course_status" : "O",
+    "course_status_normalized" : "Open",
+    "course_status_reason_code" : "",
+    "course_terms_offered" : "",
+    "course_title" : "Oral Surgery L",
+    "credit_and_grade_type" : "3 CR",
+    "credit_connector" : "F",
+    "credit_type" : "CR",
+    "credits" : "3 CR",
+    "crosslist_primary" : "",
+    "crosslistings" : [ ],
+    "department_description" : "Oral Surgery and Pharmacology",
+    "department_url" : "",
+    "end_date" : "2015-02-13T05:00:00Z",
+    "first_meeting_days" : "",
+    "fulfills_college_requirements" : [ ],
+    "grade_type" : "",
+    "important_notes" : [ ],
+    "instructors" : [ {
+      "name" : "Helen E. Giannakopoulos",
+      "section_id" : "DOSP770001",
+      "term" : "2015A"
+    }, {
+      "name" : "Eric Granquist",
+      "section_id" : "DOSP770001",
+      "term" : "2015A"
+    }, {
+      "name" : "Peter Dennis Quinn",
+      "section_id" : "DOSP770001",
+      "term" : "2015A"
+    }, {
+      "name" : "Lawrence Mark Levin",
+      "section_id" : "DOSP770001",
+      "term" : "2015A"
+    }, {
+      "name" : "Lee Ryan Carrasco",
+      "section_id" : "DOSP770001",
+      "term" : "2015A"
+    }, {
+      "name" : "Joli C. Chou",
+      "section_id" : "DOSP770001",
+      "term" : "2015A"
+    }, {
+      "name" : "David Charles Stanton",
+      "section_id" : "DOSP770001",
+      "term" : "2015A"
+    } ],
+    "is_cancelled" : false,
+    "is_closed" : false,
+    "is_crosslist_primary" : false,
+    "is_not_scheduled" : true,
+    "is_special_session" : true,
+    "labs" : [ ],
+    "lectures" : [ ],
+    "max_enrollment" : "150",
+    "max_enrollment_crosslist" : "150",
+    "maximum_credit" : "3",
+    "meetings" : [ ],
+    "minimum_credit" : "3",
+    "prerequisite_notes" : [ ],
+    "primary_instructor" : "",
+    "recitations" : [ ],
+    "requirements" : [ ],
+    "requirements_title" : "Associated Courses",
+    "section_id" : "DOSP770001",
+    "section_id_normalized" : "DOSP-770-001",
+    "section_number" : "001",
+    "section_title" : "Oral Surgery L",
+    "start_date" : "2014-08-29T04:00:00Z",
+    "syllabus_url" : "",
+    "term" : "2015A",
+    "term_normalized" : "Spring 2015",
+    "term_session" : "S",
+    "third_party_links" : [ ]
+  }, {
+    "activity" : "CLN",
+    "activity_description" : "Clinic",
+    "corequisite_activity" : "",
+    "corequisite_activity_description" : "",
+    "course_department" : "DOSP",
+    "course_description" : "",
+    "course_description_url" : "",
+    "course_meeting_message" : "",
+    "course_notes" : "",
+    "course_notes_message" : "",
+    "course_number" : "772",
+    "course_status" : "O",
+    "course_status_normalized" : "Open",
+    "course_status_reason_code" : "",
+    "course_terms_offered" : "",
+    "course_title" : "Oral Surgery Clinic",
+    "credit_and_grade_type" : "1 CR",
+    "credit_connector" : "F",
+    "credit_type" : "CR",
+    "credits" : "1 CR",
+    "crosslist_primary" : "",
+    "crosslistings" : [ ],
+    "department_description" : "Oral Surgery and Pharmacology",
+    "department_url" : "",
+    "end_date" : "2015-06-15T04:00:00Z",
+    "first_meeting_days" : "",
+    "fulfills_college_requirements" : [ ],
+    "grade_type" : "",
+    "important_notes" : [ ],
+    "instructors" : [ {
+      "name" : "Helen E. Giannakopoulos",
+      "section_id" : "DOSP772001",
+      "term" : "2015A"
+    }, {
+      "name" : "Peter Dennis Quinn",
+      "section_id" : "DOSP772001",
+      "term" : "2015A"
+    }, {
+      "name" : "Anh Le",
+      "section_id" : "DOSP772001",
+      "term" : "2015A"
+    }, {
+      "name" : "David Charles Stanton",
+      "section_id" : "DOSP772001",
+      "term" : "2015A"
+    }, {
+      "name" : "Joli C. Chou",
+      "section_id" : "DOSP772001",
+      "term" : "2015A"
+    }, {
+      "name" : "Lawrence Mark Levin",
+      "section_id" : "DOSP772001",
+      "term" : "2015A"
+    }, {
+      "name" : "Eric Granquist",
+      "section_id" : "DOSP772001",
+      "term" : "2015A"
+    }, {
+      "name" : "John William Mooney",
+      "section_id" : "DOSP772001",
+      "term" : "2015A"
+    } ],
+    "is_cancelled" : false,
+    "is_closed" : false,
+    "is_crosslist_primary" : false,
+    "is_not_scheduled" : true,
+    "is_special_session" : true,
+    "labs" : [ ],
+    "lectures" : [ ],
+    "max_enrollment" : "150",
+    "max_enrollment_crosslist" : "150",
+    "maximum_credit" : "1",
+    "meetings" : [ ],
+    "minimum_credit" : "1",
+    "prerequisite_notes" : [ ],
+    "primary_instructor" : "",
+    "recitations" : [ ],
+    "requirements" : [ ],
+    "requirements_title" : "Associated Courses",
+    "section_id" : "DOSP772001",
+    "section_id_normalized" : "DOSP-772-001",
+    "section_number" : "001",
+    "section_title" : "Oral Surgery Clinic",
+    "start_date" : "2014-08-25T04:00:00Z",
+    "syllabus_url" : "",
+    "term" : "2015A",
+    "term_normalized" : "Spring 2015",
+    "term_session" : "S",
+    "third_party_links" : [ ]
+  }, {
+    "activity" : "CLN",
+    "activity_description" : "Clinic",
+    "corequisite_activity" : "",
+    "corequisite_activity_description" : "",
+    "course_department" : "DOSP",
+    "course_description" : "",
+    "course_description_url" : "",
+    "course_meeting_message" : "",
+    "course_notes" : "",
+    "course_notes_message" : "",
+    "course_number" : "872",
+    "course_status" : "O",
+    "course_status_normalized" : "Open",
+    "course_status_reason_code" : "",
+    "course_terms_offered" : "",
+    "course_title" : "Oral Surgery Clinic",
+    "credit_and_grade_type" : "2 CR",
+    "credit_connector" : "F",
+    "credit_type" : "CR",
+    "credits" : "2 CR",
+    "crosslist_primary" : "",
+    "crosslistings" : [ ],
+    "department_description" : "Oral Surgery and Pharmacology",
+    "department_url" : "",
+    "end_date" : "2015-05-01T04:00:00Z",
+    "first_meeting_days" : "",
+    "fulfills_college_requirements" : [ ],
+    "grade_type" : "",
+    "important_notes" : [ ],
+    "instructors" : [ {
+      "name" : "Peter Dennis Quinn",
+      "section_id" : "DOSP872001",
+      "term" : "2015A"
+    }, {
+      "name" : "David Charles Stanton",
+      "section_id" : "DOSP872001",
+      "term" : "2015A"
+    }, {
+      "name" : "John William Mooney",
+      "section_id" : "DOSP872001",
+      "term" : "2015A"
+    }, {
+      "name" : "Anh Le",
+      "section_id" : "DOSP872001",
+      "term" : "2015A"
+    }, {
+      "name" : "Joli C. Chou",
+      "section_id" : "DOSP872001",
+      "term" : "2015A"
+    }, {
+      "name" : "Lawrence Mark Levin",
+      "section_id" : "DOSP872001",
+      "term" : "2015A"
+    }, {
+      "name" : "Eric Granquist",
+      "section_id" : "DOSP872001",
+      "term" : "2015A"
+    }, {
+      "name" : "Helen E. Giannakopoulos",
+      "section_id" : "DOSP872001",
+      "term" : "2015A"
+    } ],
+    "is_cancelled" : false,
+    "is_closed" : false,
+    "is_crosslist_primary" : false,
+    "is_not_scheduled" : true,
+    "is_special_session" : true,
+    "labs" : [ ],
+    "lectures" : [ ],
+    "max_enrollment" : "150",
+    "max_enrollment_crosslist" : "150",
+    "maximum_credit" : "2",
+    "meetings" : [ ],
+    "minimum_credit" : "2",
+    "prerequisite_notes" : [ ],
+    "primary_instructor" : "",
+    "recitations" : [ ],
+    "requirements" : [ ],
+    "requirements_title" : "Associated Courses",
+    "section_id" : "DOSP872001",
+    "section_id_normalized" : "DOSP-872-001",
+    "section_number" : "001",
+    "section_title" : "Oral Surgery Clinic",
+    "start_date" : "2014-08-25T04:00:00Z",
+    "syllabus_url" : "",
+    "term" : "2015A",
+    "term_normalized" : "Spring 2015",
+    "term_session" : "S",
+    "third_party_links" : [ ]
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 20
+  }
+}

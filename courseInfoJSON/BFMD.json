@@ -1,0 +1,113 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:55:03 +0000
+Content-Length: 4333
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3525579948.39711.0000; expires=Thu, 04-Dec-2014 09:55:03 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activity" : "SEM",
+    "activity_description" : "Seminar",
+    "corequisite_activity" : "",
+    "corequisite_activity_description" : "",
+    "course_department" : "BFMD",
+    "course_description" : "This course will examine the interactions between human beings, their organs and cells, and various infectious agents such as bacteria, viruses, fungi and parasites. The biological, societal and historical factors influencing these interactions will be analyzed and emerging infectious diseases will be particularly studied. Important infectious pathogenic agents will be surveyed in terms of their physiological functions, properties that permit them to be pathogens, pathogenesis of infections, clinical pictures of the disease states, therapeutic agents, and methods of prevention of infection. Each student will choose an infectious disease, and make an oral and written presentation on it and in this way will learn how to keep up with the topic of infectious diseases. Special requirements: Juniors and seniors only; all students need permission of the instructor, Dr. Helen Davies. ALL students must send Dr. Davies an e-mail message explaining their background and why they want to take the course.",
+    "course_description_url" : "",
+    "course_meeting_message" : "",
+    "course_notes" : "",
+    "course_notes_message" : "",
+    "course_number" : "073",
+    "course_status" : "C",
+    "course_status_normalized" : "Closed",
+    "course_status_reason_code" : "",
+    "course_terms_offered" : "One-term course offered either term",
+    "course_title" : "Infectious Diseases",
+    "credit_and_grade_type" : "1 CU",
+    "credit_connector" : "F",
+    "credit_type" : "CU",
+    "credits" : "1 CU",
+    "crosslist_primary" : "",
+    "crosslistings" : [ ],
+    "department_description" : "Benjamin Franklin Seminars-Med",
+    "department_url" : "http://www.upenn.edu/curf/bfs/bfs-current-courses/",
+    "end_date" : "2015-04-29T04:00:00Z",
+    "first_meeting_days" : "TR04:00 PMJOHN209",
+    "fulfills_college_requirements" : [ ],
+    "grade_type" : "",
+    "important_notes" : [ "Permission Needed From Instructor", "Benjamin Franklin Seminars" ],
+    "instructors" : [ {
+      "name" : "Helen Conrad Davies",
+      "section_id" : "BFMD073301",
+      "term" : "2015A"
+    } ],
+    "is_cancelled" : false,
+    "is_closed" : true,
+    "is_crosslist_primary" : false,
+    "is_not_scheduled" : false,
+    "is_special_session" : false,
+    "labs" : [ ],
+    "lectures" : [ ],
+    "max_enrollment" : "17",
+    "max_enrollment_crosslist" : "17",
+    "maximum_credit" : "1",
+    "meetings" : [ {
+      "building_code" : "",
+      "building_name" : "",
+      "end_hour_24" : 17,
+      "end_minutes" : 30,
+      "end_time" : "05:30 PM",
+      "end_time_24" : 17.3,
+      "meeting_days" : "TR",
+      "room_number" : "",
+      "section_id" : "BFMD073301",
+      "section_id_normalized" : "BFMD-073-301",
+      "start_hour_24" : 16,
+      "start_minutes" : 0,
+      "start_time" : "04:00 PM",
+      "start_time_24" : 16.0,
+      "term" : "2015A"
+    } ],
+    "minimum_credit" : "1",
+    "prerequisite_notes" : [ ],
+    "primary_instructor" : "",
+    "recitations" : [ ],
+    "requirements" : [ {
+      "argument" : "",
+      "registration_control_code" : "PIN",
+      "requirement_description" : "Permission Needed From Instructor",
+      "section_id" : "BFMD073301",
+      "term" : "2015A",
+      "value" : "",
+      "value_normalized" : ""
+    }, {
+      "argument" : "",
+      "registration_control_code" : "MGH",
+      "requirement_description" : "Benjamin Franklin Seminars",
+      "section_id" : "BFMD073301",
+      "term" : "2015A",
+      "value" : "",
+      "value_normalized" : ""
+    } ],
+    "requirements_title" : "Associated Courses",
+    "section_id" : "BFMD073301",
+    "section_id_normalized" : "BFMD-073-301",
+    "section_number" : "301",
+    "section_title" : "Selected Topics in Med: Infectious Diseases",
+    "start_date" : "2015-01-14T05:00:00Z",
+    "syllabus_url" : "",
+    "term" : "2015A",
+    "term_normalized" : "Spring 2015",
+    "term_session" : "",
+    "third_party_links" : [ ]
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 20
+  }
+}

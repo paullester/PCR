@@ -1,0 +1,117 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:55:44 +0000
+Content-Length: 4332
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:55:44 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activity" : "SEM",
+    "activity_description" : "Seminar",
+    "corequisite_activity" : "",
+    "corequisite_activity_description" : "",
+    "course_department" : "VIPR",
+    "course_description" : "This is the first part of the two-semester seminar designed to introduce students to the VIPER program and help them prepare for energy-related research. Research articles on various energy-related topics will be discussed, and students will be guided toward their research topic selection. Library research, presentation of data, basic research methods, research ethics, data analysis, advisor identification, and funding options will also be discussed. Sample energy topics discussed will include: Applications of nanostructured materials in solar cells; Solid oxide fuel cells; Global climate modeling: radiant heat transfer; Nanocrystal-based technologies for energy storage;Photo-bioreactor systems for mass production of micro-algae; Advanced rare earths separations chemistry; Modeling of oxides for solar energy applications; and Electronic transport in carbon nanomaterials.",
+    "course_description_url" : "",
+    "course_meeting_message" : "",
+    "course_notes" : "",
+    "course_notes_message" : "",
+    "course_number" : "120",
+    "course_status" : "O",
+    "course_status_normalized" : "Open",
+    "course_status_reason_code" : "",
+    "course_terms_offered" : "Course usually offered in spring term",
+    "course_title" : "Vagelos Integrated Program in Energy Research (VIPER) Seminar, Part I",
+    "credit_and_grade_type" : ".5 CU",
+    "credit_connector" : "F",
+    "credit_type" : "CU",
+    "credits" : ".5 CU",
+    "crosslist_primary" : "",
+    "crosslistings" : [ ],
+    "department_description" : "Viper",
+    "department_url" : "",
+    "end_date" : "2015-04-29T04:00:00Z",
+    "first_meeting_days" : "T11:00 AMCHEM514",
+    "fulfills_college_requirements" : [ ],
+    "grade_type" : "",
+    "important_notes" : [ "Permission Needed From Department", "Freshman Seminar" ],
+    "instructors" : [ {
+      "name" : "Andrew M. Rappe",
+      "section_id" : "VIPR120301",
+      "term" : "2015A"
+    }, {
+      "name" : "John M. Vohs",
+      "section_id" : "VIPR120301",
+      "term" : "2015A"
+    } ],
+    "is_cancelled" : false,
+    "is_closed" : false,
+    "is_crosslist_primary" : false,
+    "is_not_scheduled" : false,
+    "is_special_session" : false,
+    "labs" : [ ],
+    "lectures" : [ ],
+    "max_enrollment" : "20",
+    "max_enrollment_crosslist" : "20",
+    "maximum_credit" : ".5",
+    "meetings" : [ {
+      "building_code" : "",
+      "building_name" : "",
+      "end_hour_24" : 12,
+      "end_minutes" : 0,
+      "end_time" : "12:00 PM",
+      "end_time_24" : 12.0,
+      "meeting_days" : "T",
+      "room_number" : "",
+      "section_id" : "VIPR120301",
+      "section_id_normalized" : "VIPR-120-301",
+      "start_hour_24" : 11,
+      "start_minutes" : 0,
+      "start_time" : "11:00 AM",
+      "start_time_24" : 11.0,
+      "term" : "2015A"
+    } ],
+    "minimum_credit" : ".5",
+    "prerequisite_notes" : [ "Admission to VIPER program." ],
+    "primary_instructor" : "",
+    "recitations" : [ ],
+    "requirements" : [ {
+      "argument" : "",
+      "registration_control_code" : "PDP",
+      "requirement_description" : "Permission Needed From Department",
+      "section_id" : "VIPR120301",
+      "term" : "2015A",
+      "value" : "",
+      "value_normalized" : ""
+    }, {
+      "argument" : "",
+      "registration_control_code" : "MFS",
+      "requirement_description" : "Freshman Seminar",
+      "section_id" : "VIPR120301",
+      "term" : "2015A",
+      "value" : "",
+      "value_normalized" : ""
+    } ],
+    "requirements_title" : "Associated Courses",
+    "section_id" : "VIPR120301",
+    "section_id_normalized" : "VIPR-120-301",
+    "section_number" : "301",
+    "section_title" : "Viper Seminar: Vagelos Integrated Program in Energy Research (Viper) Seminar, Part I",
+    "start_date" : "2015-01-14T05:00:00Z",
+    "syllabus_url" : "",
+    "term" : "2015A",
+    "term_normalized" : "Spring 2015",
+    "term_session" : "",
+    "third_party_links" : [ ]
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 20
+  }
+}

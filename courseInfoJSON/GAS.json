@@ -1,0 +1,121 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:55:39 +0000
+Content-Length: 3853
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:55:39 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activity" : "LEC",
+    "activity_description" : "Lecture",
+    "corequisite_activity" : "",
+    "corequisite_activity_description" : "",
+    "course_department" : "GAS",
+    "course_description" : "For doctoral candidates who use English as a Second Language, this course explores expectations of academic writing at the graduate level as well as distinctive features of academic discourse and argumentation. Attention also is given to elements of formal written English such as grammar, clarity, conciseness, and coherence.",
+    "course_description_url" : "",
+    "course_meeting_message" : "",
+    "course_notes" : "",
+    "course_notes_message" : "",
+    "course_number" : "610",
+    "course_status" : "O",
+    "course_status_normalized" : "Open",
+    "course_status_reason_code" : "",
+    "course_terms_offered" : "One-term course offered either term",
+    "course_title" : "Research Paper Writing",
+    "credit_and_grade_type" : "1 CU",
+    "credit_connector" : "F",
+    "credit_type" : "CU",
+    "credits" : "1 CU",
+    "crosslist_primary" : "",
+    "crosslistings" : [ ],
+    "department_description" : "Graduate Arts & Sciences",
+    "department_url" : "",
+    "end_date" : "2015-04-29T04:00:00Z",
+    "first_meeting_days" : "TR09:00 AMBENN139",
+    "fulfills_college_requirements" : [ ],
+    "grade_type" : "",
+    "important_notes" : [ "Permission Needed From Instructor", "Permission Needed From Department", "For PhD Students Only" ],
+    "instructors" : [ {
+      "name" : "Sheila A. Mayne",
+      "section_id" : "GAS 610001",
+      "term" : "2015A"
+    } ],
+    "is_cancelled" : false,
+    "is_closed" : false,
+    "is_crosslist_primary" : false,
+    "is_not_scheduled" : false,
+    "is_special_session" : false,
+    "labs" : [ ],
+    "lectures" : [ ],
+    "max_enrollment" : "15",
+    "max_enrollment_crosslist" : "15",
+    "maximum_credit" : "1",
+    "meetings" : [ {
+      "building_code" : "",
+      "building_name" : "",
+      "end_hour_24" : 10,
+      "end_minutes" : 30,
+      "end_time" : "10:30 AM",
+      "end_time_24" : 10.3,
+      "meeting_days" : "TR",
+      "room_number" : "",
+      "section_id" : "GAS 610001",
+      "section_id_normalized" : "GAS -610-001",
+      "start_hour_24" : 9,
+      "start_minutes" : 0,
+      "start_time" : "09:00 AM",
+      "start_time_24" : 9.0,
+      "term" : "2015A"
+    } ],
+    "minimum_credit" : "1",
+    "prerequisite_notes" : [ ],
+    "primary_instructor" : "",
+    "recitations" : [ ],
+    "requirements" : [ {
+      "argument" : "",
+      "registration_control_code" : "PIN",
+      "requirement_description" : "Permission Needed From Instructor",
+      "section_id" : "GAS 610001",
+      "term" : "2015A",
+      "value" : "",
+      "value_normalized" : ""
+    }, {
+      "argument" : "",
+      "registration_control_code" : "PDP",
+      "requirement_description" : "Permission Needed From Department",
+      "section_id" : "GAS 610001",
+      "term" : "2015A",
+      "value" : "",
+      "value_normalized" : ""
+    }, {
+      "argument" : "",
+      "registration_control_code" : "MPH",
+      "requirement_description" : "For PhD Students Only",
+      "section_id" : "GAS 610001",
+      "term" : "2015A",
+      "value" : "",
+      "value_normalized" : ""
+    } ],
+    "requirements_title" : "Associated Courses",
+    "section_id" : "GAS 610001",
+    "section_id_normalized" : "GAS -610-001",
+    "section_number" : "001",
+    "section_title" : "Research Paper Writing",
+    "start_date" : "2015-01-14T05:00:00Z",
+    "syllabus_url" : "",
+    "term" : "2015A",
+    "term_normalized" : "Spring 2015",
+    "term_session" : "",
+    "third_party_links" : [ ]
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 20
+  }
+}

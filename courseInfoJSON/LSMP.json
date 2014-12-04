@@ -1,0 +1,109 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:54:51 +0000
+Content-Length: 3141
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:54:51 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activity" : "SEM",
+    "activity_description" : "Seminar",
+    "corequisite_activity" : "",
+    "corequisite_activity_description" : "",
+    "course_department" : "LSMP",
+    "course_description" : "",
+    "course_description_url" : "",
+    "course_meeting_message" : "",
+    "course_notes" : "",
+    "course_notes_message" : "",
+    "course_number" : "421",
+    "course_status" : "O",
+    "course_status_normalized" : "Open",
+    "course_status_reason_code" : "",
+    "course_terms_offered" : "Course usually offered in spring term",
+    "course_title" : "Lsmp Capstone",
+    "credit_and_grade_type" : "1 CU",
+    "credit_connector" : "F",
+    "credit_type" : "CU",
+    "credits" : "1 CU",
+    "crosslist_primary" : "",
+    "crosslistings" : [ ],
+    "department_description" : "Life Sciences Management Prog",
+    "department_url" : "http://www.upenn.edu/lsm",
+    "end_date" : "2015-04-29T04:00:00Z",
+    "first_meeting_days" : "F02:00 PMJMHHF50",
+    "fulfills_college_requirements" : [ ],
+    "grade_type" : "",
+    "important_notes" : [ "Permission Needed From Department" ],
+    "instructors" : [ {
+      "name" : "Joan M Lau",
+      "section_id" : "LSMP421301",
+      "term" : "2015A"
+    }, {
+      "name" : "Steven Nichtberger",
+      "section_id" : "LSMP421301",
+      "term" : "2015A"
+    } ],
+    "is_cancelled" : false,
+    "is_closed" : false,
+    "is_crosslist_primary" : false,
+    "is_not_scheduled" : false,
+    "is_special_session" : false,
+    "labs" : [ ],
+    "lectures" : [ ],
+    "max_enrollment" : "50",
+    "max_enrollment_crosslist" : "50",
+    "maximum_credit" : "1",
+    "meetings" : [ {
+      "building_code" : "",
+      "building_name" : "",
+      "end_hour_24" : 17,
+      "end_minutes" : 0,
+      "end_time" : "05:00 PM",
+      "end_time_24" : 17.0,
+      "meeting_days" : "F",
+      "room_number" : "",
+      "section_id" : "LSMP421301",
+      "section_id_normalized" : "LSMP-421-301",
+      "start_hour_24" : 14,
+      "start_minutes" : 0,
+      "start_time" : "02:00 PM",
+      "start_time_24" : 14.0,
+      "term" : "2015A"
+    } ],
+    "minimum_credit" : "1",
+    "prerequisite_notes" : [ ],
+    "primary_instructor" : "",
+    "recitations" : [ ],
+    "requirements" : [ {
+      "argument" : "",
+      "registration_control_code" : "PDP",
+      "requirement_description" : "Permission Needed From Department",
+      "section_id" : "LSMP421301",
+      "term" : "2015A",
+      "value" : "",
+      "value_normalized" : ""
+    } ],
+    "requirements_title" : "Associated Courses",
+    "section_id" : "LSMP421301",
+    "section_id_normalized" : "LSMP-421-301",
+    "section_number" : "301",
+    "section_title" : "Lsmp Capstone",
+    "start_date" : "2015-01-14T05:00:00Z",
+    "syllabus_url" : "http://syllabi.wharton.upenn.edu/?term=2013A&course=LSMP421301",
+    "term" : "2015A",
+    "term_normalized" : "Spring 2015",
+    "term_session" : "",
+    "third_party_links" : [ ]
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 20
+  }
+}

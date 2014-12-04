@@ -1,0 +1,191 @@
+HTTP/1.1 200 OK
+http.status: 200
+Date: Thu, 04 Dec 2014 03:55:10 +0000
+Content-Length: 5391
+Content-Type: application/json
+Server: Jetty(8.1.13.v20130916)
+Set-Cookie: BIGipServermule_pool_8091=3542357164.39711.0000; expires=Thu, 04-Dec-2014 09:55:10 GMT; path=/
+
+{
+  "result_data" : [ {
+    "activity" : "CLN",
+    "activity_description" : "Clinic",
+    "corequisite_activity" : "",
+    "corequisite_activity_description" : "",
+    "course_department" : "DPED",
+    "course_description" : "",
+    "course_description_url" : "",
+    "course_meeting_message" : "",
+    "course_notes" : "",
+    "course_notes_message" : "",
+    "course_number" : "751",
+    "course_status" : "O",
+    "course_status_normalized" : "Open",
+    "course_status_reason_code" : "",
+    "course_terms_offered" : "",
+    "course_title" : "Pediatric Dentistry Clin",
+    "credit_and_grade_type" : "1.25 CR",
+    "credit_connector" : "F",
+    "credit_type" : "CR",
+    "credits" : "1.25 CR",
+    "crosslist_primary" : "",
+    "crosslistings" : [ ],
+    "department_description" : "Pediatric Dentistry",
+    "department_url" : "",
+    "end_date" : "2015-06-15T04:00:00Z",
+    "first_meeting_days" : "",
+    "fulfills_college_requirements" : [ ],
+    "grade_type" : "",
+    "important_notes" : [ ],
+    "instructors" : [ {
+      "name" : "George T Lynch",
+      "section_id" : "DPED751001",
+      "term" : "2015A"
+    }, {
+      "name" : "Rosana Z Rosentrater",
+      "section_id" : "DPED751001",
+      "term" : "2015A"
+    }, {
+      "name" : "Elliott D. Maser",
+      "section_id" : "DPED751001",
+      "term" : "2015A"
+    }, {
+      "name" : "Cyelee Shama Kulkarni",
+      "section_id" : "DPED751001",
+      "term" : "2015A"
+    }, {
+      "name" : "Evlambia Hajishengallis",
+      "section_id" : "DPED751001",
+      "term" : "2015A"
+    }, {
+      "name" : "Hamid Hayat",
+      "section_id" : "DPED751001",
+      "term" : "2015A"
+    }, {
+      "name" : "Stanford Brown",
+      "section_id" : "DPED751001",
+      "term" : "2015A"
+    } ],
+    "is_cancelled" : false,
+    "is_closed" : false,
+    "is_crosslist_primary" : false,
+    "is_not_scheduled" : true,
+    "is_special_session" : true,
+    "labs" : [ ],
+    "lectures" : [ ],
+    "max_enrollment" : "150",
+    "max_enrollment_crosslist" : "150",
+    "maximum_credit" : "1.25",
+    "meetings" : [ ],
+    "minimum_credit" : "1.25",
+    "prerequisite_notes" : [ ],
+    "primary_instructor" : "",
+    "recitations" : [ ],
+    "requirements" : [ ],
+    "requirements_title" : "Associated Courses",
+    "section_id" : "DPED751001",
+    "section_id_normalized" : "DPED-751-001",
+    "section_number" : "001",
+    "section_title" : "Pediatric Dentistry Clin",
+    "start_date" : "2014-08-25T04:00:00Z",
+    "syllabus_url" : "",
+    "term" : "2015A",
+    "term_normalized" : "Spring 2015",
+    "term_session" : "S",
+    "third_party_links" : [ ]
+  }, {
+    "activity" : "CLN",
+    "activity_description" : "Clinic",
+    "corequisite_activity" : "",
+    "corequisite_activity_description" : "",
+    "course_department" : "DPED",
+    "course_description" : "",
+    "course_description_url" : "",
+    "course_meeting_message" : "",
+    "course_notes" : "",
+    "course_notes_message" : "",
+    "course_number" : "851",
+    "course_status" : "O",
+    "course_status_normalized" : "Open",
+    "course_status_reason_code" : "",
+    "course_terms_offered" : "",
+    "course_title" : "Pediatric Dentistry Clin",
+    "credit_and_grade_type" : "1.25 CR",
+    "credit_connector" : "F",
+    "credit_type" : "CR",
+    "credits" : "1.25 CR",
+    "crosslist_primary" : "",
+    "crosslistings" : [ ],
+    "department_description" : "Pediatric Dentistry",
+    "department_url" : "",
+    "end_date" : "2015-05-01T04:00:00Z",
+    "first_meeting_days" : "",
+    "fulfills_college_requirements" : [ ],
+    "grade_type" : "",
+    "important_notes" : [ ],
+    "instructors" : [ {
+      "name" : "Rosana Z Rosentrater",
+      "section_id" : "DPED851001",
+      "term" : "2015A"
+    }, {
+      "name" : "George T Lynch",
+      "section_id" : "DPED851001",
+      "term" : "2015A"
+    }, {
+      "name" : "Evlambia Hajishengallis",
+      "section_id" : "DPED851001",
+      "term" : "2015A"
+    }, {
+      "name" : "Hamid Hayat",
+      "section_id" : "DPED851001",
+      "term" : "2015A"
+    }, {
+      "name" : "Stanford Brown",
+      "section_id" : "DPED851001",
+      "term" : "2015A"
+    }, {
+      "name" : "Elliott D. Maser",
+      "section_id" : "DPED851001",
+      "term" : "2015A"
+    }, {
+      "name" : "Cyelee Shama Kulkarni",
+      "section_id" : "DPED851001",
+      "term" : "2015A"
+    } ],
+    "is_cancelled" : false,
+    "is_closed" : false,
+    "is_crosslist_primary" : false,
+    "is_not_scheduled" : true,
+    "is_special_session" : true,
+    "labs" : [ ],
+    "lectures" : [ ],
+    "max_enrollment" : "150",
+    "max_enrollment_crosslist" : "150",
+    "maximum_credit" : "1.25",
+    "meetings" : [ ],
+    "minimum_credit" : "1.25",
+    "prerequisite_notes" : [ ],
+    "primary_instructor" : "",
+    "recitations" : [ ],
+    "requirements" : [ ],
+    "requirements_title" : "Associated Courses",
+    "section_id" : "DPED851001",
+    "section_id_normalized" : "DPED-851-001",
+    "section_number" : "001",
+    "section_title" : "Pediatric Dentistry Clin",
+    "start_date" : "2014-08-25T04:00:00Z",
+    "syllabus_url" : "",
+    "term" : "2015A",
+    "term_normalized" : "Spring 2015",
+    "term_session" : "S",
+    "third_party_links" : [ ]
+  } ],
+  "service_meta" : {
+    "current_page_number" : 1,
+    "error_text" : "",
+    "next_page_number" : 1,
+    "number_of_pages" : 1,
+    "previous_page_number" : 1,
+    "results_per_page" : 20
+  }
+}
