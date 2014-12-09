@@ -1,11 +1,14 @@
 import json
 import os
 import sys
+import string
 
 cwd = os.getcwd()
 
 def reviewSearch(reviewdir, className):
     reviewName = os.path.join(reviewdir,className) + "_review.json"
+    className = string.join(className.split("-"), "")
+
     if os.path.isfile(reviewName):
         reviewData = json.loads(open(reviewName).read())
 
