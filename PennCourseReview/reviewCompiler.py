@@ -99,7 +99,7 @@ if __name__ == "__main__":
     deptName = os.path.basename(sys.argv[1])
 
     with open(instructorFile, "w") as outfile:
-        json.dump(instructorMap, outfile)
+        json.dump(instructorMap, outfile, indent = 4)
 
     with open(courseFile, "w") as outfile:
-        json.dump(courseMap, outfile)
+        json.dump(courseMap, outfile, indent = 4)
