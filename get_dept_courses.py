@@ -12,8 +12,12 @@ all_courses = []
 for dept in departments.readlines():
 	all_courses.append(get_courses("courseInfoJSON/" + dept.strip() + ".json"))
 
-file = open("all_courses.txt", "w")
+all_unique_courses = []
 for dept in all_courses:
 	for course in dept:
-		file.write(course + '\n')
+		all_unique_courses.append(course)
+
+file = open("all_courses.txt", "w")
+for course in set(all_unique_courses):
+	file.write(course + '\n')
 file.close()
