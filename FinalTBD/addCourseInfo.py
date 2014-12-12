@@ -14,7 +14,7 @@ for file in os.listdir("/Users/susangreenberg/Documents/PCR/departmentJSON"):
 
         for i in range(0, len(deptMap["result_data"])):
             courseName = string.join(deptMap["result_data"][i]["course_id"].split(" "), "")
-
+            
             if courseName not in coursesMap:
                 coursesMap[courseName] = {}
             if deptMap["result_data"][i]["prerequisites"] != "":
