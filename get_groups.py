@@ -1,11 +1,20 @@
 courses = open('all_courses.txt')
 
 def print_courses(dept, exclusions, minimum) :
+	if len(dept) == 2:
+		dept = dept + "  "
+	if len(dept) == 3:
+		dpet = dept + " "
 	for course in courses.readlines():
 		if course.startswith(dept) and course[len(dept):].strip().isdigit():
 			num = int(course[len(dept):].strip())
 			if num >= minimum and not num in exclusions:
-				print "\"" + dept + str(num) + "\","
+				if num < 10:
+					print "\"" + dept + "00" + str(num) + "\","
+				elif num < 100:
+					print "\"" + dept + "0" + str(num) + "\","
+				else:
+					print "\"" + dept + str(num) + "\","
 
 def print_all_courses(dept) :
 	for course in courses.readlines():
@@ -32,7 +41,7 @@ def print_all_courses(dept) :
 
 #Engineering Courses
 #eng_depts = ['BE','CBE','CIS','ESE','MSE','MEAM','NETS','EAS']
-#print_courses('BE',[296,297,280,303,503,513],0)
+print_courses('BE',[296,297,280,303,503,513],0)
 #print_courses('CIS',[296,297,100,101,106,125,160,260,261,262,313,355,590],0)
 #print_courses('CSE',[296,297,100,101,106,125,160,260,261,262,313,355,590],0)
 #print_courses('EAS',[296,297,9,20,21,22,23,24,25,26,27,28,29,97,111,125,200,203,205,210,280,281,282,285,301,303,305,306,310,320,345,346,348,349,400,401,402,403,445,446,448,449,500,501,502,503,505,506,510,520,545,546,547,548,590,591,595,623],0)
@@ -46,7 +55,7 @@ def print_all_courses(dept) :
 #print_courses('NETS',[296,297],0)
 
 #Tech Elective
-#print_courses("MATH",[],0)
+print_courses("MATH",[],0)
 
 #Engineering Social Sciences:
 #print_all_courses("ASAM")
@@ -100,3 +109,6 @@ print_all_courses("SARS")
 print_all_courses("SAST")
 print_all_courses("THAR")
 print_all_courses("VLST")
+#print_courses("WRIT",[16,21,22,24,28,29,35,37,38,40,48,50,55,57,59,60,65,74,75,76,77,85,88,89,90,92,135],0)
+
+#Engineering TBS
