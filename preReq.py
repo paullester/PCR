@@ -4,13 +4,16 @@ import re
 import string
 import sys
 
+from pyparsing import Word, nums, Literal, opAssoc, operatorPrecedence
+
+
 cwd = os.getcwd()
 
 courseFile = "PennCourseReview/courses.json"
 courseMap = {}
 
 def dept(deptJson):
-    print deptJson
+    print "Processing" + deptJson + "..."
     deptCourses = json.loads(open(deptJson).read())
 
     for i in deptCourses["result_data"]:
@@ -36,31 +39,46 @@ def dept(deptJson):
             m = re.findall("((?:\w{2,4}){0,1}\s{0,1}\d{3}),{0,1}\s{0,1}(,|or|and|AND|OR){0,1}", preReqs)
 
             if m:
-                orFlag = False
-                andFlag = False
-                deptName = ""
+                n = ["".join(i.split()) for sub in m for i in sub]
+                preReqs = " ".join(n).upper()
+                preReqs = ", ".join(preReqs.split())
+                preReqs = preReqs.replace("OR,", "OR")
+                preReqs = preReqs.replace("AND,", "AND")
+                preReqs = rchop(preReqs, ", OR")
+                preReqs = rchop(preReqs, ", AND")
 
-                for i in m:
-                    cid = i[0].replace(" ", "").upper()
-                    deptSearch = re.search("([A-Za-z]{2,4})", cid)
+                course_name = Word(string.ascii_uppercase + nums) | Word(nums)
 
-                    if not deptSearch:
-                        cid = deptName + cid
-                    else:
-                        deptName = deptSearch.group(0)
-                    prereqList.append(cid)
+                comma_separator = Literal(',')
+                comma_separator.setParseAction(lambda t:"&&")
 
-                    if i[1].lower() == "or":
-                        orFlag = True
-                    elif i[1].lower() == "and":
-                        andFlag = True
+                and_separator = Literal('AND') | Literal(", AND")
+                and_separator.setParseAction(lambda t:"&&")
 
-                courseMap[courseId]["prerequisites"] = prereqList
+                or_separator = Literal('OR') | Literal(", OR")
+                or_separator.setParseAction(lambda t:"||")
 
-                if orFlag:
-                    courseMap[courseId]["orFlag"] = orFlag
-                if andFlag:
-                    courseMap[courseId]["andFlag"] = andFlag
+                course_line = operatorPrecedence(course_name,
+                    [
+                        (and_separator, 2, opAssoc.LEFT,),
+                        (or_separator, 2, opAssoc.LEFT),
+                        (comma_separator, 2, opAssoc.LEFT,),
+                    ])
+
+                results = course_line.parseString(preReqs)
+                x = results.asList()[0]
+
+                if len(x):
+                    results_list = []
+                    results_list.extend(x if type(x) == list else [x])
+                    courseMap[courseId]["prerequisites"] = results_list
+
+
+def rchop(thestring, ending):
+    if thestring.endswith(ending):
+        return thestring[:-len(ending)]
+    return thestring
+
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
