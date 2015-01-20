@@ -72,6 +72,38 @@ def dept(deptJson):
                     results_list = []
                     results_list.extend(x if type(x) == list else [x])
                     courseMap[courseId]["prerequisites"] = results_list
+                    fillSatisCourse(courseId, results_list)
+
+
+def fillSatisCourse(satis_course_id, prereq_list):
+    deptId = ""
+
+    for i in prereq_list:
+        if i == "&&":
+            continue
+        elif i == "||":
+            continue
+        elif isinstance(i, list):
+            fillSatisCourse(satis_course_id, i)
+        else:
+            j = i
+
+            if i[0].isdigit():
+                j = deptId + i
+            else:
+                deptSearch = re.search("([A-Za-z]{2,4})", i)
+                deptId = deptSearch.group(0)
+
+            if j not in courseMap:
+                courseMap[j] = {}
+            # satisfies list already exists
+            if "satisfyReqsFor" in courseMap[j]:
+                courseMap[j]["satisfyReqsFor"].append(satis_course_id)
+                courseMap[j]["satisfyReqsFor"] = \
+                    list(set(courseMap[j]["satisfyReqsFor"]))
+            # the current course doesn't have courses it satisfies list
+            else:
+                courseMap[j]["satisfyReqsFor"] = [satis_course_id]
 
 
 def rchop(thestring, ending):
