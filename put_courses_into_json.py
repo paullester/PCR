@@ -1,6 +1,5 @@
-courses = open('all_courses.txt')
-
 def print_courses(dept, exclusions, minimum) :
+	courses = open('all_courses.txt')
 	for course in courses.readlines():
 		if course.startswith(dept) and course[len(dept):].strip().isdigit():
 			num = int(course[len(dept):].strip())
@@ -8,6 +7,7 @@ def print_courses(dept, exclusions, minimum) :
 				print "\"" + dept + str(num) + "\","
 
 def print_all_courses(dept) :
+	courses = open('all_courses.txt')
 	for course in courses.readlines():
 		if course.startswith(dept) and course[len(dept):].strip().isdigit():
 			print "\"" + course.strip() + "\","
@@ -50,19 +50,19 @@ def print_all_courses(dept) :
 
 #Engineering Social Sciences:
 #print_all_courses("ASAM")
-print_all_courses("COMM")
-print_all_courses("CRIM")
-print_all_courses("ECON")
-print_all_courses("GSWS")
-print_all_courses("HSOC")
-print_all_courses("INTR")
-print_all_courses("LING")
-print_all_courses("PPE")
-print_all_courses("PSCI")
-print_all_courses("PSYC")
-print_all_courses("SOCI")
-print_all_courses("STSC")
-print_all_courses("URBS")
+#print_all_courses("COMM")
+#print_all_courses("CRIM")
+#print_all_courses("ECON")
+#print_all_courses("GSWS")
+#print_all_courses("HSOC")
+#print_all_courses("INTR")
+#print_all_courses("LING")
+#print_all_courses("PPE")
+#print_all_courses("PSCI")
+#print_all_courses("PSYC")
+#print_all_courses("SOCI")
+#print_all_courses("STSC")
+#print_all_courses("URBS")
 
 #Engineering Humanities
 print_all_courses("ANTH")
