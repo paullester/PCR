@@ -12,14 +12,8 @@ def print_all_courses(dept) :
 		if course.startswith(dept) and course[len(dept):].strip().isdigit():
 			print "\"" + course.strip() + "\","
 
-print_all_courses("TCOM"),
-print_all_courses("CIS"),
-print_all_courses("ESE"),
-print_all_courses("CMPE"),
-print_all_courses("OPIM"),
-print_all_courses("MATH"),
-print_all_courses("STAT"),
-print_all_courses("ECON")
+
+print_all_courses("MATH")
 quit()
 
 #Engineering Natural Science Requirements:
