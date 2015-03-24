@@ -11,13 +11,14 @@ cwd = os.getcwd()
 
 courseFile = "PennCourseReview/courses.json"
 courseMap = {}
-deptNameMap = {"psychology":"PSYC",
-               "psych":"PSYC",
-               "music":"MUSC",
-               "dutch":"DTCH",
-               "latin":"LATN",
-               "spanish":"SPAN",
-              }
+deptNameMap = {"psychology": "PSYC",
+               "psych": "PSYC",
+               "music": "MUSC",
+               "dutch": "DTCH",
+               "latin": "LATN",
+               "spanish": "SPAN",
+               }
+
 
 def dept(deptJson):
     print "Processing" + deptJson + "..."
@@ -62,16 +63,15 @@ def dept(deptJson):
                 course_name = Word(string.ascii_uppercase + nums) | Word(nums)
 
                 comma_separator = Literal(',')
-                comma_separator.setParseAction(lambda t:"&&")
+                comma_separator.setParseAction(lambda t: "&&")
 
                 and_separator = Literal('AND') | Literal(", AND")
-                and_separator.setParseAction(lambda t:"&&")
+                and_separator.setParseAction(lambda t: "&&")
 
                 or_separator = Literal('OR') | Literal(", OR")
-                or_separator.setParseAction(lambda t:"||")
+                or_separator.setParseAction(lambda t: "||")
 
-                course_line = operatorPrecedence(course_name,
-                    [
+                course_line = operatorPrecedence(course_name, [
                         (and_separator, 2, opAssoc.LEFT,),
                         (or_separator, 2, opAssoc.LEFT),
                         (comma_separator, 2, opAssoc.LEFT,),
@@ -159,4 +159,4 @@ if __name__ == "__main__":
             dept(os.path.join(sys.argv[1], i))
 
     with open(courseFile, "w") as outfile:
-        json.dump(courseMap, outfile, indent = 4)
+        json.dump(courseMap, outfile, indent=4)
