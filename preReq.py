@@ -11,17 +11,35 @@ cwd = os.getcwd()
 
 courseFile = "PennCourseReview/courses.json"
 courseMap = {}
-deptNameMap = {"psychology": "PSYC",
-               "psych": "PSYC",
+deptNameMap = {"accounting": "ACCT",
+               "ames": "AMCS",
+               "biology": "BIOL",
+               "bbb": "BIBB",
+               "economics": "ECON",
+               "geology": "GEOL",
+               "logic": "LGIC",
+               "physics": "PHYS",
+               "psychology": "PSYC",
+               "psych ": "PSYC ",
+               "marketing": "MKTG",
+               "mathematics": "MATH",
                "music": "MUSC",
+               "nursing": "NURS",
+               "sociology": "SOCI",
                "dutch": "DTCH",
+               "english": "ENGL",
+               "french": "FREN",
+               "italian": "ITAL",
                "latin": "LATN",
+               "portuguese": "PRTG",
                "spanish": "SPAN",
+               "russian": "RUSS",
                }
+postFix = ["TWO", "THE", "OUGH", "FROM", "WEEN", "ELOW", "AGES"]
 
 
 def dept(deptJson):
-    print "Processing" + deptJson + "..."
+    print "Processing " + deptJson + "..."
     deptCourses = json.loads(open(deptJson).read())
 
     for i in deptCourses["result_data"]:
@@ -40,6 +58,8 @@ def dept(deptJson):
             for key, val in deptNameMap.iteritems():
                 if key in preReqs.lower():
                     preReqs = re.sub(key, val, preReqs, flags=re.I)
+            # Remove phone numbers
+            preReqs = re.sub("\d{3}-\d{3}-\d{4}", "", preReqs)
 
             if "/" in preReqs:
                 preReqs = preReqs.replace("/", " or ")
@@ -90,8 +110,10 @@ def dept(deptJson):
 
 def fillDeptIds(results_list):
     dept = ""
+    remove = []
 
     for x in xrange(0, len(results_list)):
+        check = True
         i = results_list[x]
         if i == "&&":
             continue
@@ -103,9 +125,17 @@ def fillDeptIds(results_list):
             if i[0].isdigit():
                 i = dept + i
             else:
-                deptSearch = re.search("([A-Za-z]{2,4})", i)
-                dept = deptSearch.group(0)
+                if any(j in i for j in postFix):
+                    remove.append(i)
+                else:
+                    deptSearch = re.search("([A-Za-z]{2,4})", i)
+                    dept = deptSearch.group(0)
         results_list[x] = i
+
+    for i in remove:
+        if i in results_list:
+            results_list.remove(i)
+
     return results_list
 
 
