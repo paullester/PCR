@@ -35,7 +35,18 @@ deptNameMap = {"accounting": "ACCT",
                "spanish": "SPAN",
                "russian": "RUSS",
                }
-postFix = ["TWO", "THE", "OUGH", "FROM", "WEEN", "ELOW", "AGES"]
+postFix = ["AGES",
+           "CHE",
+           "CSE",
+           "SYS",
+           "TWO",
+           "THE",
+           "OUGH",
+           "FROM",
+           "WEEN",
+           "ELOW",
+           "TCOM",
+           ]
 
 
 def dept(deptJson):

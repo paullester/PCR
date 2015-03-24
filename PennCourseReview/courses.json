@@ -204,8 +204,7 @@
             "NURS651", 
             "&&", 
             "NURS551", 
-            "&&", 
-            "SYS528"
+            "&&"
         ]
     }, 
     "LING650": {
@@ -253,8 +252,7 @@
                 "&&", 
                 "MEAM321"
             ], 
-            "||", 
-            "SYS222"
+            "||"
         ]
     }, 
     "FNAR676": {
@@ -303,11 +301,6 @@
     "ITAL201": {
         "satisfyReqsFor": [
             "ITAL203"
-        ]
-    }, 
-    "CHE640": {
-        "satisfyReqsFor": [
-            "MEAM571"
         ]
     }, 
     "ROML140": {
@@ -494,6 +487,8 @@
     "102": {
         "satisfyReqsFor": [
             "STAT434", 
+            "MSE260", 
+            "BE220", 
             "GEOL507"
         ]
     }, 
@@ -761,9 +756,8 @@
     }, 
     "CIS340": {
         "prerequisites": [
-            "CSE120", 
             "&&", 
-            "CSE121"
+            "121"
         ]
     }, 
     "MSCI100": {
@@ -818,14 +812,12 @@
     }, 
     "CIS461": {
         "prerequisites": [
-            "CSE120", 
             "&&", 
             [
                 "121", 
                 "||", 
-                "CSE460", 
                 "||", 
-                "CSE560"
+                "560"
             ]
         ]
     }, 
@@ -1403,34 +1395,7 @@
         ]
     }, 
     "CHEM102": {
-        "prerequisites": [
-            "CHEM101"
-        ], 
-        "satisfyReqsFor": [
-            "MSE260", 
-            "BE330", 
-            "BE324", 
-            "MSE330", 
-            "BIOL202", 
-            "CHEM221", 
-            "CHEM251", 
-            "GEOL507", 
-            "BE220", 
-            "CHEM241", 
-            "GEOL529"
-        ]
-    }, 
-    "CHEM101": {
-        "satisfyReqsFor": [
-            "MSE260", 
-            "BE324", 
-            "CHEM102", 
-            "BIOL121", 
-            "ESE418", 
-            "GEOL507", 
-            "BE220", 
-            "GEOL529"
-        ]
+        "prerequisites": []
     }, 
     "COGS001": {
         "satisfyReqsFor": [
@@ -1503,9 +1468,7 @@
     }, 
     "ENM504": {
         "prerequisites": [
-            "CSE260", 
             "&&", 
-            "CSE261", 
             "&&", 
             [
                 "CIS511", 
@@ -1899,6 +1862,11 @@
             "LING603"
         ]
     }, 
+    "245": {
+        "satisfyReqsFor": [
+            "CHEM246"
+        ]
+    }, 
     "MEAM333": {
         "prerequisites": [
             "MEAM203", 
@@ -1938,17 +1906,9 @@
             "MATH503"
         ]
     }, 
-    "MATH503": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "MATH502"
-        ], 
+    "242": {
         "satisfyReqsFor": [
-            "MATH602", 
-            "MATH524", 
-            "MATH525", 
-            "MATH570", 
-            "MATH572"
+            "CHEM443"
         ]
     }, 
     "CINE353": {
@@ -2017,9 +1977,8 @@
     }, 
     "MSE260": {
         "prerequisites": [
-            "CHEM101", 
             "||", 
-            "CHEM102"
+            "102"
         ], 
         "satisfyReqsFor": [
             "MSE580", 
@@ -3448,8 +3407,7 @@
     "BIOL402": {
         "prerequisites": [
             "BIOL202", 
-            "&&", 
-            "CHEM241"
+            "&&"
         ]
     }, 
     "FNCE205": {
@@ -3585,8 +3543,7 @@
         "prerequisites": [
             [
                 "GEOL100", 
-                "&&", 
-                "CHEM001"
+                "&&"
             ], 
             "||", 
             "101"
@@ -4053,11 +4010,6 @@
             "CBE353"
         ]
     }, 
-    "PHIL001": {
-        "satisfyReqsFor": [
-            "PHIL243"
-        ]
-    }, 
     "PSYC127": {
         "prerequisites": [
             "PSYC001"
@@ -4102,14 +4054,9 @@
             "PHIL243"
         ]
     }, 
-    "TCOM501": {
+    "PHIL001": {
         "satisfyReqsFor": [
-            "TCOM601"
-        ]
-    }, 
-    "TCOM500": {
-        "satisfyReqsFor": [
-            "TCOM799"
+            "PHIL243"
         ]
     }, 
     "PHIL006": {
@@ -4663,7 +4610,6 @@
     }, 
     "MSE330": {
         "prerequisites": [
-            "CHEM102", 
             "&&", 
             "MSE220"
         ]
@@ -4758,12 +4704,9 @@
             "CHIN515"
         ]
     }, 
-    "CIS501": {
-        "satisfyReqsFor": [
-            "CIS601", 
-            "CIS665", 
-            "CIS565", 
-            "CIS534"
+    "OPIM290": {
+        "prerequisites": [
+            "STAT101"
         ]
     }, 
     "CHIN415": {
@@ -4809,9 +4752,8 @@
             "CBE351", 
             "&&", 
             [
-                "CHEM321", 
                 "||", 
-                "CHEM322"
+                "322"
             ], 
             "&&", 
             "PHYS250"
@@ -5167,9 +5109,7 @@
         ]
     }, 
     "BE330": {
-        "prerequisites": [
-            "CHEM102"
-        ]
+        "prerequisites": []
     }, 
     "ECON722": {
         "prerequisites": [
@@ -5456,11 +5396,6 @@
         ], 
         "satisfyReqsFor": [
             "NURS778"
-        ]
-    }, 
-    "TCOM512": {
-        "satisfyReqsFor": [
-            "CIS551"
         ]
     }, 
     "NURS770": {
@@ -5887,9 +5822,7 @@
                 "BE223"
             ], 
             "&&", 
-            "CHE231", 
             "&&", 
-            "CHEM221", 
             "&&", 
             "MEAM203"
         ], 
@@ -6376,7 +6309,6 @@
     }, 
     "ESE418": {
         "prerequisites": [
-            "CHEM101", 
             "&&", 
             "ESE218"
         ]
@@ -6426,23 +6358,6 @@
             "CIS501", 
             "||", 
             "CIS371"
-        ]
-    }, 
-    "HEBR152": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "HEBR151"
-        ], 
-        "satisfyReqsFor": [
-            "JWST473", 
-            "JWST173", 
-            "HEBR153"
-        ]
-    }, 
-    "CSE121": {
-        "satisfyReqsFor": [
-            "CIS340", 
-            "CIS331"
         ]
     }, 
     "PSYC480": {
@@ -6769,7 +6684,6 @@
     }, 
     "CIS551": {
         "prerequisites": [
-            "TCOM512", 
             "||", 
             "CIS500"
         ]
@@ -6923,7 +6837,6 @@
     "CHEM452": {
         "instructorPermission": true, 
         "prerequisites": [
-            "CHEM242", 
             "&&", 
             [
                 "221", 
@@ -7568,8 +7481,7 @@
             "MEAM570", 
             "&&", 
             "MEAM642", 
-            "&&", 
-            "CHE640"
+            "&&"
         ]
     }, 
     "MEAM570": {
@@ -8126,11 +8038,6 @@
             "JPAN511"
         ]
     }, 
-    "SYS528": {
-        "satisfyReqsFor": [
-            "NURS831"
-        ]
-    }, 
     "NURS577": {
         "prerequisites": [
             "NURS557"
@@ -8230,9 +8137,7 @@
     }, 
     "GEOL529": {
         "prerequisites": [
-            "CHEM101", 
-            "&&", 
-            "CHEM102"
+            "&&"
         ]
     }, 
     "GEOL528": {
@@ -8586,9 +8491,7 @@
         ]
     }, 
     "TCOM799": {
-        "prerequisites": [
-            "TCOM500"
-        ]
+        "prerequisites": []
     }, 
     "STAT434": {
         "prerequisites": [
@@ -8645,9 +8548,8 @@
             "BE200", 
             "&&", 
             [
-                "CHEM101", 
                 "||", 
-                "CHEM102"
+                "102"
             ]
         ]
     }, 
@@ -8869,7 +8771,6 @@
     }, 
     "ESE508": {
         "prerequisites": [
-            "CSE120", 
             "&&", 
             "ESE301", 
             "&&", 
@@ -9110,12 +9011,10 @@
             "&&", 
             "MEAM333", 
             "&&", 
-            "CHE351", 
             "&&", 
             [
-                "CHEM321", 
                 "||", 
-                "CHEM322"
+                "322"
             ], 
             "&&", 
             "PHYS250"
@@ -9204,8 +9103,7 @@
             "&&", 
             [
                 "PHYS401", 
-                "||", 
-                "CHEM221"
+                "||"
             ], 
             "&&", 
             "222"
@@ -9380,11 +9278,6 @@
             "FNCE613"
         ]
     }, 
-    "OPIM290": {
-        "prerequisites": [
-            "STAT101"
-        ]
-    }, 
     "COMM550": {
         "satisfyReqsFor": [
             "COMM750"
@@ -9551,19 +9444,12 @@
             "FNCE235"
         ]
     }, 
-    "FNCE393": {
-        "prerequisites": [
-            "FNCE100", 
-            "&&", 
-            [
-                [
-                    "FNCE101", 
-                    "&&", 
-                    "STAT101"
-                ], 
-                "||", 
-                "STAT102"
-            ]
+    "ESE504": {
+        "satisfyReqsFor": [
+            "ESE550", 
+            "OPIM913", 
+            "OPIM915", 
+            "ESE635"
         ]
     }, 
     "FNCE391": {
@@ -9707,8 +9593,7 @@
     "CIS570": {
         "prerequisites": [
             "CIS500", 
-            "&&", 
-            "CSE341"
+            "&&"
         ]
     }, 
     "ECON050": {
@@ -9770,9 +9655,8 @@
             "&&", 
             "MATH240", 
             "&&", 
-            "CHEM101", 
             "&&", 
-            "CHEM102"
+            "MATH102"
         ], 
         "satisfyReqsFor": [
             "BE557", 
@@ -9783,11 +9667,6 @@
     "MKTG251": {
         "prerequisites": [
             "MKTG101"
-        ]
-    }, 
-    "SYS222": {
-        "satisfyReqsFor": [
-            "MEAM413"
         ]
     }, 
     "MKTG259": {
@@ -9907,9 +9786,8 @@
     }, 
     "CHEM251": {
         "prerequisites": [
-            "CHEM102", 
             "&&", 
-            "CHEM241"
+            "241"
         ]
     }, 
     "NURS746": {
@@ -10425,8 +10303,7 @@
         "instructorPermission": true, 
         "prerequisites": [
             "BMB554", 
-            "||", 
-            "CHEM555"
+            "||"
         ]
     }, 
     "NURS794": {
@@ -10832,7 +10709,8 @@
     }, 
     "241": {
         "satisfyReqsFor": [
-            "MEAM454"
+            "MEAM454", 
+            "CHEM251"
         ]
     }, 
     "MATH501": {
@@ -10938,6 +10816,19 @@
             "BIBB231"
         ]
     }, 
+    "MATH503": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "MATH502"
+        ], 
+        "satisfyReqsFor": [
+            "MATH602", 
+            "MATH524", 
+            "MATH525", 
+            "MATH570", 
+            "MATH572"
+        ]
+    }, 
     "PSYC435": {
         "instructorPermission": true, 
         "prerequisites": [
@@ -11034,9 +10925,7 @@
     "GEOL507": {
         "prerequisites": [
             [
-                "CHEM101", 
-                "&&", 
-                "CHEM102"
+                "&&"
             ], 
             "&&", 
             [
@@ -11125,14 +11014,12 @@
             "CIS570"
         ]
     }, 
-    "ARAB035": {
-        "prerequisites": [
-            "ARAB034"
-        ], 
+    "CIS501": {
         "satisfyReqsFor": [
-            "COLL226", 
-            "ARAB036", 
-            "COML432"
+            "CIS601", 
+            "CIS665", 
+            "CIS565", 
+            "CIS534"
         ]
     }, 
     "ECON680": {
@@ -11362,18 +11249,12 @@
         ]
     }, 
     "CHEM245": {
-        "prerequisites": [
-            "CHEM241"
-        ], 
-        "satisfyReqsFor": [
-            "CHEM246"
-        ]
+        "prerequisites": []
     }, 
     "CHEM246": {
         "prerequisites": [
-            "CHEM242", 
             "&&", 
-            "CHEM245"
+            "245"
         ]
     }, 
     "HEBR552": {
@@ -11383,38 +11264,13 @@
         ]
     }, 
     "CHEM241": {
-        "prerequisites": [
-            "CHEM102"
-        ], 
-        "satisfyReqsFor": [
-            "BIOL203", 
-            "BIOL204", 
-            "CHEM242", 
-            "CHEM443", 
-            "CHEM245", 
-            "BIOL402", 
-            "CHEM251", 
-            "CHEM243"
-        ]
+        "prerequisites": []
     }, 
     "CHEM242": {
-        "prerequisites": [
-            "CHEM241"
-        ], 
-        "satisfyReqsFor": [
-            "BIOL203", 
-            "BIOL204", 
-            "CHEM443", 
-            "CHEM246", 
-            "CHEM441", 
-            "CHEM451", 
-            "CHEM452"
-        ]
+        "prerequisites": []
     }, 
     "CHEM243": {
-        "prerequisites": [
-            "CHEM241"
-        ]
+        "prerequisites": []
     }, 
     "MGMT773": {
         "prerequisites": [
@@ -11485,11 +11341,15 @@
             "ANTH003"
         ]
     }, 
-    "CSE120": {
+    "HEBR152": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "HEBR151"
+        ], 
         "satisfyReqsFor": [
-            "CIS340", 
-            "ESE508", 
-            "CIS461"
+            "JWST473", 
+            "JWST173", 
+            "HEBR153"
         ]
     }, 
     "HEBR153": {
@@ -12018,11 +11878,6 @@
             "MATH601"
         ]
     }, 
-    "HCMG849": {
-        "prerequisites": [
-            "ANCE611"
-        ]
-    }, 
     "GRMN372": {
         "prerequisites": [
             "GRMN215"
@@ -12223,15 +12078,9 @@
             "HCMG653"
         ]
     }, 
-    "CSE261": {
-        "satisfyReqsFor": [
-            "ENM504"
-        ]
-    }, 
-    "CSE260": {
-        "satisfyReqsFor": [
-            "ESE220", 
-            "ENM504"
+    "HCMG849": {
+        "prerequisites": [
+            "ANCE611"
         ]
     }, 
     "GEOL422": {
@@ -12285,11 +12134,6 @@
     "ARCH435": {
         "satisfyReqsFor": [
             "ARCH436"
-        ]
-    }, 
-    "CSE460": {
-        "satisfyReqsFor": [
-            "CIS461"
         ]
     }, 
     "OF550": {
@@ -12723,11 +12567,9 @@
             "&&", 
             "PHYS581", 
             "&&", 
-            "CHEM521", 
             "&&", 
             "PHYS611", 
-            "&&", 
-            "CHEM522"
+            "&&"
         ]
     }, 
     "CBE351": {
@@ -13280,9 +13122,7 @@
     }, 
     "CHEM462": {
         "instructorPermission": true, 
-        "prerequisites": [
-            "CHEM261"
-        ]
+        "prerequisites": []
     }, 
     "MATH618": {
         "instructorPermission": true, 
@@ -13568,9 +13408,7 @@
         ]
     }, 
     "BIOL121": {
-        "prerequisites": [
-            "CHEM101"
-        ], 
+        "prerequisites": [], 
         "satisfyReqsFor": [
             "BIOL375", 
             "BIOL251", 
@@ -13991,9 +13829,8 @@
             "CBE351", 
             "&&", 
             [
-                "CHEM321", 
                 "||", 
-                "CHEM322"
+                "322"
             ], 
             "&&", 
             "PHYS250"
@@ -14386,11 +14223,6 @@
             "BE619", 
             "CBE525", 
             "CBE602"
-        ]
-    }, 
-    "CHEM261": {
-        "satisfyReqsFor": [
-            "CHEM462"
         ]
     }, 
     "GSWS447": {
@@ -14789,9 +14621,7 @@
         ]
     }, 
     "TCOM601": {
-        "prerequisites": [
-            "TCOM501"
-        ]
+        "prerequisites": []
     }, 
     "BIBB479": {
         "instructorPermission": true, 
@@ -15082,7 +14912,6 @@
     "CHEM451": {
         "instructorPermission": true, 
         "prerequisites": [
-            "CHEM242", 
             "&&", 
             [
                 "221", 
@@ -15394,34 +15223,16 @@
         ]
     }, 
     "CHEM521": {
-        "prerequisites": [
-            "CHEM222"
-        ], 
-        "satisfyReqsFor": [
-            "CHEM522", 
-            "CBE602"
-        ]
+        "prerequisites": []
     }, 
     "CHEM523": {
-        "prerequisites": [
-            "CHEM222"
-        ], 
-        "satisfyReqsFor": [
-            "CHEM524"
-        ]
+        "prerequisites": []
     }, 
     "CHEM522": {
-        "prerequisites": [
-            "CHEM521"
-        ], 
-        "satisfyReqsFor": [
-            "CBE602"
-        ]
+        "prerequisites": []
     }, 
     "CHEM524": {
-        "prerequisites": [
-            "CHEM523"
-        ]
+        "prerequisites": []
     }, 
     "KORN012": {
         "instructorPermission": true, 
@@ -15534,7 +15345,6 @@
                 "BE223"
             ], 
             "&&", 
-            "CHE231", 
             "&&", 
             "MEAM203"
         ]
@@ -15555,11 +15365,6 @@
             "EDUC767"
         ]
     }, 
-    "CHE351": {
-        "satisfyReqsFor": [
-            "MEAM564"
-        ]
-    }, 
     "ESE544": {
         "prerequisites": [
             "ESE304"
@@ -15576,12 +15381,10 @@
                 "||", 
                 [
                     "BIOL121", 
-                    "&&", 
-                    "CHEM241"
+                    "&&"
                 ]
             ], 
-            "&&", 
-            "CHEM242"
+            "&&"
         ]
     }, 
     "BIOL202": {
@@ -15595,8 +15398,7 @@
                 "||", 
                 "BIOL121"
             ], 
-            "&&", 
-            "CHEM102"
+            "&&"
         ], 
         "satisfyReqsFor": [
             "BIOL448", 
@@ -15677,12 +15479,10 @@
                 "||", 
                 [
                     "BIOL121", 
-                    "&&", 
-                    "CHEM241"
+                    "&&"
                 ]
             ], 
-            "&&", 
-            "CHEM242"
+            "&&"
         ], 
         "satisfyReqsFor": [
             "BIOL448", 
@@ -15709,13 +15509,6 @@
         ], 
         "satisfyReqsFor": [
             "LATN305"
-        ]
-    }, 
-    "EEUR121": {
-        "satisfyReqsFor": [
-            "EEUR123", 
-            "EEUR122", 
-            "EEUR124"
         ]
     }, 
     "NELC536": {
@@ -16188,20 +15981,6 @@
             "RUSS107"
         ]
     }, 
-    "CHEM322": {
-        "satisfyReqsFor": [
-            "MEAM564", 
-            "ESE574", 
-            "ESE460"
-        ]
-    }, 
-    "CHEM321": {
-        "satisfyReqsFor": [
-            "MEAM564", 
-            "ESE574", 
-            "ESE460"
-        ]
-    }, 
     "PHIL405": {
         "instructorPermission": true, 
         "prerequisites": [
@@ -16457,12 +16236,19 @@
             "NURS661"
         ]
     }, 
-    "ESE504": {
-        "satisfyReqsFor": [
-            "ESE550", 
-            "OPIM913", 
-            "OPIM915", 
-            "ESE635"
+    "FNCE393": {
+        "prerequisites": [
+            "FNCE100", 
+            "&&", 
+            [
+                [
+                    "FNCE101", 
+                    "&&", 
+                    "STAT101"
+                ], 
+                "||", 
+                "STAT102"
+            ]
         ]
     }, 
     "ECON251": {
@@ -16508,9 +16294,7 @@
         ]
     }, 
     "CHEM223": {
-        "prerequisites": [
-            "CHEM221"
-        ]
+        "prerequisites": []
     }, 
     "ARCH501": {
         "satisfyReqsFor": [
@@ -16590,6 +16374,11 @@
             "NURS163", 
             "NURS065", 
             "NURS063"
+        ]
+    }, 
+    "MATH102": {
+        "satisfyReqsFor": [
+            "BE324"
         ]
     }, 
     "MATH103": {
@@ -16747,9 +16536,8 @@
     }, 
     "CHEM443": {
         "prerequisites": [
-            "CHEM241", 
             "&&", 
-            "CHEM242"
+            "242"
         ]
     }, 
     "FNAR532": {
@@ -16761,9 +16549,7 @@
         ]
     }, 
     "CHEM441": {
-        "prerequisites": [
-            "CHEM242"
-        ]
+        "prerequisites": []
     }, 
     "FNAR534": {
         "prerequisites": [
@@ -17015,12 +16801,6 @@
                 "||", 
                 "221"
             ]
-        ]
-    }, 
-    "CHE231": {
-        "satisfyReqsFor": [
-            "MSE580", 
-            "MSE430"
         ]
     }, 
     "FREN140": {
@@ -17735,6 +17515,16 @@
             "HEBR052"
         ]
     }, 
+    "ARAB035": {
+        "prerequisites": [
+            "ARAB034"
+        ], 
+        "satisfyReqsFor": [
+            "COLL226", 
+            "ARAB036", 
+            "COML432"
+        ]
+    }, 
     "PHIL505": {
         "satisfyReqsFor": [
             "PHIL405"
@@ -18069,6 +17859,13 @@
             "MGMT806", 
             "MGMT811", 
             "MGMT810"
+        ]
+    }, 
+    "322": {
+        "satisfyReqsFor": [
+            "MEAM564", 
+            "ESE574", 
+            "ESE460"
         ]
     }, 
     "ANEL749": {
@@ -18423,6 +18220,7 @@
         "satisfyReqsFor": [
             "CIS561", 
             "CIS461", 
+            "CIS340", 
             "CIS341", 
             "CIS573", 
             "SPAN135", 
@@ -18651,7 +18449,6 @@
     }, 
     "CIS331": {
         "prerequisites": [
-            "CSE121", 
             "||", 
             "ESE115"
         ]
@@ -19680,11 +19477,6 @@
             "SOCI822"
         ]
     }, 
-    "CHEM555": {
-        "satisfyReqsFor": [
-            "BMB611"
-        ]
-    }, 
     "MEAM402": {
         "prerequisites": [
             "MEAM203", 
@@ -20005,9 +19797,11 @@
             "BEPP250"
         ]
     }, 
-    "CSE560": {
+    "EEUR121": {
         "satisfyReqsFor": [
-            "CIS461"
+            "EEUR123", 
+            "EEUR122", 
+            "EEUR124"
         ]
     }, 
     "EEUR123": {
@@ -20273,13 +20067,8 @@
     }, 
     "CHEM222": {
         "prerequisites": [
-            "CHEM221", 
             "&&", 
             "PHYS151"
-        ], 
-        "satisfyReqsFor": [
-            "CHEM521", 
-            "CHEM523"
         ]
     }, 
     "LATN102": {
@@ -20297,18 +20086,10 @@
     }, 
     "CHEM221": {
         "prerequisites": [
-            "CHEM102", 
             "&&", 
             "MATH114", 
             "&&", 
             "PHYS150"
-        ], 
-        "satisfyReqsFor": [
-            "CHEM222", 
-            "CHEM223", 
-            "CBE430", 
-            "MSE430", 
-            "BMB590"
         ]
     }, 
     "ANTH105": {
@@ -20345,8 +20126,7 @@
             "MATH114", 
             "&&", 
             "ESE115", 
-            "&&", 
-            "CSE260"
+            "&&"
         ]
     }, 
     "BSTA690": {
@@ -20360,11 +20140,6 @@
         ], 
         "satisfyReqsFor": [
             "PRTG130"
-        ]
-    }, 
-    "CSE341": {
-        "satisfyReqsFor": [
-            "CIS570"
         ]
     }, 
     "COMM362": {
@@ -20430,6 +20205,11 @@
             "NURS754", 
             "SOCI731", 
             "DEMG731"
+        ]
+    }, 
+    "560": {
+        "satisfyReqsFor": [
+            "CIS461"
         ]
     }, 
     "CBE231": {
@@ -20573,14 +20353,8 @@
             "&&", 
             "CBE231", 
             "&&", 
-            "CHEM221", 
             "&&", 
             "MEAM203"
-        ]
-    }, 
-    "CHEM001": {
-        "satisfyReqsFor": [
-            "GEOL201"
         ]
     }, 
     "SPAN348": {
