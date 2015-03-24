@@ -11,6 +11,13 @@ cwd = os.getcwd()
 
 courseFile = "PennCourseReview/courses.json"
 courseMap = {}
+deptNameMap = {"psychology":"PSYC",
+               "psych":"PSYC",
+               "music":"MUSC",
+               "dutch":"DTCH",
+               "latin":"LATN",
+               "spanish":"SPAN",
+              }
 
 def dept(deptJson):
     print "Processing" + deptJson + "..."
@@ -27,6 +34,11 @@ def dept(deptJson):
         if re.search("\w{3,4}\s{0,1}\d{3}", preReqs):
             if courseId not in courseMap:
                 courseMap[courseId] = {}
+
+            # Replace Department names with DEPT sign
+            for key, val in deptNameMap.iteritems():
+                if key in preReqs.lower():
+                    preReqs = re.sub(key, val, preReqs, flags=re.I)
 
             if "/" in preReqs:
                 preReqs = preReqs.replace("/", " or ")
@@ -71,8 +83,30 @@ def dept(deptJson):
                 if len(x):
                     results_list = []
                     results_list.extend(x if type(x) == list else [x])
+                    results_list = fillDeptIds(results_list)
                     courseMap[courseId]["prerequisites"] = results_list
                     fillSatisCourse(courseId, results_list)
+
+
+def fillDeptIds(results_list):
+    dept = ""
+
+    for x in xrange(0, len(results_list)):
+        i = results_list[x]
+        if i == "&&":
+            continue
+        elif i == "||":
+            continue
+        elif isinstance(i, list):
+            i = fillDeptIds(i)
+        else:
+            if i[0].isdigit():
+                i = dept + i
+            else:
+                deptSearch = re.search("([A-Za-z]{2,4})", i)
+                dept = deptSearch.group(0)
+        results_list[x] = i
+    return results_list
 
 
 def fillSatisCourse(satis_course_id, prereq_list):
