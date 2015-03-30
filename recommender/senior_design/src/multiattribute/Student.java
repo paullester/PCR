@@ -10,5 +10,6 @@ public class Student {
 	private Major major;
 	
 	
+	
 
 }

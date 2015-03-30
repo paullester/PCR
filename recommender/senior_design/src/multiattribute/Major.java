@@ -1,3 +1,8 @@
+package multiattribute;
+
+import java.util.Map;
+import java.util.Set;
+
 public class Major {
 
 	private String name;
