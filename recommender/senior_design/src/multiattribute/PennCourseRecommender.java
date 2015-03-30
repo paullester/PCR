@@ -52,7 +52,10 @@ public class PennCourseRecommender implements Recommender{
 	}
 	
 	
-	public Set<Course> getFeasibleCourses;
+	public void getFeasibleCourses(){
+		//some algorithm to calculate feasible courses. 
+		
+	}
 
 
 
