@@ -3,9 +3,9 @@ import os
 
 classesMap = {}
 
-for file in os.listdir("/Users/susangreenberg/Documents/PCR/courseInfoJSON"):
+for file in os.listdir("/Users/susangreenberg/Documents/PCR/json/courseInfoJSON"):
     if ".json" in file:
-        fileName = os.path.join("/Users/susangreenberg/Documents/PCR/courseInfoJSON", file)
+        fileName = os.path.join("/Users/susangreenberg/Documents/PCR/json/courseInfoJSON", file)
         classMap = (json.loads(open(fileName).read()))
         for i in range(0, len(classMap["result_data"])):
             className = classMap["result_data"][i]["course_department"] + classMap["result_data"][i]["course_number"]

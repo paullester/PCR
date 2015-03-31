@@ -10,7 +10,7 @@ def get_courses(filename) :
 departments = open('departments.txt')
 all_courses = []
 for dept in departments.readlines():
-	all_courses.append(get_courses("courseInfoJSON/" + dept.strip() + ".json"))
+	all_courses.append(get_courses("json/courseInfoJSON/" + dept.strip() + ".json"))
 
 all_unique_courses = []
 for dept in all_courses:
