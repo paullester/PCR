@@ -1,4 +1,4 @@
-package multiattribute;
+package src.PennCourseRecommender;
 
 
 //DESCENDANTS MODULE

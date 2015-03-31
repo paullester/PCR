@@ -1,3 +1,5 @@
+package src.TFIDF;
+
 import java.util.Map;
 
 public class TFIFDComparator implements Comparator<String> {

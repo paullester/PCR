@@ -1,3 +1,5 @@
+package src.TFIDF;
+
 import java.util.Hashmap;
 import java.util.TreeMap;
 import java.util.List;
