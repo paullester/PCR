@@ -9,7 +9,7 @@ from pyparsing import Word, nums, Literal, opAssoc, operatorPrecedence
 
 cwd = os.getcwd()
 
-courseFile = "PennCourseReview/courses.json"
+courseFile = "json/PennCourseReview/courses.json"
 courseMap = {}
 deptNameMap = {"accounting": "ACCT",
                "ames": "AMCS",
