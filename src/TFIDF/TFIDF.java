@@ -1,12 +1,8 @@
-package src.TFIDF;
+package TFIDF;
 
-import java.util.Hashmap;
-import java.util.TreeMap;
-import java.util.List;
-import java.util.LinkedList;
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.lang.Math;
+import java.util.*;
 
 // this should work - only issue is around the order things get added, test when interests are generated
 
@@ -16,16 +12,16 @@ public class TFIDF {
     private Map<String, List> interestMap;
 
     public TFIDF() {
-        interestMap = new Hashmap<String, List>();
+        interestMap = new HashMap<String, List>();
         for (String interest : interests) {
             Map<String, int> courseCounts = new HashMap<String, int>();
-            Map<String, double> courseWeightings = new HashMap<String, double>();
+            Map<String, Double> courseWeightings = new HashMap<String, Double>();
             TFIDFComparator comp = new TFIDFComparator(courseWeightings);
-            Map<String, double> ordedCourseWeightings = new TreeMap<String, double>(comp);
+            Map<String, Double> ordedCourseWeightings = new TreeMap<String, Double>(comp);
             int totalCount = 0;
             int myCount = 0;
             BufferedReader reader = new BufferedReader(new FileReader("/Users/susangreenberg/Documents/PCR/courseDescription.txt"));
-            String line = reader.line();
+            String line = reader.readLine();
             int courseCount = 1;
             while (line != null) {
                 String[] words = line.split(" ");
@@ -35,8 +31,8 @@ public class TFIDF {
                         myCount++;
                     }
                 }
-                courseCount.put(words[i], myCount);
-                line = reader.line();
+                courseCounts.put(words[i], myCount);
+                line = reader.readLine();
                 courseCount++;
             }
             int max = 0;
@@ -49,7 +45,7 @@ public class TFIDF {
                     coursesContaining++;
                 }
             }
-            for (String course : courseCounts.keys()) {
+            for (String course : courseCounts.keySet()) {
                 double weight = (0.5 + (0.5) * ((double)courseCounts.get(course) / (double)max)) 
                     * Math.log((double)(courseCount)/(double)(coursesContaining)));
                 courseWeightings.put(course, weight);
@@ -60,6 +56,6 @@ public class TFIDF {
     }
 
     public List get(String interest) {
-        return interestsMap.get(interest);
+        return interestMap.get(interest);
     }
 }

@@ -1,5 +1,4 @@
-package src.PennCourseRecommender;
-
+package PennCourseRecommender;
 //ADSORPTION MODULE
 
 public interface PeerScore {

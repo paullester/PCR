@@ -1,4 +1,4 @@
-package src.PennCourseRecommender;
+package PennCourseRecommender;
 
 import java.util.ArrayList;
 import java.util.Set;

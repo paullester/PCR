@@ -1,16 +1,18 @@
-package src.TFIDF;
+package TFIDF;
 
+import java.util.Comparator;
 import java.util.Map;
+import java.lang.Double;
 
-public class TFIFDComparator implements Comparator<String> {
+public class TFIDFComparator implements Comparator<String> {
 
-    private Map<String, double> map;
+    private Map<String, Double> map;
 
-    public TFIFDComparator(Map<String, double> map) {
+    public TFIDFComparator(Map<String, Double> map) {
         this.map = map;
     }
 
-    @override
+    @Override
     public int compare(String s1, String s2) {
         if (map.get(s1) >= map.get(s2)) {
             return 1;

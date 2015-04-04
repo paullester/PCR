@@ -1,5 +1,4 @@
-package src.PennCourseRecommender;
-
+package PennCourseRecommender;
 
 //DESCENDANTS MODULE
 public interface DescendantsScore {
