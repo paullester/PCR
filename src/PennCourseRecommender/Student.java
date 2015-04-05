@@ -10,6 +10,11 @@ public class Student {
 	private Major major;
 	
 	
+	public Set<Course> getCoursesTaken(){
+		//TODO
+		return null;
+	}
+	
 	
 
 }
