@@ -1,12 +1,12 @@
 {
-	"majors":[{
+	"majors":{
 		"CIS": {
 			"URL" : "http://www.cis.upenn.edu/current-students/undergraduate/csci/req13.php",
-			"Notes" : [{
+			"Notes" : {
 				"SSH Depth Requirement : Two courses in one SSH subject area" : "",
 				"Writing Requirement : One Writing Seminar" : "",
 				"Lab Requirement : One year of laboratory course work is required which can be used as one of the 4 CU's. One way to satisfy this requirement is by taking PHYS 150 and PHYS 151." : ""
-				}],
+				},
 			"MATH 104" : "MATH104",
 			"MATH 114" : "MATH114",
 			"CIS 160" : "CIS160",
@@ -28,7 +28,7 @@
 			"CIS 401" : "CIS401",
 			"CIS Elective" : ["OF", 3, "G: CIS Elective"],
 			"Tech Elective (Engineering)" : ["OF", 2, "G: Engineering"],
-			"Tech Elective" : ["OF", "4", "G: Tech Elective"],
+			"Tech Elective" : ["OF", 4, "G: Tech Elective"],
 			"Social Science" : ["OF", 2, "G: Social Science"],
 			"Humanities" : ["OF", 2, "G: Humanities"],
 			"SS or Humanities" : ["OR", "G: SS or Humanities"],
@@ -39,10 +39,10 @@
 			"Free Elective" : []
 		}, "NETS" : {
 			"URL" : "http://www.nets.upenn.edu/nets-curriculum-2013",
-			"Notes" : [{
+			"Notes" : {
 				"SSH Writing Requirement : One Writing Seminar" : "",
 				"Ethic Requirement (may be satisfied by CIS125, EAS203, or EAS 303 : One Ethics Course" : ""
-					}],
+					},
 			"MATH 104" : "MATH104",
 			"MATH 114" : "MATH114",
 			"MATH 240" : "MATH240",
@@ -77,11 +77,11 @@
 			"Free Elective" : []
 		}, "BE" : {
 			"URL" : "http://www.be.seas.upenn.edu/current-students/undergraduates/requirements-bse.php",
-			"Notes" : [{
+			"Notes" : {
 				"One of these courses must fulfill the Writing Requirement." : "",
 				"One of these courses must fulfill the Ethics Requirement (from list of options on eCPG)." : "",
 				"Two of these courses must fulfill the SSH Depth Requirement." : ""
-					}],
+					},
 			"MATH 104 - Calculus 1" : "MATH104",
 			"MATH 114 - Calculus 2" : "MATH114",
 			"MATH 240 - Calculus 3" : "MATH240",
@@ -118,7 +118,7 @@
 			"Free Elective" : [],
 			"Free Elective" : []
 		}
-	}], "groups" :[{
+	}, "groups" :{
 		"SS or Humanities" : ["G: Social Science", "G: Humanities"],
 		"SS, H, or TBS" : ["G: Social Science", "G: Humanities", "G: TBS"],
 		"CIS Statistics": ["CIS261", "ESE301", "ENM231", "STAT430"],
@@ -8070,4 +8070,5 @@
 			"MEAM399",
 			"MSE266"
 		]
-	}]
+	}
+}

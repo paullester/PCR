@@ -4,6 +4,6 @@ package PennCourseRecommender;
 public interface DescendantsScore {
 	
 	//calculates number of "course descendants"
-	public double getDescendantsScore(Course c);
+	public double getDescendantsScore(Course c, Major m);
 
 }
