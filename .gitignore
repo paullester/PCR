@@ -1,1 +1,8 @@
-/bin/
+bin/
+bin/*
+.idea/
+.idea/*
+.gitignore
+.project
+.classpath
+PCR.iml
