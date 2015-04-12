@@ -125,40 +125,64 @@ public class ReqTree {
 		return s;
 	}
 	
-	public Map<String, Double> getDescendantScores() {
-		//this is totally wrong now. I need to look up prerequisites.
-		Map<String, Double> dScores = new HashMap<String, Double>();
-		if (this.children != null) {
+	private Set<String> getAllCoursesInTree() {
+		Set<String> courses = new HashSet<String>();
+		if (this.children == null) {
+			courses.add(this.data);
+			return courses;
+		}
+		for (ReqTree rt : this.children) {
+			courses.addAll(rt.getAllCoursesInTree());
+		}
+		return courses;
+	}
+	
+	private Map<String, Double> getContributionScores(Set<String> descendants) {
+		Map<String, Double> contributionScores = new HashMap<String, Double>();
+		for (String descendant : descendants) contributionScores.put(descendant, 0.0);
+		if (this.children == null) {
+			contributionScores.put(this.data, 1.0);
+		} else {
 			for (ReqTree child : this.children) {
-				Map<String, Double> childDScores = child.getDescendantScores();
-				for (String course : childDScores.keySet()) {
-					if (this.data.equals("OR")) {
-						if (dScores.containsKey(course)) {
-							dScores.put(course, dScores.get(course) + childDScores.get(course) / childDScores.keySet().size());
-						} else {
-							dScores.put(course, 1.0 / childDScores.keySet().size());
-						}
-					} else if (this.data.equals("AND")) {
-						if (dScores.containsKey(course)) {
-							dScores.put(course, dScores.get(course) + childDScores.get(course));
-						} else {
-							dScores.put(course, childDScores.get(course));
-						}
-					} else if (this.data.startsWith("OF")) {
-						Double numOf = Double.valueOf(this.data.charAt(2));
-						if (dScores.containsKey(course)) {
-							dScores.put(course, dScores.get(course) + childDScores.get(course) * numOf / childDScores.keySet().size());
-						} else {
-							dScores.put(course, childDScores.get(course) * numOf / childDScores.keySet().size());
-						}
-					} else {
-						System.out.println("How did we get here?");
-					}
+				Map<String, Double> childContributionScores = child.getContributionScores(descendants);
+				for (String x : childContributionScores.keySet()) {
+					Integer numOf = 0;
+					if (this.data.equals("OR")) numOf = 1;
+					else if (this.data.equals("AND")) numOf = child.children.size();
+					else if (this.data.startsWith("OF")) numOf = Integer.valueOf(this.data.charAt(2));
+					else System.out.println("How'd we get here?");
+					contributionScores.put(x, contributionScores.get(x) + 
+							numOf * childContributionScores.get(x) / child.children.size());
 				}
 			}
-		} else {
-			dScores.put(this.data, 1.0);
 		}
-		return dScores;
+		return contributionScores;
+	}
+	
+	public Map<String, Double> getDescendantScores() {
+		if (this.parent != null) return null; //only call this on the root node
+		Set<String> allCoursesInTree = this.getAllCoursesInTree();
+		Map<String, Double> finalDescendantScores = new HashMap<String, Double>();
+		for (String course : allCoursesInTree) { //iterate over each course in the entire tree
+			Set<String> descendants = null;
+			//Set<String> descendants = something.getDescendants();
+			Map<String, Double> contributionScores = new HashMap<String, Double>();
+			for (String descendant : descendants) {
+				if (allCoursesInTree.contains(descendant))
+					contributionScores.put(descendant, 0.0);
+			}
+			for (ReqTree child : this.children) { //look on each branch of the tree
+				Map<String, Double> contributionFromThisChild = child.getContributionScores(descendants);
+				for (String x : contributionFromThisChild.keySet()) {
+					contributionScores.put(x, contributionScores.get(x) + contributionFromThisChild.get(x));
+				}
+			}
+			Double finalDescendantScore = 0.0;
+			for (String descendant : contributionScores.keySet()) {
+				finalDescendantScore += contributionScores.get(descendant);
+			}
+			finalDescendantScores.put(course, finalDescendantScore);
+		}
+		return finalDescendantScores;
 	}
 }
