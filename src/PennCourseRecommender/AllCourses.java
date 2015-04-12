@@ -41,12 +41,15 @@ public class AllCourses {
 			Object obj = parser.parse(reader);
 			JSONObject jsonObject = (JSONObject) obj;
 			Set keys = jsonObject.keySet();
-			Iterator<Object> e = keys.iterator();
+			Iterator<Object> e = keys.iterator();	
 			
 			while(e.hasNext()){
 				
 				//fetch next course and put it into courses hashmap
 				String s = e.next().toString();
+				
+				
+				
 				Course c;
 				if(courses.containsKey(s)){
 					c = courses.get(s);
@@ -56,7 +59,7 @@ public class AllCourses {
 				}
 				
 				
-				/*TODO need to figure out how to handle complex prereqs. 
+			//	TODO need to figure out how to handle complex prereqs. 
 				
 				//get the prereqs
 				JSONObject jsonClassObj  = (JSONObject) jsonObject.get(s);
@@ -71,19 +74,27 @@ public class AllCourses {
 				if(prereqs!=null){
 					Iterator<String> i = prereqs.iterator();
 					while(i.hasNext()){
-						String tmp = i.next().toString();
-						if(courses.containsKey(tmp)){
-							prereqSet.add(courses.get(tmp));
-						} else {
-							Course newCourse = new Course(tmp);
-							prereqSet.add(newCourse);
+						
+						Object tmp = i.next();
+						
+						if(tmp.getClass() != JSONArray.class){
+						
+						//String tmp = i.next().toString();
+							String tmp2 = tmp.toString();
+							if(courses.containsKey(tmp2)){
+								prereqSet.add(courses.get(tmp2));
+							} else {
+								Course newCourse = new Course(tmp2);
+								prereqSet.add(newCourse);
+							}
+							
 						}
 						
 						//System.out.println(i.next().toString());
 					}
 					
 					c.setPrereqs(prereqSet);
-				}*/
+				}
 			}
 			
 			
