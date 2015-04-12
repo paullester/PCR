@@ -1,10 +1,6 @@
-package src.PennCourseRecommender;
+package PennCourseRecommender;
 
-import java.util.List;
-
-
-//src.TFIDF.TFIDF MODULE
-
+import TFIDF.TFIDF;
 
 public interface InterestScore {
 	

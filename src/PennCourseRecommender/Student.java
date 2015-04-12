@@ -1,4 +1,4 @@
-package src.PennCourseRecommender;
+package PennCourseRecommender;
 
 import java.util.ArrayList;
 import java.util.Set;
@@ -9,6 +9,11 @@ public class Student {
 	private Set<Course> courses_taken;
 	private Major major;
 	
+	
+	public Set<Course> getCoursesTaken(){
+		//TODO
+		return null;
+	}
 	
 	
 
