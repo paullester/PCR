@@ -1,7 +1,0 @@
-bin/
-bin/*
-.idea/
-.idea/*
-.gitignore
-.project
-.classpath
