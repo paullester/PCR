@@ -1,0 +1,25 @@
+package edu.upenn.mkse212.hw3;
+
+import java.io.IOException;
+
+import org.apache.hadoop.io.LongWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Mapper;
+import org.apache.hadoop.mapreduce.Mapper.Context;
+
+public class InitMapper extends Mapper<LongWritable, Text, Text, Text> {
+	public void map(LongWritable lineNumber, Text line, Context context) {
+		String s = line.toString();
+		String[] arr = s.split("\t");
+		Text node = new Text(arr[0]);
+		Text points = new Text(arr[1]);
+		try {
+			context.write(node, points);
+		} catch (IOException e) {
+			e.printStackTrace();
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+	}
+
+}
