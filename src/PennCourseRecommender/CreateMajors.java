@@ -3,8 +3,7 @@ package PennCourseRecommender;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
-import java.io.PrintWriter;
-import java.util.HashSet;
+import java.util.Map;
 import java.util.Set;
 
 import org.json.simple.JSONObject;
@@ -26,22 +25,25 @@ public class CreateMajors {
 		
 		//iterate over each major
 		for (String majorName : (Set<String>) majors.keySet()) {
-			Major m = new Major(majorName);
-			JSONObject reqs = (JSONObject) majors.get(majorName);
-			//iterate over each requirement
-			for (String key : (Set<String>) reqs.keySet()) {
-				if (key.equals("URL")) m.setURL((String) reqs.get("URL"));
-				else if (key.equals("Notes")) {
-					m.setNotes((Set<String>) ((JSONObject) reqs.get("Notes")).keySet());
+			if (majorName.equals("BE")) {
+				System.out.println("Working on major: " + majorName);
+				Major m = new Major(majorName);
+				JSONObject reqs = (JSONObject) majors.get(majorName);
+				//iterate over each requirement
+				for (String key : (Set<String>) reqs.keySet()) {
+					if (key.equals("URL")) m.setURL((String) reqs.get("URL"));
+					else if (key.equals("Notes")) {
+						m.setNotes((Set<String>) ((JSONObject) reqs.get("Notes")).keySet());
+					}
 				}
+				ReqTree tree = new ReqTree(reqs, groups);
+				/*m.setRequirements(tree);
+				m.setDescendantScoresWithStrings(tree.getDescendantScores());
+				PrintWriter writer = new PrintWriter("majors-test.txt", "UTF-8");
+				writer.println(tree.toString());
+				writer.close();*/
+				tree.getDescendantScores();
 			}
-			ReqTree tree = new ReqTree(reqs, groups);
-			m.setRequirements(tree);
-			PrintWriter writer = new PrintWriter("majors-test.txt", "UTF-8");
-			writer.println(tree.toString());
-			writer.close();
-			
-			//System.out.println(tree.getDescendantScores());
 			
 			/*Set<String> coursesTaken = new HashSet<String>();
 			coursesTaken.add("MATH104");

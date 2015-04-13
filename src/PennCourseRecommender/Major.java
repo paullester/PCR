@@ -12,7 +12,7 @@ public class Major {
 
 	private String name;
 	private ReqTree tree;
-	private Map<Course, Double> numDescendants;
+	private Map<Course, Double> descendantScores;
 	private String url;
 	private Set<String> notes;
 	
@@ -30,5 +30,13 @@ public class Major {
 	
 	public void setNotes(Set<String> notes) {
 		this.notes = notes;
+	}
+	
+	public void setDescendantScores(Map<Course, Double> descendantScores) {
+		this.descendantScores = descendantScores;
+	}
+	
+	public void setDescendantScoresWithStrings(Map<String, Double> descendantScores) {
+		this.descendantScores = null;
 	}
 }
