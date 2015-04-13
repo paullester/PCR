@@ -1,6 +1,9 @@
 package PennCourseRecommender;
 
 public class Wrapper {
+
+    public Wrapper() {
+    }
 	
 	//private static ArrayList<Course> courses = new ArrayList<Course>();
 	
@@ -16,7 +19,7 @@ public class Wrapper {
         a.closeJsonFile();
 	}
 
-    public static int apiCall(int arg) {
-        return arg;
+    public static String apiCall(String arg) {
+        return arg + " alksdjflasdkfjalsdfkjasldfj";
     }
 }
