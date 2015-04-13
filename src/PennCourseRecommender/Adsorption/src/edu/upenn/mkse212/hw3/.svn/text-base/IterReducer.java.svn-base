@@ -1,0 +1,32 @@
+package edu.upenn.mkse212.hw3;
+
+import java.io.IOException;
+
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Reducer;
+
+public class IterReducer extends Reducer<Text, Text, Text, Text> {
+	public void reduce(Text node, Iterable<Text> valueList, Context context) {
+		Double rank = 0.0;
+		String list = "";
+		for (Text t : valueList) {
+			String s = t.toString();
+			String[] arr = s.split(":");
+			if (arr[0].equals("list")) {
+				list = arr[1].toString();
+			} else {
+				rank += Double.parseDouble(s.toString());
+			}
+		}
+		Double d = (double) 0.15;
+		rank = d + ((1 - d) * rank);
+		try {
+			context.write(node, new Text(rank.toString() + "," + list));
+		} catch (IOException e) {
+			e.printStackTrace();
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+	}
+
+}

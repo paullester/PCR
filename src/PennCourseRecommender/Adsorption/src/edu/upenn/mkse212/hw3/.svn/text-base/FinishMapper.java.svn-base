@@ -1,0 +1,26 @@
+package edu.upenn.mkse212.hw3;
+
+import java.io.IOException;
+
+import org.apache.hadoop.io.LongWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Mapper;
+
+public class FinishMapper extends Mapper<LongWritable, Text, Text, Text> {
+	public void map(LongWritable line, Text nodeRankPoints, Context context) {
+		String s = nodeRankPoints.toString();
+		String[] nRP = s.split("\t");
+		String node = nRP[0];
+		String[] rP = nRP[1].toString().split(",");
+		Double rank = Double.parseDouble(rP[0]);
+		Double newRank = 1 - rank;
+		try {
+			context.write(new Text(newRank.toString()), 
+					new Text(node + " " + rank.toString()));
+		} catch (IOException e) {
+			e.printStackTrace();
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+	}
+}
