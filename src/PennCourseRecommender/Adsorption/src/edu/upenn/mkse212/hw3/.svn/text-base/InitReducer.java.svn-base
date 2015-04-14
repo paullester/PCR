@@ -1,0 +1,23 @@
+package edu.upenn.mkse212.hw3;
+
+import java.io.IOException;
+
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Reducer;
+
+public class InitReducer extends Reducer<Text, Text, Text, Text> {
+	public void reduce(Text node, Iterable<Text> pointsTo, Context context) {
+		String points = "";
+		for (Text t : pointsTo) {
+			points += t.toString() + " ";
+		}
+		try {
+			context.write(node, new Text("1.0," + points));
+		} catch (IOException e) {
+			e.printStackTrace();
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+	}
+
+}
