@@ -75,13 +75,6 @@
             "BIOM600"
         ]
     }, 
-    "SWRK805": {
-        "prerequisites": [
-            "SWRK804", 
-            "&&", 
-            "SWRK001"
-        ]
-    }, 
     "LING076": {
         "instructorPermission": true, 
         "prerequisites": [
@@ -185,10 +178,16 @@
             "LING077"
         ]
     }, 
-    "345": {
+    "MATH312": {
+        "prerequisites": [
+            "MATH240"
+        ], 
         "satisfyReqsFor": [
-            "NELC243", 
-            "NELC643"
+            "STAT520", 
+            "MATH676", 
+            "MATH501", 
+            "MATH582", 
+            "ESE635"
         ]
     }, 
     "MKTG768": {
@@ -196,6 +195,15 @@
             "MKTG711", 
             "&&", 
             "MKTG712"
+        ]
+    }, 
+    "NURS683": {
+        "prerequisites": [
+            "NURS607", 
+            "&&", 
+            "NURS681", 
+            "&&", 
+            "NURS682"
         ]
     }, 
     "NURS831": {
@@ -211,11 +219,6 @@
         "instructorPermission": true, 
         "prerequisites": [
             "LING551"
-        ]
-    }, 
-    "LING086": {
-        "prerequisites": [
-            "LING085"
         ]
     }, 
     "FNAR679": {
@@ -234,14 +237,9 @@
             "MEAM610"
         ]
     }, 
-    "ITAL140": {
-        "prerequisites": [
-            "ITAL130", 
-            "&&", 
-            "ITAL140"
-        ], 
+    "MATH201": {
         "satisfyReqsFor": [
-            "ITAL140"
+            "MATH508"
         ]
     }, 
     "MEAM413": {
@@ -261,9 +259,9 @@
             "FNAR571"
         ]
     }, 
-    "ARCH768": {
+    "FNAR675": {
         "prerequisites": [
-            "REAL721"
+            "FNAR661"
         ]
     }, 
     "LING250": {
@@ -296,11 +294,6 @@
     "CAMB600": {
         "satisfyReqsFor": [
             "CAMB532"
-        ]
-    }, 
-    "ITAL201": {
-        "satisfyReqsFor": [
-            "ITAL203"
         ]
     }, 
     "ROML140": {
@@ -358,11 +351,6 @@
             "MATH361"
         ]
     }, 
-    "NURS580": {
-        "prerequisites": [
-            "NURS617"
-        ]
-    }, 
     "CPLN750": {
         "prerequisites": [
             "CPLN550"
@@ -390,11 +378,6 @@
         ], 
         "satisfyReqsFor": [
             "MATH681"
-        ]
-    }, 
-    "ITAL203": {
-        "prerequisites": [
-            "ITAL201"
         ]
     }, 
     "KORN431": {
@@ -441,9 +424,9 @@
             "CHIN481"
         ]
     }, 
-    "ITAL202": {
-        "satisfyReqsFor": [
-            "ITAL208"
+    "COMM423": {
+        "prerequisites": [
+            "COMM275"
         ]
     }, 
     "BIOL405": {
@@ -484,45 +467,9 @@
             "BIOL304"
         ]
     }, 
-    "102": {
-        "satisfyReqsFor": [
-            "STAT434", 
-            "MSE260", 
-            "BE220", 
-            "GEOL507"
-        ]
-    }, 
-    "103": {
-        "satisfyReqsFor": [
-            "PPE034", 
-            "ECON300"
-        ]
-    }, 
     "SAST451": {
         "satisfyReqsFor": [
             "COLL226"
-        ]
-    }, 
-    "101": {
-        "satisfyReqsFor": [
-            "GEOL201"
-        ]
-    }, 
-    "106": {
-        "satisfyReqsFor": [
-            "ANTH447", 
-            "GSWS447"
-        ]
-    }, 
-    "104": {
-        "satisfyReqsFor": [
-            "ECON300"
-        ]
-    }, 
-    "105": {
-        "satisfyReqsFor": [
-            "ANTH447", 
-            "GSWS447"
         ]
     }, 
     "BIOL406": {
@@ -585,18 +532,22 @@
             "COLL227"
         ]
     }, 
-    "NELC338": {
+    "CHEM451": {
+        "instructorPermission": true, 
         "prerequisites": [
-            [
-                "NELC102", 
-                "||", 
-                "NELC338"
-            ], 
             "&&", 
-            "NELC738"
-        ], 
-        "satisfyReqsFor": [
-            "NELC338"
+            [
+                "221", 
+                "&&", 
+                "251"
+            ]
+        ]
+    }, 
+    "FNCE756": {
+        "prerequisites": [
+            "FNCE726", 
+            "&&", 
+            "FNCE728"
         ]
     }, 
     "BIOL556": {
@@ -693,14 +644,6 @@
             "ESE530"
         ]
     }, 
-    "NURS255": {
-        "prerequisites": [
-            "NURS215"
-        ], 
-        "satisfyReqsFor": [
-            "NURS380"
-        ]
-    }, 
     "FNCE751": {
         "prerequisites": [
             [
@@ -731,19 +674,6 @@
             "LARP611"
         ]
     }, 
-    "MATH370": {
-        "prerequisites": [
-            "MATH240"
-        ], 
-        "satisfyReqsFor": [
-            "MATH548", 
-            "MATH501", 
-            "MATH371", 
-            "MATH550", 
-            "MATH602", 
-            "MATH480"
-        ]
-    }, 
     "CIS482": {
         "prerequisites": [
             "CIS160"
@@ -754,10 +684,10 @@
             "CIS380"
         ]
     }, 
-    "CIS340": {
+    "CHIN362": {
+        "instructorPermission": true, 
         "prerequisites": [
-            "&&", 
-            "121"
+            "CHIN631"
         ]
     }, 
     "MSCI100": {
@@ -795,19 +725,20 @@
             "NURS657"
         ]
     }, 
-    "BIOL275": {
+    "CHIN361": {
+        "instructorPermission": true, 
         "prerequisites": [
-            [
-                "BIOL101", 
-                "||", 
-                "BIOL121"
-            ], 
+            "CHIN232", 
             "&&", 
-            "BIOL221"
+            "CHIN311", 
+            "&&", 
+            "CHIN331"
         ], 
         "satisfyReqsFor": [
-            "BIOL474", 
-            "BIOL304"
+            "CHIN411", 
+            "CHIN412", 
+            "CHIN415", 
+            "CHIN382"
         ]
     }, 
     "CIS461": {
@@ -834,22 +765,9 @@
             "CIS568"
         ]
     }, 
-    "FNCE612": {
+    "PSYC020": {
         "satisfyReqsFor": [
-            "FNCE719", 
-            "FNCE891", 
-            "FNCE893", 
-            "ACCT897", 
-            "FNCE725", 
-            "FNCE717", 
-            "FNCE720", 
-            "FNCE721", 
-            "FNCE731", 
-            "FNCE732", 
-            "FNCE726", 
-            "FNCE728", 
-            "FNCE738", 
-            "REAL721"
+            "BIBB207"
         ]
     }, 
     "PHYS314": {
@@ -857,15 +775,28 @@
             "MATH114"
         ]
     }, 
-    "MSCI402": {
-        "prerequisites": [
-            "MSCI100", 
-            "&&", 
-            [
-                "200", 
-                "&&", 
-                "300"
-            ]
+    "FNCE613": {
+        "satisfyReqsFor": [
+            "FNCE205", 
+            "FNCE719", 
+            "FNCE754", 
+            "FNCE203", 
+            "FNCE751", 
+            "FNCE893", 
+            "FNCE750", 
+            "FNCE717", 
+            "FNCE219", 
+            "FNCE738", 
+            "FNCE238", 
+            "FNCE720", 
+            "FNCE732", 
+            "FNCE726", 
+            "FNCE725", 
+            "FNCE891", 
+            "FNCE728", 
+            "FNCE235", 
+            "FNCE250", 
+            "FNCE251"
         ]
     }, 
     "ANTH445": {
@@ -940,27 +871,6 @@
             "CIS540"
         ]
     }, 
-    "ECON244": {
-        "prerequisites": [
-            [
-                "ECON101", 
-                "&&", 
-                "ECON102"
-            ], 
-            "&&", 
-            [
-                [
-                    "MATH104", 
-                    "&&", 
-                    "MATH114"
-                ], 
-                "||", 
-                "MATH115"
-            ], 
-            "&&", 
-            "ECON103"
-        ]
-    }, 
     "ESE215": {
         "prerequisites": [
             "PHYS151"
@@ -978,19 +888,9 @@
             "ESE215"
         ]
     }, 
-    "ESE218": {
+    "NURS580": {
         "prerequisites": [
-            "ESE215"
-        ], 
-        "satisfyReqsFor": [
-            "MSE525", 
-            "MEAM564", 
-            "ESE418", 
-            "ESE525", 
-            "ESE521", 
-            "ESE573", 
-            "ESE574", 
-            "ESE460"
+            "NURS617"
         ]
     }, 
     "PRTG134": {
@@ -1014,9 +914,13 @@
             "PHYS611"
         ]
     }, 
-    "NURS601": {
+    "CHIN052": {
+        "instructorPermission": true, 
         "prerequisites": [
-            "NURS600"
+            "CHIN051"
+        ], 
+        "satisfyReqsFor": [
+            "CHIN151"
         ]
     }, 
     "HEBR654": {
@@ -1046,24 +950,6 @@
         ], 
         "satisfyReqsFor": [
             "HEBR653"
-        ]
-    }, 
-    "551": {
-        "satisfyReqsFor": [
-            "STAT951"
-        ]
-    }, 
-    "550": {
-        "satisfyReqsFor": [
-            "STAT951", 
-            "STAT925", 
-            "STAT920", 
-            "STAT921"
-        ]
-    }, 
-    "552": {
-        "satisfyReqsFor": [
-            "STAT925"
         ]
     }, 
     "NURS637": {
@@ -1126,9 +1012,13 @@
             "CIS398"
         ]
     }, 
-    "BEPP230": {
+    "STAT471": {
         "prerequisites": [
-            "FNCE101"
+            "STAT102", 
+            "||", 
+            "STAT112", 
+            "||", 
+            "STAT431"
         ]
     }, 
     "STAT472": {
@@ -1239,32 +1129,47 @@
             "BIBB109"
         ]
     }, 
-    "MUSC259": {
+    "SPAN373": {
         "prerequisites": [
-            "MUSC150", 
-            "&&", 
-            "MUSC170"
-        ]
-    }, 
-    "FNAR574": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "FNAR571", 
+            "SPAN219", 
             "||", 
-            "FNAR640"
+            "SPAN223"
         ]
     }, 
-    "MEAM550": {
+    "MSE571": {
         "prerequisites": [
-            "MEAM354"
+            "MSE570"
         ]
     }, 
-    "EDUC721": {
-        "prerequisites": [
-            "EDUC682"
-        ], 
+    "MSE570": {
         "satisfyReqsFor": [
-            "EDUC700"
+            "MSE571", 
+            "ESE515"
+        ]
+    }, 
+    "BIBB109": {
+        "satisfyReqsFor": [
+            "BIBB460", 
+            "BIBB410", 
+            "PSYC225", 
+            "BIBB249", 
+            "BIBB240", 
+            "BIBB247", 
+            "BIBB482", 
+            "BIBB269", 
+            "BIBB480", 
+            "BIBB481", 
+            "PSYC417", 
+            "BIBB217", 
+            "BIBB260", 
+            "BIBB310", 
+            "BIBB207", 
+            "BIBB235", 
+            "BIBB399", 
+            "BIBB409", 
+            "BIBB420", 
+            "BIBB417", 
+            "BIBB430"
         ]
     }, 
     "ECON713": {
@@ -1274,42 +1179,20 @@
             "ECON703"
         ]
     }, 
-    "FNAR570": {
-        "prerequisites": [
-            "FNAR566", 
-            "||", 
-            "FNAR569"
-        ]
-    }, 
-    "ECON245": {
-        "prerequisites": [
-            "ECON101", 
-            "&&", 
-            "ECON102", 
-            "&&", 
-            [
-                [
-                    "MATH104", 
-                    "&&", 
-                    "MATH114"
-                ], 
-                "||", 
-                "115"
-            ]
-        ]
-    }, 
-    "FNAR571": {
+    "MSE575": {
         "satisfyReqsFor": [
-            "FNAR641", 
-            "FNAR679", 
-            "FNAR626", 
-            "FNAR574", 
-            "FNAR684", 
-            "FNAR572", 
-            "FNAR578", 
-            "FNAR676", 
-            "FNAR583", 
-            "FNAR582"
+            "CBE602"
+        ]
+    }, 
+    "MEAM554": {
+        "prerequisites": [
+            "MEAM210", 
+            "&&", 
+            "MEAM354", 
+            "&&", 
+            "MATH240", 
+            "&&", 
+            "MATH241"
         ]
     }, 
     "FNAR282": {
@@ -1333,13 +1216,12 @@
             "FNAR280"
         ]
     }, 
-    "FNAR572": {
+    "FNAR287": {
         "instructorPermission": true, 
         "prerequisites": [
-            "FNAR571"
-        ], 
-        "satisfyReqsFor": [
-            "FNAR588"
+            "FNAR275", 
+            "||", 
+            "FNAR583"
         ]
     }, 
     "FNAR284": {
@@ -1367,14 +1249,14 @@
             "FNAR264"
         ]
     }, 
-    "BSTA510": {
+    "ITAL140": {
+        "prerequisites": [
+            "ITAL130", 
+            "&&", 
+            "ITAL140"
+        ], 
         "satisfyReqsFor": [
-            "BSTA774"
-        ]
-    }, 
-    "MATH201": {
-        "satisfyReqsFor": [
-            "MATH508"
+            "ITAL140"
         ]
     }, 
     "FNAR670": {
@@ -1397,17 +1279,14 @@
     "CHEM102": {
         "prerequisites": []
     }, 
-    "COGS001": {
+    "JPAN211": {
+        "prerequisites": [
+            "JPAN112", 
+            "||", 
+            "JPAN022"
+        ], 
         "satisfyReqsFor": [
-            "PSYC231", 
-            "PSYC217", 
-            "VLST217", 
-            "PSYC111", 
-            "PSYC275", 
-            "PSYC151", 
-            "BIBB217", 
-            "PSYC149", 
-            "PSYC281"
+            "JPAN212"
         ]
     }, 
     "ENM502": {
@@ -1421,9 +1300,9 @@
             "ENM510"
         ]
     }, 
-    "FNAR675": {
+    "ARCH768": {
         "prerequisites": [
-            "FNAR661"
+            "REAL721"
         ]
     }, 
     "DTCH105": {
@@ -1434,24 +1313,10 @@
             "DTCH106"
         ]
     }, 
-    "FNCE726": {
+    "NELC542": {
+        "instructorPermission": true, 
         "prerequisites": [
-            [
-                "FNCE611", 
-                "||", 
-                "FNCE612"
-            ], 
-            "&&", 
-            "FNCE613"
-        ], 
-        "satisfyReqsFor": [
-            "FNCE895", 
-            "FNCE882", 
-            "FNCE751", 
-            "FNCE756", 
-            "FNCE891", 
-            "FNCE391", 
-            "FNCE251"
+            "NELC101"
         ]
     }, 
     "DTCH106": {
@@ -1498,11 +1363,6 @@
             "GRMN203"
         ]
     }, 
-    "NURS641": {
-        "satisfyReqsFor": [
-            "NURS642"
-        ]
-    }, 
     "FNAR068": {
         "prerequisites": [
             "FNAR061"
@@ -1541,9 +1401,9 @@
             "CINE067"
         ]
     }, 
-    "ANEL462": {
+    "FNAR063": {
         "prerequisites": [
-            "ANEL460"
+            "FNAR061"
         ]
     }, 
     "ANEL461": {
@@ -1641,21 +1501,11 @@
             "SPAN223"
         ]
     }, 
-    "MKTG771": {
+    "SPAN392": {
         "prerequisites": [
-            [
-                "MKTG611", 
-                "||", 
-                "MKTG621"
-            ], 
-            "&&", 
-            "MKTG612", 
-            "&&", 
-            [
-                "613", 
-                "||", 
-                "622"
-            ]
+            "SPAN219", 
+            "||", 
+            "SPAN223"
         ]
     }, 
     "SPAN391": {
@@ -1756,10 +1606,9 @@
             ]
         ]
     }, 
-    "ARAB733": {
-        "instructorPermission": true, 
+    "RUSS468": {
         "prerequisites": [
-            "ARAB036"
+            "RUSS361"
         ]
     }, 
     "FNAR668": {
@@ -1825,12 +1674,11 @@
             "CPLN650"
         ]
     }, 
-    "FNAR684": {
-        "instructorPermission": true, 
+    "ACCT297": {
         "prerequisites": [
-            "FNAR571", 
-            "||", 
-            "FNAR640"
+            "ACCT101", 
+            "&&", 
+            "FNCE101"
         ]
     }, 
     "ANEL661": {
@@ -1862,11 +1710,6 @@
             "LING603"
         ]
     }, 
-    "245": {
-        "satisfyReqsFor": [
-            "CHEM246"
-        ]
-    }, 
     "MEAM333": {
         "prerequisites": [
             "MEAM203", 
@@ -1884,18 +1727,6 @@
             "ESE460"
         ]
     }, 
-    "EDUC547": {
-        "satisfyReqsFor": [
-            "URBS706", 
-            "EDUC706"
-        ]
-    }, 
-    "240": {
-        "satisfyReqsFor": [
-            "PHYS411", 
-            "CIS573"
-        ]
-    }, 
     "MATH502": {
         "prerequisites": [
             "MATH240"
@@ -1906,21 +1737,11 @@
             "MATH503"
         ]
     }, 
-    "242": {
-        "satisfyReqsFor": [
-            "CHEM443"
-        ]
-    }, 
-    "CINE353": {
-        "instructorPermission": true, 
+    "MEAM338": {
         "prerequisites": [
-            "FNAR235", 
-            "&&", 
-            [
-                "236", 
-                "||", 
-                "267"
-            ]
+            "MEAM203", 
+            "||", 
+            "CBE231"
         ]
     }, 
     "MATH508": {
@@ -1962,11 +1783,10 @@
             "MATH680"
         ]
     }, 
-    "NURS112": {
-        "satisfyReqsFor": [
-            "NURS312", 
-            "NURS517", 
-            "NURS375"
+    "JWST059": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "HEBR054"
         ]
     }, 
     "MATH694": {
@@ -2022,9 +1842,13 @@
             "MATH692"
         ]
     }, 
-    "GRMN269": {
+    "SLAV502": {
+        "instructorPermission": true, 
         "prerequisites": [
-            "GRMN104"
+            "SLAV501"
+        ], 
+        "satisfyReqsFor": [
+            "SLAV503"
         ]
     }, 
     "PHIL228": {
@@ -2050,6 +1874,21 @@
         "satisfyReqsFor": [
             "KORN211", 
             "KORN281"
+        ]
+    }, 
+    "ESE370": {
+        "prerequisites": [
+            [
+                "ESE170", 
+                "||", 
+                "ESE171"
+            ], 
+            "&&", 
+            [
+                "ESE215", 
+                "||", 
+                "ESE205"
+            ]
         ]
     }, 
     "NURS801": {
@@ -2170,19 +2009,6 @@
             "PHIL005"
         ]
     }, 
-    "171": {
-        "satisfyReqsFor": [
-            "PHYS230", 
-            "PHYS361", 
-            "PHYS364"
-        ]
-    }, 
-    "170": {
-        "satisfyReqsFor": [
-            "BCHE580", 
-            "MUSC239"
-        ]
-    }, 
     "CINE289": {
         "prerequisites": [
             "FNAR264"
@@ -2219,13 +2045,13 @@
             "LARP720"
         ]
     }, 
-    "MATH621": {
-        "instructorPermission": true, 
+    "ECON027": {
         "prerequisites": [
-            "MATH620"
-        ], 
-        "satisfyReqsFor": [
-            "MATH720"
+            "ECON001", 
+            "&&", 
+            "ECON002", 
+            "&&", 
+            "ECON010"
         ]
     }, 
     "ECON753": {
@@ -2260,15 +2086,6 @@
                 "&&", 
                 "PHYS151"
             ]
-        ]
-    }, 
-    "STAT471": {
-        "prerequisites": [
-            "STAT102", 
-            "||", 
-            "STAT112", 
-            "||", 
-            "STAT431"
         ]
     }, 
     "FNCE238": {
@@ -2348,10 +2165,10 @@
             "STAT613"
         ]
     }, 
-    "BE310": {
-        "satisfyReqsFor": [
-            "NGG521", 
-            "BE521"
+    "MKTG266": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "MKTG101"
         ]
     }, 
     "ENM510": {
@@ -2549,19 +2366,13 @@
             "PHYS499"
         ]
     }, 
-    "MATH644": {
-        "prerequisites": [
-            [
-                "MATH600", 
-                "||", 
-                "MATH601"
-            ], 
-            "&&", 
-            [
-                "MATH608", 
-                "||", 
-                "MATH609"
-            ]
+    "ANTH603": {
+        "satisfyReqsFor": [
+            "ANTH628", 
+            "ANTH658", 
+            "ANTH631", 
+            "ANTH618", 
+            "ANTH730"
         ]
     }, 
     "PHYS230": {
@@ -2606,16 +2417,14 @@
             "PRTG217"
         ]
     }, 
-    "STAT921": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "STAT520", 
-            "&&", 
-            [
-                "541", 
-                "||", 
-                "550"
-            ]
+    "SWRK812": {
+        "satisfyReqsFor": [
+            "SWRK813"
+        ]
+    }, 
+    "AFST190": {
+        "satisfyReqsFor": [
+            "HIST372"
         ]
     }, 
     "PPE008": {
@@ -2628,21 +2437,6 @@
             "CBE231", 
             "&&", 
             "CBE351"
-        ]
-    }, 
-    "ITAL134": {
-        "prerequisites": [
-            "ITAL112"
-        ]
-    }, 
-    "MATH625": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "MATH624"
-        ], 
-        "satisfyReqsFor": [
-            "MATH724", 
-            "MATH725"
         ]
     }, 
     "CBE459": {
@@ -2670,23 +2464,9 @@
             "MUSC170"
         ]
     }, 
-    "NGG521": {
-        "prerequisites": [
-            "BE301", 
-            "&&", 
-            [
-                "BE209", 
-                "||", 
-                "BE210", 
-                "||", 
-                "BE310"
-            ], 
-            "&&", 
-            "BIOL215", 
-            "&&", 
-            "BE305", 
-            "&&", 
-            "BE520"
+    "ANEL575": {
+        "satisfyReqsFor": [
+            "ANEL576"
         ]
     }, 
     "MUSC270": {
@@ -2713,26 +2493,6 @@
             "MUSC070", 
             "||", 
             "MUSC170"
-        ]
-    }, 
-    "540": {
-        "satisfyReqsFor": [
-            "SPAN130", 
-            "SPAN135", 
-            "SPAN134", 
-            "ITAL130"
-        ]
-    }, 
-    "541": {
-        "satisfyReqsFor": [
-            "STAT920", 
-            "STAT921"
-        ]
-    }, 
-    "546": {
-        "satisfyReqsFor": [
-            "SPAN140", 
-            "SPAN145"
         ]
     }, 
     "BE575": {
@@ -2797,9 +2557,19 @@
             "CAMB620"
         ]
     }, 
-    "PHYS612": {
+    "GSWS447": {
         "prerequisites": [
-            "PHYS611"
+            [
+                "ANTH003", 
+                "&&", 
+                "ANTH143"
+            ], 
+            "&&", 
+            [
+                "105", 
+                "||", 
+                "106"
+            ]
         ]
     }, 
     "FNAR275": {
@@ -2851,22 +2621,9 @@
             "FNAR269"
         ]
     }, 
-    "FNAR279": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "FNAR271"
-        ]
-    }, 
-    "THAR320": {
-        "prerequisites": [
-            "THAR220"
-        ]
-    }, 
-    "MATH626": {
-        "prerequisites": [
-            "MATH602", 
-            "||", 
-            "MATH603"
+    "LGST804": {
+        "satisfyReqsFor": [
+            "REAL821"
         ]
     }, 
     "SPAN499": {
@@ -2898,11 +2655,6 @@
     "LING380": {
         "prerequisites": [
             "LING250"
-        ]
-    }, 
-    "PHYS622": {
-        "prerequisites": [
-            "PHYS601"
         ]
     }, 
     "ACCT208": {
@@ -3057,11 +2809,9 @@
             "SPAN223"
         ]
     }, 
-    "SPAN382": {
+    "GRMN568": {
         "prerequisites": [
-            "SPAN219", 
-            "||", 
-            "SPAN223"
+            "GRMN216"
         ]
     }, 
     "MKTG746": {
@@ -3084,17 +2834,6 @@
     "ENGL501": {
         "satisfyReqsFor": [
             "ENGL506"
-        ]
-    }, 
-    "362": {
-        "satisfyReqsFor": [
-            "PHYS421"
-        ]
-    }, 
-    "361": {
-        "satisfyReqsFor": [
-            "MATH548", 
-            "MATH680"
         ]
     }, 
     "MEAM433": {
@@ -3158,34 +2897,24 @@
             "MGMT740"
         ]
     }, 
-    "384": {
+    "CHIN382": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "CHIN312", 
+            "&&", 
+            "CHIN361", 
+            "&&", 
+            "CHIN381"
+        ], 
         "satisfyReqsFor": [
-            "SPAN135", 
-            "SPAN134", 
-            "SPAN130"
+            "CHIN411", 
+            "CHIN481", 
+            "CHIN412"
         ]
     }, 
-    "COMM423": {
+    "RUSS390": {
         "prerequisites": [
-            "COMM275"
-        ]
-    }, 
-    "OPIM321": {
-        "satisfyReqsFor": [
-            "OPIM653", 
-            "OPIM353"
-        ]
-    }, 
-    "MATH512": {
-        "prerequisites": [
-            "MATH114", 
-            "||", 
-            "MATH115"
-        ]
-    }, 
-    "STAT932": {
-        "prerequisites": [
-            "STAT551"
+            "RUSS311"
         ]
     }, 
     "FREN110": {
@@ -3204,10 +2933,11 @@
             "LING520"
         ]
     }, 
-    "MATH641": {
-        "instructorPermission": true, 
+    "MEAM500": {
         "prerequisites": [
-            "MATH640"
+            "MATH240", 
+            "&&", 
+            "MATH241"
         ]
     }, 
     "MATH530": {
@@ -3217,22 +2947,12 @@
             "STAT430"
         ]
     }, 
-    "253": {
+    "ANTH468": {
+        "prerequisites": [
+            "ANTH001"
+        ], 
         "satisfyReqsFor": [
-            "BIBB473", 
-            "PSYC473"
-        ]
-    }, 
-    "250": {
-        "satisfyReqsFor": [
-            "PHYS411", 
-            "PHYS421"
-        ]
-    }, 
-    "251": {
-        "satisfyReqsFor": [
-            "CHEM451", 
-            "CHEM452"
+            "ANTH727"
         ]
     }, 
     "MEAM321": {
@@ -3250,9 +2970,19 @@
             "MEAM513"
         ]
     }, 
-    "MATH313": {
+    "MATH645": {
         "prerequisites": [
-            "MATH240"
+            [
+                "MATH600", 
+                "||", 
+                "MATH601"
+            ], 
+            "&&", 
+            [
+                "MATH608", 
+                "||", 
+                "MATH609"
+            ]
         ]
     }, 
     "EDUC829": {
@@ -3303,26 +3033,16 @@
             "EPID527"
         ]
     }, 
-    "LARP743": {
-        "satisfyReqsFor": [
-            "MUSA505"
+    "CINE462": {
+        "prerequisites": [
+            "COMM262", 
+            "&&", 
+            "CINE262"
         ]
     }, 
     "EPID560": {
         "satisfyReqsFor": [
             "EPID714"
-        ]
-    }, 
-    "ARAB532": {
-        "prerequisites": [
-            "ARAB036", 
-            "||", 
-            "ARAB636"
-        ]
-    }, 
-    "160": {
-        "satisfyReqsFor": [
-            "CIS500"
         ]
     }, 
     "STAT915": {
@@ -3351,6 +3071,16 @@
             ], 
             "||", 
             "ECON010"
+        ]
+    }, 
+    "URBS400": {
+        "prerequisites": [
+            "URBS200", 
+            "&&", 
+            "URBS300"
+        ], 
+        "satisfyReqsFor": [
+            "URBS401"
         ]
     }, 
     "FNCE937": {
@@ -3430,11 +3160,18 @@
             "FNCE254"
         ]
     }, 
-    "FNCE756": {
+    "NELC338": {
         "prerequisites": [
-            "FNCE726", 
+            [
+                "NELC102", 
+                "||", 
+                "NELC338"
+            ], 
             "&&", 
-            "FNCE728"
+            "NELC738"
+        ], 
+        "satisfyReqsFor": [
+            "NELC338"
         ]
     }, 
     "FNCE207": {
@@ -3554,15 +3291,13 @@
             "GEOL418"
         ]
     }, 
-    "MATH725": {
-        "prerequisites": [
-            "MATH622", 
-            "||", 
-            "MATH623", 
-            "||", 
-            "MATH624", 
-            "||", 
-            "MATH625"
+    "MEAM110": {
+        "satisfyReqsFor": [
+            "MEAM210", 
+            "CIS390", 
+            "MEAM245", 
+            "MEAM420", 
+            "MEAM302"
         ]
     }, 
     "OPIM910": {
@@ -3677,9 +3412,22 @@
             "PSYC151"
         ]
     }, 
+    "PERS615": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "PERS013", 
+            "||", 
+            "PERS017"
+        ]
+    }, 
     "ALAN110": {
         "satisfyReqsFor": [
             "ALAN210"
+        ]
+    }, 
+    "FNCE894": {
+        "prerequisites": [
+            "FNCE725"
         ]
     }, 
     "CIS110": {
@@ -3717,12 +3465,9 @@
             "PRTG120"
         ]
     }, 
-    "ANTH468": {
-        "prerequisites": [
-            "ANTH001"
-        ], 
+    "PRTG114": {
         "satisfyReqsFor": [
-            "ANTH727"
+            "PRTG134"
         ]
     }, 
     "CHIN315": {
@@ -3774,11 +3519,16 @@
             "BIOL576"
         ]
     }, 
-    "MGMT806": {
+    "CAMB530": {
+        "instructorPermission": true, 
         "prerequisites": [
-            "MGMT801", 
-            "&&", 
-            "MKTG756"
+            [
+                "CAMB512", 
+                "&&", 
+                "BIOM600"
+            ], 
+            "||", 
+            "BIOM600"
         ]
     }, 
     "BIOL576": {
@@ -3991,18 +3741,11 @@
             "EDUC417"
         ]
     }, 
-    "NURS660": {
+    "RUSS485": {
         "prerequisites": [
-            "NURS656", 
+            "RUSS312", 
             "&&", 
-            "NURS657", 
-            "&&", 
-            "NURS658", 
-            "&&", 
-            "NURS659"
-        ], 
-        "satisfyReqsFor": [
-            "NURS663"
+            "RUSS361"
         ]
     }, 
     "CBE460": {
@@ -4010,12 +3753,14 @@
             "CBE353"
         ]
     }, 
-    "PSYC127": {
+    "PSYC435": {
+        "instructorPermission": true, 
         "prerequisites": [
-            "PSYC001"
-        ], 
-        "satisfyReqsFor": [
-            "PSYC327"
+            "PSYC151", 
+            "||", 
+            "PSYC235", 
+            "||", 
+            "LING001"
         ]
     }, 
     "GREK204": {
@@ -4026,9 +3771,11 @@
             "GREK302"
         ]
     }, 
-    "URBS706": {
+    "ANEL740": {
         "prerequisites": [
-            "EDUC547"
+            "ANEL441", 
+            "||", 
+            "ANEL641"
         ]
     }, 
     "GREK203": {
@@ -4102,9 +3849,13 @@
             "FNAR264"
         ]
     }, 
-    "ESE519": {
+    "FNAR269": {
         "prerequisites": [
-            "ESE350"
+            "FNAR264"
+        ], 
+        "satisfyReqsFor": [
+            "FNAR370", 
+            "FNAR270"
         ]
     }, 
     "FNAR264": {
@@ -4180,17 +3931,9 @@
             "BE521"
         ]
     }, 
-    "420": {
-        "satisfyReqsFor": [
-            "GEOL540"
-        ]
-    }, 
-    "MUSC130": {
+    "OPIM652": {
         "prerequisites": [
-            "MUSC070"
-        ], 
-        "satisfyReqsFor": [
-            "MUSC239"
+            "OPIM621"
         ]
     }, 
     "MEAM220": {
@@ -4369,15 +4112,6 @@
             "FNAR488"
         ]
     }, 
-    "FNAR269": {
-        "prerequisites": [
-            "FNAR264"
-        ], 
-        "satisfyReqsFor": [
-            "FNAR370", 
-            "FNAR270"
-        ]
-    }, 
     "LING280": {
         "satisfyReqsFor": [
             "AFST284", 
@@ -4406,9 +4140,10 @@
             "LING510"
         ]
     }, 
-    "AFST558": {
+    "LING510": {
         "satisfyReqsFor": [
-            "ARAB549"
+            "LING511", 
+            "LING515"
         ]
     }, 
     "FNAR267": {
@@ -4425,20 +4160,20 @@
             "LING510"
         ]
     }, 
-    "ECON260": {
+    "GEOL507": {
         "prerequisites": [
-            "ECON101", 
-            "&&", 
-            "ECON103", 
+            [
+                "&&"
+            ], 
             "&&", 
             [
-                [
-                    "MATH104", 
-                    "&&", 
-                    "MATH114"
-                ], 
+                "BIOL101", 
                 "||", 
-                "115"
+                [
+                    "102", 
+                    "&&", 
+                    "GEOL100"
+                ]
             ]
         ]
     }, 
@@ -4469,18 +4204,11 @@
             "MATH503"
         ]
     }, 
-    "222": {
+    "EDUC560": {
         "satisfyReqsFor": [
-            "BMB590"
-        ]
-    }, 
-    "221": {
-        "satisfyReqsFor": [
-            "BIOL407", 
-            "BIOL477", 
-            "CHEM451", 
-            "BIOL354", 
-            "CHEM452"
+            "EDUC765", 
+            "EDUC568", 
+            "EDUC623"
         ]
     }, 
     "MEAM354": {
@@ -4508,12 +4236,9 @@
             "EDUC684"
         ]
     }, 
-    "EDUC767": {
-        "prerequisites": [
-            "EDUC667"
-        ], 
+    "ARCH601": {
         "satisfyReqsFor": [
-            "EDUC881"
+            "LARP720"
         ]
     }, 
     "EDUC766": {
@@ -4521,9 +4246,9 @@
             "EDUC686"
         ]
     }, 
-    "EDUC765": {
+    "MSE537": {
         "prerequisites": [
-            "EDUC560"
+            "MEAM354"
         ]
     }, 
     "EDUC764": {
@@ -4531,12 +4256,10 @@
             "EDUC568"
         ]
     }, 
-    "LING604": {
+    "URBS226": {
         "instructorPermission": true, 
         "prerequisites": [
-            "LING550", 
-            "&&", 
-            "LING590"
+            "FNAR271"
         ]
     }, 
     "MUSA505": {
@@ -4569,18 +4292,6 @@
         "instructorPermission": true, 
         "prerequisites": [
             "YDSH102"
-        ]
-    }, 
-    "151": {
-        "satisfyReqsFor": [
-            "BCHE580", 
-            "MATH425", 
-            "PHYS364"
-        ]
-    }, 
-    "EALC140": {
-        "prerequisites": [
-            "EALC001"
         ]
     }, 
     "REAL240": {
@@ -4624,9 +4335,10 @@
             "FNCE911"
         ]
     }, 
-    "FNCE926": {
+    "BIOL410": {
+        "instructorPermission": true, 
         "prerequisites": [
-            "STAT521"
+            "BIOL230"
         ]
     }, 
     "BIOL411": {
@@ -4653,42 +4365,31 @@
             "FNCE932"
         ]
     }, 
-    "FNCE922": {
-        "prerequisites": [
-            "FNCE911", 
-            "&&", 
-            "ECON701", 
-            "&&", 
-            "ECON703"
-        ], 
-        "satisfyReqsFor": [
-            "FNCE933", 
-            "FNCE923"
-        ]
-    }, 
-    "FNCE923": {
-        "prerequisites": [
-            "FNCE922"
-        ]
-    }, 
-    "COMM340": {
-        "satisfyReqsFor": [
-            "COMM308"
-        ]
-    }, 
-    "CHIN411": {
+    "BIOL414": {
         "instructorPermission": true, 
         "prerequisites": [
-            "CHIN331", 
+            "BIOL240"
+        ]
+    }, 
+    "BIOL415": {
+        "prerequisites": [
+            "BIOL101", 
+            "||", 
+            "BIOL121"
+        ]
+    }, 
+    "ECON730": {
+        "prerequisites": [
+            "ECON701", 
             "&&", 
-            "CHIN361", 
+            "ECON702"
+        ]
+    }, 
+    "ECON731": {
+        "prerequisites": [
+            "ECON701", 
             "&&", 
-            "CHIN382"
-        ], 
-        "satisfyReqsFor": [
-            "CHIN515", 
-            "CHIN415", 
-            "CHIN510"
+            "ECON702"
         ]
     }, 
     "CHIN412": {
@@ -4922,6 +4623,11 @@
             "NURS792"
         ]
     }, 
+    "CINE068": {
+        "prerequisites": [
+            "FNAR061"
+        ]
+    }, 
     "NURS793": {
         "prerequisites": [
             "NURS792"
@@ -5103,13 +4809,10 @@
             "ESE350"
         ]
     }, 
-    "PRTG114": {
-        "satisfyReqsFor": [
-            "PRTG134"
+    "MKTG246": {
+        "prerequisites": [
+            "MKTG101"
         ]
-    }, 
-    "BE330": {
-        "prerequisites": []
     }, 
     "ECON722": {
         "prerequisites": [
@@ -5224,13 +4927,19 @@
             "COGS001"
         ]
     }, 
-    "PRTG130": {
-        "instructorPermission": true, 
+    "ESE218": {
         "prerequisites": [
-            "PRTG120"
+            "ESE215"
         ], 
         "satisfyReqsFor": [
-            "PRTG140"
+            "MSE525", 
+            "MEAM564", 
+            "ESE418", 
+            "ESE525", 
+            "ESE521", 
+            "ESE573", 
+            "ESE574", 
+            "ESE460"
         ]
     }, 
     "PSYC272": {
@@ -5262,11 +4971,6 @@
             "PSYC386", 
             "STAT112", 
             "BIBB207"
-        ]
-    }, 
-    "GRMN568": {
-        "prerequisites": [
-            "GRMN216"
         ]
     }, 
     "PPE203": {
@@ -5327,16 +5031,6 @@
             "MKTG278"
         ]
     }, 
-    "AFST284": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "AFST280", 
-            "&&", 
-            "LING280", 
-            "&&", 
-            "AFRC280"
-        ]
-    }, 
     "JWST032": {
         "instructorPermission": true, 
         "prerequisites": [
@@ -5348,9 +5042,11 @@
             "GRMN402"
         ]
     }, 
-    "JWST031": {
-        "satisfyReqsFor": [
-            "JWST032"
+    "MUSC259": {
+        "prerequisites": [
+            "MUSC150", 
+            "&&", 
+            "MUSC170"
         ]
     }, 
     "PHYS102": {
@@ -5420,12 +5116,12 @@
             "NURS777"
         ]
     }, 
-    "300": {
-        "satisfyReqsFor": [
-            "MSCI420", 
-            "MSCI410", 
-            "MSCI402", 
-            "MSCI401"
+    "MEAM634": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "ENM510", 
+            "&&", 
+            "ENM511"
         ]
     }, 
     "LGST292": {
@@ -5467,6 +5163,13 @@
             "MEAM902"
         ]
     }, 
+    "MSCI301": {
+        "prerequisites": [
+            "MSCI100", 
+            "&&", 
+            "MSCI200"
+        ]
+    }, 
     "FNAR251": {
         "satisfyReqsFor": [
             "FNAR253"
@@ -5493,10 +5196,13 @@
             "FNAR253"
         ]
     }, 
-    "MEAM631": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "MEAM519"
+    "MEAM147": {
+        "satisfyReqsFor": [
+            "MEAM210", 
+            "CIS390", 
+            "MEAM245", 
+            "MEAM420", 
+            "MEAM302"
         ]
     }, 
     "GREK302": {
@@ -5625,6 +5331,16 @@
             "BIBB251"
         ]
     }, 
+    "PHYS140": {
+        "satisfyReqsFor": [
+            "PHYS141", 
+            "BE350", 
+            "BE324", 
+            "BE200", 
+            "BE225", 
+            "MSE221"
+        ]
+    }, 
     "NURS304": {
         "prerequisites": [
             "NURS215"
@@ -5640,22 +5356,6 @@
             "ARAB036", 
             "||", 
             "ARAB636"
-        ]
-    }, 
-    "MATH601": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "MATH600"
-        ], 
-        "satisfyReqsFor": [
-            "MATH630", 
-            "MATH646", 
-            "MATH645", 
-            "MATH644", 
-            "MATH648", 
-            "MATH660", 
-            "MATH618", 
-            "MATH654"
         ]
     }, 
     "ECON897": {
@@ -5954,17 +5654,19 @@
             ]
         ]
     }, 
-    "236": {
-        "satisfyReqsFor": [
-            "CINE353"
-        ]
-    }, 
     "MATH550": {
         "instructorPermission": true, 
         "prerequisites": [
             "MATH360", 
             "&&", 
             "MATH370"
+        ]
+    }, 
+    "FNCE882": {
+        "prerequisites": [
+            "FNCE726", 
+            "&&", 
+            "FNCE728"
         ]
     }, 
     "ROML691": {
@@ -6003,9 +5705,25 @@
             "BE655"
         ]
     }, 
-    "SKRT460": {
-        "satisfyReqsFor": [
-            "SKRT470"
+    "ECON244": {
+        "prerequisites": [
+            [
+                "ECON101", 
+                "&&", 
+                "ECON102"
+            ], 
+            "&&", 
+            [
+                [
+                    "MATH104", 
+                    "&&", 
+                    "MATH114"
+                ], 
+                "||", 
+                "MATH115"
+            ], 
+            "&&", 
+            "ECON103"
         ]
     }, 
     "SLAV535": {
@@ -6044,11 +5762,6 @@
             "SLAV531"
         ]
     }, 
-    "ANCE611": {
-        "satisfyReqsFor": [
-            "HCMG849"
-        ]
-    }, 
     "ACCT620": {
         "prerequisites": [
             "ACCT603"
@@ -6072,12 +5785,6 @@
             "ACCT620", 
             "||", 
             "ACCT621"
-        ]
-    }, 
-    "141": {
-        "satisfyReqsFor": [
-            "BE324", 
-            "BE200"
         ]
     }, 
     "ENGL121": {
@@ -6114,9 +5821,9 @@
             "STAT551"
         ]
     }, 
-    "EALC551": {
+    "STAT932": {
         "prerequisites": [
-            "&&"
+            "STAT551"
         ]
     }, 
     "ANTH658": {
@@ -6267,10 +5974,23 @@
             "ECON792"
         ]
     }, 
-    "ECON700": {
-        "satisfyReqsFor": [
-            "ECON704", 
-            "ECON702"
+    "ECON252": {
+        "prerequisites": [
+            [
+                "ECON101", 
+                "&&", 
+                "ECON102"
+            ], 
+            "&&", 
+            [
+                [
+                    "MATH104", 
+                    "&&", 
+                    "MATH114"
+                ], 
+                "||", 
+                "MATH115"
+            ]
         ]
     }, 
     "ECON703": {
@@ -6393,6 +6113,18 @@
             "EDUC676"
         ]
     }, 
+    "BIOL240": {
+        "prerequisites": [
+            "BIOL102", 
+            "||", 
+            "BIOL121"
+        ], 
+        "satisfyReqsFor": [
+            "BIOL411", 
+            "BIOL414", 
+            "BIOL460"
+        ]
+    }, 
     "PSYC311": {
         "instructorPermission": true, 
         "prerequisites": [
@@ -6403,14 +6135,6 @@
             "PSYC151", 
             "&&", 
             "PSYC217"
-        ]
-    }, 
-    "FNAR531": {
-        "prerequisites": [
-            "FNAR523"
-        ], 
-        "satisfyReqsFor": [
-            "FNAR532"
         ]
     }, 
     "PSYC464": {
@@ -6539,12 +6263,9 @@
             "SWRK614"
         ]
     }, 
-    "ESE521": {
-        "instructorPermission": true, 
+    "BEPP230": {
         "prerequisites": [
-            "ESE218", 
-            "||", 
-            "PHYS240"
+            "FNCE101"
         ]
     }, 
     "CHIN331": {
@@ -6711,16 +6432,13 @@
             "CIS502"
         ]
     }, 
-    "FNAR523": {
+    "MATH621": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "MATH620"
+        ], 
         "satisfyReqsFor": [
-            "FNAR589", 
-            "FNAR635", 
-            "FNAR633", 
-            "FNAR556", 
-            "FNAR531", 
-            "FNAR533", 
-            "FNAR534", 
-            "FNAR526"
+            "MATH720"
         ]
     }, 
     "PHIL372": {
@@ -6746,14 +6464,15 @@
             "ANTH143"
         ]
     }, 
-    "MATH623": {
+    "EDUC710": {
+        "prerequisites": [
+            "EDUC682"
+        ]
+    }, 
+    "ARAB635": {
         "instructorPermission": true, 
         "prerequisites": [
-            "MATH622"
-        ], 
-        "satisfyReqsFor": [
-            "MATH724", 
-            "MATH725"
+            "ARAB033"
         ]
     }, 
     "ESE325": {
@@ -6779,16 +6498,9 @@
             "CIS120"
         ]
     }, 
-    "MATH624": {
+    "FNAR526": {
         "prerequisites": [
-            "MATH602", 
-            "||", 
-            "MATH603"
-        ], 
-        "satisfyReqsFor": [
-            "MATH724", 
-            "MATH725", 
-            "MATH625"
+            "FNAR523"
         ]
     }, 
     "PHYS351": {
@@ -6820,6 +6532,13 @@
             "PSYC001"
         ]
     }, 
+    "MATH627": {
+        "prerequisites": [
+            "MATH602", 
+            "||", 
+            "MATH603"
+        ]
+    }, 
     "PSYC265": {
         "prerequisites": [
             "PSYC001"
@@ -6834,15 +6553,11 @@
             "MGEC621"
         ]
     }, 
-    "CHEM452": {
-        "instructorPermission": true, 
+    "MATH626": {
         "prerequisites": [
-            "&&", 
-            [
-                "221", 
-                "&&", 
-                "251"
-            ]
+            "MATH602", 
+            "||", 
+            "MATH603"
         ]
     }, 
     "REAL722": {
@@ -6948,6 +6663,21 @@
             "RUSS312", 
             "&&", 
             "RUSS361"
+        ]
+    }, 
+    "FNAR536": {
+        "prerequisites": [
+            "FNAR635", 
+            "&&", 
+            [
+                "FNAR543", 
+                "||", 
+                "FNAR580"
+            ]
+        ], 
+        "satisfyReqsFor": [
+            "FNAR646", 
+            "FNAR366"
         ]
     }, 
     "NURS164": {
@@ -7076,31 +6806,6 @@
             "NURS770"
         ]
     }, 
-    "622": {
-        "satisfyReqsFor": [
-            "MKTG712", 
-            "MKTG778", 
-            "MKTG746", 
-            "MKTG741", 
-            "MKTG899", 
-            "MKTG771", 
-            "MKTG655", 
-            "MKTG759", 
-            "MKTG724", 
-            "MKTG727", 
-            "MKTG725", 
-            "MKTG751"
-        ]
-    }, 
-    "621": {
-        "satisfyReqsFor": [
-            "MKTG778", 
-            "MKTG777", 
-            "MKTG727", 
-            "MKTG725", 
-            "MKTG751"
-        ]
-    }, 
     "PSYC453": {
         "prerequisites": [
             "PSYC253", 
@@ -7164,13 +6869,6 @@
             "OPIM656"
         ]
     }, 
-    "SPAN373": {
-        "prerequisites": [
-            "SPAN219", 
-            "||", 
-            "SPAN223"
-        ]
-    }, 
     "MATH430": {
         "prerequisites": [
             "MATH240"
@@ -7201,29 +6899,14 @@
             "MSE430"
         ]
     }, 
-    "ECON750": {
-        "prerequisites": [
-            "ECON701", 
-            "&&", 
-            "ECON703"
-        ]
-    }, 
     "NURS375": {
         "prerequisites": [
             "NURS112"
         ]
     }, 
-    "PSYC020": {
+    "CHIN011": {
         "satisfyReqsFor": [
-            "BIBB207"
-        ]
-    }, 
-    "NURS642": {
-        "prerequisites": [
-            "NURS641"
-        ], 
-        "satisfyReqsFor": [
-            "NURS643"
+            "CHIN012"
         ]
     }, 
     "GRMN537": {
@@ -7231,9 +6914,9 @@
             "GRMN216"
         ]
     }, 
-    "LGST804": {
-        "satisfyReqsFor": [
-            "REAL821"
+    "THAR320": {
+        "prerequisites": [
+            "THAR220"
         ]
     }, 
     "LGST806": {
@@ -7293,10 +6976,18 @@
             "BIBB432"
         ]
     }, 
-    "LING510": {
+    "AFST558": {
         "satisfyReqsFor": [
-            "LING511", 
-            "LING515"
+            "ARAB549"
+        ]
+    }, 
+    "CHIN012": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "CHIN011"
+        ], 
+        "satisfyReqsFor": [
+            "CHIN111"
         ]
     }, 
     "LGIC210": {
@@ -7315,13 +7006,15 @@
             "MATH625"
         ]
     }, 
-    "MEAM110": {
-        "satisfyReqsFor": [
-            "MEAM210", 
-            "CIS390", 
-            "MEAM245", 
-            "MEAM420", 
-            "MEAM302"
+    "MATH725": {
+        "prerequisites": [
+            "MATH622", 
+            "||", 
+            "MATH623", 
+            "||", 
+            "MATH624", 
+            "||", 
+            "MATH625"
         ]
     }, 
     "MATH720": {
@@ -7371,52 +7064,25 @@
             "MKTG411"
         ]
     }, 
-    "ECON760": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "ECON701", 
-            "&&", 
-            "ECON705"
+    "ANTH003": {
+        "satisfyReqsFor": [
+            "BIBB271", 
+            "ANTH207", 
+            "ANTH447", 
+            "GSWS447", 
+            "ANTH168", 
+            "ANTH106", 
+            "ANTH246", 
+            "ANTH507", 
+            "ANTH249", 
+            "ANTH404", 
+            "GSWS265", 
+            "ANTH407"
         ]
     }, 
     "HCMG653": {
         "prerequisites": [
             "HCMG841"
-        ]
-    }, 
-    "200": {
-        "satisfyReqsFor": [
-            "MSCI420", 
-            "MSCI410", 
-            "MSCI402", 
-            "MSCI401"
-        ]
-    }, 
-    "205": {
-        "satisfyReqsFor": [
-            "BIOL404", 
-            "BIOL407", 
-            "BIOL477", 
-            "BIOL354"
-        ]
-    }, 
-    "ECON252": {
-        "prerequisites": [
-            [
-                "ECON101", 
-                "&&", 
-                "ECON102"
-            ], 
-            "&&", 
-            [
-                [
-                    "MATH104", 
-                    "&&", 
-                    "MATH114"
-                ], 
-                "||", 
-                "MATH115"
-            ]
         ]
     }, 
     "EPID623": {
@@ -7490,14 +7156,6 @@
             "MEAM571"
         ]
     }, 
-    "FNAR370": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "FNAR266", 
-            "&&", 
-            "FNAR269"
-        ]
-    }, 
     "MATH542": {
         "prerequisites": [
             "MATH241"
@@ -7520,9 +7178,21 @@
             "STAT530"
         ]
     }, 
-    "FNAR637": {
+    "MEAM454": {
         "prerequisites": [
-            "FNAR636"
+            [
+                "MEAM210", 
+                "&&", 
+                "MEAM354"
+            ], 
+            "&&", 
+            "MATH240", 
+            "&&", 
+            [
+                "241", 
+                "||", 
+                "ENM251"
+            ]
         ]
     }, 
     "BIBB499": {
@@ -7594,9 +7264,12 @@
             "ACCT742"
         ]
     }, 
-    "GRMN377": {
+    "LATN102": {
         "prerequisites": [
-            "GRMN203"
+            "LATN101"
+        ], 
+        "satisfyReqsFor": [
+            "LATN203"
         ]
     }, 
     "ENGL112": {
@@ -7620,17 +7293,11 @@
             "GSWS430"
         ]
     }, 
-    "FNAR287": {
-        "instructorPermission": true, 
+    "CINE064": {
         "prerequisites": [
-            "FNAR275", 
-            "||", 
-            "FNAR583"
-        ]
-    }, 
-    "GEOL527": {
-        "prerequisites": [
-            "GEOL205"
+            "CINE061", 
+            "&&", 
+            "CINE062"
         ]
     }, 
     "STAT926": {
@@ -7696,11 +7363,16 @@
             ]
         ]
     }, 
-    "EDUC560": {
-        "satisfyReqsFor": [
-            "EDUC765", 
-            "EDUC568", 
-            "EDUC623"
+    "STAT921": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "STAT520", 
+            "&&", 
+            [
+                "541", 
+                "||", 
+                "550"
+            ]
         ]
     }, 
     "CPLN670": {
@@ -7708,38 +7380,14 @@
             "MUSA505"
         ]
     }, 
-    "BIOL221": {
+    "JPAN312": {
         "prerequisites": [
-            "BIOL101", 
-            "||", 
-            "BIOL121"
+            "JPAN311"
         ], 
         "satisfyReqsFor": [
-            "BIOL485", 
-            "BIOL375", 
-            "BIOL483", 
-            "BIOL466", 
-            "BIOL275", 
-            "BIOL197", 
-            "CAMB431", 
-            "BIOL474", 
-            "BIOL431", 
-            "BIOL304", 
-            "BIOL493", 
-            "CAMB422", 
-            "BIOL540", 
-            "BIOL475", 
-            "CAMB485", 
-            "CAMB482", 
-            "CAMB483", 
-            "BIOL575", 
-            "BIOL422", 
-            "BIOL421", 
-            "CIS536", 
-            "BIOL425", 
-            "BIOL405", 
-            "BIOL404", 
-            "BIOL406"
+            "JPAN411", 
+            "EALC770", 
+            "JPAN481"
         ]
     }, 
     "KORN281": {
@@ -7760,9 +7408,21 @@
             "MKTG101"
         ]
     }, 
-    "AFST190": {
-        "satisfyReqsFor": [
-            "HIST372"
+    "ECON245": {
+        "prerequisites": [
+            "ECON101", 
+            "&&", 
+            "ECON102", 
+            "&&", 
+            [
+                [
+                    "MATH104", 
+                    "&&", 
+                    "MATH114"
+                ], 
+                "||", 
+                "115"
+            ]
         ]
     }, 
     "ECON246": {
@@ -7840,6 +7500,11 @@
             "FREN212"
         ]
     }, 
+    "SPAN222": {
+        "prerequisites": [
+            "SPAN219"
+        ]
+    }, 
     "ESE403": {
         "prerequisites": [
             "ESE304"
@@ -7863,15 +7528,31 @@
             "BIOL536"
         ]
     }, 
+    "BEPP987": {
+        "prerequisites": [
+            "ECON701", 
+            "&&", 
+            [
+                "703", 
+                "||", 
+                "ECON680"
+            ], 
+            "&&", 
+            "ECON682"
+        ]
+    }, 
     "CIS630": {
         "instructorPermission": true, 
         "prerequisites": [
             "CIS530"
         ]
     }, 
-    "ARCH601": {
+    "EDUC767": {
+        "prerequisites": [
+            "EDUC667"
+        ], 
         "satisfyReqsFor": [
-            "LARP720"
+            "EDUC881"
         ]
     }, 
     "GEOL419": {
@@ -7886,9 +7567,14 @@
             "GEOL201"
         ]
     }, 
-    "ARCH402": {
+    "AFST284": {
+        "instructorPermission": true, 
         "prerequisites": [
-            "ARCH401"
+            "AFST280", 
+            "&&", 
+            "LING280", 
+            "&&", 
+            "AFRC280"
         ]
     }, 
     "GEOL411": {
@@ -7905,12 +7591,6 @@
         "satisfyReqsFor": [
             "AFST284", 
             "AFRC284"
-        ]
-    }, 
-    "BIBB260": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "BIBB109"
         ]
     }, 
     "PSYC451": {
@@ -7967,12 +7647,17 @@
             "PSYC247"
         ]
     }, 
-    "NURS682": {
+    "CIS561": {
         "prerequisites": [
-            "NURS681"
-        ], 
-        "satisfyReqsFor": [
-            "NURS683"
+            "CIS120", 
+            "&&", 
+            [
+                "121", 
+                "||", 
+                "CIS460", 
+                "||", 
+                "CIS560"
+            ]
         ]
     }, 
     "ALAN120": {
@@ -8043,22 +7728,40 @@
             "NURS557"
         ]
     }, 
-    "NURS686": {
+    "CIS565": {
         "prerequisites": [
-            "NURS657"
+            [
+                "CIS460", 
+                "||", 
+                [
+                    "CIS560", 
+                    "&&", 
+                    "CIS501"
+                ]
+            ], 
+            "&&", 
+            [
+                "CIT593", 
+                "&&", 
+                "CIT595"
+            ], 
+            "&&", 
+            "CIS240", 
+            "&&", 
+            "CIS371"
         ]
     }, 
-    "NURS685": {
-        "satisfyReqsFor": [
-            "NURS608", 
-            "NURS735", 
-            "NURS734"
+    "RUSS420": {
+        "prerequisites": [
+            "RUSS312"
         ]
     }, 
-    "URBS226": {
+    "LING604": {
         "instructorPermission": true, 
         "prerequisites": [
-            "FNAR271"
+            "LING550", 
+            "&&", 
+            "LING590"
         ]
     }, 
     "STAT621": {
@@ -8069,21 +7772,14 @@
             "FNCE611"
         ]
     }, 
-    "MSE537": {
-        "prerequisites": [
-            "MEAM354"
-        ]
-    }, 
     "PSCI259": {
         "prerequisites": [
             "PSCI219"
         ]
     }, 
-    "CINE064": {
+    "GEOL527": {
         "prerequisites": [
-            "CINE061", 
-            "&&", 
-            "CINE062"
+            "GEOL205"
         ]
     }, 
     "CINE066": {
@@ -8156,17 +7852,12 @@
             "CIS510"
         ]
     }, 
-    "CIS561": {
+    "NURS682": {
         "prerequisites": [
-            "CIS120", 
-            "&&", 
-            [
-                "121", 
-                "||", 
-                "CIS460", 
-                "||", 
-                "CIS560"
-            ]
+            "NURS681"
+        ], 
+        "satisfyReqsFor": [
+            "NURS683"
         ]
     }, 
     "CIS562": {
@@ -8174,32 +7865,16 @@
             "CIS568"
         ]
     }, 
-    "CIS565": {
+    "NURS686": {
         "prerequisites": [
-            [
-                "CIS460", 
-                "||", 
-                [
-                    "CIS560", 
-                    "&&", 
-                    "CIS501"
-                ]
-            ], 
-            "&&", 
-            [
-                "CIT593", 
-                "&&", 
-                "CIT595"
-            ], 
-            "&&", 
-            "CIS240", 
-            "&&", 
-            "CIS371"
+            "NURS657"
         ]
     }, 
-    "RUSS420": {
-        "prerequisites": [
-            "RUSS312"
+    "NURS685": {
+        "satisfyReqsFor": [
+            "NURS608", 
+            "NURS735", 
+            "NURS734"
         ]
     }, 
     "NURS684": {
@@ -8281,13 +7956,6 @@
             "ENM511"
         ]
     }, 
-    "BIOL431": {
-        "prerequisites": [
-            "BIOL221", 
-            "&&", 
-            "BIOL421"
-        ]
-    }, 
     "SWRK708": {
         "satisfyReqsFor": [
             "SWRK718"
@@ -8323,31 +7991,26 @@
             "SWRK714"
         ]
     }, 
-    "SPAN225": {
-        "prerequisites": [
-            "SPAN219", 
-            "||", 
-            "SPAN223"
-        ]
-    }, 
-    "WHCP899": {
-        "prerequisites": [
-            "WHCP653"
-        ]
-    }, 
     "BEPP284": {
         "prerequisites": [
             "BEPP250"
         ]
     }, 
-    "150": {
-        "satisfyReqsFor": [
-            "BE324"
+    "EALC140": {
+        "prerequisites": [
+            "EALC001"
         ]
     }, 
     "BEPP288": {
         "prerequisites": [
             "BEPP250"
+        ]
+    }, 
+    "FNCE382": {
+        "prerequisites": [
+            "FNCE203", 
+            "&&", 
+            "FNCE207"
         ]
     }, 
     "PSCI130": {
@@ -8445,19 +8108,11 @@
             "STAT552"
         ]
     }, 
-    "STAT550": {
+    "MGMT244": {
         "prerequisites": [
-            "STAT431", 
-            "||", 
-            "STAT520", 
-            "||", 
-            "MATH360"
-        ], 
-        "satisfyReqsFor": [
-            "OPIM930", 
-            "OPIM900", 
-            "STAT552", 
-            "STAT551"
+            "MGMT100", 
+            "&&", 
+            "MGMT101"
         ]
     }, 
     "BIOM555": {
@@ -8490,19 +8145,13 @@
             "OPIM691"
         ]
     }, 
+    "BIOL460": {
+        "prerequisites": [
+            "BIOL240"
+        ]
+    }, 
     "TCOM799": {
         "prerequisites": []
-    }, 
-    "STAT434": {
-        "prerequisites": [
-            "STAT101", 
-            "&&", 
-            [
-                "102", 
-                "||", 
-                "431"
-            ]
-        ]
     }, 
     "SPAN453": {
         "satisfyReqsFor": [
@@ -8601,30 +8250,19 @@
             "MEAM321"
         ]
     }, 
-    "BIBB269": {
-        "prerequisites": [
-            "BIBB109"
-        ]
-    }, 
     "FNAR341": {
         "prerequisites": [
             "FNAR271"
         ]
     }, 
-    "MEAM215": {
-        "prerequisites": [
-            "MEAM210", 
-            "&&", 
-            [
-                "MSE220", 
-                "||", 
-                "MATH240"
-            ], 
-            "&&", 
-            "MEAM101"
-        ], 
+    "FNAR340": {
         "satisfyReqsFor": [
-            "ESE313"
+            "FNAR282", 
+            "FNAR284", 
+            "FNAR349", 
+            "FNAR278", 
+            "FNAR274", 
+            "FNAR591"
         ]
     }, 
     "NURS360": {
@@ -8648,11 +8286,9 @@
             "NURS106"
         ]
     }, 
-    "NURS364": {
+    "COLL225": {
         "prerequisites": [
-            "NURS104", 
-            "&&", 
-            "NURS106"
+            "GRMN215"
         ]
     }, 
     "NURS365": {
@@ -8761,25 +8397,23 @@
             "MEAM215"
         ]
     }, 
-    "MATH676": {
-        "instructorPermission": true, 
+    "CBE350": {
         "prerequisites": [
-            "MATH312", 
-            "||", 
-            "MATH412"
+            "CBE231"
+        ], 
+        "satisfyReqsFor": [
+            "CBE340", 
+            "CBE351"
         ]
     }, 
-    "ESE508": {
+    "GRMN377": {
         "prerequisites": [
-            "&&", 
-            "ESE301", 
-            "&&", 
-            "ESE302"
+            "GRMN203"
         ]
     }, 
-    "FNAR063": {
+    "ANEL462": {
         "prerequisites": [
-            "FNAR061"
+            "ANEL460"
         ]
     }, 
     "FNAR061": {
@@ -8847,11 +8481,6 @@
             "NURS358", 
             "NURS245", 
             "NURS255"
-        ]
-    }, 
-    "STSC110": {
-        "satisfyReqsFor": [
-            "STSC310"
         ]
     }, 
     "NURS210": {
@@ -9119,6 +8748,11 @@
             "ACCT620"
         ]
     }, 
+    "EDUC706": {
+        "prerequisites": [
+            "EDUC547"
+        ]
+    }, 
     "ESE650": {
         "instructorPermission": true, 
         "prerequisites": [
@@ -9132,10 +8766,9 @@
             "NURS754"
         ]
     }, 
-    "BIOL410": {
-        "instructorPermission": true, 
+    "FNCE926": {
         "prerequisites": [
-            "BIOL230"
+            "STAT521"
         ]
     }, 
     "EPID526": {
@@ -9176,6 +8809,20 @@
             "EDUC670"
         ]
     }, 
+    "PHYS240": {
+        "prerequisites": [
+            "PHYS151", 
+            "||", 
+            "PHYS171"
+        ], 
+        "satisfyReqsFor": [
+            "PHYS401", 
+            "MSE525", 
+            "PHYS421", 
+            "ESE525", 
+            "ESE521"
+        ]
+    }, 
     "STAT953": {
         "prerequisites": [
             "STAT430", 
@@ -9202,22 +8849,37 @@
             "MSE565"
         ]
     }, 
+    "EPID656": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "EPID510", 
+            "||", 
+            "EPID526", 
+            "||", 
+            "EPID527"
+        ]
+    }, 
     "STAT955": {
         "prerequisites": [
             "STAT530"
         ]
     }, 
-    "BIOL414": {
-        "instructorPermission": true, 
+    "FNCE922": {
         "prerequisites": [
-            "BIOL240"
+            "FNCE911", 
+            "&&", 
+            "ECON701", 
+            "&&", 
+            "ECON703"
+        ], 
+        "satisfyReqsFor": [
+            "FNCE933", 
+            "FNCE923"
         ]
     }, 
-    "BIOL415": {
+    "FNCE923": {
         "prerequisites": [
-            "BIOL101", 
-            "||", 
-            "BIOL121"
+            "FNCE922"
         ]
     }, 
     "EALC001": {
@@ -9233,11 +8895,9 @@
             "EALC169"
         ]
     }, 
-    "ECON730": {
-        "prerequisites": [
-            "ECON701", 
-            "&&", 
-            "ECON702"
+    "COMM340": {
+        "satisfyReqsFor": [
+            "COMM308"
         ]
     }, 
     "FNCE719": {
@@ -9251,11 +8911,19 @@
             "FNCE613"
         ]
     }, 
-    "ECON731": {
+    "CHIN411": {
+        "instructorPermission": true, 
         "prerequisites": [
-            "ECON701", 
+            "CHIN331", 
             "&&", 
-            "ECON702"
+            "CHIN361", 
+            "&&", 
+            "CHIN382"
+        ], 
+        "satisfyReqsFor": [
+            "CHIN515", 
+            "CHIN415", 
+            "CHIN510"
         ]
     }, 
     "BIOL330": {
@@ -9283,13 +8951,6 @@
             "COMM750"
         ]
     }, 
-    "COMM640": {
-        "prerequisites": [
-            "COMM522", 
-            "&&", 
-            "COMM524"
-        ]
-    }, 
     "CIS620": {
         "prerequisites": [
             "CIS520"
@@ -9302,34 +8963,44 @@
             "MATH114"
         ]
     }, 
-    "BMB602": {
+    "SPAN394": {
         "prerequisites": [
-            "BMB601"
+            "SPAN219", 
+            "||", 
+            "SPAN223"
         ]
     }, 
-    "ECON300": {
-        "instructorPermission": true, 
+    "BIOL202": {
         "prerequisites": [
-            "ECON101", 
-            "&&", 
-            "ECON102", 
-            "&&", 
-            [
-                "103", 
-                "&&", 
-                "104", 
-                "&&"
-            ], 
-            "&&", 
             [
                 [
-                    "MATH104", 
+                    "BIOL101", 
                     "&&", 
-                    "MATH114"
+                    "BIOL102"
                 ], 
                 "||", 
-                "MATH115"
-            ]
+                "BIOL121"
+            ], 
+            "&&"
+        ], 
+        "satisfyReqsFor": [
+            "BIOL448", 
+            "BIOL486", 
+            "BIOL480", 
+            "CAMB482", 
+            "BIOL482", 
+            "BIOL477", 
+            "BIOL197", 
+            "BIOL402", 
+            "BIOL306", 
+            "BIOL425", 
+            "BIOL405", 
+            "BIOL404", 
+            "BIOL407", 
+            "BIOL406", 
+            "BIOL484", 
+            "BE441", 
+            "BIOL354"
         ]
     }, 
     "GEOL400": {
@@ -9345,19 +9016,27 @@
             "ENVS200"
         ]
     }, 
-    "SPAN392": {
+    "MKTG771": {
         "prerequisites": [
-            "SPAN219", 
-            "||", 
-            "SPAN223"
+            [
+                "MKTG611", 
+                "||", 
+                "MKTG621"
+            ], 
+            "&&", 
+            "MKTG612", 
+            "&&", 
+            [
+                "613", 
+                "||", 
+                "622"
+            ]
         ]
     }, 
-    "NURS618": {
+    "PHIL460": {
+        "instructorPermission": true, 
         "prerequisites": [
-            "NURS617"
-        ], 
-        "satisfyReqsFor": [
-            "NURS619"
+            "PHIL004"
         ]
     }, 
     "CIS391": {
@@ -9517,17 +9196,6 @@
             "SPAN219"
         ]
     }, 
-    "FNAR556": {
-        "prerequisites": [
-            "FNAR523", 
-            "&&", 
-            [
-                "FNAR542", 
-                "||", 
-                "ARCH302"
-            ]
-        ]
-    }, 
     "NURS690": {
         "prerequisites": [
             "NURS656", 
@@ -9625,12 +9293,6 @@
             "SWRK603"
         ]
     }, 
-    "NURS617": {
-        "satisfyReqsFor": [
-            "NURS618", 
-            "NURS580"
-        ]
-    }, 
     "SWRK718": {
         "prerequisites": [
             "SWRK708"
@@ -9719,6 +9381,15 @@
             "SPAN125"
         ]
     }, 
+    "PRTG130": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "PRTG120"
+        ], 
+        "satisfyReqsFor": [
+            "PRTG140"
+        ]
+    }, 
     "CIT596": {
         "prerequisites": [
             "CIT592"
@@ -9779,15 +9450,30 @@
             "MEAM420"
         ]
     }, 
-    "509": {
+    "STAT550": {
+        "prerequisites": [
+            "STAT431", 
+            "||", 
+            "STAT520", 
+            "||", 
+            "MATH360"
+        ], 
         "satisfyReqsFor": [
-            "MATH548"
+            "OPIM930", 
+            "OPIM900", 
+            "STAT552", 
+            "STAT551"
         ]
     }, 
     "CHEM251": {
         "prerequisites": [
             "&&", 
             "241"
+        ]
+    }, 
+    "MGMT654": {
+        "satisfyReqsFor": [
+            "MGMT736"
         ]
     }, 
     "NURS746": {
@@ -9839,26 +9525,6 @@
             "STAT510"
         ]
     }, 
-    "601": {
-        "satisfyReqsFor": [
-            "MATH632"
-        ]
-    }, 
-    "603": {
-        "satisfyReqsFor": [
-            "MATH622"
-        ]
-    }, 
-    "JPAN211": {
-        "prerequisites": [
-            "JPAN112", 
-            "||", 
-            "JPAN022"
-        ], 
-        "satisfyReqsFor": [
-            "JPAN212"
-        ]
-    }, 
     "OPIM653": {
         "prerequisites": [
             "OPIM321", 
@@ -9870,6 +9536,17 @@
         "satisfyReqsFor": [
             "NELC243", 
             "NELC643"
+        ]
+    }, 
+    "FNAR553": {
+        "prerequisites": [
+            [
+                "FNAR551", 
+                "&&", 
+                "FNAR552"
+            ], 
+            "||", 
+            "FNAR557"
         ]
     }, 
     "MKTG622": {
@@ -9935,6 +9612,23 @@
     "CHIN001": {
         "satisfyReqsFor": [
             "CHIN002"
+        ]
+    }, 
+    "MATH603": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "MATH602"
+        ], 
+        "satisfyReqsFor": [
+            "MATH650", 
+            "MATH654", 
+            "MATH660", 
+            "MATH628", 
+            "MATH620", 
+            "MATH632", 
+            "MATH624", 
+            "MATH627", 
+            "MATH626"
         ]
     }, 
     "JWST174": {
@@ -10178,23 +9872,9 @@
             "LING082"
         ]
     }, 
-    "RUSS312": {
+    "LING086": {
         "prerequisites": [
-            "RUSS311"
-        ], 
-        "satisfyReqsFor": [
-            "RUSS485", 
-            "RUSS420", 
-            "COLL224", 
-            "RUSS506", 
-            "RUSS409", 
-            "RUSS419", 
-            "RUSS418", 
-            "RUSS417", 
-            "RUSS416", 
-            "RUSS413", 
-            "RUSS412", 
-            "RUSS410"
+            "LING085"
         ]
     }, 
     "LING085": {
@@ -10322,67 +10002,55 @@
             "FNAR340"
         ]
     }, 
-    "454": {
-        "satisfyReqsFor": [
-            "SPAN140", 
-            "SPAN145"
-        ]
-    }, 
-    "MSE571": {
+    "FNAR574": {
+        "instructorPermission": true, 
         "prerequisites": [
-            "MSE570"
+            "FNAR571", 
+            "||", 
+            "FNAR640"
         ]
     }, 
-    "MSE570": {
-        "satisfyReqsFor": [
-            "MSE571", 
-            "ESE515"
-        ]
-    }, 
-    "BIBB109": {
-        "satisfyReqsFor": [
-            "BIBB460", 
-            "BIBB410", 
-            "PSYC225", 
-            "BIBB249", 
-            "BIBB240", 
-            "BIBB247", 
-            "BIBB482", 
-            "BIBB269", 
-            "BIBB480", 
-            "BIBB481", 
-            "PSYC417", 
-            "BIBB217", 
-            "BIBB260", 
-            "BIBB310", 
-            "BIBB207", 
-            "BIBB235", 
-            "BIBB399", 
-            "BIBB409", 
-            "BIBB420", 
-            "BIBB417", 
-            "BIBB430"
-        ]
-    }, 
-    "MSE575": {
-        "satisfyReqsFor": [
-            "CBE602"
-        ]
-    }, 
-    "MEAM554": {
+    "MEAM550": {
         "prerequisites": [
-            "MEAM210", 
-            "&&", 
-            "MEAM354", 
-            "&&", 
-            "MATH240", 
-            "&&", 
-            "MATH241"
+            "MEAM354"
         ]
     }, 
-    "EDUC725": {
+    "EDUC721": {
         "prerequisites": [
-            "EDUC687"
+            "EDUC682"
+        ], 
+        "satisfyReqsFor": [
+            "EDUC700"
+        ]
+    }, 
+    "FNAR570": {
+        "prerequisites": [
+            "FNAR566", 
+            "||", 
+            "FNAR569"
+        ]
+    }, 
+    "FNAR571": {
+        "satisfyReqsFor": [
+            "FNAR641", 
+            "FNAR679", 
+            "FNAR626", 
+            "FNAR574", 
+            "FNAR684", 
+            "FNAR572", 
+            "FNAR578", 
+            "FNAR676", 
+            "FNAR583", 
+            "FNAR582"
+        ]
+    }, 
+    "FNAR572": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "FNAR571"
+        ], 
+        "satisfyReqsFor": [
+            "FNAR588"
         ]
     }, 
     "PUBH505": {
@@ -10409,19 +10077,12 @@
             "NURS754"
         ]
     }, 
-    "NURS103": {
+    "FNAR684": {
+        "instructorPermission": true, 
         "prerequisites": [
-            "NURS101"
-        ], 
-        "satisfyReqsFor": [
-            "NURS215"
-        ]
-    }, 
-    "ACCT297": {
-        "prerequisites": [
-            "ACCT101", 
-            "&&", 
-            "FNCE101"
+            "FNAR571", 
+            "||", 
+            "FNAR640"
         ]
     }, 
     "FNAR685": {
@@ -10464,13 +10125,9 @@
             "SLAV506"
         ]
     }, 
-    "SLAV502": {
-        "instructorPermission": true, 
+    "GRMN269": {
         "prerequisites": [
-            "SLAV501"
-        ], 
-        "satisfyReqsFor": [
-            "SLAV503"
+            "GRMN104"
         ]
     }, 
     "SLAV503": {
@@ -10595,14 +10252,9 @@
             "STAT940"
         ]
     }, 
-    "URBS400": {
+    "ITAL134": {
         "prerequisites": [
-            "URBS200", 
-            "&&", 
-            "URBS300"
-        ], 
-        "satisfyReqsFor": [
-            "URBS401"
+            "ITAL112"
         ]
     }, 
     "ITAL130": {
@@ -10618,9 +10270,23 @@
             "ITAL140"
         ]
     }, 
-    "ANEL575": {
-        "satisfyReqsFor": [
-            "ANEL576"
+    "NGG521": {
+        "prerequisites": [
+            "BE301", 
+            "&&", 
+            [
+                "BE209", 
+                "||", 
+                "BE210", 
+                "||", 
+                "BE310"
+            ], 
+            "&&", 
+            "BIOL215", 
+            "&&", 
+            "BE305", 
+            "&&", 
+            "BE520"
         ]
     }, 
     "ANEL574": {
@@ -10700,17 +10366,15 @@
             "BIOL121"
         ]
     }, 
-    "CINE462": {
-        "prerequisites": [
-            "COMM262", 
-            "&&", 
-            "CINE262"
+    "LARP743": {
+        "satisfyReqsFor": [
+            "MUSA505"
         ]
     }, 
-    "241": {
+    "EDUC547": {
         "satisfyReqsFor": [
-            "MEAM454", 
-            "CHEM251"
+            "URBS706", 
+            "EDUC706"
         ]
     }, 
     "MATH501": {
@@ -10829,14 +10493,12 @@
             "MATH572"
         ]
     }, 
-    "PSYC435": {
-        "instructorPermission": true, 
+    "PSYC127": {
         "prerequisites": [
-            "PSYC151", 
-            "||", 
-            "PSYC235", 
-            "||", 
-            "LING001"
+            "PSYC001"
+        ], 
+        "satisfyReqsFor": [
+            "PSYC327"
         ]
     }, 
     "MKTG399": {
@@ -10845,18 +10507,21 @@
             "MKTG212"
         ]
     }, 
-    "FNCE382": {
+    "ESE519": {
         "prerequisites": [
-            "FNCE203", 
-            "&&", 
-            "FNCE207"
+            "ESE350"
         ]
     }, 
-    "MEAM338": {
+    "CINE353": {
+        "instructorPermission": true, 
         "prerequisites": [
-            "MEAM203", 
-            "||", 
-            "CBE231"
+            "FNAR235", 
+            "&&", 
+            [
+                "236", 
+                "||", 
+                "267"
+            ]
         ]
     }, 
     "ESE517": {
@@ -10878,15 +10543,36 @@
             "ESE515"
         ]
     }, 
+    "EDUC687": {
+        "satisfyReqsFor": [
+            "EDUC688", 
+            "EDUC725"
+        ]
+    }, 
     "ESE511": {
         "instructorPermission": true, 
         "prerequisites": [
             "ESE310"
         ]
     }, 
-    "PHYS532": {
+    "EDUC663": {
+        "satisfyReqsFor": [
+            "EDUC612"
+        ]
+    }, 
+    "PSYC151": {
         "prerequisites": [
-            "PHYS531"
+            "PSYC001", 
+            "||", 
+            "COGS001"
+        ], 
+        "satisfyReqsFor": [
+            "VLST212", 
+            "PSYC235", 
+            "PSYC435", 
+            "PSYC335", 
+            "PSYC351", 
+            "PSYC311"
         ]
     }, 
     "GEOL501": {
@@ -10900,9 +10586,9 @@
             "GEOL100"
         ]
     }, 
-    "ARAB031": {
+    "PSYC153": {
         "satisfyReqsFor": [
-            "ARAB032"
+            "PSYC453"
         ]
     }, 
     "ECON262": {
@@ -10922,20 +10608,20 @@
             ]
         ]
     }, 
-    "GEOL507": {
+    "ECON260": {
         "prerequisites": [
-            [
-                "&&"
-            ], 
+            "ECON101", 
+            "&&", 
+            "ECON103", 
             "&&", 
             [
-                "BIOL101", 
-                "||", 
                 [
-                    "102", 
+                    "MATH104", 
                     "&&", 
-                    "GEOL100"
-                ]
+                    "MATH114"
+                ], 
+                "||", 
+                "115"
             ]
         ]
     }, 
@@ -10966,21 +10652,6 @@
     "GEOL508": {
         "prerequisites": [
             "GEOL100"
-        ]
-    }, 
-    "GRMN215": {
-        "prerequisites": [
-            "GRMN104"
-        ], 
-        "satisfyReqsFor": [
-            "GRMN369", 
-            "GRMN387", 
-            "GRMN372", 
-            "GRMN569", 
-            "COLL225", 
-            "GRMN587", 
-            "GRMN558", 
-            "GRMN561"
         ]
     }, 
     "NELC145": {
@@ -11068,20 +10739,24 @@
             "PHYS414"
         ]
     }, 
-    "FNAR340": {
+    "MEAM215": {
+        "prerequisites": [
+            "MEAM210", 
+            "&&", 
+            [
+                "MSE220", 
+                "||", 
+                "MATH240"
+            ], 
+            "&&", 
+            "MEAM101"
+        ], 
         "satisfyReqsFor": [
-            "FNAR282", 
-            "FNAR284", 
-            "FNAR349", 
-            "FNAR278", 
-            "FNAR274", 
-            "FNAR591"
+            "ESE313"
         ]
     }, 
-    "MKTG246": {
-        "prerequisites": [
-            "MKTG101"
-        ]
+    "BE330": {
+        "prerequisites": []
     }, 
     "MKTG241": {
         "prerequisites": [
@@ -11110,11 +10785,6 @@
             "CIS541"
         ]
     }, 
-    "CPLN550": {
-        "satisfyReqsFor": [
-            "CPLN750"
-        ]
-    }, 
     "COLL222": {
         "prerequisites": [
             "SPAN219"
@@ -11125,9 +10795,11 @@
             "PHYS361"
         ]
     }, 
-    "COLL225": {
+    "NURS364": {
         "prerequisites": [
-            "GRMN215"
+            "NURS104", 
+            "&&", 
+            "NURS106"
         ]
     }, 
     "PHYS361": {
@@ -11176,14 +10848,23 @@
             "RUSS361"
         ]
     }, 
-    "PHYS140": {
+    "RUSS312": {
+        "prerequisites": [
+            "RUSS311"
+        ], 
         "satisfyReqsFor": [
-            "PHYS141", 
-            "BE350", 
-            "BE324", 
-            "BE200", 
-            "BE225", 
-            "MSE221"
+            "RUSS485", 
+            "RUSS420", 
+            "COLL224", 
+            "RUSS506", 
+            "RUSS409", 
+            "RUSS419", 
+            "RUSS418", 
+            "RUSS417", 
+            "RUSS416", 
+            "RUSS413", 
+            "RUSS412", 
+            "RUSS410"
         ]
     }, 
     "PHYS141": {
@@ -11236,11 +10917,21 @@
             "SAST451"
         ]
     }, 
-    "CAMB431": {
+    "MEAM520": {
         "prerequisites": [
-            "BIOL221", 
+            "MEAM211", 
             "&&", 
-            "BIOL421"
+            "MATH240"
+        ], 
+        "satisfyReqsFor": [
+            "MEAM625", 
+            "MEAM620"
+        ]
+    }, 
+    "EDUC684": {
+        "satisfyReqsFor": [
+            "EDUC771", 
+            "EDUC768"
         ]
     }, 
     "HEBR559": {
@@ -11391,27 +11082,6 @@
             "PHIL228"
         ]
     }, 
-    "612": {
-        "satisfyReqsFor": [
-            "FNCE751"
-        ]
-    }, 
-    "613": {
-        "satisfyReqsFor": [
-            "MKTG712", 
-            "MKTG778", 
-            "MKTG746", 
-            "MKTG741", 
-            "MKTG899", 
-            "MKTG771", 
-            "MKTG655", 
-            "MKTG759", 
-            "MKTG724", 
-            "MKTG727", 
-            "MKTG725", 
-            "MKTG751"
-        ]
-    }, 
     "MKTG655": {
         "instructorPermission": true, 
         "prerequisites": [
@@ -11476,18 +11146,17 @@
             "NURS642"
         ]
     }, 
-    "CHIN011": {
-        "satisfyReqsFor": [
-            "CHIN012"
-        ]
-    }, 
-    "CHIN012": {
-        "instructorPermission": true, 
+    "NURS642": {
         "prerequisites": [
-            "CHIN011"
+            "NURS641"
         ], 
         "satisfyReqsFor": [
-            "CHIN111"
+            "NURS643"
+        ]
+    }, 
+    "NURS641": {
+        "satisfyReqsFor": [
+            "NURS642"
         ]
     }, 
     "ALAN210": {
@@ -11558,9 +11227,12 @@
             "FNAR536"
         ]
     }, 
-    "COMM530": {
-        "satisfyReqsFor": [
-            "COMM750"
+    "BIOL486": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "BIOL202", 
+            "||", 
+            "BIOL205"
         ]
     }, 
     "NURS340": {
@@ -11600,11 +11272,9 @@
             "WHCP653"
         ]
     }, 
-    "NELC102": {
-        "satisfyReqsFor": [
-            "NELC338", 
-            "NELC536", 
-            "NELC336"
+    "WHCP899": {
+        "prerequisites": [
+            "WHCP653"
         ]
     }, 
     "LALS398": {
@@ -11661,6 +11331,17 @@
             "NURS547"
         ]
     }, 
+    "MEAM527": {
+        "prerequisites": [
+            "MATH241", 
+            "||", 
+            [
+                "ENM251", 
+                "&&", 
+                "PHYS151"
+            ]
+        ]
+    }, 
     "GRMN387": {
         "prerequisites": [
             "GRMN215"
@@ -11676,9 +11357,11 @@
             "GRMN203"
         ]
     }, 
-    "FNAR337": {
+    "THAR236": {
         "prerequisites": [
-            "FNAR264"
+            "THAR120", 
+            "||", 
+            "THAR121"
         ]
     }, 
     "BMB601": {
@@ -11686,9 +11369,9 @@
             "BMB602"
         ]
     }, 
-    "CINE068": {
+    "BMB602": {
         "prerequisites": [
-            "FNAR061"
+            "BMB601"
         ]
     }, 
     "BMB604": {
@@ -11803,21 +11486,9 @@
             "MEAM302"
         ]
     }, 
-    "MATH603": {
-        "instructorPermission": true, 
+    "EDUC725": {
         "prerequisites": [
-            "MATH602"
-        ], 
-        "satisfyReqsFor": [
-            "MATH650", 
-            "MATH654", 
-            "MATH660", 
-            "MATH628", 
-            "MATH620", 
-            "MATH632", 
-            "MATH624", 
-            "MATH627", 
-            "MATH626"
+            "EDUC687"
         ]
     }, 
     "MATH602": {
@@ -11844,18 +11515,20 @@
             "MATH626"
         ]
     }, 
-    "MEAM540": {
+    "MATH601": {
         "instructorPermission": true, 
         "prerequisites": [
-            "MATH240", 
-            "&&", 
-            [
-                "312", 
-                "||", 
-                "MEAM210"
-            ], 
-            "&&", 
-            "MATH453"
+            "MATH600"
+        ], 
+        "satisfyReqsFor": [
+            "MATH630", 
+            "MATH646", 
+            "MATH645", 
+            "MATH644", 
+            "MATH648", 
+            "MATH660", 
+            "MATH618", 
+            "MATH654"
         ]
     }, 
     "MATH600": {
@@ -11888,11 +11561,6 @@
             "MGEC621"
         ]
     }, 
-    "GRMN318": {
-        "prerequisites": [
-            "GRMN203"
-        ]
-    }, 
     "LING302": {
         "prerequisites": [
             "LING230", 
@@ -11912,9 +11580,12 @@
             "ESE530"
         ]
     }, 
-    "ARCH432": {
+    "GEOL422": {
         "prerequisites": [
-            "ARCH431"
+            "GEOL100"
+        ], 
+        "satisfyReqsFor": [
+            "GEOL423"
         ]
     }, 
     "ESE630": {
@@ -11945,9 +11616,15 @@
             "BMB611"
         ]
     }, 
-    "ARCH431": {
+    "GEOL421": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "ENVS200", 
+            "&&", 
+            "GEOL100"
+        ], 
         "satisfyReqsFor": [
-            "ARCH432"
+            "GEOL621"
         ]
     }, 
     "GEOL645": {
@@ -11955,6 +11632,11 @@
             "GEOL100", 
             "&&", 
             "GEOL201"
+        ]
+    }, 
+    "ARCH435": {
+        "satisfyReqsFor": [
+            "ARCH436"
         ]
     }, 
     "ITAL120": {
@@ -12015,12 +11697,9 @@
             "BIOL202"
         ]
     }, 
-    "BIOL486": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "BIOL202", 
-            "||", 
-            "BIOL205"
+    "COMM530": {
+        "satisfyReqsFor": [
+            "COMM750"
         ]
     }, 
     "BIOL480": {
@@ -12083,12 +11762,9 @@
             "ANCE611"
         ]
     }, 
-    "GEOL422": {
+    "ARCH432": {
         "prerequisites": [
-            "GEOL100"
-        ], 
-        "satisfyReqsFor": [
-            "GEOL423"
+            "ARCH431"
         ]
     }, 
     "GEOL423": {
@@ -12110,15 +11786,9 @@
             "GEOL657"
         ]
     }, 
-    "GEOL421": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "ENVS200", 
-            "&&", 
-            "GEOL100"
-        ], 
+    "ARCH431": {
         "satisfyReqsFor": [
-            "GEOL621"
+            "ARCH432"
         ]
     }, 
     "ARCH436": {
@@ -12131,9 +11801,11 @@
             "ARCH433"
         ]
     }, 
-    "ARCH435": {
-        "satisfyReqsFor": [
-            "ARCH436"
+    "BIOL431": {
+        "prerequisites": [
+            "BIOL221", 
+            "&&", 
+            "BIOL421"
         ]
     }, 
     "OF550": {
@@ -12195,6 +11867,11 @@
             "CIS534"
         ]
     }, 
+    "FNAR552": {
+        "satisfyReqsFor": [
+            "FNAR553"
+        ]
+    }, 
     "CHIN372": {
         "instructorPermission": true, 
         "prerequisites": [
@@ -12215,22 +11892,6 @@
     "SOCI100": {
         "satisfyReqsFor": [
             "SOCI300"
-        ]
-    }, 
-    "BIOL466": {
-        "prerequisites": [
-            "BIOL221", 
-            "&&", 
-            [
-                "BIOL251", 
-                "&&", 
-                "BIOL421"
-            ]
-        ]
-    }, 
-    "NURS725": {
-        "satisfyReqsFor": [
-            "NURS741"
         ]
     }, 
     "ECON212": {
@@ -12303,9 +11964,9 @@
             "FNCE613"
         ]
     }, 
-    "ARCH433": {
+    "BSTA510": {
         "satisfyReqsFor": [
-            "ARCH434"
+            "BSTA774"
         ]
     }, 
     "GEOL510": {
@@ -12420,14 +12081,16 @@
             "SPAN219"
         ]
     }, 
-    "HSPV740": {
-        "prerequisites": [
-            "HSPV555"
+    "JWST031": {
+        "satisfyReqsFor": [
+            "JWST032"
         ]
     }, 
-    "MKTG274": {
+    "ECON750": {
         "prerequisites": [
-            "MKTG101"
+            "ECON701", 
+            "&&", 
+            "ECON703"
         ]
     }, 
     "COML223": {
@@ -12540,13 +12203,6 @@
             "CHIN212"
         ]
     }, 
-    "SPAN384": {
-        "prerequisites": [
-            "SPAN219", 
-            "||", 
-            "SPAN223"
-        ]
-    }, 
     "CBE353": {
         "prerequisites": [
             "CBE231"
@@ -12653,9 +12309,9 @@
             "NURS741"
         ]
     }, 
-    "MGMT740": {
-        "prerequisites": [
-            "MGMT610"
+    "NURS725": {
+        "satisfyReqsFor": [
+            "NURS741"
         ]
     }, 
     "TURK626": {
@@ -12697,12 +12353,9 @@
             "TURK622"
         ]
     }, 
-    "NURS674": {
-        "prerequisites": [
-            "NURS673"
-        ], 
+    "CHIN041": {
         "satisfyReqsFor": [
-            "NURS675"
+            "CHIN042"
         ]
     }, 
     "ESE116": {
@@ -12713,19 +12366,6 @@
         ], 
         "satisfyReqsFor": [
             "ESE313"
-        ]
-    }, 
-    "NURS675": {
-        "prerequisites": [
-            "NURS670", 
-            "&&", 
-            "NURS671", 
-            "&&", 
-            "NURS672", 
-            "&&", 
-            "NURS673", 
-            "&&", 
-            "NURS674"
         ]
     }, 
     "MTR501": {
@@ -12851,11 +12491,20 @@
             "MGMT101"
         ]
     }, 
-    "STAT432": {
+    "BE455": {
         "prerequisites": [
-            "STAT430", 
-            "||", 
-            "STAT510"
+            "&&", 
+            [
+                "BE200", 
+                "||", 
+                "MEAM210"
+            ], 
+            "&&", 
+            [
+                "BE350", 
+                "||", 
+                "MEAM302"
+            ]
         ]
     }, 
     "MGMT237": {
@@ -12932,6 +12581,13 @@
             "SPAN219"
         ]
     }, 
+    "SPAN382": {
+        "prerequisites": [
+            "SPAN219", 
+            "||", 
+            "SPAN223"
+        ]
+    }, 
     "MATH760": {
         "prerequisites": [
             "MATH660", 
@@ -12939,14 +12595,11 @@
             "MATH661"
         ]
     }, 
-    "LING590": {
-        "instructorPermission": true, 
+    "MATH761": {
         "prerequisites": [
-            "LING550"
-        ], 
-        "satisfyReqsFor": [
-            "LING591", 
-            "LING604"
+            "MATH660", 
+            "||", 
+            "MATH661"
         ]
     }, 
     "MATH371": {
@@ -12961,11 +12614,6 @@
             "MATH572"
         ]
     }, 
-    "312": {
-        "satisfyReqsFor": [
-            "MEAM540"
-        ]
-    }, 
     "MEAM625": {
         "prerequisites": [
             "MEAM510", 
@@ -12975,14 +12623,17 @@
             "MEAM535"
         ]
     }, 
-    "FNAR560": {
+    "MATH370": {
+        "prerequisites": [
+            "MATH240"
+        ], 
         "satisfyReqsFor": [
-            "FNAR564"
-        ]
-    }, 
-    "317": {
-        "satisfyReqsFor": [
-            "GEOL540"
+            "MATH548", 
+            "MATH501", 
+            "MATH371", 
+            "MATH550", 
+            "MATH602", 
+            "MATH480"
         ]
     }, 
     "MEAM150": {
@@ -13016,11 +12667,18 @@
             "NURS380"
         ]
     }, 
-    "OPIM691": {
+    "MEAM535": {
+        "satisfyReqsFor": [
+            "MEAM625", 
+            "MEAM620"
+        ]
+    }, 
+    "FNAR370": {
+        "instructorPermission": true, 
         "prerequisites": [
-            "STAT621", 
+            "FNAR266", 
             "&&", 
-            "OPIM621"
+            "FNAR269"
         ]
     }, 
     "SPAN223": {
@@ -13054,9 +12712,9 @@
             "CINE396"
         ]
     }, 
-    "EAS545": {
+    "ANCE611": {
         "satisfyReqsFor": [
-            "EAS546"
+            "HCMG849"
         ]
     }, 
     "EAS546": {
@@ -13064,9 +12722,11 @@
             "EAS545"
         ]
     }, 
-    "FNAR378": {
+    "SPAN225": {
         "prerequisites": [
-            "FNAR234"
+            "SPAN219", 
+            "||", 
+            "SPAN223"
         ]
     }, 
     "MATH584": {
@@ -13143,11 +12803,15 @@
             "ITAL202"
         ]
     }, 
-    "MEAM533": {
+    "FNAR556": {
         "prerequisites": [
-            "MEAM302", 
+            "FNAR523", 
             "&&", 
-            "MEAM333"
+            [
+                "FNAR542", 
+                "||", 
+                "ARCH302"
+            ]
         ]
     }, 
     "FNAR557": {
@@ -13160,9 +12824,9 @@
             "MEAM647"
         ]
     }, 
-    "MEAM537": {
-        "prerequisites": [
-            "MEAM354"
+    "ITAL201": {
+        "satisfyReqsFor": [
+            "ITAL203"
         ]
     }, 
     "EDUC700": {
@@ -13170,14 +12834,14 @@
             "EDUC721"
         ]
     }, 
-    "EDUC703": {
+    "ITAL203": {
         "prerequisites": [
-            "EDUC682"
+            "ITAL201"
         ]
     }, 
-    "FNAR551": {
+    "ITAL202": {
         "satisfyReqsFor": [
-            "FNAR553"
+            "ITAL208"
         ]
     }, 
     "CAMB542": {
@@ -13304,13 +12968,11 @@
             "KORN132"
         ]
     }, 
-    "PPE272": {
+    "ENVS410": {
         "prerequisites": [
-            "PHIL002", 
+            "ENVS200", 
             "&&", 
-            "PHIL008", 
-            "&&", 
-            "PHIL009"
+            "GEOL100"
         ]
     }, 
     "KORN132": {
@@ -13449,11 +13111,6 @@
             "SOCI535"
         ]
     }, 
-    "SPAN388": {
-        "prerequisites": [
-            "SPAN219"
-        ]
-    }, 
     "EPID666": {
         "instructorPermission": true, 
         "prerequisites": [
@@ -13494,15 +13151,6 @@
         "instructorPermission": true, 
         "prerequisites": [
             "YDSH103"
-        ]
-    }, 
-    "MATH321": {
-        "prerequisites": [
-            "MATH320"
-        ], 
-        "satisfyReqsFor": [
-            "MATH574", 
-            "MATH692"
         ]
     }, 
     "BIOL493": {
@@ -13549,9 +13197,12 @@
             "JPAN212"
         ]
     }, 
-    "281": {
+    "EALC651": {
+        "prerequisites": [
+            "JPAN212"
+        ], 
         "satisfyReqsFor": [
-            "PSYC386"
+            "EALC652"
         ]
     }, 
     "IMUN507": {
@@ -13575,6 +13226,11 @@
             "IMUN506"
         ]
     }, 
+    "PSYC362": {
+        "prerequisites": [
+            "PSYC162"
+        ]
+    }, 
     "LARP720": {
         "prerequisites": [
             "LARP501", 
@@ -13595,11 +13251,6 @@
     "GRMN302": {
         "prerequisites": [
             "GRMN203"
-        ]
-    }, 
-    "BIBB431": {
-        "prerequisites": [
-            "BIBB231"
         ]
     }, 
     "COMM425": {
@@ -13630,10 +13281,10 @@
             "EALC001"
         ]
     }, 
-    "CHIN362": {
-        "instructorPermission": true, 
+    "CIS340": {
         "prerequisites": [
-            "CHIN631"
+            "&&", 
+            "121"
         ]
     }, 
     "CIS341": {
@@ -13670,49 +13321,48 @@
             ]
         ]
     }, 
-    "CHIN361": {
-        "instructorPermission": true, 
+    "BIOL275": {
         "prerequisites": [
-            "CHIN232", 
+            [
+                "BIOL101", 
+                "||", 
+                "BIOL121"
+            ], 
             "&&", 
-            "CHIN311", 
-            "&&", 
-            "CHIN331"
+            "BIOL221"
         ], 
         "satisfyReqsFor": [
-            "CHIN411", 
-            "CHIN412", 
-            "CHIN415", 
-            "CHIN382"
+            "BIOL474", 
+            "BIOL304"
         ]
     }, 
-    "REAL973": {
-        "prerequisites": [
-            "MGEC621"
-        ]
-    }, 
-    "FNCE613": {
+    "FNCE612": {
         "satisfyReqsFor": [
-            "FNCE205", 
             "FNCE719", 
-            "FNCE754", 
-            "FNCE203", 
-            "FNCE751", 
+            "FNCE891", 
             "FNCE893", 
-            "FNCE750", 
+            "ACCT897", 
+            "FNCE725", 
             "FNCE717", 
-            "FNCE219", 
-            "FNCE738", 
-            "FNCE238", 
             "FNCE720", 
+            "FNCE721", 
+            "FNCE731", 
             "FNCE732", 
             "FNCE726", 
-            "FNCE725", 
-            "FNCE891", 
             "FNCE728", 
-            "FNCE235", 
-            "FNCE250", 
-            "FNCE251"
+            "FNCE738", 
+            "REAL721"
+        ]
+    }, 
+    "MSCI402": {
+        "prerequisites": [
+            "MSCI100", 
+            "&&", 
+            [
+                "200", 
+                "&&", 
+                "300"
+            ]
         ]
     }, 
     "MSCI401": {
@@ -13874,20 +13524,17 @@
             "EALC651"
         ]
     }, 
-    "FNCE720": {
-        "prerequisites": [
-            [
-                "FNCE611", 
-                "||", 
-                "FNCE612"
-            ], 
-            "&&", 
-            "FNCE613", 
-            "&&", 
-            "STAT613"
-        ], 
+    "COGS001": {
         "satisfyReqsFor": [
-            "FNCE754"
+            "PSYC231", 
+            "PSYC217", 
+            "VLST217", 
+            "PSYC111", 
+            "PSYC275", 
+            "PSYC151", 
+            "BIBB217", 
+            "PSYC149", 
+            "PSYC281"
         ]
     }, 
     "FNCE721": {
@@ -13901,10 +13548,24 @@
             "REAL840"
         ]
     }, 
-    "NELC542": {
-        "instructorPermission": true, 
+    "FNCE726": {
         "prerequisites": [
-            "NELC101"
+            [
+                "FNCE611", 
+                "||", 
+                "FNCE612"
+            ], 
+            "&&", 
+            "FNCE613"
+        ], 
+        "satisfyReqsFor": [
+            "FNCE895", 
+            "FNCE882", 
+            "FNCE751", 
+            "FNCE756", 
+            "FNCE891", 
+            "FNCE391", 
+            "FNCE251"
         ]
     }, 
     "ECON035": {
@@ -13976,9 +13637,10 @@
             "ECON103"
         ]
     }, 
-    "RUSS468": {
+    "ARAB733": {
+        "instructorPermission": true, 
         "prerequisites": [
-            "RUSS361"
+            "ARAB036"
         ]
     }, 
     "RUSS469": {
@@ -14031,24 +13693,9 @@
             "ECON703"
         ]
     }, 
-    "002": {
-        "satisfyReqsFor": [
-            "PPE034"
-        ]
-    }, 
-    "ESE370": {
+    "HSPV740": {
         "prerequisites": [
-            [
-                "ESE170", 
-                "||", 
-                "ESE171"
-            ], 
-            "&&", 
-            [
-                "ESE215", 
-                "||", 
-                "ESE205"
-            ]
+            "HSPV555"
         ]
     }, 
     "BE480": {
@@ -14081,13 +13728,9 @@
             "SWRK715"
         ]
     }, 
-    "ECON027": {
+    "MKTG274": {
         "prerequisites": [
-            "ECON001", 
-            "&&", 
-            "ECON002", 
-            "&&", 
-            "ECON010"
+            "MKTG101"
         ]
     }, 
     "HSPV750": {
@@ -14114,10 +13757,10 @@
             "MKTG211"
         ]
     }, 
-    "MKTG266": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "MKTG101"
+    "BE310": {
+        "satisfyReqsFor": [
+            "NGG521", 
+            "BE521"
         ]
     }, 
     "MKTG265": {
@@ -14202,11 +13845,6 @@
             "BIBB417"
         ]
     }, 
-    "431": {
-        "satisfyReqsFor": [
-            "STAT434"
-        ]
-    }, 
     "BE305": {
         "prerequisites": [
             "MATH241"
@@ -14218,6 +13856,14 @@
             "BE521"
         ]
     }, 
+    "MATH676": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "MATH312", 
+            "||", 
+            "MATH412"
+        ]
+    }, 
     "CBE618": {
         "satisfyReqsFor": [
             "BE619", 
@@ -14225,19 +13871,9 @@
             "CBE602"
         ]
     }, 
-    "GSWS447": {
+    "PHYS612": {
         "prerequisites": [
-            [
-                "ANTH003", 
-                "&&", 
-                "ANTH143"
-            ], 
-            "&&", 
-            [
-                "105", 
-                "||", 
-                "106"
-            ]
+            "PHYS611"
         ]
     }, 
     "CBE340": {
@@ -14345,12 +13981,9 @@
             "ANTH249"
         ]
     }, 
-    "FREN120": {
+    "GEOL498": {
         "prerequisites": [
-            "FREN110"
-        ], 
-        "satisfyReqsFor": [
-            "FREN130"
+            "GEOL400"
         ]
     }, 
     "CHIN381": {
@@ -14365,24 +13998,15 @@
             "CHIN382"
         ]
     }, 
-    "CHIN382": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "CHIN312", 
-            "&&", 
-            "CHIN361", 
-            "&&", 
-            "CHIN381"
-        ], 
+    "OPIM321": {
         "satisfyReqsFor": [
-            "CHIN411", 
-            "CHIN481", 
-            "CHIN412"
+            "OPIM653", 
+            "OPIM353"
         ]
     }, 
-    "RUSS390": {
-        "prerequisites": [
-            "RUSS311"
+    "FNAR560": {
+        "satisfyReqsFor": [
+            "FNAR564"
         ]
     }, 
     "MGMT751": {
@@ -14460,6 +14084,22 @@
             "ECON001"
         ]
     }, 
+    "BIOL215": {
+        "prerequisites": [
+            "BIOL102", 
+            "||", 
+            "BIOL121", 
+            "||", 
+            "BIOL124"
+        ], 
+        "satisfyReqsFor": [
+            "BIOL438", 
+            "NGG521", 
+            "BE583", 
+            "BE483", 
+            "BE521"
+        ]
+    }, 
     "OPIM665": {
         "prerequisites": [
             "OPIM631"
@@ -14481,11 +14121,18 @@
             "NURS663"
         ]
     }, 
-    "RUSS485": {
+    "NURS660": {
         "prerequisites": [
-            "RUSS312", 
+            "NURS656", 
             "&&", 
-            "RUSS361"
+            "NURS657", 
+            "&&", 
+            "NURS658", 
+            "&&", 
+            "NURS659"
+        ], 
+        "satisfyReqsFor": [
+            "NURS663"
         ]
     }, 
     "NURS663": {
@@ -14592,11 +14239,9 @@
             "MGMT101"
         ]
     }, 
-    "SPAN394": {
+    "JPAN492": {
         "prerequisites": [
-            "SPAN219", 
-            "||", 
-            "SPAN223"
+            "JPAN212"
         ]
     }, 
     "CBE160": {
@@ -14631,26 +14276,15 @@
             "BIBB251"
         ]
     }, 
-    "MEAM634": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "ENM510", 
-            "&&", 
-            "ENM511"
-        ]
-    }, 
     "MEAM635": {
         "prerequisites": [
             "ENM510"
         ]
     }, 
-    "MEAM147": {
-        "satisfyReqsFor": [
-            "MEAM210", 
-            "CIS390", 
-            "MEAM245", 
-            "MEAM420", 
-            "MEAM302"
+    "MEAM631": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "MEAM519"
         ]
     }, 
     "MEAM632": {
@@ -14681,13 +14315,12 @@
             "SPAN219"
         ]
     }, 
-    "CBE350": {
+    "NURS255": {
         "prerequisites": [
-            "CBE231"
+            "NURS215"
         ], 
         "satisfyReqsFor": [
-            "CBE340", 
-            "CBE351"
+            "NURS380"
         ]
     }, 
     "HCMG603": {
@@ -14866,15 +14499,16 @@
             "MATH629"
         ]
     }, 
-    "MEAM520": {
-        "prerequisites": [
-            "MEAM211", 
-            "&&", 
-            "MATH240"
-        ], 
+    "FNAR523": {
         "satisfyReqsFor": [
-            "MEAM625", 
-            "MEAM620"
+            "FNAR589", 
+            "FNAR635", 
+            "FNAR633", 
+            "FNAR556", 
+            "FNAR531", 
+            "FNAR533", 
+            "FNAR534", 
+            "FNAR526"
         ]
     }, 
     "MATH620": {
@@ -14888,9 +14522,14 @@
             "MATH720"
         ]
     }, 
-    "EDUC710": {
+    "MATH623": {
+        "instructorPermission": true, 
         "prerequisites": [
-            "EDUC682"
+            "MATH622"
+        ], 
+        "satisfyReqsFor": [
+            "MATH724", 
+            "MATH725"
         ]
     }, 
     "MATH622": {
@@ -14909,7 +14548,43 @@
             "MATH623"
         ]
     }, 
-    "CHEM451": {
+    "MATH625": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "MATH624"
+        ], 
+        "satisfyReqsFor": [
+            "MATH724", 
+            "MATH725"
+        ]
+    }, 
+    "MATH624": {
+        "prerequisites": [
+            "MATH602", 
+            "||", 
+            "MATH603"
+        ], 
+        "satisfyReqsFor": [
+            "MATH724", 
+            "MATH725", 
+            "MATH625"
+        ]
+    }, 
+    "MEAM540": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "MATH240", 
+            "&&", 
+            [
+                "312", 
+                "||", 
+                "MEAM210"
+            ], 
+            "&&", 
+            "MATH453"
+        ]
+    }, 
+    "CHEM452": {
         "instructorPermission": true, 
         "prerequisites": [
             "&&", 
@@ -14917,29 +14592,6 @@
                 "221", 
                 "&&", 
                 "251"
-            ]
-        ]
-    }, 
-    "FNAR526": {
-        "prerequisites": [
-            "FNAR523"
-        ]
-    }, 
-    "MATH627": {
-        "prerequisites": [
-            "MATH602", 
-            "||", 
-            "MATH603"
-        ]
-    }, 
-    "MEAM527": {
-        "prerequisites": [
-            "MATH241", 
-            "||", 
-            [
-                "ENM251", 
-                "&&", 
-                "PHYS151"
             ]
         ]
     }, 
@@ -15024,6 +14676,13 @@
             "NURS390"
         ]
     }, 
+    "NURS786": {
+        "prerequisites": [
+            "NURS783", 
+            "&&", 
+            "NURS784"
+        ]
+    }, 
     "ESE617": {
         "instructorPermission": true, 
         "prerequisites": [
@@ -15037,21 +14696,9 @@
             "ESE635"
         ]
     }, 
-    "MEAM454": {
+    "FNAR637": {
         "prerequisites": [
-            [
-                "MEAM210", 
-                "&&", 
-                "MEAM354"
-            ], 
-            "&&", 
-            "MATH240", 
-            "&&", 
-            [
-                "241", 
-                "||", 
-                "ENM251"
-            ]
+            "FNAR636"
         ]
     }, 
     "FNAR636": {
@@ -15178,6 +14825,14 @@
             "MATH501"
         ]
     }, 
+    "ANTH557": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "ANTH241", 
+            "||", 
+            "ANTH600"
+        ]
+    }, 
     "LARP601": {
         "prerequisites": [
             "LARP501", 
@@ -15283,13 +14938,15 @@
             "ANTH752"
         ]
     }, 
-    "ANTH603": {
-        "satisfyReqsFor": [
-            "ANTH628", 
-            "ANTH658", 
-            "ANTH631", 
-            "ANTH618", 
-            "ANTH730"
+    "BIOL466": {
+        "prerequisites": [
+            "BIOL221", 
+            "&&", 
+            [
+                "BIOL251", 
+                "&&", 
+                "BIOL421"
+            ]
         ]
     }, 
     "ANTH600": {
@@ -15316,25 +14973,27 @@
             "ACCT621"
         ]
     }, 
-    "BIOL460": {
+    "MGMT740": {
         "prerequisites": [
-            "BIOL240"
+            "MGMT610"
         ]
     }, 
-    "MATH633": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "MATH632"
+    "MEAM510": {
+        "satisfyReqsFor": [
+            "MEAM625", 
+            "MEAM610"
         ]
     }, 
-    "MATH630": {
+    "MEAM513": {
         "prerequisites": [
-            "MATH600", 
+            "MEAM321", 
             "||", 
-            "MATH601"
+            "ESE210"
         ], 
         "satisfyReqsFor": [
-            "MATH631"
+            "CIS613", 
+            "ESE617", 
+            "MEAM613"
         ]
     }, 
     "MSE580": {
@@ -15387,37 +15046,29 @@
             "&&"
         ]
     }, 
-    "BIOL202": {
+    "ECON300": {
+        "instructorPermission": true, 
         "prerequisites": [
+            "ECON101", 
+            "&&", 
+            "ECON102", 
+            "&&", 
+            [
+                "103", 
+                "&&", 
+                "104", 
+                "&&"
+            ], 
+            "&&", 
             [
                 [
-                    "BIOL101", 
+                    "MATH104", 
                     "&&", 
-                    "BIOL102"
+                    "MATH114"
                 ], 
                 "||", 
-                "BIOL121"
-            ], 
-            "&&"
-        ], 
-        "satisfyReqsFor": [
-            "BIOL448", 
-            "BIOL486", 
-            "BIOL480", 
-            "CAMB482", 
-            "BIOL482", 
-            "BIOL477", 
-            "BIOL197", 
-            "BIOL402", 
-            "BIOL306", 
-            "BIOL425", 
-            "BIOL405", 
-            "BIOL404", 
-            "BIOL407", 
-            "BIOL406", 
-            "BIOL484", 
-            "BE441", 
-            "BIOL354"
+                "MATH115"
+            ]
         ]
     }, 
     "BIOL201": {
@@ -15635,17 +15286,28 @@
             "ANTH600"
         ]
     }, 
-    "ANTH557": {
-        "instructorPermission": true, 
+    "COMM640": {
         "prerequisites": [
-            "ANTH241", 
-            "||", 
-            "ANTH600"
+            "COMM522", 
+            "&&", 
+            "COMM524"
         ]
     }, 
     "ECON013": {
         "prerequisites": [
             "ECON001"
+        ]
+    }, 
+    "OPIM940": {
+        "satisfyReqsFor": [
+            "OPIM941"
+        ]
+    }, 
+    "EEUR124": {
+        "prerequisites": [
+            "EEUR121", 
+            "&&", 
+            "EEUR123"
         ]
     }, 
     "ECON785": {
@@ -15666,14 +15328,13 @@
             "ECON781"
         ]
     }, 
-    "016": {
+    "MATH321": {
+        "prerequisites": [
+            "MATH320"
+        ], 
         "satisfyReqsFor": [
-            "GREK018"
-        ]
-    }, 
-    "017": {
-        "satisfyReqsFor": [
-            "GREK018"
+            "MATH574", 
+            "MATH692"
         ]
     }, 
     "JPAN021": {
@@ -15689,15 +15350,8 @@
             "JPAN211"
         ]
     }, 
-    "FNAR533": {
-        "prerequisites": [
-            "FNAR523", 
-            "&&", 
-            "FNAR532"
-        ], 
-        "satisfyReqsFor": [
-            "FNAR534"
-        ]
+    "CHEM441": {
+        "prerequisites": []
     }, 
     "MKTG212": {
         "satisfyReqsFor": [
@@ -15710,9 +15364,9 @@
             "MKTG268"
         ]
     }, 
-    "BIBB432": {
+    "FNAR535": {
         "prerequisites": [
-            "BIBB231"
+            "FNAR634"
         ]
     }, 
     "ARAB032": {
@@ -15723,19 +15377,9 @@
             "ARAB033"
         ]
     }, 
-    "PSYC151": {
+    "PHYS532": {
         "prerequisites": [
-            "PSYC001", 
-            "||", 
-            "COGS001"
-        ], 
-        "satisfyReqsFor": [
-            "VLST212", 
-            "PSYC235", 
-            "PSYC435", 
-            "PSYC335", 
-            "PSYC351", 
-            "PSYC311"
+            "PHYS531"
         ]
     }, 
     "PHYS531": {
@@ -15744,9 +15388,9 @@
             "PHYS611"
         ]
     }, 
-    "PSYC153": {
+    "ARAB031": {
         "satisfyReqsFor": [
-            "PSYC453"
+            "ARAB032"
         ]
     }, 
     "PSYC406": {
@@ -15971,6 +15615,13 @@
             ]
         ]
     }, 
+    "NELC102": {
+        "satisfyReqsFor": [
+            "NELC338", 
+            "NELC536", 
+            "NELC336"
+        ]
+    }, 
     "RUSS107": {
         "satisfyReqsFor": [
             "RUSS108"
@@ -15998,21 +15649,25 @@
             "CHIN141"
         ]
     }, 
-    "CHIN041": {
-        "satisfyReqsFor": [
-            "CHIN042"
-        ]
-    }, 
-    "BIOL240": {
+    "NURS674": {
         "prerequisites": [
-            "BIOL102", 
-            "||", 
-            "BIOL121"
+            "NURS673"
         ], 
         "satisfyReqsFor": [
-            "BIOL411", 
-            "BIOL414", 
-            "BIOL460"
+            "NURS675"
+        ]
+    }, 
+    "NURS675": {
+        "prerequisites": [
+            "NURS670", 
+            "&&", 
+            "NURS671", 
+            "&&", 
+            "NURS672", 
+            "&&", 
+            "NURS673", 
+            "&&", 
+            "NURS674"
         ]
     }, 
     "NURS672": {
@@ -16041,17 +15696,15 @@
             "NURS675"
         ]
     }, 
-    "BEPP987": {
+    "STAT434": {
         "prerequisites": [
-            "ECON701", 
+            "STAT101", 
             "&&", 
             [
-                "703", 
+                "102", 
                 "||", 
-                "ECON680"
-            ], 
-            "&&", 
-            "ECON682"
+                "431"
+            ]
         ]
     }, 
     "STAT435": {
@@ -16110,20 +15763,11 @@
             "STAT475"
         ]
     }, 
-    "BE455": {
+    "STAT432": {
         "prerequisites": [
-            "&&", 
-            [
-                "BE200", 
-                "||", 
-                "MEAM210"
-            ], 
-            "&&", 
-            [
-                "BE350", 
-                "||", 
-                "MEAM302"
-            ]
+            "STAT430", 
+            "||", 
+            "STAT510"
         ]
     }, 
     "STAT433": {
@@ -16142,11 +15786,6 @@
             "MUSC170", 
             "&&", 
             "MUSC171"
-        ]
-    }, 
-    "440": {
-        "satisfyReqsFor": [
-            "SPAN125"
         ]
     }, 
     "CBE150": {
@@ -16179,11 +15818,13 @@
             "NURS764"
         ]
     }, 
-    "ENVS410": {
+    "PPE272": {
         "prerequisites": [
-            "ENVS200", 
+            "PHIL002", 
             "&&", 
-            "GEOL100"
+            "PHIL008", 
+            "&&", 
+            "PHIL009"
         ]
     }, 
     "NURS798": {
@@ -16225,17 +15866,6 @@
             "SPAN223"
         ]
     }, 
-    "640": {
-        "satisfyReqsFor": [
-            "SPAN140", 
-            "SPAN145"
-        ]
-    }, 
-    "647": {
-        "satisfyReqsFor": [
-            "NURS661"
-        ]
-    }, 
     "FNCE393": {
         "prerequisites": [
             "FNCE100", 
@@ -16248,25 +15878,6 @@
                 ], 
                 "||", 
                 "STAT102"
-            ]
-        ]
-    }, 
-    "ECON251": {
-        "prerequisites": [
-            [
-                "ECON101", 
-                "&&", 
-                "ECON102"
-            ], 
-            "&&", 
-            [
-                [
-                    "MATH104", 
-                    "&&", 
-                    "MATH114"
-                ], 
-                "||", 
-                "MATH115"
             ]
         ]
     }, 
@@ -16287,23 +15898,17 @@
             "MATH748"
         ]
     }, 
-    "MKTG225": {
-        "satisfyReqsFor": [
-            "MKTG307", 
-            "MKTG306"
-        ]
-    }, 
-    "CHEM223": {
-        "prerequisites": []
-    }, 
     "ARCH501": {
         "satisfyReqsFor": [
             "LARP720"
         ]
     }, 
-    "EDUC663": {
-        "satisfyReqsFor": [
-            "EDUC612"
+    "ESE508": {
+        "prerequisites": [
+            "&&", 
+            "ESE301", 
+            "&&", 
+            "ESE302"
         ]
     }, 
     "EDUC667": {
@@ -16475,22 +16080,20 @@
             "MATH633"
         ]
     }, 
-    "MEAM510": {
-        "satisfyReqsFor": [
-            "MEAM625", 
-            "MEAM610"
+    "MATH633": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "MATH632"
         ]
     }, 
-    "MEAM513": {
+    "MATH630": {
         "prerequisites": [
-            "MEAM321", 
+            "MATH600", 
             "||", 
-            "ESE210"
+            "MATH601"
         ], 
         "satisfyReqsFor": [
-            "CIS613", 
-            "ESE617", 
-            "MEAM613"
+            "MATH631"
         ]
     }, 
     "MATH631": {
@@ -16534,10 +16137,12 @@
             "MATH321"
         ]
     }, 
-    "CHEM443": {
+    "FNAR531": {
         "prerequisites": [
-            "&&", 
-            "242"
+            "FNAR523"
+        ], 
+        "satisfyReqsFor": [
+            "FNAR532"
         ]
     }, 
     "FNAR532": {
@@ -16548,8 +16153,15 @@
             "FNAR533"
         ]
     }, 
-    "CHEM441": {
-        "prerequisites": []
+    "FNAR533": {
+        "prerequisites": [
+            "FNAR523", 
+            "&&", 
+            "FNAR532"
+        ], 
+        "satisfyReqsFor": [
+            "FNAR534"
+        ]
     }, 
     "FNAR534": {
         "prerequisites": [
@@ -16558,24 +16170,14 @@
             "FNAR533"
         ]
     }, 
-    "FNAR535": {
+    "BIBB432": {
         "prerequisites": [
-            "FNAR634"
+            "BIBB231"
         ]
     }, 
-    "FNAR536": {
+    "BIBB431": {
         "prerequisites": [
-            "FNAR635", 
-            "&&", 
-            [
-                "FNAR543", 
-                "||", 
-                "FNAR580"
-            ]
-        ], 
-        "satisfyReqsFor": [
-            "FNAR646", 
-            "FNAR366"
+            "BIBB231"
         ]
     }, 
     "BIBB430": {
@@ -16593,10 +16195,9 @@
             "MGMT801"
         ]
     }, 
-    "FNAR626": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "FNAR571"
+    "BMB508": {
+        "satisfyReqsFor": [
+            "BMB509"
         ]
     }, 
     "SPAN110": {
@@ -16637,9 +16238,10 @@
             "ESE304"
         ]
     }, 
-    "BMB508": {
-        "satisfyReqsFor": [
-            "BMB509"
+    "FNAR626": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "FNAR571"
         ]
     }, 
     "BMB509": {
@@ -16649,9 +16251,10 @@
             "BIOM600"
         ]
     }, 
-    "CAMB632": {
+    "FNAR279": {
+        "instructorPermission": true, 
         "prerequisites": [
-            "BIOM600"
+            "FNAR271"
         ]
     }, 
     "CAMB631": {
@@ -16684,19 +16287,9 @@
             "GEOL511"
         ]
     }, 
-    "BIOL230": {
-        "prerequisites": [
-            [
-                "BIOL101", 
-                "&&", 
-                "BIOL102"
-            ], 
-            "||", 
-            "BIOL121"
-        ], 
+    "AMCS052": {
         "satisfyReqsFor": [
-            "BIOL410", 
-            "BIOL411"
+            "JWST355"
         ]
     }, 
     "FNAR276": {
@@ -16715,14 +16308,14 @@
             "EPID527"
         ]
     }, 
-    "EPID644": {
+    "LING590": {
         "instructorPermission": true, 
         "prerequisites": [
-            "EPID510", 
-            "||", 
-            "EPID526", 
-            "||", 
-            "EPID527"
+            "LING550"
+        ], 
+        "satisfyReqsFor": [
+            "LING591", 
+            "LING604"
         ]
     }, 
     "INTR301": {
@@ -16811,10 +16404,9 @@
             "FREN202"
         ]
     }, 
-    "PHIL463": {
-        "instructorPermission": true, 
+    "CAMB632": {
         "prerequisites": [
-            "PHIL004"
+            "BIOM600"
         ]
     }, 
     "MSCI310": {
@@ -16919,9 +16511,11 @@
             "ARAB636"
         ]
     }, 
-    "PSYC362": {
+    "ARAB532": {
         "prerequisites": [
-            "PSYC162"
+            "ARAB036", 
+            "||", 
+            "ARAB636"
         ]
     }, 
     "ARAB531": {
@@ -16938,9 +16532,9 @@
             "PSCI150"
         ]
     }, 
-    "135": {
-        "satisfyReqsFor": [
-            "MUSC239"
+    "REAL973": {
+        "prerequisites": [
+            "MGEC621"
         ]
     }, 
     "GEOL540": {
@@ -16957,6 +16551,11 @@
                 "&&", 
                 "420"
             ]
+        ]
+    }, 
+    "SKRT460": {
+        "satisfyReqsFor": [
+            "SKRT470"
         ]
     }, 
     "STSC001": {
@@ -17118,9 +16717,14 @@
             "OPIM940"
         ]
     }, 
-    "OPIM940": {
-        "satisfyReqsFor": [
-            "OPIM941"
+    "EPID644": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "EPID510", 
+            "||", 
+            "EPID526", 
+            "||", 
+            "EPID527"
         ]
     }, 
     "SOCI613": {
@@ -17224,25 +16828,6 @@
     "ENVS312": {
         "prerequisites": [
             "MATH114"
-        ]
-    }, 
-    "706": {
-        "satisfyReqsFor": [
-            "ECON792", 
-            "ECON740"
-        ]
-    }, 
-    "701": {
-        "satisfyReqsFor": [
-            "ECON704", 
-            "ECON702"
-        ]
-    }, 
-    "703": {
-        "satisfyReqsFor": [
-            "BEPP987", 
-            "ECON704", 
-            "ECON702"
         ]
     }, 
     "JPAN491": {
@@ -17380,13 +16965,9 @@
             "CHIN052"
         ]
     }, 
-    "CHIN052": {
-        "instructorPermission": true, 
+    "NURS601": {
         "prerequisites": [
-            "CHIN051"
-        ], 
-        "satisfyReqsFor": [
-            "CHIN151"
+            "NURS600"
         ]
     }, 
     "NURS600": {
@@ -17432,21 +17013,7 @@
             "MGMT101"
         ]
     }, 
-    "MATH761": {
-        "prerequisites": [
-            "MATH660", 
-            "||", 
-            "MATH661"
-        ]
-    }, 
     "MGMT242": {
-        "prerequisites": [
-            "MGMT100", 
-            "&&", 
-            "MGMT101"
-        ]
-    }, 
-    "MGMT244": {
         "prerequisites": [
             "MGMT100", 
             "&&", 
@@ -17480,10 +17047,11 @@
             "CBE371"
         ]
     }, 
-    "JWST059": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "HEBR054"
+    "NURS112": {
+        "satisfyReqsFor": [
+            "NURS312", 
+            "NURS517", 
+            "NURS375"
         ]
     }, 
     "JWST054": {
@@ -17542,9 +17110,9 @@
             "SWRK812"
         ]
     }, 
-    "SWRK812": {
-        "satisfyReqsFor": [
-            "SWRK813"
+    "EALC551": {
+        "prerequisites": [
+            "&&"
         ]
     }, 
     "SPAN212": {
@@ -17673,11 +17241,10 @@
             "GRMN203"
         ]
     }, 
-    "MEAM500": {
+    "MATH641": {
+        "instructorPermission": true, 
         "prerequisites": [
-            "MATH240", 
-            "&&", 
-            "MATH241"
+            "MATH640"
         ]
     }, 
     "MATH640": {
@@ -17714,7 +17281,12 @@
             "MATH647"
         ]
     }, 
-    "MATH645": {
+    "MATH313": {
+        "prerequisites": [
+            "MATH240"
+        ]
+    }, 
+    "MATH644": {
         "prerequisites": [
             [
                 "MATH600", 
@@ -17727,18 +17299,6 @@
                 "||", 
                 "MATH609"
             ]
-        ]
-    }, 
-    "MATH312": {
-        "prerequisites": [
-            "MATH240"
-        ], 
-        "satisfyReqsFor": [
-            "STAT520", 
-            "MATH676", 
-            "MATH501", 
-            "MATH582", 
-            "ESE635"
         ]
     }, 
     "MATH648": {
@@ -17787,12 +17347,9 @@
             "PSYC111"
         ]
     }, 
-    "PERS615": {
-        "instructorPermission": true, 
+    "PHYS622": {
         "prerequisites": [
-            "PERS013", 
-            "||", 
-            "PERS017"
+            "PHYS601"
         ]
     }, 
     "JWST472": {
@@ -17828,16 +17385,11 @@
             "HEBR153"
         ]
     }, 
-    "CAMB530": {
-        "instructorPermission": true, 
+    "MGMT806": {
         "prerequisites": [
-            [
-                "CAMB512", 
-                "&&", 
-                "BIOM600"
-            ], 
-            "||", 
-            "BIOM600"
+            "MGMT801", 
+            "&&", 
+            "MKTG756"
         ]
     }, 
     "CAMB532": {
@@ -17861,11 +17413,9 @@
             "MGMT810"
         ]
     }, 
-    "322": {
-        "satisfyReqsFor": [
-            "MEAM564", 
-            "ESE574", 
-            "ESE460"
+    "ENGL506": {
+        "prerequisites": [
+            "ENGL501"
         ]
     }, 
     "ANEL749": {
@@ -17904,11 +17454,9 @@
             "ANEL641"
         ]
     }, 
-    "ANEL740": {
+    "URBS706": {
         "prerequisites": [
-            "ANEL441", 
-            "||", 
-            "ANEL641"
+            "EDUC547"
         ]
     }, 
     "ANEL741": {
@@ -17966,6 +17514,22 @@
     "NURS537": {
         "satisfyReqsFor": [
             "NURS698"
+        ]
+    }, 
+    "FNCE720": {
+        "prerequisites": [
+            [
+                "FNCE611", 
+                "||", 
+                "FNCE612"
+            ], 
+            "&&", 
+            "FNCE613", 
+            "&&", 
+            "STAT613"
+        ], 
+        "satisfyReqsFor": [
+            "FNCE754"
         ]
     }, 
     "EALC069": {
@@ -18045,20 +17609,22 @@
             "EPID527"
         ]
     }, 
-    "EPID656": {
-        "instructorPermission": true, 
-        "prerequisites": [
-            "EPID510", 
-            "||", 
-            "EPID526", 
-            "||", 
-            "EPID527"
+    "CPLN550": {
+        "satisfyReqsFor": [
+            "CPLN750"
         ]
     }, 
     "NURS299": {
         "instructorPermission": true, 
         "prerequisites": [
             "NURS106"
+        ]
+    }, 
+    "OPIM691": {
+        "prerequisites": [
+            "STAT621", 
+            "&&", 
+            "OPIM621"
         ]
     }, 
     "BIOL448": {
@@ -18148,11 +17714,11 @@
             "ECON898"
         ]
     }, 
-    "MSCI301": {
+    "SPAN384": {
         "prerequisites": [
-            "MSCI100", 
-            "&&", 
-            "MSCI200"
+            "SPAN219", 
+            "||", 
+            "SPAN223"
         ]
     }, 
     "MSCI302": {
@@ -18178,11 +17744,10 @@
             "ECON721"
         ]
     }, 
-    "FNCE882": {
+    "BIBB260": {
+        "instructorPermission": true, 
         "prerequisites": [
-            "FNCE726", 
-            "&&", 
-            "FNCE728"
+            "BIBB109"
         ]
     }, 
     "PSYC374": {
@@ -18200,56 +17765,34 @@
             "PSYC170"
         ]
     }, 
-    "BIOL215": {
+    "ECON700": {
+        "satisfyReqsFor": [
+            "ECON704", 
+            "ECON702"
+        ]
+    }, 
+    "ECON251": {
         "prerequisites": [
-            "BIOL102", 
-            "||", 
-            "BIOL121", 
-            "||", 
-            "BIOL124"
-        ], 
-        "satisfyReqsFor": [
-            "BIOL438", 
-            "NGG521", 
-            "BE583", 
-            "BE483", 
-            "BE521"
+            [
+                "ECON101", 
+                "&&", 
+                "ECON102"
+            ], 
+            "&&", 
+            [
+                [
+                    "MATH104", 
+                    "&&", 
+                    "MATH114"
+                ], 
+                "||", 
+                "MATH115"
+            ]
         ]
     }, 
-    "121": {
+    "EAS545": {
         "satisfyReqsFor": [
-            "CIS561", 
-            "CIS461", 
-            "CIS340", 
-            "CIS341", 
-            "CIS573", 
-            "SPAN135", 
-            "SPAN134", 
-            "SPAN130"
-        ]
-    }, 
-    "123": {
-        "satisfyReqsFor": [
-            "BIOL201", 
-            "BIOL213"
-        ]
-    }, 
-    "124": {
-        "satisfyReqsFor": [
-            "BIOL201", 
-            "BIOL213"
-        ]
-    }, 
-    "125": {
-        "satisfyReqsFor": [
-            "SPAN135", 
-            "SPAN134", 
-            "SPAN130"
-        ]
-    }, 
-    "SPAN222": {
-        "prerequisites": [
-            "SPAN219"
+            "EAS546"
         ]
     }, 
     "SPAN221": {
@@ -18257,9 +17800,9 @@
             "SPAN219"
         ]
     }, 
-    "ENGL506": {
+    "SPAN388": {
         "prerequisites": [
-            "ENGL501"
+            "SPAN219"
         ]
     }, 
     "REAL236": {
@@ -18301,10 +17844,9 @@
             "ARAB033"
         ]
     }, 
-    "ARAB635": {
-        "instructorPermission": true, 
+    "FNAR378": {
         "prerequisites": [
-            "ARAB033"
+            "FNAR234"
         ]
     }, 
     "ARAB636": {
@@ -18330,9 +17872,9 @@
             "ARAB636"
         ]
     }, 
-    "GRMN561": {
+    "BIBB269": {
         "prerequisites": [
-            "GRMN215"
+            "BIBB109"
         ]
     }, 
     "JPAN002": {
@@ -18359,10 +17901,19 @@
             "BIOL437"
         ]
     }, 
-    "BIOL536": {
+    "GRMN215": {
+        "prerequisites": [
+            "GRMN104"
+        ], 
         "satisfyReqsFor": [
-            "CIS635", 
-            "BIOL530"
+            "GRMN369", 
+            "GRMN387", 
+            "GRMN372", 
+            "GRMN569", 
+            "COLL225", 
+            "GRMN587", 
+            "GRMN558", 
+            "GRMN561"
         ]
     }, 
     "MKTG231": {
@@ -18426,20 +17977,12 @@
             "ANTH280"
         ]
     }, 
-    "ANTH003": {
-        "satisfyReqsFor": [
-            "BIBB271", 
-            "ANTH207", 
-            "ANTH447", 
-            "GSWS447", 
-            "ANTH168", 
-            "ANTH106", 
-            "ANTH246", 
-            "ANTH507", 
-            "ANTH249", 
-            "ANTH404", 
-            "GSWS265", 
-            "ANTH407"
+    "ECON760": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "ECON701", 
+            "&&", 
+            "ECON705"
         ]
     }, 
     "COML266": {
@@ -18470,14 +18013,38 @@
             "MGEC601"
         ]
     }, 
-    "JPAN312": {
+    "BIOL221": {
         "prerequisites": [
-            "JPAN311"
+            "BIOL101", 
+            "||", 
+            "BIOL121"
         ], 
         "satisfyReqsFor": [
-            "JPAN411", 
-            "EALC770", 
-            "JPAN481"
+            "BIOL485", 
+            "BIOL375", 
+            "BIOL483", 
+            "BIOL466", 
+            "BIOL275", 
+            "BIOL197", 
+            "CAMB431", 
+            "BIOL474", 
+            "BIOL431", 
+            "BIOL304", 
+            "BIOL493", 
+            "CAMB422", 
+            "BIOL540", 
+            "BIOL475", 
+            "CAMB485", 
+            "CAMB482", 
+            "CAMB483", 
+            "BIOL575", 
+            "BIOL422", 
+            "BIOL421", 
+            "CIS536", 
+            "BIOL425", 
+            "BIOL405", 
+            "BIOL404", 
+            "BIOL406"
         ]
     }, 
     "CIS334": {
@@ -18827,11 +18394,6 @@
             "HEBR452"
         ]
     }, 
-    "383": {
-        "satisfyReqsFor": [
-            "SPAN125"
-        ]
-    }, 
     "NELC643": {
         "instructorPermission": true, 
         "prerequisites": [
@@ -18873,24 +18435,24 @@
             "MATH730"
         ]
     }, 
-    "PHYS240": {
+    "MEAM533": {
         "prerequisites": [
-            "PHYS151", 
-            "||", 
-            "PHYS171"
-        ], 
-        "satisfyReqsFor": [
-            "PHYS401", 
-            "MSE525", 
-            "PHYS421", 
-            "ESE525", 
-            "ESE521"
+            "MEAM302", 
+            "&&", 
+            "MEAM333"
         ]
     }, 
-    "PHIL460": {
-        "instructorPermission": true, 
+    "ARCH433": {
+        "satisfyReqsFor": [
+            "ARCH434"
+        ]
+    }, 
+    "NURS618": {
         "prerequisites": [
-            "PHIL004"
+            "NURS617"
+        ], 
+        "satisfyReqsFor": [
+            "NURS619"
         ]
     }, 
     "NURS619": {
@@ -18901,9 +18463,10 @@
             "NURS620"
         ]
     }, 
-    "EDUC706": {
+    "PHIL463": {
+        "instructorPermission": true, 
         "prerequisites": [
-            "EDUC547"
+            "PHIL004"
         ]
     }, 
     "PHIL464": {
@@ -18936,9 +18499,9 @@
             "COMM349"
         ]
     }, 
-    "FNAR552": {
-        "satisfyReqsFor": [
-            "FNAR553"
+    "MEAM537": {
+        "prerequisites": [
+            "MEAM354"
         ]
     }, 
     "NURS612": {
@@ -18946,21 +18509,15 @@
             "NURS698"
         ]
     }, 
-    "FNAR553": {
-        "prerequisites": [
-            [
-                "FNAR551", 
-                "&&", 
-                "FNAR552"
-            ], 
-            "||", 
-            "FNAR557"
+    "NURS617": {
+        "satisfyReqsFor": [
+            "NURS618", 
+            "NURS580"
         ]
     }, 
-    "MEAM535": {
-        "satisfyReqsFor": [
-            "MEAM625", 
-            "MEAM620"
+    "EDUC703": {
+        "prerequisites": [
+            "EDUC682"
         ]
     }, 
     "MGMT655": {
@@ -18968,9 +18525,9 @@
             "MGMT736"
         ]
     }, 
-    "MGMT654": {
+    "FNAR551": {
         "satisfyReqsFor": [
-            "MGMT736"
+            "FNAR553"
         ]
     }, 
     "MGMT652": {
@@ -19067,9 +18624,12 @@
             "NURS215"
         ]
     }, 
-    "OPIM652": {
+    "NURS103": {
         "prerequisites": [
-            "OPIM621"
+            "NURS101"
+        ], 
+        "satisfyReqsFor": [
+            "NURS215"
         ]
     }, 
     "THAR121": {
@@ -19160,10 +18720,16 @@
             "EDUC687"
         ]
     }, 
-    "EDUC684": {
-        "satisfyReqsFor": [
-            "EDUC771", 
-            "EDUC768"
+    "ARCH402": {
+        "prerequisites": [
+            "ARCH401"
+        ]
+    }, 
+    "CAMB431": {
+        "prerequisites": [
+            "BIOL221", 
+            "&&", 
+            "BIOL421"
         ]
     }, 
     "PHYS591": {
@@ -19178,10 +18744,11 @@
             "EDUC613"
         ]
     }, 
-    "EDUC687": {
-        "satisfyReqsFor": [
-            "EDUC688", 
-            "EDUC725"
+    "SWRK805": {
+        "prerequisites": [
+            "SWRK804", 
+            "&&", 
+            "SWRK001"
         ]
     }, 
     "EDUC680": {
@@ -19226,11 +18793,9 @@
             "FNAR334"
         ]
     }, 
-    "THAR236": {
+    "FNAR337": {
         "prerequisites": [
-            "THAR120", 
-            "||", 
-            "THAR121"
+            "FNAR264"
         ]
     }, 
     "FNAR334": {
@@ -19285,11 +18850,9 @@
             "MATH654"
         ]
     }, 
-    "NURS786": {
+    "GRMN318": {
         "prerequisites": [
-            "NURS783", 
-            "&&", 
-            "NURS784"
+            "GRMN203"
         ]
     }, 
     "NURS787": {
@@ -19477,6 +19040,14 @@
             "SOCI822"
         ]
     }, 
+    "ESE521": {
+        "instructorPermission": true, 
+        "prerequisites": [
+            "ESE218", 
+            "||", 
+            "PHYS240"
+        ]
+    }, 
     "MEAM402": {
         "prerequisites": [
             "MEAM203", 
@@ -19535,14 +19106,6 @@
             "ANEL746"
         ]
     }, 
-    "EALC651": {
-        "prerequisites": [
-            "JPAN212"
-        ], 
-        "satisfyReqsFor": [
-            "EALC652"
-        ]
-    }, 
     "EALC652": {
         "prerequisites": [
             "EALC251", 
@@ -19552,9 +19115,10 @@
             "JPAN491"
         ]
     }, 
-    "285": {
-        "satisfyReqsFor": [
-            "SPAN125"
+    "CHEM443": {
+        "prerequisites": [
+            "&&", 
+            "242"
         ]
     }, 
     "SCND102": {
@@ -19604,31 +19168,17 @@
             "INTR301"
         ]
     }, 
-    "262": {
-        "satisfyReqsFor": [
-            "CIS500", 
-            "CIS398"
-        ]
-    }, 
-    "267": {
-        "satisfyReqsFor": [
-            "CINE353"
-        ]
-    }, 
-    "265": {
-        "satisfyReqsFor": [
-            "BIBB473", 
-            "PSYC473"
-        ]
-    }, 
     "FREN121": {
         "satisfyReqsFor": [
             "FREN130"
         ]
     }, 
-    "GEOL498": {
+    "FREN120": {
         "prerequisites": [
-            "GEOL400"
+            "FREN110"
+        ], 
+        "satisfyReqsFor": [
+            "FREN130"
         ]
     }, 
     "MATH360": {
@@ -19669,9 +19219,11 @@
             "MATH480"
         ]
     }, 
-    "FNCE894": {
+    "MATH512": {
         "prerequisites": [
-            "FNCE725"
+            "MATH114", 
+            "||", 
+            "MATH115"
         ]
     }, 
     "FNCE895": {
@@ -19730,13 +19282,9 @@
             "STAT613"
         ]
     }, 
-    "NURS683": {
-        "prerequisites": [
-            "NURS607", 
-            "&&", 
-            "NURS681", 
-            "&&", 
-            "NURS682"
+    "STSC110": {
+        "satisfyReqsFor": [
+            "STSC310"
         ]
     }, 
     "ANTH727": {
@@ -19751,33 +19299,15 @@
             "ENVS204"
         ]
     }, 
-    "115": {
-        "satisfyReqsFor": [
-            "ECON245", 
-            "ECON237", 
-            "ECON262", 
-            "ECON246", 
-            "ECON260"
-        ]
-    }, 
-    "114": {
-        "satisfyReqsFor": [
-            "PHYS351", 
-            "BCHE580"
-        ]
-    }, 
-    "111": {
-        "satisfyReqsFor": [
-            "FNCE207"
-        ]
-    }, 
-    "FNAR290": {
+    "BIBB249": {
         "prerequisites": [
-            "FNAR267", 
+            "PSYC001", 
             "||", 
-            "FNAR235", 
-            "||", 
-            "FNAR236"
+            "BIBB109"
+        ], 
+        "satisfyReqsFor": [
+            "BIBB247", 
+            "PSYC449"
         ]
     }, 
     "REAL209": {
@@ -19822,11 +19352,14 @@
             "EEUR123"
         ]
     }, 
-    "EEUR124": {
+    "EDUC765": {
         "prerequisites": [
-            "EEUR121", 
-            "&&", 
-            "EEUR123"
+            "EDUC560"
+        ]
+    }, 
+    "GRMN561": {
+        "prerequisites": [
+            "GRMN215"
         ]
     }, 
     "BIOL450": {
@@ -19878,6 +19411,12 @@
             ]
         ]
     }, 
+    "BIOL536": {
+        "satisfyReqsFor": [
+            "CIS635", 
+            "BIOL530"
+        ]
+    }, 
     "REAL840": {
         "prerequisites": [
             "FNCE721"
@@ -19907,10 +19446,10 @@
             "MKTG265"
         ]
     }, 
-    "048": {
+    "MKTG225": {
         "satisfyReqsFor": [
-            "NELC243", 
-            "NELC643"
+            "MKTG307", 
+            "MKTG306"
         ]
     }, 
     "FNCE256": {
@@ -20004,9 +19543,19 @@
             "HSPV555"
         ]
     }, 
-    "AMCS052": {
+    "BIOL230": {
+        "prerequisites": [
+            [
+                "BIOL101", 
+                "&&", 
+                "BIOL102"
+            ], 
+            "||", 
+            "BIOL121"
+        ], 
         "satisfyReqsFor": [
-            "JWST355"
+            "BIOL410", 
+            "BIOL411"
         ]
     }, 
     "BIOL231": {
@@ -20071,13 +19620,8 @@
             "PHYS151"
         ]
     }, 
-    "LATN102": {
-        "prerequisites": [
-            "LATN101"
-        ], 
-        "satisfyReqsFor": [
-            "LATN203"
-        ]
+    "CHEM223": {
+        "prerequisites": []
     }, 
     "LATN101": {
         "satisfyReqsFor": [
@@ -20147,11 +19691,6 @@
             "COMM262"
         ]
     }, 
-    "705": {
-        "satisfyReqsFor": [
-            "ECON740"
-        ]
-    }, 
     "ECON721": {
         "prerequisites": [
             "ECON705", 
@@ -20205,11 +19744,6 @@
             "NURS754", 
             "SOCI731", 
             "DEMG731"
-        ]
-    }, 
-    "560": {
-        "satisfyReqsFor": [
-            "CIS461"
         ]
     }, 
     "CBE231": {
@@ -20316,11 +19850,6 @@
             "BEPP250"
         ]
     }, 
-    "721": {
-        "satisfyReqsFor": [
-            "ECON792"
-        ]
-    }, 
     "BEPP204": {
         "prerequisites": [
             "BEPP250"
@@ -20395,15 +19924,13 @@
             "BIOL221"
         ]
     }, 
-    "BIBB249": {
+    "FNAR290": {
         "prerequisites": [
-            "PSYC001", 
+            "FNAR267", 
             "||", 
-            "BIBB109"
-        ], 
-        "satisfyReqsFor": [
-            "BIBB247", 
-            "PSYC449"
+            "FNAR235", 
+            "||", 
+            "FNAR236"
         ]
     }, 
     "GSWS430": {
@@ -20435,9 +19962,12 @@
             "STAT102"
         ]
     }, 
-    "JPAN492": {
+    "MUSC130": {
         "prerequisites": [
-            "JPAN212"
+            "MUSC070"
+        ], 
+        "satisfyReqsFor": [
+            "MUSC239"
         ]
     }, 
     "MUSC135": {
