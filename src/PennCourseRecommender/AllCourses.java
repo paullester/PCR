@@ -28,14 +28,13 @@ public class AllCourses {
 		parser = new JSONParser();
 		
 		
-		
-		
-		
 	}
 	
-	public HashMap<String, Course> initCourses(){
+	public HashMap<String, Course> getFeasibleCourses(HashSet<String> stuCourses){
 		
+
 		HashMap<String, Course> courses = new HashMap<String, Course>();
+		HashMap<String,Course> feasibleCourses = new HashMap<String, Course>();
 		
 		try {
 			Object obj = parser.parse(reader);
@@ -43,12 +42,10 @@ public class AllCourses {
 			Set keys = jsonObject.keySet();
 			Iterator<Object> e = keys.iterator();	
 			
-			while(e.hasNext()){
+			while(e.hasNext() ){
 				
 				//fetch next course and put it into courses hashmap
 				String s = e.next().toString();
-				
-				
 				
 				Course c;
 				if(courses.containsKey(s)){
@@ -57,44 +54,23 @@ public class AllCourses {
 					c = new Course(s);
 					courses.put(s, c);
 				}
-				
-				
-			//	TODO need to figure out how to handle complex prereqs. 
-				
+
 				//get the prereqs
 				JSONObject jsonClassObj  = (JSONObject) jsonObject.get(s);
 				JSONArray prereqs = (JSONArray) jsonClassObj.get("prerequisites");
-				//JSONArray satisfyreqs = (JSONArray) jsonClassObj.get("satisfyReqsFor");
-	
-				HashSet<Course> prereqSet = new HashSet<Course>();
 
-				
-				
-				System.out.println("Course is " +s);
-				if(prereqs!=null){
-					Iterator<String> i = prereqs.iterator();
-					while(i.hasNext()){
-						
-						Object tmp = i.next();
-						
-						if(tmp.getClass() != JSONArray.class){
-						
-						//String tmp = i.next().toString();
-							String tmp2 = tmp.toString();
-							if(courses.containsKey(tmp2)){
-								prereqSet.add(courses.get(tmp2));
-							} else {
-								Course newCourse = new Course(tmp2);
-								prereqSet.add(newCourse);
-							}
-							
-						}
-						
-						//System.out.println(i.next().toString());
+				//System.out.println("Course: "+ s);
+				if(prereqs ==null){
+					//System.out.println("NO PREREQS BITCH");
+					feasibleCourses.put(s, c);
+				}else{
+					CourseReqTree reqtree = new CourseReqTree();
+					reqtree.generateReqTree(prereqs);
+					if(reqtree.satisfyReq(stuCourses)){
+						feasibleCourses.put(s,c);
 					}
-					
-					c.setPrereqs(prereqSet);
 				}
+				
 			}
 			
 			
@@ -109,7 +85,7 @@ public class AllCourses {
 			e.printStackTrace();
 		}
 		
-		return courses;
+		return feasibleCourses;
 	}
 	
 	

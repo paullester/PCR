@@ -8,81 +8,121 @@ import org.json.simple.JSONObject;
 
 public class CourseReqTree {
 	
-	
+	String nodeVal;//Can be AND, OR, or the value of the leaf node
 	HashSet<CourseReqTree> children;
-	String logicOp; //Can be AND, OR, or LEAF
+	
 	
 	public CourseReqTree(){
-		//
+		children = new HashSet<CourseReqTree>();
 	}
-	/*
+
+
+	
+	
+	public void printReqTree(){
+		
+		
+		if(children == null){
+			System.out.println(nodeVal);
+		} else {
+			System.out.println(nodeVal);
+			Iterator<CourseReqTree> i = children.iterator();
+			while(i.hasNext()){
+				CourseReqTree current = i.next();
+				current.printReqTree();
+			}
+		}
+	}
+	
+	public boolean satisfyReq(HashSet<String> studentCourses){
+		
+		if(children!=null){
+			Iterator<CourseReqTree> i = children.iterator();
+			if(this.nodeVal=="AND" ){
+				if(i.hasNext()){
+					CourseReqTree a = i.next();
+					if(i.hasNext()){
+						CourseReqTree b = i.next();
+						//System.out.println("evaluating AND node");
+						return (a.satisfyReq(studentCourses) && b.satisfyReq(studentCourses));
+					}
+				}
+			} else if (this.nodeVal=="OR"){
+				if(i.hasNext()){
+					CourseReqTree a = i.next();
+					if(i.hasNext()){
+						CourseReqTree b = i.next();
+						//System.out.println("evaluating OR node");
+						return (a.satisfyReq(studentCourses) || b.satisfyReq(studentCourses));
+					}
+				}
+			}
+		} else {
+			if(studentCourses.contains(nodeVal)){
+				//System.out.println("student has taken course "+nodeVal);
+				return true;
+			} else{
+				//System.out.println("student does not have course "+nodeVal);
+				return false;
+			}
+			
+		}
+		
+		
+		
+		return true;
+		
+		
+	}
+	
 	public CourseReqTree generateReqTree(JSONArray prereqs){
-		
-		logicOp = "LEAF"; //default logic operator
-		
-		
-		
 		
 		if(prereqs!=null){
 			Iterator<String> i = prereqs.iterator();
+			
 			while(i.hasNext()){
-				
 				CourseReqTree curChild;
 				Object current = i.next();
-				
+				//if it is a list of prereqs
 				if(current.getClass() == JSONArray.class){
 					curChild = new CourseReqTree();
 					children.add(curChild);
 					curChild.generateReqTree((JSONArray)current);
-				} else if (current.toString() == "&&"){
-					logicOp = "AND";
-				} else if (current.toString() == "||"){
-					logicOp = "OR";
-				} else {
+				} else if (current.toString().equals("&&")){
+					
+					//makes the current node an "AND" logical op
+					
+					this.nodeVal = "AND";
+					
+				} else if (current.toString().equals("||")){
+					this.nodeVal = "OR";
+				} else if (current!=null){
+					//make a new coursereqtree, add to children and instantiate leaf. 
 					curChild = new CourseReqTree();
-					//implement thingy
 					children.add(curChild);
-					
-				}
-					
-				
-				
-				if(tmp.getClass() != JSONArray.class){
-				
-				//String tmp = i.next().toString();
-					String tmp2 = tmp.toString();
-					if(courses.containsKey(tmp2)){
-						prereqSet.add(courses.get(tmp2));
-					} else {
-						Course newCourse = new Course(tmp2);
-						prereqSet.add(newCourse);
-					}
-					
+					curChild.generateReqLeaf(current.toString());					
 				}
 				
-				//System.out.println(i.next().toString());
 			}
-			
-			c.setPrereqs(prereqSet);
 		}
+		
+		//quick fix if there is only one prereq
+		if(children.size()==1){
+			nodeVal = children.iterator().next().toString();
+			children =null;
+		}
+		
+		return this;
+		
+		}
+	
+	public CourseReqTree generateReqLeaf(String s){
+		this.nodeVal = s;
+		this.children = null;
+		return this;
 	}
-		
-		
-		/*
-		PSEUDO CODE
-		
-		logicOp = LEAF
-		
-		while(hasnexttoken){
-			if = json array, call currnet reqTree.add(generateReqTree (jsonarray))
-		
-			else (current reqTree.add 
-		
-		
-		
-		
-		
-		return null;
-	} */
-
+	
+	
 }
+
+
