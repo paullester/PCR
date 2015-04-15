@@ -26,7 +26,7 @@ public class CreateMajors {
 		
 		//iterate over each major
 		for (String majorName : (Set<String>) majors.keySet()) {
-			if (majorName.equals("BE")) {
+			if (majorName.equals("CIS")) {
 				System.out.println("Working on major: " + majorName);
 				Major m = new Major(majorName);
 				JSONObject reqs = (JSONObject) majors.get(majorName);
