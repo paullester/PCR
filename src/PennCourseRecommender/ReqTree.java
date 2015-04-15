@@ -60,12 +60,15 @@ public class ReqTree {
 			this.children = null;
 			String s = (String) o;
 			if (!s.startsWith("G: ")) {
-				this.data = s;
+				this.data = s.replaceAll(" ","");
 			} else {
 				JSONArray groupCourses = this.getGroup(s.substring(3));
 				for (int i = 0; groupCourses != null && i < groupCourses.size(); i++) {
 					this.parent.addChild(new ReqTree(groupCourses.get(i), this.parent, this.level));
 				}
+				System.out.print("Group: " + s.substring(3) + ", Size: " );
+				if (groupCourses != null) System.out.println(groupCourses.size());
+				else System.out.println("null");
 			}
 		} else if (o instanceof JSONArray) {
 			JSONArray subReq = (JSONArray) o;
@@ -319,19 +322,6 @@ public class ReqTree {
 		return this.descendantScores;
 	}
 	
-	public String toString() {
-		String s = this.data + "\n";
-		for (int i=0; i < this.level; i++) {
-			s = "  " + s;
-		}
-		if (this.children != null) {
-			for (ReqTree rt : this.children) {
-				s = s + rt.toString();
-			}
-		}
-		return s;
-	}
-	
 	private Set<String> getAllCoursesInTree() {
 		Set<String> courses = new HashSet<String>();
 		if (this.children == null) {
@@ -365,5 +355,19 @@ public class ReqTree {
 			}
 		}
 		return contributionScores;
+	}
+	
+	public String toString() {
+		String s = "";
+		if (this.data != null) s = this.data + "\n";
+		for (int i=0; i < this.level; i++) {
+			s = "  " + s;
+		}
+		if (this.children != null) {
+			for (ReqTree rt : this.children) {
+				s = s + rt.toString();
+			}
+		}
+		return s;
 	}
 }
