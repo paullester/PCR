@@ -3,6 +3,7 @@ package PennCourseRecommender;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.Map;
 import java.util.Set;
 
@@ -18,7 +19,7 @@ public class CreateMajors {
 		JSONParser parser = new JSONParser();
 
 		JSONObject majorsAndGroups =
-				(JSONObject) parser.parse(new FileReader("majors.json"));
+				(JSONObject) parser.parse(new FileReader("/Users/BenGitles/Documents/School/Senior Design/PCR/src/majors.json"));
 		
 		JSONObject majors = (JSONObject) majorsAndGroups.get("majors");
 		JSONObject groups = (JSONObject) majorsAndGroups.get("groups");
@@ -37,12 +38,12 @@ public class CreateMajors {
 					}
 				}
 				ReqTree tree = new ReqTree(reqs, groups);
-				/*m.setRequirements(tree);
+				m.setRequirements(tree);
 				m.setDescendantScoresWithStrings(tree.getDescendantScores());
 				PrintWriter writer = new PrintWriter("majors-test.txt", "UTF-8");
 				writer.println(tree.toString());
-				writer.close();*/
-				tree.getDescendantScores();
+				writer.close();
+				//tree.getDescendantScores();
 			}
 			
 			/*Set<String> coursesTaken = new HashSet<String>();
