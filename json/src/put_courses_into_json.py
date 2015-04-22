@@ -13,7 +13,7 @@ def print_all_courses(dept) :
 			print "\"" + course.strip() + "\","
 
 
-print_all_courses("MATH")
+print_courses("GEOL",[],200)
 quit()
 
 #Engineering Natural Science Requirements:

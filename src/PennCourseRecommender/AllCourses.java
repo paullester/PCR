@@ -26,7 +26,12 @@ public class AllCourses {
 	
 	public AllCourses(){
 		parser = new JSONParser();
-		
+		try {
+			reader = new FileReader("/Users/BenGitles/Documents/School/Senior Design/PCR/src/courses.json");
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		
 	}
 	
@@ -88,7 +93,12 @@ public class AllCourses {
 		return feasibleCourses;
 	}
 	
-	
+	public boolean isACourse(String s) throws IOException, ParseException {
+		Object obj = parser.parse(new FileReader("/Users/BenGitles/Documents/School/Senior Design/PCR/src/courses.json"));
+		JSONObject jsonObject = (JSONObject) obj;
+		Set keys = jsonObject.keySet();
+		return keys.contains(s);
+	}
 	
 	public void openJsonFile(){
 		try {
