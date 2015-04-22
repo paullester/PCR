@@ -88,8 +88,6 @@ public class AllCourses {
 		return feasibleCourses;
 	}
 	
-	
-	
 	public void openJsonFile(){
 		try {
         	reader = new FileReader("courses.json");

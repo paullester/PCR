@@ -2,6 +2,7 @@ package PennCourseRecommender;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Map;
@@ -13,7 +14,7 @@ import org.json.simple.parser.ParseException;
 
 public class CreateMajors {
 	
-	private Set<Major> allMajors;
+	//private Set<Major> allMajors;
 	
 	public static void main(String[] args) throws FileNotFoundException, IOException, ParseException {
 		JSONParser parser = new JSONParser();
@@ -24,27 +25,36 @@ public class CreateMajors {
 		JSONObject majors = (JSONObject) majorsAndGroups.get("majors");
 		JSONObject groups = (JSONObject) majorsAndGroups.get("groups");
 		
+		JSONObject output = new JSONObject();
+		
 		//iterate over each major
 		for (String majorName : (Set<String>) majors.keySet()) {
-			if (majorName.equals("CIS")) {
-				System.out.println("Working on major: " + majorName);
-				Major m = new Major(majorName);
-				JSONObject reqs = (JSONObject) majors.get(majorName);
-				//iterate over each requirement
-				for (String key : (Set<String>) reqs.keySet()) {
-					if (key.equals("URL")) m.setURL((String) reqs.get("URL"));
-					else if (key.equals("Notes")) {
-						m.setNotes((Set<String>) ((JSONObject) reqs.get("Notes")).keySet());
-					}
+			System.out.println("Working on major: " + majorName);
+			//Major m = new Major(majorName);
+			JSONObject reqs = (JSONObject) majors.get(majorName);
+			//iterate over each requirement
+			/*for (String key : (Set<String>) reqs.keySet()) {
+				if (key.equals("URL")) m.setURL((String) reqs.get("URL"));
+				else if (key.equals("Notes")) {
+					m.setNotes((Set<String>) ((JSONObject) reqs.get("Notes")).keySet());
 				}
-				ReqTree tree = new ReqTree(reqs, groups);
-				m.setRequirements(tree);
-				m.setDescendantScoresWithStrings(tree.getDescendantScores());
-				PrintWriter writer = new PrintWriter("majors-test.txt", "UTF-8");
-				writer.println(tree.toString());
-				writer.close();
-				//tree.getDescendantScores();
+			}*/
+			ReqTree tree = new ReqTree(reqs, groups);
+			Map<String, Double> descendantScores = tree.getDescendantScores();
+			//m.setRequirements(tree);
+			//m.setDescendantScoresWithStrings(descendantScores);
+			//PrintWriter writer = new PrintWriter("majors-test.txt", "UTF-8");
+			//writer.println(tree.toString());
+			//writer.close();
+			
+			JSONObject scoresInJSON = new JSONObject();
+			for (String course : descendantScores.keySet()) {
+				if (descendantScores.get(course) != 1.0) scoresInJSON.put(course, descendantScores.get(course));
 			}
+			output.put(majorName, scoresInJSON);
+			FileWriter file = new FileWriter("/Users/BenGitles/Documents/School/Senior Design/PCR/src/descendantScores.json");
+			file.write(output.toJSONString());
+			System.out.println("Done!");
 			
 			/*Set<String> coursesTaken = new HashSet<String>();
 			coursesTaken.add("MATH104");

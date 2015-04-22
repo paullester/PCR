@@ -66,9 +66,6 @@ public class ReqTree {
 				for (int i = 0; groupCourses != null && i < groupCourses.size(); i++) {
 					this.parent.addChild(new ReqTree(groupCourses.get(i), this.parent, this.level));
 				}
-				System.out.print("Group: " + s.substring(3) + ", Size: " );
-				if (groupCourses != null) System.out.println(groupCourses.size());
-				else System.out.println("null");
 			}
 		} else if (o instanceof JSONArray) {
 			JSONArray subReq = (JSONArray) o;
@@ -143,6 +140,16 @@ public class ReqTree {
 			this.descendantScores.put(course, finalDescendantScore);
 			//System.out.println("Descendant Score for " + course + ": " + finalDescendantScore);
 		}
+		Double maxScore = 0.0;
+		for (String course : this.descendantScores.keySet()) {
+			if (maxScore < this.descendantScores.get(course)) {
+				maxScore = this.descendantScores.get(course);
+			}
+		}
+		
+		for (String course : this.descendantScores.keySet()) {
+			this.descendantScores.put(course, this.descendantScores.get(course) / maxScore + 1);
+		}
 	}
 	
 	/*public boolean isSatisfied(Set<String> coursesTaken) {
@@ -184,6 +191,10 @@ public class ReqTree {
 	}
 	
 	public Map<String, Double> getDescendantScores() {
+		return this.descendantScores;
+	}
+	
+	/*public void printTopDescendantScores() {
 		String course1 = "", course2 = "", course3 = "", course4 = "", course5 = "", course6 = "", course7 = "", course8 = "", course9 = "", course10 = "";
 		Double score1 = 0.0, score2 = 0.0, score3 = 0.0, score4 = 0.0, score5 = 0.0, score6 = 0.0, score7 = 0.0, score8 = 0.0, score9 = 0.0, score10 = 0.0;
 		for (String course : this.descendantScores.keySet()) {
@@ -309,20 +320,19 @@ public class ReqTree {
 				course10 = course;
 			}
 		}
-		System.out.println("Course 1: " + course1 + ", Score: " + (score1 / score1 + 1));
-		System.out.println("Course 2: " + course2 + ", Score: " + (score2 / score1 + 1));
-		System.out.println("Course 3: " + course3 + ", Score: " + (score3 / score1 + 1));
-		System.out.println("Course 4: " + course4 + ", Score: " + (score4 / score1 + 1));
-		System.out.println("Course 5: " + course5 + ", Score: " + (score5 / score1 + 1));
-		System.out.println("Course 6: " + course6 + ", Score: " + (score6 / score1 + 1));
-		System.out.println("Course 7: " + course7 + ", Score: " + (score7 / score1 + 1));
-		System.out.println("Course 8: " + course8 + ", Score: " + (score8 / score1 + 1));
-		System.out.println("Course 9: " + course9 + ", Score: " + (score9 / score1 + 1));
-		System.out.println("Course 10: " + course10 + ", Score: " + (score10 / score1 + 1));
-		System.out.println("ASTR392 Score: " + (this.descendantScores.get("ASTR392") / score1 + 1));
-		System.out.println("WRIT032 Score: " + (this.descendantScores.get("ASTR392") / score1 + 1));
-		return this.descendantScores;
-	}
+		System.out.println("Course 1: " + course1 + ", Score: " + score1);
+		System.out.println("Course 2: " + course2 + ", Score: " + score2);
+		System.out.println("Course 3: " + course3 + ", Score: " + score3);
+		System.out.println("Course 4: " + course4 + ", Score: " + score4);
+		System.out.println("Course 5: " + course5 + ", Score: " + score5);
+		System.out.println("Course 6: " + course6 + ", Score: " + score6);
+		System.out.println("Course 7: " + course7 + ", Score: " + score7);
+		System.out.println("Course 8: " + course8 + ", Score: " + score8);
+		System.out.println("Course 9: " + course9 + ", Score: " + score9);
+		System.out.println("Course 10: " + course10 + ", Score: " + score10);
+		System.out.println("ASTR392 Score: " + this.descendantScores.get("ASTR392"));
+		System.out.println("WRIT032 Score: " + this.descendantScores.get("ASTR392"));
+	}*/
 	
 	private Set<String> getAllCoursesInTree() {
 		Set<String> courses = new HashSet<String>();
