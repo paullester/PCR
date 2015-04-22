@@ -309,16 +309,18 @@ public class ReqTree {
 				course10 = course;
 			}
 		}
-		System.out.println("Course 1: " + course1 + ", Score: " + score1);
-		System.out.println("Course 2: " + course2 + ", Score: " + score2);
-		System.out.println("Course 3: " + course3 + ", Score: " + score3);
-		System.out.println("Course 4: " + course4 + ", Score: " + score4);
-		System.out.println("Course 5: " + course5 + ", Score: " + score5);
-		System.out.println("Course 6: " + course6 + ", Score: " + score6);
-		System.out.println("Course 7: " + course7 + ", Score: " + score7);
-		System.out.println("Course 8: " + course8 + ", Score: " + score8);
-		System.out.println("Course 9: " + course9 + ", Score: " + score9);
-		System.out.println("Course 10: " + course10 + ", Score: " + score10);
+		System.out.println("Course 1: " + course1 + ", Score: " + (score1 / score1 + 1));
+		System.out.println("Course 2: " + course2 + ", Score: " + (score2 / score1 + 1));
+		System.out.println("Course 3: " + course3 + ", Score: " + (score3 / score1 + 1));
+		System.out.println("Course 4: " + course4 + ", Score: " + (score4 / score1 + 1));
+		System.out.println("Course 5: " + course5 + ", Score: " + (score5 / score1 + 1));
+		System.out.println("Course 6: " + course6 + ", Score: " + (score6 / score1 + 1));
+		System.out.println("Course 7: " + course7 + ", Score: " + (score7 / score1 + 1));
+		System.out.println("Course 8: " + course8 + ", Score: " + (score8 / score1 + 1));
+		System.out.println("Course 9: " + course9 + ", Score: " + (score9 / score1 + 1));
+		System.out.println("Course 10: " + course10 + ", Score: " + (score10 / score1 + 1));
+		System.out.println("ASTR392 Score: " + (this.descendantScores.get("ASTR392") / score1 + 1));
+		System.out.println("WRIT032 Score: " + (this.descendantScores.get("ASTR392") / score1 + 1));
 		return this.descendantScores;
 	}
 	
