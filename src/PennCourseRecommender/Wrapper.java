@@ -3,8 +3,10 @@ package PennCourseRecommender;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
@@ -21,7 +23,8 @@ public class Wrapper {
 	//private static ArrayList<Course> courses = new ArrayList<Course>();
 	
 	public static void main(String[] args) throws FileNotFoundException, IOException, ParseException {
-        AllCourses a = new AllCourses();
+		
+		AllCourses a = new AllCourses();
 
         HashSet<String> stuCourses = new HashSet<String>();
         String input = "";
@@ -42,11 +45,16 @@ public class Wrapper {
         }
         
         System.out.print("Enter the subjects that you are interested in, separated by commas (i.e. \"astronomy, chemistry, marketing\"): ");
-        String[] interests = in.nextLine().split(", ");
+        String[] interestsArray = in.nextLine().split(", ");
+        Set<String> interests = new HashSet<String>(Arrays.asList(interestsArray));
         
         Map<String,Course> feasibleCourses = a.getFeasibleCourses(stuCourses);
         Map<String,Double> courseScores = new HashMap<String,Double>();
         JSONParser parser = new JSONParser();
+        
+        TFIDF foo = new TFIDF(interests, feasibleCourses.keySet());
+        Map<String, List<String>> rankedCoursesByInterests = foo.getRankedOrder();
+        System.out.println(rankedCoursesByInterests.keySet());
         
         System.out.println("Major: " + major);
         
@@ -63,14 +71,15 @@ public class Wrapper {
         	Double peerScore = 1.0;
         	Double pcrScore = 1.5;
         	
-        	//interestScore?
+        	//interestScore
+        	//Map<String, List<String>> rankedCoursesByInterests = new TFIDF(interests, feasibleCourses.keySet()).getRankedOrder();
         	
         	//System.out.print(", interest score: " + interestScore);
-        	
+        	/*
         	if (((Set<String>) descendantScores.keySet()).contains(course)) {
         		descendantScore = 5.0 * ((Double) descendantScores.get(course) - 1) + 1;
         	}
-        	
+        	*/
         	//System.out.print(", descendant score: " + descendantScore);
         	
         	//peerScore?
