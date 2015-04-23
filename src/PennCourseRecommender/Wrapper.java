@@ -43,6 +43,7 @@ public class Wrapper {
         
         System.out.print("Enter the subjects that you are interested in, separated by commas (i.e. \"astronomy, chemistry, marketing\"): ");
         String[] interests = in.nextLine().split(", ");
+        List<String> interest = Arrays.asList(interests);
         
         Map<String,Course> feasibleCourses = a.getFeasibleCourses(stuCourses);
         Map<String,Double> courseScores = new HashMap<String,Double>();
@@ -56,14 +57,14 @@ public class Wrapper {
 		
 		JSONObject pcrRatings =
 				(JSONObject) parser.parse(new FileReader("/Users/BenGitles/Documents/School/Senior Design/PCR/src/penn_course_review_ratings.json"));
-		
+
         for (String course : feasibleCourses.keySet()) {
         	Double interestScore = 1.0;
         	Double descendantScore = 1.0;
         	Double peerScore = 1.0;
         	Double pcrScore = 1.5;
-        	
-        	//interestScore?
+
+            interestScore = a.tfidf(interest, feasibleCourses.keySet(), course);
         	
         	//System.out.print(", interest score: " + interestScore);
         	
