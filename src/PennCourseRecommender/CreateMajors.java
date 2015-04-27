@@ -28,7 +28,7 @@ public class CreateMajors {
 		
 		JSONObject output = new JSONObject();
 		
-		PrintWriter writer = new PrintWriter("/Users/BenGitles/Documents/School/Senior Design/PCR/src/descendantScores2.json");
+		PrintWriter writer = new PrintWriter("/Users/BenGitles/Documents/School/Senior Design/PCR/src/descendantScores.json");
 		writer.print("");
 		
 		//iterate over each major
