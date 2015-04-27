@@ -5,6 +5,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
@@ -39,24 +40,7 @@ public class CreateMajors {
 					m.setNotes((Set<String>) ((JSONObject) reqs.get("Notes")).keySet());
 				}
 			}*/
-			ReqTree tree = new ReqTree(reqs, groups);
-			Map<String, Double> descendantScores = tree.getDescendantScores();
-			//m.setRequirements(tree);
-			//m.setDescendantScoresWithStrings(descendantScores);
-			//PrintWriter writer = new PrintWriter("majors-test.txt", "UTF-8");
-			//writer.println(tree.toString());
-			//writer.close();
-			
-			JSONObject scoresInJSON = new JSONObject();
-			for (String course : descendantScores.keySet()) {
-				if (descendantScores.get(course) != 1.0) scoresInJSON.put(course, descendantScores.get(course));
-			}
-			output.put(majorName, scoresInJSON);
-			FileWriter file = new FileWriter("/Users/BenGitles/Documents/School/Senior Design/PCR/src/descendantScores.json");
-			file.write(output.toJSONString());
-			System.out.println("Done!");
-			
-			/*Set<String> coursesTaken = new HashSet<String>();
+			Set<String> coursesTaken = new HashSet<String>();
 			coursesTaken.add("MATH104");
 			coursesTaken.add("MATH114");
 			coursesTaken.add("CIS160");
@@ -97,8 +81,22 @@ public class CreateMajors {
 			coursesTaken.add("COML999");
 			coursesTaken.add("COML556");
 			coursesTaken.add("EAS203");
+			ReqTree tree = new ReqTree(reqs, groups, coursesTaken);
+			Map<String, Double> descendantScores = tree.getDescendantScores();
+			//m.setRequirements(tree);
+			//m.setDescendantScoresWithStrings(descendantScores);
+			//PrintWriter writer = new PrintWriter("majors-test.txt", "UTF-8");
+			//writer.println(tree.toString());
+			//writer.close();
 			
-			System.out.println("Tree is satisfied: " + tree.isSatisfied(coursesTaken));*/
+			JSONObject scoresInJSON = new JSONObject();
+			for (String course : descendantScores.keySet()) {
+				if (descendantScores.get(course) != 1.0) scoresInJSON.put(course, descendantScores.get(course));
+			}
+			output.put(majorName, scoresInJSON);
+			FileWriter file = new FileWriter("/Users/BenGitles/Documents/School/Senior Design/PCR/src/descendantScores.json");
+			file.write(output.toJSONString());
+			System.out.println("Done!");
 		}
 	}
 }
