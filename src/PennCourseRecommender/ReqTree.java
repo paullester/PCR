@@ -50,6 +50,7 @@ public class ReqTree {
 		this.level = level;
 		this.descendants = this.parent.descendants;
 		this.descendantScores = this.parent.descendantScores;
+		this.groups = this.parent.groups;
 		this.description = description;
 		this.children = new HashSet<ReqTree>();
 		if (o instanceof String) {
@@ -109,21 +110,22 @@ public class ReqTree {
 		//only call this on the root node
 		Set<String> allCoursesInTree = this.getAllCoursesInTree();
 		this.descendantScores = new HashMap<String, Double>();
-		for (String course : allCoursesInTree) { //iterate over entire tree for each course
-			Double finalDescendantScore = 0.0;
-			if (this.descendants.containsKey(course)) { //if this course has descendants
+		Double maxScore = 0.0;
+		for (String course : this.descendants.keySet()) { //iterate over entire tree for each course that has descendants
+			if (allCoursesInTree.contains(course)) { //if this course is in the major
+				Double finalDescendantScore = 0.0;
 				for (ReqTree child : this.children) { //look on each branch of the root node
 					if (!child.isSatisfied(coursesTaken)) //if that course or group is not satisfied
 						finalDescendantScore += child.getContributionScore(this.descendants.get(course), coursesTaken);
 				}
+				this.descendantScores.put(course, finalDescendantScore);
+				if (finalDescendantScore > maxScore) maxScore = finalDescendantScore;
 			}
-			this.descendantScores.put(course, finalDescendantScore);
-			//System.out.println("Descendant Score for " + course + ": " + finalDescendantScore);
 		}
-		Double maxScore = 0.0;
-		for (Double score : this.descendantScores.values()) { if (maxScore < score) maxScore = score; }
-		for (String course : this.descendantScores.keySet())
-			this.descendantScores.put(course, this.descendantScores.get(course) / maxScore + 1);
+		for (String course : this.descendantScores.keySet()) {
+			if (maxScore > 0.0) this.descendantScores.put(course, this.descendantScores.get(course) / maxScore + 1);
+			else this.descendantScores.put(course, 1.0);
+		}
 	}
 	
 	public void setDescription(String s) {

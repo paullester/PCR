@@ -28,7 +28,7 @@ public class CreateMajors {
 		
 		JSONObject output = new JSONObject();
 		
-		PrintWriter writer = new PrintWriter("/Users/BenGitles/Documents/School/Senior Design/PCR/src/descendantScores.json");
+		PrintWriter writer = new PrintWriter("/Users/BenGitles/Documents/School/Senior Design/PCR/src/descendantScores2.json");
 		writer.print("");
 		
 		//iterate over each major
@@ -50,9 +50,6 @@ public class CreateMajors {
 				coursesTaken.add("CIS160");
 				coursesTaken.add("CIS261");
 				coursesTaken.add("MATH697");
-				coursesTaken.add("MATH104");
-				coursesTaken.add("MATH104");
-				coursesTaken.add("MATH104");
 				coursesTaken.add("PHYS150");
 				coursesTaken.add("PHYS151");
 				coursesTaken.add("ASTR012");
