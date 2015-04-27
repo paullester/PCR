@@ -53,6 +53,8 @@ public class AllCourses {
 			while(e.hasNext() ){
 				
 				//fetch next course and put it into courses hashmap
+				
+				
 				String s = e.next().toString();
 				
 				Course c;
@@ -63,6 +65,9 @@ public class AllCourses {
 					courses.put(s, c);
 				}
 
+				//make sure we're not considering a course that the student has already taken
+				if(!stuCourses.contains(s)){
+				
 				//get the prereqs
 				JSONObject jsonClassObj  = (JSONObject) jsonObject.get(s);
 				JSONArray prereqs = (JSONArray) jsonClassObj.get("prerequisites");
@@ -79,6 +84,7 @@ public class AllCourses {
 					}
 				}
 				
+				}
 			}
 			
 			
