@@ -1,13 +1,10 @@
 package PennCourseRecommender;
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
@@ -22,27 +19,21 @@ public class ReqTree {
 	private JSONObject groups;
 	private Map<String, Double> descendantScores;
 	private Map<String, Set<String>> descendants;
+	private String description;
 	
 	//Constructors
 	public ReqTree(JSONObject reqs, JSONObject groups, Set<String> coursesTaken) {
 		this.data = "AND";
+		this.description = "root";
 		this.level = 0;
 		this.groups = groups;
 		this.children = new HashSet<ReqTree>();
 		for (String key : (Set<String>) reqs.keySet()) {
-			if (!key.equals("URL") && !key.equals("Notes")) {
-				if (reqs.get(key) instanceof JSONArray) {
-					JSONArray x = (JSONArray) reqs.get(key);
-					this.children.add(new ReqTree(x, this, this.level + 1));
-				} else {
-					this.children.add(new ReqTree(reqs.get(key), this, this.level + 1));
-				}
-			}
+			if (!key.equals("URL") && !key.equals("Notes"))
+				this.children.add(new ReqTree(key, reqs.get(key), this, this.level + 1));
 		}
 		try {
-			System.out.println("Setting descendants");
 			this.setDescendants();
-			System.out.println("Setting descendants done");
 			if (this.descendants == null) System.out.println("Descendants are null");
 			//else System.out.println("Descendants: " + this.descendants);
 		} catch (IOException e) {
@@ -54,36 +45,37 @@ public class ReqTree {
 		System.out.println("Setting descendant scores done");
 	}
 	
-	public ReqTree(Object o, ReqTree parent, Integer level) {
+	public ReqTree(String description, Object o, ReqTree parent, Integer level) {
 		this.parent = parent;
 		this.level = level;
 		this.descendants = null;
 		this.descendantScores = null;
+		this.description = description;
 		this.children = new HashSet<ReqTree>();
 		if (o instanceof String) {
 			this.children = null;
 			String s = (String) o;
 			if (!s.startsWith("G: ")) {
 				this.data = s.replaceAll(" ","");
+				this.description = this.data;
 			} else {
 				JSONArray groupCourses = this.getGroup(s.substring(3));
 				for (int i = 0; groupCourses != null && i < groupCourses.size(); i++) {
-					this.parent.addChild(new ReqTree(groupCourses.get(i), this.parent, this.level));
+					this.parent.addChild(new ReqTree("", groupCourses.get(i), this.parent, this.level));
+					this.parent.setDescription(s.substring(3));
 				}
+				this.parent.children.remove(this);
 			}
 		} else if (o instanceof JSONArray) {
 			JSONArray subReq = (JSONArray) o;
 			if (subReq.size() > 0) {
 				this.data = (String) subReq.get(0);
-				if (this.data.equals("OF")) {
-					this.data = this.data + String.valueOf(subReq.get(1));
-					for (int i = 2; i < subReq.size(); i++) {
-						this.children.add(new ReqTree(subReq.get(i), this, this.level + 1));
+				for (int i = 1; i < subReq.size(); i++) {
+					if (this.data.equals("OF")) {
+						this.data = "OF" + subReq.get(1);
+						i++;
 					}
-				} else if (this.data.equals("OR") || this.data.equals("AND")) {
-					for (int i = 1; i < subReq.size(); i++) {
-						this.children.add(new ReqTree(subReq.get(i), this, this.level + 1));
-					}
+					this.children.add(new ReqTree("", subReq.get(i), this, this.level + 1));
 				}
 			} else {
 				//Do nothing for Free Electives
@@ -100,11 +92,12 @@ public class ReqTree {
 	//Setter methods
 	private void setDescendants() throws IOException {
 		this.descendants = new HashMap<String, Set<String>>();
+		Set<String> allCoursesInTree = this.getAllCoursesInTree();
 		BufferedReader br = new BufferedReader(new FileReader("/Users/BenGitles/Documents/School/Senior Design/PCR/src/descendants.txt"));
 		String line = br.readLine();
 		while (line != null) {
 			String[] parts = line.split(": ");
-			if (this.getAllCoursesInTree().contains(parts[0]) && parts.length > 1) {
+			if (allCoursesInTree.contains(parts[0]) && parts.length > 1) {
 				Set<String> d = new HashSet<String>();
 				for (String s : parts[1].split(" ")) d.add(s);
 				this.descendants.put(parts[0], d);
@@ -125,7 +118,7 @@ public class ReqTree {
 					if (allCoursesInTree.contains(descendant)) //if that descendant is in the major
 						contributionScores.put(descendant, 0.0); //initialize it
 				}
-				for (ReqTree child : this.children) { //look on each branch of the major tree
+				for (ReqTree child : this.children) { //look on each branch of the root node
 					if (!child.isSatisfied(coursesTaken)) { //if that course or group is not satisfied
 						Map<String, Double> contributionFromThisChild = child.getContributionScores(descendants.get(course), coursesTaken);
 						for (String x : contributionFromThisChild.keySet()) {
@@ -156,27 +149,36 @@ public class ReqTree {
 		}
 	}
 	
+	public void setDescription(String s) {
+		if (this.description == null || this.description == "") {
+			this.description = s;
+		} else if (!this.description.contains(s)) {
+			this.description.concat(", " + s);
+		}
+	}
+	
 	public boolean isSatisfied(Set<String> coursesTaken) {
-		if (this.data == null) System.out.println("Data is null? Parent is " + this.parent.data);
-		else if (this.data.equals("OR")) {
-			for (ReqTree child : this.children) {
-				if (child.isSatisfied(coursesTaken)) return true;
-			}
-		} else if (this.data.equals("AND")) {
-			for (ReqTree child : this.children) {
-				if (!child.isSatisfied(coursesTaken)) return false;
-			}
-			return true;
-		} else if (this.data.startsWith("OF")) {
-			Integer numNeeded = Character.getNumericValue(this.data.charAt(2));
-			Integer numSatisfied = 0;
-			for (ReqTree child : this.children) {
-				if (child.isSatisfied(coursesTaken)) {
-					if (++numSatisfied == numNeeded) return true;
+		if (this.data != null) {
+			if (this.data.equals("OR")) {
+				for (ReqTree child : this.children) {
+					if (child.isSatisfied(coursesTaken)) return true;
 				}
+			} else if (this.data.equals("AND")) {
+				for (ReqTree child : this.children) {
+					if (!child.isSatisfied(coursesTaken)) return false;
+				}
+				return true;
+			} else if (this.data.startsWith("OF")) {
+				Integer numNeeded = Character.getNumericValue(this.data.charAt(2));
+				Integer numSatisfied = 0;
+				for (ReqTree child : this.children) {
+					if (child.isSatisfied(coursesTaken)) {
+						if (++numSatisfied == numNeeded) return true;
+					}
+				}
+			} else if (coursesTaken.contains(this.data)) {
+				return true;
 			}
-		} else if (coursesTaken.contains(this.data)) {
-			return true;
 		}
 		return false;
 	}
@@ -217,7 +219,7 @@ public class ReqTree {
 		//^^^initialize the score of each of the descendants of the course being examined
 		if (this.children == null) { //if this node is a course...
 			if (descendants.contains(this.data)) contributionScores.put(this.data, 1.0); //...and is a descendant, return 1 for that course
-		} else { //This node must be a group
+		} else if (this.data != null){ //This node must be a group
 			Integer numSatisfied = 0;
 			if (this.data.startsWith("OF")) {
 				for (ReqTree child : this.children) {
@@ -244,6 +246,11 @@ public class ReqTree {
 		return contributionScores;
 	}
 	
+	public Map<String, Set<String>> getDescendants() {
+		if (this.descendants == null) return this.parent.getDescendants();
+		return this.descendants;
+	}
+	
 	public String toString() {
 		String s = "";
 		if (this.data != null) s = this.data + "\n";
@@ -258,3 +265,83 @@ public class ReqTree {
 		return s;
 	}
 }
+
+/*
+private void setDescendantScores(Set<String> coursesTaken, Boolean foo) {
+	//if (this.parent != null) return null;
+	//only call this on the root node
+	this.descendantScores = new HashMap<String, Double>();
+	for (String courseWithDescendants : this.descendants.keySet()) {
+		this.descendantScores.put(courseWithDescendants, 0.0);
+	}
+	for (ReqTree child : this.children) {
+		if (!child.isSatisfied(coursesTaken)) {
+			Map<String, Map<String, Double>> contributionFromThisChild =
+					child.getContributionScores(this.descendants.keySet(), coursesTaken, foo);
+			for (String courseWithDescendant : contributionFromThisChild.keySet()) {
+				Map<String, Double> contributions = contributionFromThisChild.get(courseWithDescendant);
+				Double contribution = 0.0;
+				for (Double x : contributions.values()) contribution += x;
+				if (contribution > 0) System.out.println(courseWithDescendant + " gets " + contribution + " from " + child.description);
+				this.descendantScores.put(courseWithDescendant, this.descendantScores.get(courseWithDescendant) + contribution);
+			}
+		}
+	}		
+	Double maxScore = 0.0;
+	for (String course : this.descendantScores.keySet()) {
+		if (maxScore < this.descendantScores.get(course)) maxScore = this.descendantScores.get(course);
+	}
+	for (String course : this.descendantScores.keySet())
+		this.descendantScores.put(course, this.descendantScores.get(course) / maxScore + 1);
+}
+
+private Map<String, Map<String, Double>> getContributionScores(Set<String> coursesWithDescendants, Set<String> coursesTaken, Boolean foo) {
+	Map<String, Map<String, Double>> scores = new HashMap<String, Map<String, Double>>();
+	if (this.children == null) { //this is a course node
+		for (String courseWithDescendant : coursesWithDescendants) { //look over all possible courses with descendants
+			Map<String, Double> contributions = new HashMap<String, Double>();
+			for (String descendant : this.getDescendants().get(courseWithDescendant)) { //initialize all of the descendants
+				if (descendant.equals(this.data)) contributions.put(this.data, 1.0);
+				//^^^if this course node is one of the descendants of the courseWithDescendants,
+				//then set its contribution score to 1.0 for that course with descendants
+				else contributions.put(descendant, 0.0);
+			}
+			scores.put(courseWithDescendant, contributions);
+		}
+	} else if (this.data != null) { //This node must be a group
+		Integer numSatisfied = 0;
+		Integer numOf = 0; //combining children's contribution scores to the descendant score
+		if (this.data.equals("OR")) numOf = 1; //only one needed from an "OR" group
+		else if (this.data.equals("AND")) numOf = this.children.size(); //all are needed in an "AND" group
+		else if (this.data.startsWith("OF")) {
+			for (ReqTree child : this.children) {
+				if (child.isSatisfied(coursesTaken)) numSatisfied++;
+			}
+			numOf = Integer.valueOf(this.data.charAt(2)) - numSatisfied;
+			//^^^weight by the number of courses needed to take from the group, minus the number already taken
+			if (numOf <= 0) System.out.println("This shouldn't happen...");
+		}
+		for (ReqTree child : this.children) { //scan over each requirement in the group
+			if (!child.isSatisfied(coursesTaken)) { //if the student has not satisfied this requirement
+				Map<String, Map<String, Double>> childContributionScores =
+						child.getContributionScores(coursesWithDescendants, coursesTaken, foo);
+				for (String courseWithDescendant : childContributionScores.keySet()) {
+					Map<String, Double> contributions = childContributionScores.get(courseWithDescendant);
+					for (String contributingCourse : contributions.keySet()) {
+						Double contributingScore = contributions.get(contributingCourse) * numOf / this.children.size();
+						contributions.put(contributingCourse, contributions.get(contributingCourse) + contributingScore);
+					}
+					if (scores.containsKey(courseWithDescendant)) {
+						Map<String, Double> thisScore = scores.get(courseWithDescendant);
+						for (String course : contributions.keySet()) {
+							thisScore.put(course, thisScore.get(course) + contributions.get(course));
+						}
+						scores.put(courseWithDescendant, thisScore);
+					}
+				}
+			}
+		}
+	}
+	return scores;
+}
+*/
