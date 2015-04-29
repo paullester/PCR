@@ -18,6 +18,7 @@ public class CreateMajors {
 	//private Set<Major> allMajors;
 	
 	public static void main(String[] args) throws FileNotFoundException, IOException, ParseException {
+		long startTime = System.currentTimeMillis();
 		JSONParser parser = new JSONParser();
 
 		JSONObject majorsAndGroups =
@@ -33,7 +34,7 @@ public class CreateMajors {
 		
 		//iterate over each major
 		for (String majorName : (Set<String>) majors.keySet()) {
-			if (majorName.equals("CIS")) {
+			if (majorName.equals("BE")) {
 				System.out.println("Working on major: " + majorName);
 				//Major m = new Major(majorName);
 				JSONObject reqs = (JSONObject) majors.get(majorName);
@@ -99,5 +100,7 @@ public class CreateMajors {
 				writer.close();
 			}
 		}
+		long endTime = System.currentTimeMillis();
+		System.out.println("Time: " + (endTime - startTime) / 1000.0 + " seconds");
 	}
 }

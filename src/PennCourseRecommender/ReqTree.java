@@ -105,6 +105,7 @@ public class ReqTree {
 				for (String s : parts[1].split(" ")) theseDescendants.add(s);
 				theseDescendants.add(parts[0]); //add the course itself
 				this.descendants.put(parts[0], theseDescendants);
+				if (theseDescendants.size() >=10) System.out.println(parts[0] + ": " + theseDescendants.size());
 			}
 			line = br.readLine();
 		}
@@ -116,19 +117,23 @@ public class ReqTree {
 		Set<String> allCoursesInTree = this.coursesInTree;
 		this.descendantScores = new HashMap<String, Double>();
 		Double maxScore = 0.0;
+		System.out.println(allCoursesInTree.size());
 		for (String course : allCoursesInTree) { //iterate over entire tree for each course in the major
 			Double finalDescendantScore = 0.0;
 			if (this.descendants.containsKey(course)) { //if this course has descendants
 				for (ReqTree child : this.children) { //look on each branch of the root node
 					if (!child.isSatisfied && child.contains(this.descendants.get(course))) {
-						//if that course or group is not satisfied and it has some descendants
-						finalDescendantScore += child.getContributionScore(this.descendants.get(course), coursesTaken);;
+						//if that course or group is not satisfied and it has some descendant
+						Double contribution = child.getContributionScore(this.descendants.get(course), coursesTaken);
+						finalDescendantScore += contribution;
 					}
 				}
 			} else {
 				for (ReqTree child : this.children) {
-					if (!child.isSatisfied && child.contains(course))
-						finalDescendantScore += child.getContributionScore(course, coursesTaken);
+					if (!child.isSatisfied && child.contains(course)) {
+						Double contribution = child.getContributionScore(course, coursesTaken);
+						finalDescendantScore += contribution;
+					}
 				}
 			}
 			this.descendantScores.put(course, finalDescendantScore);
@@ -248,13 +253,15 @@ public class ReqTree {
 	private void setCoursesInTree() {
 		this.coursesInTree = new HashSet<String>();
 		if (this.children == null) {
-			if (this.data != null) {
+			if (this.data != null && !this.isSatisfied) {
 				this.coursesInTree.add(this.data);
 			}
 		} else {
 			for (ReqTree child : this.children) {
-				child.setCoursesInTree();
-				this.coursesInTree.addAll(child.coursesInTree);
+				if (!child.isSatisfied) {
+					child.setCoursesInTree();
+					this.coursesInTree.addAll(child.coursesInTree);
+				}
 			}	
 		}
 	}
